@@ -1,10 +1,11 @@
 
 
-  - [[:mr:obs:01|
+  - [[:mr:obs:01|निर्मिती ]]
+  - [[:mr:obs:02|
 
-निर्मिती  ]]
-  - [[:mr:obs:02|Sin Enters the World]]
-  - [[:mr:obs:03|The Flood]]
+पाप जगात
+प्रवेश करतो  ]]
+  - [[:mr:obs:03|जलप्रलय]]
   - [[:mr:obs:04|God's Covenant with Abraham]]
   - [[:mr:obs:05|The Son of Promise]]
   - [[:mr:obs:06|God Provides for Isaac]]
