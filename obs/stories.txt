@@ -1,21 +1,18 @@
 
 
-  - [[:mr:obs:01|निर्मिती ]]
-  - [[:mr:obs:02|
-
-पाप जगात
-प्रवेश करतो  ]]
+  - [[:mr:obs:01|सृष्टी]]
+  - [[:mr:obs:02|पापाचा जगामध्ये प्रवेश]]
   - [[:mr:obs:03|जलप्रलय]]
-  - [[:mr:obs:04|God's Covenant with Abraham]]
-  - [[:mr:obs:05|The Son of Promise]]
-  - [[:mr:obs:06|God Provides for Isaac]]
-  - [[:mr:obs:07|God Blesses Jacob]]
-  - [[:mr:obs:08|God Saves Joseph and His Family]]
-  - [[:mr:obs:09|God Calls Moses]]
+  - [[:mr:obs:04|देवाचा आब्राहामाशी करार]]
+  - [[:mr:obs:05|वचनदत्त पुत्र]]
+  - [[:mr:obs:06|परमेश्वर इसाकास मदत करतो]]
+  - [[:mr:obs:07|देव याकोबास आशीर्वाद देतो]]
+  - [[:mr:obs:08|देव योसेफ व त्याच्या कुटुंबाचे रक्षण करतो]]
+  - [[:mr:obs:09|देव मोशेला पाचारण करतो]]
   - [[:mr:obs:10|The Ten Plagues]]
-  - [[:mr:obs:11|The Passover]]
-  - [[:mr:obs:12|The Exodus]]
-  - [[:mr:obs:13|God's Covenant with Israel]]
+  - [[:mr:obs:11|वल्हांडणाचा सण]]
+  - [[:mr:obs:12|निर्गमन]]
+  - [[:mr:obs:13|देवाचा इस्त्राएलांशी करार]]
   - [[:mr:obs:14|Wandering in the Wilderness]]
   - [[:mr:obs:15|The Promised Land]]
   - [[:mr:obs:16|The Deliverers]]
