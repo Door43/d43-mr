@@ -1,26 +1,29 @@
 
-----
-~~NOCACHE~~
-**Door43**
 
-  * [[mr:home|Door43 (mr)]]
-  * [[en:license|License]]
+----
+
+~~NOCACHE~~ **Door43**
+
+   * [[:mr:home|Door43 (mr)]]
+  * [[:en:license|License]]
 
 **Resources**
 
-  * [[mr:obs|Open Bible Stories (mr)]]
+  * [[:mr:obs|Open Bible Stories (mr)]]
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-mr|d43-mr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mr/archive/master.zip|d43-mr.zip]]
+All content for this namespace is available in the [[https://github.com/Door43/d43-mr|d43-mr repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-mr/archive/master.zip|d43-mr.zip]]
 
 **Recent Changes**
+
 {{changes>ns = mr}}
 
 **Latest Status**
-{{page>en:uwadmin:mr:obs:status}}
 
+{{page>mr:uwadmin:mr:obs:status}}
 
 **Language Information**
 
 [[http://www.ethnologue.com/language/mr|Ethnologue data]]
+
