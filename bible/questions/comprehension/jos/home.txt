@@ -1,0 +1,3 @@
+~~NOCACHE~~
+
+<nspages mr:bible:questions:comprehension:jos -title -naturalOrder -simpleList -exclude:home -textPages="Joshua translationQuestions">

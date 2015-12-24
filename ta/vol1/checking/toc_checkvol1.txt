@@ -1,0 +1,46 @@
+===== Table of Contents - Checking Manual Volume 1 =====
+
+This module answers the question: What is in the Volume 1 Checking Manual?\\
+==== Checking Manual Volume 1 ====
+
+=== Introduction to Checking ===
+  - [[mr:ta:vol1:checking:intro_check]]
+  - [[mr:ta:vol1:checking:intro_checking]]
+  - [[mr:ta:vol1:checking:intro_levels]]
+  - [[mr:ta:vol1:checking:goal_checking]]
+  - [[mr:ta:vol1:checking:authority_process]]
+
+=== Defining Church Authority ===
+  - [[mr:ta:vol1:checking:authority_level1]]
+  - [[mr:ta:vol1:checking:authority_level2]]
+  - [[mr:ta:vol1:checking:authority_level3]]
+
+=== Types of Checks ===
+  - [[mr:ta:vol1:checking:self_check]]
+  - [[mr:ta:vol1:checking:peer_check]]
+  - [[mr:ta:vol1:checking:important_term_check]]
+  - [[mr:ta:vol1:checking:accuracy_check]]
+  - [[mr:ta:vol1:checking:language_community_check]]
+  - [[mr:ta:vol1:checking:church_leader_check]]
+  - [[mr:ta:vol1:checking:other_methods]]
+
+=== What to Check For ===
+  - [[mr:ta:vol1:checking:accurate]]
+  - [[mr:ta:vol1:checking:clear]]
+  - [[mr:ta:vol1:checking:natural]]
+  - [[mr:ta:vol1:checking:acceptable]]
+  - [[mr:ta:vol1:checking:complete]]
+  - [[mr:ta:vol1:checking:self_assessment]]
+
+=== Checking Process ===
+  - [[mr:ta:vol1:checking:level1]]
+    - [[mr:ta:vol1:checking:level1_affirm]]
+  - [[mr:ta:vol1:checking:level2]]
+    - [[mr:ta:vol1:checking:community_evaluation]]
+    - [[mr:ta:vol1:checking:good]]
+  - [[mr:ta:vol1:checking:level3]]
+    - [[mr:ta:vol1:checking:level3_questions]]
+    - [[mr:ta:vol1:checking:level3_approval]]
+
+
+

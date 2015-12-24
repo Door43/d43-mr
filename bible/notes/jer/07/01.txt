@@ -1,0 +1,53 @@
+====== Jeremiah 07:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh gave me another message. He said to me,
+\q1
+\v 2 "Go to the entrance of my temple, and give this message to the people:
+\q1 You people of Judah who worship here, listen to this message from Yahweh!
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh gave me another message. He said to me,
+\v 2 "Go to the entrance of my house and give this message to the people: You people of Judah, who worship here, listen to this message from Yahweh.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 7
+\p
+\v 1 This is the word that came to Jeremiah from Yahweh:
+\v 2 “Stand at the gate of Yahweh's house and proclaim this word! Say, ‘Hear the word of Yahweh, all you of Judah, you who enter these gates to worship Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:mr:obe:kt:word|word]]
+  * [[:mr:obe:other:jeremiah|Jeremiah]]
+  * [[:mr:obe:kt:yahweh|Yahweh]]
+  * [[:mr:obe:kt:gate|gate, gate bar]]
+  * [[:mr:obe:kt:houseofgod|house of God, Yahweh's house]]
+  * [[:mr:obe:other:proclaim|proclaim, proclamation]]
+  * [[:mr:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]
+  * [[:mr:obe:other:kingdomofjudah|Judah, kingdom of Judah]]
+  * [[:mr:obe:kt:worship|worship]]
+
+===== Translation Notes: =====
+
+  * **Stand at the Gate**  - Yahweh is telling Jeremiah to stand at the gate (See:[[:mr:ta:vol1:translate:figs_explicit|Explicit and Implicit]])
+  * **Say**  -Yahweh is telling Jeremiah these to speak exact words
+
+===== Links: =====
+
+  * **[[:mr:bible:questions:comprehension:jer:07|Jeremiah Chapter 07 Comprehension Questions]]**
+**[[:mr:bible:notes:jer:06:27|<<]] | [[:mr:bible:notes:jer:07:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

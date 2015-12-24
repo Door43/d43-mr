@@ -1,0 +1,48 @@
+====== Revelation 05:3-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 But no created being in heaven nor any created being on the earth nor any created being under the earth was able to open the scroll and see what was written on it.
+\v 4 I cried loudly because there was no one worthy to do that.
+\v 5 But one of the elders said to me, "Do not cry any longer! Look, the one who is called the Lion from the tribe of Judah, the Messiah who is the descendant of King David, has overcome Satan! As a result, he is worthy to break the seven seals on the scroll and open it!"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 But no created being in heaven, on the earth, or under it was able to open the scroll and see what was written on it.
+\v 4 I wept loudly because there was no one worthy to do that.
+\v 5 But one of the elders said to me, "Do not cry any longer! Look, the one who is called the Lion from the tribe of Judah, who is the descendant and heir of King David, has overcome Satan! As a result, he is worthy to break the seven seals on the scroll and to open it!"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 No one in heaven or on the earth or under the earth was able to open the scroll or to read it.
+\v 4 I wept bitterly because no one was found worthy to open the scroll or to read it.
+\v 5 But one of the elders said to me, "Do not weep. Look! The Lion of the tribe of Judah, the Root of David, has conquered, and he is able to open the scroll and its seven seals."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:mr:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+  * [[:mr:obe:kt:worthy]]
+  * [[:mr:obe:other:scroll]]
+  * [[:mr:obe:other:elder|elder]]
+  * [[:mr:obe:other:lion|lion]]
+  * [[:mr:obe:other:tribe|tribe]]
+  * [[:mr:obe:other:judah|Judah]]
+  * [[:mr:obe:other:david|David]]
+  * [[:mr:obe:other:seal]]
+===== Translation Notes: =====
+
+  * **Root of David **- AT: "descendant and heir of King David" (UDB)
+===== Links: =====
+
+  * **[[:mr:bible:questions:comprehension:rev:05|Revelation Chapter 05 Comprehension Questions]]**
+**[[:mr:bible:notes:rev:05:01|<<]] | [[:mr:bible:notes:rev:05:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

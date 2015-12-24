@@ -1,0 +1,51 @@
+====== Psalms 032:11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 So, all you righteous people, rejoice about what Yahweh \add has done for you\add*;
+\q2 you whose inner beings\f + \ft Or: lives \f* are pure, be glad and shout joyfully!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 So, all you righteous people, rejoice about what Yahweh has done for you;
+\q2 you whose heart are pure, be glad and shout joyfully!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Be glad in Yahweh, and rejoice, you righteous;
+\q shout for joy, all you who are upright in heart.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:mr:obe:kt:yahweh]]
+  * [[:mr:obe:other:rejoice]]
+  * [[:mr:obe:kt:righteous]]
+  * [[:mr:obe:kt:joy]]
+  * [[:mr:obe:kt:upright]]
+  * [[:mr:obe:other:heart]]
+ 
+===== Translation Notes: =====
+
+  * **Be glad in Yahweh** - AT: "Be glad becaus of Yahweh" (See: [[:mr:ta:vol1:translate:figs_idiom]])
+  * **shout for joy** - AT: "shout joyfully"
+  * **who are upright in heart** - AT: "who are upright" (See: [[:mr:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[:mr:bible:questions:comprehension:psa:032|Psalms Chapter 032 Comprehension Questions]]**
+**[[:mr:bible:notes:psa:032:009|<<]] | [[:mr:bible:notes:psa:033:001|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

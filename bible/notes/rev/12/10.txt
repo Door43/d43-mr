@@ -1,0 +1,68 @@
+====== Revelation 12:10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Then I heard  \add someone\add* in heaven shout loudly, saying,
+\q1 Now our God has saved his people by his power, and he rules all people!
+\q1 Now his Messiah, who is the supreme ruler whom God appointed, 
+\q1 has authority to rule all people, because our God has thrown out of heaven the one who accuses our fellow believers!
+\q1 The dragon is the one who accuses them day and night before our God, 
+\q1 saying that they have sinned and that God ought punish them.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Then I heard someone in heaven shout loudly,
+\q1 "Now our God has saved his people by his power, and he rules all people!
+\q1 Now his Christ, who is the supreme ruler whom God appointed, 
+\q1 has authority to rule everywhere because our God has thrown out of heaven the one who accuses our fellow believers of doing wrong.
+\q1 The dragon accuses them day and night before our God.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Then I heard a loud voice in heaven:
+\q "Now have come the salvation, the power— 
+\q2 and the kingdom of our God, 
+\q2 and the authority of his Christ. 
+\q For the accuser of our brothers has been thrown down—
+\q2 the one who accused them before our God day and night.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:mr:obe:other:voice|voice]]
+  * [[:mr:obe:kt:heaven]]
+  * [[:mr:obe:kt:salvation|salvation]]
+  * [[:mr:obe:kt:power|power]]
+  * [[:mr:obe:other:kingdom|kingdom]]
+  * [[:mr:obe:kt:God]]
+  * [[:mr:obe:kt:authority|authority]]
+  * [[:mr:obe:kt:christ|Christ, Messiah]]
+  * [[:mr:obe:other:accuse|accuse, accusation, accuser]]
+  * [[:mr:obe:kt:brother|brother]]
+
+===== Translation Notes: =====
+
+  * **I** - This refers to John.
+  * **day and night** - The words “day and night” used together mean all the time; he is continually accusing the brothers. (See: [[mr:ta:vol2:translate:figs_merism]])
+
+===== Links: =====
+
+  * **[[:mr:bible:questions:comprehension:rev:12|Revelation Chapter 12 Comprehension Questions]]**
+**[[:mr:bible:notes:rev:12:07|<<]] | [[:mr:bible:notes:rev:12:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

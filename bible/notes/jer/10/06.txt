@@ -1,0 +1,67 @@
+====== Jeremiah 10:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Yahweh, there is no one like you.
+\q2 You \f + \ft metonymy \f* are great, and you are very powerful.
+\q1
+\v 7 You are the king of all the nations!
+\q2 Everyone should \f + \ft rhetorical question \f* revere you,
+\q2 because that is what you deserve.
+\q1 Among all the wise people on the earth
+\q2 and in all the kingdoms where they live,
+\q2 there is no one like you.\f + \ft Or: who can compare with you? \f*
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Yahweh, there is no one like you.
+\q2 You are great, and you are very powerful.
+\q1
+\v 7 You are the king of all the nations!
+\q2 Everyone should revere you,
+\q2 because that is what you deserve.
+\q1 Among all the wise people on the earth
+\q2 and in all the kingdoms where they live,
+\q2 there is no one like you.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 There is no one like you, Yahweh. You are great, and your name is great in power.
+\q
+\v 7 Who does not fear you, king of the nations? For this is what you deserve,
+\q for there is no one like you among all the wise men of the nations or all their royal kingdoms.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:mr:obe:kt:name|name]]
+  * [[:mr:obe:kt:power|power]]
+  * [[:mr:obe:other:king|king]]
+  * [[:mr:obe:kt:wise|wise, wisdom]]
+  * [[:mr:obe:other:royal|royal]]
+  * [[:mr:obe:other:kingdom|kingdom]]
+
+===== Translation Notes: =====
+
+Jeremiah has just been talking about idol worship.
+
+  * **Who does not fear you, king of the nations?**  - Jeremiah does not expect an answer to this question. (See: [[:mr:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **what you deserve **- "what you have earned"
+===== Links: =====
+
+  * **[[:mr:bible:questions:comprehension:jer:10|Jeremiah Chapter 10 Comprehension Questions]]**
+**[[:mr:bible:notes:jer:10:03|<<]] | [[:mr:bible:notes:jer:10:08|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

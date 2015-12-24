@@ -1,0 +1,6 @@
+===== 2 John Links =====
+  * [[:mr:ulb:ep:63-2jn.usfm|Full ULB text of 2 John]]
+  * [[:mr:udb:ep:63-2jn.usfm|Full UDB text of 2 John]]  
+  * [[mr:bible:admin-reports:notes-team-admin:2jn]]
+  * [[:mr:bible:team-info:training:notes-training|Notes Training]]
+<nspages mr:bible:notes:2jn:01 -title -naturalOrder -exclude:home -textPages="2 John" -nbCol=2> 
