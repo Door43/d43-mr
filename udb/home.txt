@@ -1,0 +1,9 @@
+====== Unlocked Dynamic Bible ======
+
+BETA files [[https://github.com/unfoldingWord/udb-en|https://github.com/unfoldingWord/udb-en]] or [[https://github.com/unfoldingWord/udb-en/archive/master.zip|udb-en-latest.zip]]
+
+[[:en:udb:v1:frt:000.usfm|License]]
+
+Browse the **latest** and greatest here: [[:en:udb:ep:home|Etherpad exports]] (updated nightly).
+
+[[:en:udb:v1:home|Version 1]] was automatically generated from the TFT source text, with some substitutions, and is **outdated**.
