@@ -4,15 +4,21 @@
 ~~NOCACHE~~ **Door43**
 
   * [[:mr:home|Door43 (mr)]]
-  * [[:en:license|License]]
+  * [[:mr:license|License]]
 
 **Resources**
 
-  * [[:mr:bible:notes:home|translationNotes]]
-  * [[:mr:bible:questions:comprehension:home|translationQuestions]]
-  * [[:mr:obe:home|translationWords]]
-  * [[:mr:ta:vol1:toc|translationAcademy Vol 1]]
-  * [[:mr:obs|Open Bible Stories (mr)]]
+  *  [[:mr:obs|Open Bible Stories (mr)]]
+      * [[:mr:obs:notes|translationNotes]]
+      * [[:mr:obs:notes:questions:home|translationQuestions]]
+      * [[:mr:obe:home|translationWords]]
+  *  [[:mr:bible:intro|Bible]]
+      * [[:mr:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:mr:bible:notes:home|translationNotes]]
+      * [[:mr:bible:questions:comprehension:home|translationQuestions]]
+      * [[:mr:obe:home|translationWords]]
+  *  [[:mr:ta|translationAcademy]]
+      * [[:mr:ta:vol1:toc|translationAcademy Vol 1]]
 
 **Downloads**
 
