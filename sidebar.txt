@@ -6,8 +6,8 @@
 **Help**
 
   * [[:mr:ta|translationAcademy]]
-  * [[:en:get-started|How to Get Started]]
-  * [[:en:obs:help|Open Bible Stories Help]]
+  * [[:mr:get-started|How to Get Started]]
+  * [[:mr:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
@@ -31,19 +31,19 @@
       * [[:mr:bible:notes:home|translationNotes]]
       * [[:mr:bible:questions:comprehension:home|translationQuestions]]
       * [[:mr:obe:home|translationWords]]
-  * [[:en:ta|translationAcademy (English)]]
-      * [[:en:ta:vol1:intro:toc_intro|Introduction]]
-      * [[:en:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
-      * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
-      * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
-      * [[:en:ta:vol1:process:toc_processvol1_2|Process Manual]]
+  * [[:mr:ta|translationAcademy]]
+      * [[:mr:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:mr:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:mr:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:mr:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:mr:ta:vol1:process:toc_processvol1_2|Process Manual]]
 
 
 **About Door43**
 
-  * [[:en:ta:vol1:intro:statement_of_faith|Statement of Faith]]
-  * [[:en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
-  * [[:en:ta:vol1:intro:open_license|Copyrights & Licensing]]
+  * [[:mr:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:mr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:mr:ta:vol1:intro:open_license|Copyrights & Licensing]]
 
 **Door43 Development**
 
