@@ -1,34 +1,63 @@
 
-----
+**Door43**
 
-~~NOCACHE~~ **Door43**
+  * [[mr:home|Door43 (Marathi)]]
 
-  * [[:mr:home|Door43 (mr)]]
-  * [[:mr:license|License]]
+**Help**
+
+  * [[:mr:ta|translationAcademy]]
+  * [[:en:get-started|How to Get Started]]
+  * [[:en:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  *  [[:mr:obs|Open Bible Stories (mr)]]
+  *  [[:mr:obs|Open Bible Stories]]
       * [[:mr:obs:notes|translationNotes]]
       * [[:mr:obs:notes:questions:home|translationQuestions]]
       * [[:mr:obe:home|translationWords]]
-  *  [[:mr:bible:intro|Bible]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:mr:bible:intro|Bible (Marathi)]]
+      * [[:mr:ulb:ep:home|Unlocked Literal Bible]]
       * [[:mr:udb:ep:home|Unlocked Dynamic Bible]]
       * [[:mr:bible:notes:home|translationNotes]]
       * [[:mr:bible:questions:comprehension:home|translationQuestions]]
       * [[:mr:obe:home|translationWords]]
-  *  [[:mr:ta|translationAcademy]]
-      * [[:mr:ta:vol1:toc|translationAcademy Vol 1]]
+  * [[:en:ta|translationAcademy (English)]]
+      * [[:en:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:en:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:en:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+
+**About Door43**
+
+  * [[:en:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:en:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-mr|d43-mr repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-mr/archive/master.zip|d43-mr.zip]]
+All content for this namesorce is available in the [[https://github.com/Door43/d43-mr|d43-mr repository]].  To download it mr a zip file, click [[https://github.com/Door43/d43-mr/archive/master.zip|d43-mr.zip]]
 
 **Recent Changes**
-
 {{changes>ns = mr}}
 
 **Language Information**
 
 [[http://www.ethnologue.com/language/mr|Ethnologue data]]
-
