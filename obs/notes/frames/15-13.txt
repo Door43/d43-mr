@@ -12,7 +12,6 @@
   * **[[:mr:obe:other:obey]]**
   * **[[:mr:obe:kt:covenant]]**
   * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:israel]]**
   * **[[:mr:obe:other:sinai]]**
   * **[[:mr:obe:kt:promise]]**
   * **[[:mr:obe:kt:faithful]]**
