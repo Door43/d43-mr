@@ -2,7 +2,7 @@
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:nr:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:mr:obe:kt:home|List of the Key Terms in the OBE Directory]]
   * [[:mr:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 
