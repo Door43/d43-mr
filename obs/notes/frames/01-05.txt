@@ -1,26 +1,17 @@
-===== God Created the Plants [01-05] =====
+===== **देवाने वनस्पती निर्माण केल्या \[01-05]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?nolink}}
+मग **देव बोलला****,** “**सर्व प्रकारची** झाडे व वनस्पती **उपजवो**.” मग **देव बोलला****,** “**सर्व प्रकारची** झाडे व वनस्पती **उपजवो**.” देवाने पाहीले जे त्याने **निर्माण केले ते चांगले आहे****.**
+===== **महत्वाचे शब्दः**  =====
 
-Then **God said**, “**Let the earth produce all kinds** of trees and plants.” And that is what happened. God saw that what he had **created was good**. 
+  * **__देव__ **
+  * **__चांगला__ **
+==== **भाषांतर टिपाः**  ====
 
-
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:good]]**
-
-
-==== Translation Notes: ====
-
-
-  * **God said** - God created all vegetation by speaking a command.
-  * **let the earth produce** - This is a command that happened immediately because God spoke it.
-  * **all kinds** - The many different species, or types, of plants and trees.
-  * **created** - This word is used here in the sense of making something out of nothing.
-  * **was good** - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
-
-
+  * **देव बोलला**  - देवाने सर्व झाडेझूडपे वनस्पती शब्दाने आज्ञा देऊन निर्माण केली.
+  * **पृथ्वी उपजवो**  - ही आज्ञा आणि ताबडतोब त्या प्रमाणे झाले, कारण देव बोलला.
+  * **सर्व प्रकारची**  - निरनिरीळ्या जाती किंवा प्रकारची झाडे वनस्पती
+  * **निर्माण केल्या -**  इथे हा शब्द शुन्यातून निर्माण केले, निर्माण करण्यासाठी देवाला कसल्याही वस्तूची, पदार्थाची गरज नाही.
+  * **चांगले झाले**  - उत्पत्तीच्या गोष्टीमध्ये हे शब्द वारंवार येतात, उत्पत्तीचा प्रत्येक टप्पा देवाला आवडणारा व त्याची योजना, हेतू पुर्ण करणारा आहे, हे ठामपणे या शब्दातून सांगीतले आहे.
 **[[:mr:obs:notes:frames:01-04|<<]] | [[:mr:obs:notes:01|Up]] | [[:mr:obs:notes:frames:01-06|>>]]**
