@@ -1,22 +1,26 @@
-===== A Perfect World [02-01] =====
+===== **एक परिपुर्ण जग \[02-01]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink}}
+**आदाम** व त्याची बायको देवाने त्यांच्यासाठी बनवलेल्या सुंदर बागेत आनंदात राहत होते. त्यांच्यापैकी कोणीही कपडे घातले नव्हते
+,  पण त्यामुळे त्यांना **लाज** वाटत नव्हती कारण जगामध्ये **पाप** नव्हते
+. ते अनेकदा बागेत फिरत असत व **देव****ाबरोबर ****बोल****त असत**
+.
 
-**Adam** and his wife were very happy living in the beautiful **garden** **God** had made for them. Neither of them wore clothes, but this did not cause them to feel any **shame**, because there was no **sin** in the world. They often walked in the garden and **talked with God**. 
+===== **महत्वाचे शब्दः**  =====
 
-===== Important Terms: =====
+  * **आदाम**
+  * **__देव__ **
+  * **__पाप__ **
+==== **भाषांतर टिपाः **  ====
 
-
-  * **[[:mr:obe:other:adam]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:sin]]**
-
-
-==== Translation Notes: ====
-
-  * **garden**  - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[:mr:obs:notes:frames:01-11|[01-11]]]**. See how you translated it there.
-  * **talked with God**  - The word for "talk" should be the same as would be used to refer to talking to a human being. God may have taken a physical form to talk to the man and the woman since the text indicates that they talked to him face-to-face.
-  * **shame**  - The feeling that comes with knowing we have sinned or that we fall short in some way.
+  * **बाग **– देवाने आदाम आणि हव्वेसाठी  विशेष निवडक झाडे व वनस्पती तयार केली  ज्यामुळे त्यांनी आनंद करावा व त्यातील खायला मिळावे. हा **__[01-11]__** मध्ये वापरलेला समान शब्द असावा. आपण तो तेथे कसा अनुवादित केला ते पाहू
+.
+  * **देवाशी बोलला
+- **
+" बोलण्यासाठी वापरलेला शब्द, मनुष्याबरोबर बोलण्यासाठी जो वापरतात तो शब्द. देवाने माणूस आणि स्त्रीशी बोलण्यासाठी शरीर धारण केले असावे कारण वचनात सांगीतले आहे की ते त्याच्याशी समोरासमोर बोलत असत.
+  * **लाज
+- ** आपण पाप केले आहे किंवा आपण कुठे तरी कमी पडलो आहे ते समजते तेव्हा ही भावना येते
+.
 
 **[[:mr:obs:notes:frames:01-16|<<]] | [[:mr:obs:notes:02|Up]] | [[:mr:obs:notes:frames:02-02|>>]]**
