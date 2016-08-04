@@ -1,24 +1,16 @@
-===== Adam Was Alone [01-12] =====
+===== **आदाम एकटा होता \[01-12]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?nolink}}
+मग** देव** बोलला, मनुष्याने **एकटे** असावे हे **बरे** नाही. पण कुठलाच प्राणी **आदामाचा मदतगार** होउ शकला नव्हता.
+===== **महत्वाचे शब्दः   **  =====
 
-Then **God** said, “It is **not good** for man to be **alone**.” But none of the animals could be **Adam's helper**. 
+  * **__देव__ **
+  * **__चांगले (किंवा बरे) __ **
+  * **__आदामाचे __ **
+==== **भाषांतर टिपः**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:good]]**
-  * **[[:mr:obe:other:adam]]**
-
-
-==== Translation Notes: ====
-
-
-  * **not good** - This is the first time that anything in creation was not good. It means it was, "not yet good" because God was not finished with the creation of humans.
-  * **alone** - Adam was the only human, with no possibility of a relationship with another person, and unable to reproduce children and multiply.
-  * **Adam's helper** - There was no one who was similar enough to Adam to join with him to accomplish the task that God gave to him. None of the animals could do this.
-
-
+  * **चांगले नाही**  – उत्पत्ती कार्यातली ही पहिलीच वेळ होती की जी चांगली नव्हती.याचा अर्थ “**अद्याप चांगले नाही”**  कारण मनुष्याच्या निर्मितीचे कार्य अजून पुर्ण झाले नव्हते.
+  * **एकटा**  – आदाम हा एकटा माणूस होता, दुस-यांशी नाते संबंध प्रस्थापित करण्यासाठी दुसरा माणूस नव्हता, आणि मुले बाळे उत्पन्न करु शकत नव्हता, आणि बहुगुणित होऊ शकत न्हवता.
+  * **आदामाची मदतगार**- आदामासारखा दुसरा कोणी नव्हता जो त्याला दिलेल्या कामात त्याची मदत करेल.
 **[[:mr:obs:notes:frames:01-11|<<]] | [[:mr:obs:notes:01|Up]] | [[:mr:obs:notes:frames:01-13|>>]]**
