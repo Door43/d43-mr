@@ -1,30 +1,20 @@
-===== God Made Adam [01-10] =====
+===== **देवाने आदामाला बनवले \[01-10]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?nolink}}
+मग **देवाने काही चिखल घेतला** व त्याचा **माणूस बनवला**, आणि त्याच्यात जीवनाचा श्वास फुंकला. ह्या मानसाचे नाव **आदाम** होते. देवाने आदामासाठी एक **बाग ** बनवला व त्याला त्यात ठेवले, यासाठी की त्याने बागेची निगा राखावी.
+===== **महत्वाचे शब्दः**  =====
 
-So **God took some dirt**, **formed it** into **a man**, and **breathed life** into him. This man's name was **Adam**. God planted a **garden** where Adam could live, and put him there to **care for it**.
+  * **__देव __ **
+  * **__जीवन__ **
+  * **__आदाम__ **
+==== **भाषांतर टिपाः**  ====
 
-
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:life]]**
-  * **[[:mr:obe:other:adam]]**
-
-
-==== Translation Notes: ====
-
-
-  * **took some dirt** - God made man from the dust, or dry dirt from the ground. This word should probably be different from the general word used for earth.
-  * **formed it** - This word expresses that God personally fashioned the man, comparing this to how a person creates something with his hands. Make sure that a different word from "create" is used. Note that this is very different from how he created everything else through a simple spoken command.
-  * **a man** - Only the man was created at this time; the woman was created later by a different method.
-  * **breathed life** - This phrase expresses God's very personal, intimate action as he transferred life from himself into Adam's body, comparing this to how a human being breathes out air.
-  * **life** - In this event, God breathed both physical and spiritual life into the man.
-  * **Adam** - Adam's name is the same as the Old Testament word for "man," and similar to the word for "dirt" from which he was formed.
-  * **garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **care for it** - To maintain the garden by tending, weeding, watering, harvesting, planting, etc.
-
-
-**[[:mr:obs:notes:frames:01-09|<<]] | [[:mr:obs:notes:01|Up]] | [[:mr:obs:notes:frames:01-11|>>]]**
+  * **काही चिखल घेतला**  - देवाने जमिनीतल्या मातीचा मनुष्य बनवला हा शब्द पृथ्वी या शब्दाला जो सर्वसामान्य शब्द वापरतो त्यापेक्षा वेगळा आहे.
+  * **घडवले**- हा शब्द सुचवतो की देवाने व्यक्तीशः माणसाला बनवले. जसे एखादा मनुष्य आपल्या हातांनी काही तरी घडवतो, बनवतो. “निर्माण केले” या पेक्षा वेगळा शब्द वापरला आहे हे लक्षात घ्या. त्याने सर्व काही केवळ शब्द बोलून आज्ञा देवून झाले पण ह्याला वेगळ्या पद्धतीने घडवले हे लक्षात घ्या.
+  * **माणूस**- त्या वेळी फक्त माणूसच घडवला, स्त्री नंतर घडवली व वेगळ्या पद्धतीने घडवली.
+  * **जीवनाचा श्वास फुकला**  - देवाने जेव्हा स्वतःतून जीवनाचा श्वास आदामाच्या शरिरात फुंकला तेव्हा ही कृती अगदी वैयक्तीक व जिव्हाळ्याने केलेली कृती होती असे शब्दातून दिसते. जसे की एखादा माणूस उच्छवासातून हवा बाहेर सोडतो.
+  * **जीवन**  - या घटनेत देवाने शाररिक व आत्मिक अशा दोन्ही जीवनाचा श्वास फुंकला.
+  * **आदाम**  - जुन्या करारात मनुष्यासाठी जो शब्द वापरला तोच शब्द आदामाच्या नावासाठी वापरला आहे. आणि त्याच शब्दासारखा शब्द चिखल या शब्दासाठी आहे.
+  * **बाग-**  असा जमिनीचा भाग ज्यात झाडे व वनस्पती लावले आहेत ज्याचा हेतू खाण्यास अन्न मिळवने व शोभा देणे हा हेतू होता.
+  * **निगा राखणे**- बागेची काळजी घेणे, तण काढणे,पाणी देणे पेरणे, कापणे इ.
