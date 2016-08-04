@@ -1,23 +1,26 @@
-===== The Snake [02-02] =====
+===== **साप** **\[02-02]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink}}
+पण बागेत एक **धूर्त साप** होता
+. त्याने त्या  स्त्रीला विचारले,  तुम्ही बागेतल्या कोणत्याही झाडाचे फळ खाऊ नका असे  देवाने म्हटले ते खरे आहे का?"
 
-But there was a **crafty snake** in the garden. He asked the woman, “**Did God really tell you** not to eat the **fruit from any of the trees** in the garden?” 
+===== महत्वाचे शब्दः  =====
 
-===== Important Terms: =====
+  * **देव**
+==== भाषांतर टिपा
+:  ====
 
-
-  * **[[:mr:obe:kt:god]]**
-
-
-==== Translation Notes: ====
-
-
-  * **crafty** - Clever and sly, with the intent to deceive.
-  * **snake** - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
-  * **Did God really tell you** - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
-  * **fruit of any of the trees** - All of the various types of fruit from each of the different trees in the garden.
-
+  * **धूर्त
+– ** चलाख, कावेबाज फसविण्याचा हेतू असलेला
+.
+  * **साप
+– ** लांब, पाय नसलेला जमिनीवरचा प्राणी तो आता त्याच्या पोटाने वळवळतो व सरपटतो. नंतर कथे मध्ये साप सैतान आहे, असे निदर्शनास आले आहे, तरी, हे येथे या चौकटी मध्ये सांगितले जाऊ नये
+.
+  * **खरच देवाने तुम्हाला हे सांगीतले का**  - सापाने स्त्रीला विचारले, देव प्रत्यक्षात असे म्हणाला का की बागेतल्या कोणत्याही झाडाचे फळ खाऊ नका. देव काय बोलला हे त्याला माहीत नाही असे तो फक्त भासवित होता कारण त्याला स्त्रीच्या मनात शंका निर्माण करायची होती
+. तीने देवाच्या चांगुलपणाविषयी प्रश्नचिन्ह करावा अशी त्याची ईच्छा होती
+.
+  * **कोणत्याही झाडाचे फळ -** बागेतली विविध प्रकारची सर्व फळे, जी निरनिराळ्या प्रकारच्या बागेतल्या झाडांना होती
+-
 
 **[[:mr:obs:notes:frames:02-01|<<]] | [[:mr:obs:notes:02|Up]] | [[:mr:obs:notes:frames:02-03|>>]]**
