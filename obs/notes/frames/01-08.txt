@@ -1,28 +1,20 @@
-===== God Created the Animals [01-08] =====
+===== **देवाने जनावरे निर्माण केली \[01-08]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?nolink}}
+उत्पत्तीच्या **सहाव्या** **दिवशी**, **देव बोलला,** “**पृथ्वीवर सर्व प्रकारची** **जनावरे** उत्पन्न होवोत”! आणि जसा देव बोलला तसे झाले.काही **गुरेढोरे** होती, काही **जमिनीवर सरपटणारे** होते, काही **वन्यपशू** होते. आणि देवाने पाहिले की **ते चांगले आहे**.
+===== **महत्वाचे शब्दः**  =====
 
-On **the sixth day** of creation, **God said**, “Let there be **all kinds** of **land animals**!” And it happened just like God said. Some were **farm animals**, some **crawled on the ground**, and some were **wild**. And God saw that **it was good**.
+  * **__देव__ **
+  * **__चांगला__ **
+==== **भाषांतर टिपाः**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:good]]**
-
-
-==== Translation Notes: ====
-
-
-  * **the sixth day** - The next event in a continuing, orderly progression of days and creative acts.
-  * **God said** - God's spoken word is the means by which the animals were created.
-  * **all kinds** - This indicates a great variety, but also order.
-  * **land animals** - Every kind of animal that lived on the land, as opposed to the birds, or animals that live in the seas.
-  * **farm animals** - The kinds of land animals that commonly live peacefully with people–-as in tame, or domesticated animals.
-  * **crawled on the ground** - This probably includes reptiles, and possibly the insects.
-  * **wild** - The kinds of animals that do not normally live peacefully with people, usually because they are afraid of people, or dangerous to them.
-  * **it was good** - This phrase is repeated throughout creation to show that every step went exactly according to God's wise plan and purpose.
-
-
+  * **सहावा दिवस**  - निर्मिती कार्यातील क्रमवार पद्धतीने व प्रगतीने पुढे जाणा-या दिवसातील ही पुढची घटना.
+  * **देव बोलला**  - देवाने बोललेल्या शब्दामुळे गुरेढोरे यांची निर्मिती झाली.
+  * **सर्व प्रकारची -**  पुष्कळ निरनिराळ्या प्रकारची पण व्यवस्थित हे दर्शविते
+  * **पृथ्वीवरील जनावरे-**  जमिनीवर फिरतो तो प्रत्येक प्रकारचा पशू. पक्षी व समुद्रातील प्राणी या पेक्षा वेगळा असे हे प्राणी.
+  * **ग्रामपशू**  - निरनिराळ्या प्रकारचे ग्रामपशू जे सर्व सामान्यपणे मनुष्या मध्ये शांतीने राहतात. पाळीव किंवा माणसाळलेले प्राणी.
+  * **जमिनीवर सरपटणारे- ** या मध्ये बहुतकरून सरपटणारे प्राणी तसेच किडे, किटक येतात.
+  * **वन्य**  - हे अशा प्रकारचे प्राणी की जे मनुष्यामध्ये शांतीने राहत नाहीत, कारण त्यांना लोकांची भिती वाटते किंवा ते लोकांना धोकादायक असतात.
+  * **ते चांगले आहे -**  उत्पत्ती मध्ये हा शब्द पुन्हा पुन्हा येतो हे दाखविण्यासाठी की प्रत्येक गोष्ट अगदी देवाच्या सुज्ञ योजना व हेतू प्रमाणे झाले.
 **[[:mr:obs:notes:frames:01-07|<<]] | [[:mr:obs:notes:01|Up]] | [[:mr:obs:notes:frames:01-09|>>]]**
