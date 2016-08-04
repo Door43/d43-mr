@@ -1,28 +1,19 @@
-===== God Rested [01-16] =====
+===== **देवाने विश्रांती घेतली \[01-16]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?nolink}}
+जेव्हा **सातवा दिवस** आला, तेव्हा **देवाने** आपले **काम संपवले** होते. मग **देवाने** आपल्या कामापासून **विसावा घेतला.** त्याने **सातव्या दिवसाला आशिर्वाद दिला**, आणि तो **पवित्र केला** कारण त्याने आपल्या कामापासून विसावा घेतला. अशा प्रकारे देवाने विश्व व त्यातील सर्व काही निर्माण केले.
+===== **महत्वाचे शब्दः**  =====
 
-When **the seventh day** came, **God** had **finished his work**. So **God rested** from all he had been doing. He **blessed the seventh day** and **made it holy**, because on this day he rested from his work. This is how God created **the universe** and everything in it.
+  * **देव**
+  * **आशिर्वाद**
+  * **पवित्र**
+==== **भाषांतर टिपाः**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:bless]]**
-  * **[[:mr:obe:kt:holy]]**
-
-
-==== Translation Notes: ====
-
-
-  * **the seventh day** - The next day after the six days of creation were completed.
-  * **finished his work** - Specifically, God finished the work of creation. He still performs other work.
-  * **God rested** - God "rested" in the sense that he stopped working because creation was complete. God was not tired, or unable to continue.
-  * **blessed the seventh day** - God had a special, positive plan for the seventh day, and for every seventh day to follow.
-  * **made it holy** - That is, God "set apart" the day as a special day. It was not to be used in the same way as the other six days of the week.
-  * **the universe** - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
-**[[:mr:obs:notes:frames:01-15|<<]] | [[:mr:obs:notes:01|Up]] | [[:mr:obs:notes:frames:02-01|>>]]**
+  * **सातवा दिवस**  – सहा दिवसानंतरच्या पुढच्या दिवशी उत्पत्तीचे कार्य पुर्ण झाले.
+  * **त्याचे कार्य संपले**  – विशेषतः त्याचे निर्मितीचे कार्य संपले.तो आताही इतर कामे करीत आहे.
+  * **देवाने विश्रांती घेतली**  - देवाने विश्रांती घेतली याचा अर्थ त्याने काम थांबवले कारण उत्पत्तीचे काम पूर्ण झाला होते. देव थकला नव्हता किंवा त्याला काम करता यात नव्हते असे नाही.
+  * **सातव्या दिवसाला आशिर्वादित केले**- देवाची एक विशेष व निश्चित अशी योजना होती, आणि त्या नंतर येणा-या प्रत्येक दिवसासाठी होता.
+  * **पवित्र केला**- म्हणजे असे की देवाने हा दिवस इतर दिवसापेक्षा “वेगळा” केला. व त्याला विशेष असे मानले. आठवड्याच्या सहा दिवसाप्रमाणे त्याचा उपयोग करावयाचा नव्हता.
+  * **विश्व**  – य़ात देवाने पृथ्वीवर आणि स्वर्गात जे काही दृश्य व अदृश्य निर्माण केलेल्या प्रत्येक गोष्टींचा समावेश होतो.
+  * **पवित्र शास्त्रातील गोष्ट**  – हे संदर्भ पवित्र शास्त्रातील इतर भाषांतरात थोडेसे वेगळे असण्याची शक्यता आहे.
