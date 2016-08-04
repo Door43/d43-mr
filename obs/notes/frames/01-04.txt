@@ -1,21 +1,16 @@
-===== God Created the Land [01-04] =====
+===== **देवाने जमीन निर्माण केली \[01-04]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink}}
+**तिस-या दिवशी** **देव बोलला** आणि कोरड्या भूमीवरची जले वेगळी केली. देवाने कोरड्या भूमीला **“पृथ्वी”** म्हटले व वेगळ्या केलेल्या जलांना “समुद्र” म्हटले. देवाने पाहिले की त्याने **निर्माण** केले होते ते **चांगले** आहे.
+===== **महत्वाचे शब्द**  =====
 
-On the **third day**, **God spoke** and separated the water from the dry land. He called the dry land “**earth**,” and he called the water “seas.” God saw that what he had **created** was **good**. 
+  * **देव**
+  * **चांगला**
+==== **भाषांतर टिपाः**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:good]]**
-
-
-==== Translation Notes: ====
-
-  * **third day**  - The next in the series of orderly days in which God prepared the earth for life.
-  * **God spoke**  - God created the dry land by speaking a command.
-  * **earth**  - This word is used here to refer to dirt or soil, which is what dry land is made of.
-  * **created**  - This word is used here in the sense of making something out of nothing.
+  * **तिसरा दिवस**  - पूढे दिवसाच्या क्रमवारीतल्या मालीकेत देवाने जीवनासाठी पृथ्वीला तयार केले.
+  * **देव बोलला**  - देवाने आज्ञा केली आणि कोरडी भूमी निर्माण केली.
+  * **पृथ्वी**  - हा शब्द चिखल व माती या अर्थाने इथे वापरला आहे. ज्या मूळे कोरडी भूमी तयार झाली.
+  * **निर्मिती -**  शून्यातून निर्माण करणे या अर्थाने हा शब्द येथे वापरला आहे.
 **[[:mr:obs:notes:frames:01-03|<<]] | [[:mr:obs:notes:01|Up]] | [[:mr:obs:notes:frames:01-05|>>]]**
