@@ -1,31 +1,24 @@
-===== Two Trees [01-11] =====
+===== **दोन झाडे- \[01-11]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink}}
+**बागेच्या मध्यभागी** देवाने दोन विशेष झाडे लावली, **जीवनाचे झाड व बरे वाईटाचे ज्ञान देणारे झाड**. देवाने आदामाला सांगीतले, तो बागेतल्या कुठल्याही झाडाचे फळ खाऊ शकत होता फक्त ब-या वाईट ज्ञान देणा-या झाडाचे फळ खायचे नव्हतेजर त्याने त्या झाडाचे फळ खाल्ले, तर तो **मरेल**
+===== **महत्वाचे शब्दः**  =====
 
-**In the middle** of the **garden**, God planted two special trees—the **tree of life** and the **tree of the knowledge of good and evil**. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**. 
+  * **__देव__ **
+  * **__जीवन__ **
+  * **__चांगले__ **
+  * **__वाईट__ **
+  * **__आदाम__ **
+  * मरणे
 
-===== Important Terms: =====
+==== **भाषांतर टिपाः**  ====
 
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:life]]**
-  * **[[:mr:obe:kt:good]]**
-  * **[[:mr:obe:kt:evil]]**
-  * **[[:mr:obe:other:adam]]**
-  * **[[:mr:obe:kt:death]]**
-
-
-==== Translation Notes: ====
-
-
-  * **in the middle** - The central location emphasizes the importance of the two trees.
-  * **garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **tree of life** - Anyone who ate fruit from this tree would never die.
-  * **tree of knowledge of good and evil** - The fruit of this tree could enable a person to know both good and evil.
-  * **knowledge** - To know or understand by personal experience.
-  * **good and evil** - Evil is the opposite of good. Just as "good" refers to what is pleasing to God, "evil" refers to everything that is not pleasing to God.
-  * **die** - In this instance, he would die both physically and spiritually.
-
-
+  * **मध्यभागी**  – मध्यभागाची जागा दोन झाडाचे महत्व दाखवते
+  * **बाग-**   असा जमिनीचा भाग ज्यात झाडे व वनस्पतीची लागवड केली जाते, ज्यामुळे अन्न व शोभा निर्माण व्हावी हा हेतू असतो.
+  * **जीवनाचे झाड**  – जो ह्या झाडाचे फळ खाईल तो कधीच मरणार नाही.
+  * **ब-या वाईटाचे ज्ञान देणारे झाड**- ह्या झाडाचे फळ एखाद्या माणसाला बरे आणि वाईट या दोन्ही गोष्टीचे ज्ञान देवू शकते.
+  * **ज्ञान **– वैयक्तिक अनुभवावरून ओळखणे किंवा समजणे
+  * **बरे आणि वाईट**  – वाईट हे चांगल्याच्या विरूध्द असते.जसे “चांगले” म्हणजे देवाला आवडणारे, तसे “वाईट” म्हणजे देवाला आवडत नाही ते सर्व काही
+  * **die****मरणे**  -  या प्रसंगात तो शाररिक व आत्मिक दोन्ही रितीने मरेल.
 **[[:mr:obs:notes:frames:01-10|<<]] | [[:mr:obs:notes:01|Up]] | [[:mr:obs:notes:frames:01-12|>>]]**
