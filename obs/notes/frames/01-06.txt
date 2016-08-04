@@ -1,25 +1,17 @@
-===== God Created the Sun, Moon and Stars [01-06] =====
+===== **देवाने सुर्य,चंद्र, तारे निर्माण केले, \[01-06]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?nolink}}
+उत्पत्तीच्या **चौथ्या दिवशी**, **देव बोलला** आणि सुर्य,चंद्र,तारे केले.**देवाने** त्यांना पृथ्वीला **प्रकाश** देण्यासाठी **दिवस व रात्र ,ऋतू व वर्षा करिता खुणाकरिता केले.** देवाने पाहिले जे त्याने **निर्माण** केले ते **चांगले** आहे.
+===== **महत्वाचे शब्दः**  =====
 
-On **the fourth day** of creation, **God spoke** and made the sun, the moon, and the stars. **God** made them to give **light** to the earth and to mark **day and night**, **seasons and years**. God saw that what he had **created** was **good**.
+  * **__देव__ **
+  * **__चांगला__ **
+==== **भाषांतर टिपः**  ====
 
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:good]]**
-
-
-==== Translation Notes: ====
-
-
-  * **the fourth day** - The next in the orderly series of days in which God created.
-  * **God spoke** - God created the sun, moon, and stars by speaking a command.
-  * **light** - Shining objects in the sky now provided light for the earth.
-  * **day and night, seasons and years** - God created a different light to mark each portion of time from small to large, and set them to repeat continually until the end of time.
-  * **created** - This word is used here in the sense of making something out of nothing.
-
-
+  * **चौथा दिवस -**  दिवसाच्या क्रमवार मालीकेतील पुढचा दिवस ज्यात देवाने निर्मीतीचे कार्य केले.
+  * **देव बोलला**  - देवाने सुर्य,चंद्र, आणि तारे बोलून आज्ञा दिली व निर्माण केले.
+  * **प्रकाश**  - आकाशात प्रकाशणारी वस्तू जी आता पृथ्वीला प्रकाश देते.
+  * **दिवस आणि रात्र ऋतू आणि वर्षे -**  देवाने प्रत्येक छोट्या व मोठ्या कालावधीच्या खुणा दाखविण्याकरिता वेगळा प्रकाश निर्माण केला आणि त्याचे हे चक्र काळाच्या अंतापर्यंत चालेल असे केले.
+  * **निर्माण केले**- इथे या शब्दाचा अर्थ शुन्यातून निर्माण केले असा आहे. देवाला निर्माण करण्यासाठी कसल्याही वस्तूची, पदार्थाची गरज नाही.
 **[[:mr:obs:notes:frames:01-05|<<]] | [[:mr:obs:notes:01|Up]] | [[:mr:obs:notes:frames:01-07|>>]]**
