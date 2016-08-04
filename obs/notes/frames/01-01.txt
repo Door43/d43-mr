@@ -2,17 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&}}
 
-This is how **the beginning** of everything happened. God **created** the **universe** and everything in it in six days. After God created the earth it was **dark** and **empty**, and **nothing had been formed** in it. But **God's Spirit** was there over the water.
+आशा प्रकारे सर्व गोष्टींची **सुरुवात झाली**. परमेश्वराने **विश्व** आणि त्य़ातील सर्व काही सहा दिवसात **निर्माण केले. ** परमेश्वराने पृथ्वी निर्माण केली केव्हा तेथे **अंधार** होता आणि पृथ्वी **उजाड** होती. आणि तिच्यात अजून **काही निर्माण झाले नव्हते. ** परंतू **परमेश्वराचा आत्मा** जलावर होता.
 ===== Important Terms: =====
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:holyspirit]]**
+  * **[[:mr:obe:kt:god|God]]**
+  * **[[:mr:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
 ==== Translation Notes: ====
 
   * **the beginning**  - That is, "the beginning of all things," before anything existed except God.
   * **created**  - This is used here in the sense of making something out of nothing.
   * **universe**  - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
-  * **earth** - The word "earth" refers to the whole world that people live on.
+  * **earth**  - The word "earth" refers to the whole world that people live on.
   * **dark**  - It was completely dark. There was no light at all, since God had not yet created light.
   * **empty**  - God had not yet created anything except for the bare earth covered by water.
   * **nothing had been formed**  - There were no distinguishing features–just water covering everything.
