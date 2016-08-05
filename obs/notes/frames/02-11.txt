@@ -1,27 +1,36 @@
-===== God Cursed the Man [02-11] =====
+===== **देव मनुष्याला शाप देतो [02-11]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-11.jpg?nolink}}
+**देव मनुष्याला म्हणाला**, "तु आपल्या बायकोचे ऐकलेस व माझी आज्ञा मोडलीस. आता भूमी शापीत झाली आहे, आणि धान्य पिकविण्यास कठोर परिश्रम करण्याची आवश्यकता आहे
+. Tतु मरशील आणि तुझे शरिर मातीला मिळेल
+.  बायकोला हव्वा – जीवन असे म्हटले, कारण सर्व जीवधारी मानवांची ती आई होती.आणि देवाने आदाम आणि हव्वा यांना जनावरांच्या कातड्याचे अंगरखे करुन घातले.
 
-**God** said to the man, “You listened to your wife and **disobeyed** me. Now the **ground is cursed**, and you will need to work hard to grow food. Then **you will die**, and your body will **return to dirt**.” The man named his wife **Eve**, **which means** “**life-giver**,” because she would become the **mother of all people**. And God clothed **Adam** and Eve with animal skins. 
+===== महत्वाचे शब्दः   =====
 
-===== Important Terms: =====
+  * **देव**
+  * **आज्ञा मोडली**
+  * **शापीत**
+  * **मरणे**
+  * **हव्वा**
+  * **आदाम**
+==== भाषांतरीत टिपाः ====
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:disobey]]**
-  * **[[:mr:obe:kt:curse]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:other:eve]]**
-  * **[[:mr:obe:other:adam]]**
-
-
-==== Translation Notes: ====
-
-
-  * **ground is cursed** - As punishment for Adam's disobedience, the earth would no longer be fruitful. Adam would have to work very hard to raise enough food to eat.
-  * **you will die** - The ultimate punishment for their disobedience was death. Spiritual death is our separation from God. Physical death is our separation from our body.
-  * **return to dirt** - God created Adam from the dirt or soil and gave him life. As a result of sin, his life will be taken from him and his body will decompose and become dirt again.
-  * **Eve, which means 'life-giver'** - God gave life to Adam and Eve, and it is passed on to every person through childbirth.
-  * **mother of all people** - This means that she would be the female ancestor of all people. Some languages say "she would be the grandmother of all people."
+  * **भूमि शापित झाली
+- ** आदामाच्या आज्ञा मोडण्याची शिक्षा म्हणून, भूमि यापुढे फलदायी होणार नव्हती
+. आदामाला पुरेसे अन्न खावयाला मिळवण्यासाठी फार कष्ट करावे लागणार होते
+.
+  * **तुम्ही मरणार**
+-  त्यांच्या आज्ञाभंगामुळे अंतिम शिक्षा मृत्यु होती
+. अध्यात्मिक मृत्यू म्हणजे देवापासून आमचे वेगळे होणे.शारिरीक मृत्यू म्हणजे शरिरापासून आमचे वेगळे होणे.
+  * **परत मातीला मिळणे**-  देवाने आदामाला माती पासून तयार केले आणि त्याला जीवन दिले
+. पापाचा परिणाम म्हणून, त्याचे जीवन घेतले जाईल आणि त्याच्या शरीराचे विघटन होऊन परत माती होईल.
+  * **हव्वा म्हणजे 'जीवन
+- देणारी' - ** देवाने आदाम आणि हव्वा यांना जीवन दिले, आणि ते मुलांना जन्म देण्याद्वारे प्रत्येक व्यक्तीला मिळते
+.
+  * **सर्व लोकांची आई
+- ** म्हणजे ती सर्व मानवांची महिला पूर्वज होईल
+. काही भाषांमध्ये म्हणतात, "ती सर्व लोकांची आजी होईल
+."
 
 **[[:mr:obs:notes:frames:02-10|<<]] | [[:mr:obs:notes:02|Up]] | [[:mr:obs:notes:frames:02-12|>>]]**
