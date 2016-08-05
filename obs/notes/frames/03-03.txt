@@ -1,21 +1,17 @@
-===== The Big Boat [03-03] =====
+===== **मोठे तारु** **[03-03]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?nolink}}
+देवाने नोहाला सुमारे
+140  मीटर लांब ,
+23  मीटर रुंद, आणि 13.5 मीटर उंच तारू करण्यास सांगितले
+. नोहाने ते तयार करण्यासाठी लाकडाचा वापर करावयाचा होता, ज्यात तीन मजले, अनेक खोल्या, एक छप्पर, आणि एक खिडकी बनवायची होती. हे तारु मध्ये नोहा, आणि त्याचे कुटुंब, आणि  जमिनीवर राहणारा प्रत्येक प्राण्यांना पूराच्या दरम्यान सुरक्षित ठेवणार होते.
 
-**God** told **Noah** to make **the boat** about 140 meters long, 23 meters wide, and 13.5 meters high. Noah was to build it with wood and to make three levels, many rooms, a roof, and a window. The boat would keep Noah, his family, and every kind of land animal safe during the flood. 
+===== महत्वाचे शब्द: =====
 
-===== Important Terms: =====
+  * **देव**
+  * **नोहा**
+===== भाषांतरीत टिपा: =====
 
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:noah]]**
-
-
-
-===== Translation Notes: =====
-
-
-  * **the boat** - The boat was big enough to carry eight people, two of every kind of animal, and their provisions for almost a year.
-
+  * **तारू**– ते तारू इतके मोठे होते की त्यात आठ लोक, सर्व प्रकारचे दोन प्राणी, आणि त्यांना जवळजवळ एक वर्ष पुरेल एवढी धान्यसामग्री वाहून नेवू शकणार होते.
 **[[:mr:obs:notes:frames:03-02|<<]] | [[:mr:obs:notes:03|Up]] | [[:mr:obs:notes:frames:03-04|>>]]**
