@@ -1,25 +1,26 @@
-===== Do Not Touch [02-03] =====
+===== **स्पर्श करू नका \[02-03]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink}}
+स्त्री म्हणाली, "**देवाने** आम्हास सांगितले की, आम्ही **चांगले आणि वाईट ज्ञान** **करुन देणाऱ्या झाडाचे फळ** सोडून कोणत्याही झाडाचे फळ खाऊ शकता
+. देवाने आम्हास सांगितले, तुम्ही फळ खाल्ले किंवा स्पर्श जरी केला तरी तुम्ही मराल.
 
-The woman answered, “**God** told us we could eat the **fruit** of any tree except from the **tree of the knowledge of good and evil**. God told us, ‘If you eat that fruit or even touch it, **you will die**.’” 
+===== **महत्वाचे शब्द - **  =====
 
-===== Important Terms: =====
+  * **__देव__ **
+  * **__चांगले__ **
+  * **__वाईट__ **
+  * **__मराल__ **
+==== भाषांतरीत टिपा**:**  ====
 
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:good]]**
-  * **[[:mr:obe:kt:evil]]**
-  * **[[:mr:obe:kt:death]]**
-
-
-==== Translation Notes: ====
-
-
-  * **fruit** - We don't know what kind of fruit this was. We only know that it grew on this tree. If possible it is best to use a general word for fruit here, and not a word for a specific kind of fruit.
-  * **tree of the knowledge of good and evil** - The woman correctly understood that they were not allowed to eat from this one tree that would enable them to understand evil as well as good.
-  * **you will die** - Use your ordinary word for death, for a person's physical life to end. Don't avoid the term just because the thought of death sounds too harsh.
-
+  * **फळ**
+-  आम्हाला हे फळ कसे होते माहीत नाही
+. आम्हाला फक्त हे झाडावर वाढले हे माहीत आहे
+. जर शक्य असेल तर येथे फळासाठी एक सामान्य शब्द वापरणे सर्वोत्तम आहे, त्यासाठी विशिष्ट प्रकारच्या फळाचे नाव घेण्याची गरज नाही
+.
+  * चांगले आणि वाईट ज्ञान करुन देणारे झाड – स्त्रीला चांगल्या प्रकारे समजले होते की, त्यांना ह्या झाडाचे फळ खायचे नव्हते कारण त्या मुळे ते बरे वाईट समजू शकणार होते.
+  * तुम्ही मराल – ज्यामुळे व्यक्तीचे शारीरिक जीवन समाप्त होते, असा मृत्यू साठी एक सामान्य शब्द वापरा
+. मृत्यूचा विचार खूप असह्य वाटतो तरी तो शब्द टाळू नका
+.
 
 **[[:mr:obs:notes:frames:02-02|<<]] | [[:mr:obs:notes:02|Up]] | [[:mr:obs:notes:frames:02-04|>>]]**
