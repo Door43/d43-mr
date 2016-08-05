@@ -1,24 +1,29 @@
-===== God Cursed the Snake [02-09] =====
+===== **देवाने सापाला शाप दिला  [02-09]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?nolink}}
+देव, सापाला म्हणाला, "तु शापित आहेस,
+! तू आपल्या पोटाने चालशील आणि माती खाशील
+. तू व स्त्री एकमेकांचा द्वेष कराल आणि तुझी मुले व त्याची मुले एकमेकांचा द्वेष करतील. Tस्त्रीचे संतान तुझे डोके फोडील आणि तो त्याची टाच फोडील.
 
-**God** said to the snake, “**You are cursed**! You will slide on your belly and eat dirt. You and the woman will **hate each other**, and your children and her children will hate each other, too. The **woman’s descendant** will **crush your head**, and you will **wound his heel**.” 
+===== महत्वाचे शब्दः  =====
 
-===== Important Terms: =====
+  * **देव**
+  * **शाप दिला**
+  * **वंशज**
+===== **भाषांतर टिपा
+: **  =====
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:curse]]**
-  * **[[:mr:obe:other:descendant]]**
-
-
-===== Translation Notes: =====
-
-
-  * **you are cursed** - This could also be translated as, "I curse you" or, "Great harm will come to you." Do not use a word that implies magic.
-  * **hate each other** - The woman would hate the snake and the snake would hate the woman. The women's descendants would also hate the snake's descendants, and the snake's descendants would hate them.
-  * **woman's descendant** - Refers to one of her descendants in particular.
-  * **crush your head** - The descendant of the woman will destroy the descendant of the snake.
-  * **wound his heel** - The descendant of the snake will wound the descendant of the woman.
+  * **तू शापीत आहेस
+– ** याचे असे सुद्धा भाषांतर होइल, “मी तुला शाप देतो किंवा तुझे फार मोठे नुकसान होईल”. जादू असा अर्थ होइल असा शब्द वापरू नका
+.
+  * एकमेकांचा द्वेष
+-  स्त्री सापाचा द्वेष करेल आणि साप स्त्रीचा द्वेष करेल
+. स्त्रीचे संतान सुद्धा सापाच्या संतानाचा द्वेष करेल, आणि सापाचे संतान स्त्रीच्या संतानाचा द्वेष करेल.
+  * **स्त्रीचे संतान**  – तिच्या एका विशेष संतानाचा उल्लेख करते
+.
+  * **डोके फोडील**  – स्त्रीचे संतान सापाच्या संतानाचा नाश करेल.
+  * **टाच फोडील
+– ** सापाचे संतान स्त्रीच्या संतानाची ठाच फोडेल.
 
 **[[:mr:obs:notes:frames:02-08|<<]] | [[:mr:obs:notes:02|Up]] | [[:mr:obs:notes:frames:02-10|>>]]**
