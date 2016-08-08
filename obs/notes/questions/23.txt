@@ -1,29 +1,28 @@
-====== Story #23: The Birth of Jesus ======
+====== **कथा**** #23**: **येशूचा जन्म**  ======
 
-===== Comprehension Questions and Answers =====
+===== **अभ्यासासाठी प्रश्न व उत्तरे**  =====
 
-  - **What kind of man was Joseph?**
-    *//He was a righteous man. [23-01]//
-  - **What did Joseph plan to do with Mary since she was pregnant?**
-    *//He planned to quietly divorce her. [23-01]//
-  - **What caused Joseph to change his mind and marry Mary instead?**
-    *//An angel came and spoke to him in a dream and said, “Do not be afraid to take Mary as your wife.” [23-02]//
-  - **What is the meaning of the name “Jesus”?**
-    *//It means, “Yahweh saves”. [23-02]//
-  - **Why did Joseph and Mary make the long journey to Bethlehem?**
-    *//Because the Roman government told everyone to go for a census to the town where their ancestors had lived. [23-04]//
-  - **In what kind of place was Jesus born?**
-    *//He was born in a place where animals stayed. [23-05]//
-  - **What was the angel’s message to the shepherds?**
-    *//“Do not be afraid, because I have some good news for you. The Messiah, the Master, has been born in Bethlehem!” [23-06]//
-  - **How would they know it was the right baby when they found him?**
-    *//He would be wrapped in pieces of cloth and lying in a feeding trough. [23-08]//
-  - **What did the shepherds do after they had seen the baby?**
-    *//They returned to the fields, praising God for what they had heard and seen. [23-08]//
-  - **Later, how did the wise men from the east know a new king of the Jews had been born?**
-    *//They saw an unusual star in the sky. [23-09]//
-  - **What did the wise men do when they saw Jesus?**
-    *//They bowed down and worshiped him, and gave Jesus expensive gifts. [23-10]//
+  - **योसेफ हा कशा प्रकारचा मनुष्य होता****?**
+      * तो नीतिमान मनुष्य होता//. [23-01]//
+  - **मरीया गरोदर असल्यामुळे तिच्याविषयी काय करायची त्याची योजना होती?**
+      * तिला गुप्तपणे घटस्फोट देण्याची त्याची इच्छा होती//. [23-01]//
+  - **त्याऐवजी असे काय झाले की त्याचे मन बदलले व तो मरीयेशी लग्नास तयार झाला****?**
+      * देवदूत त्याच्या स्वप्नात आला आणि म्हणाला, “तू मरीयेला आपली पत्नी म्हणून स्वीकार करण्यास भिऊ नकोस.” //[23-02]//
+  - **“येशू” या नावाचा अर्थ काय आहे?**
+      * याचा अर्थ, “यहोवा तारतो.” // [23-02]//
+  - **योसेफ व मरीयेने बेथलेहेमचा इतक्या लांबचा प्रवास का केला****?**
+      * कारण रोमी सरकारने प्रत्येकाला आज्ञा केली की त्यांचे पूर्वज राहात असत त्या ठिकाणी जाऊन त्यांनी नावनिशी लिहून द्यावी//. [23-04]//
+  - **कोणत्या प्रकारच्या जागेत येशूचा जन्म झाला****?**
+      * त्याचा जन्म गुरांच्या गोठ्यात झाला//. [23-05]//
+  - **देवदूताने मेंढपाळास कोणता संदेश दिला****?**
+      * “ भिऊ नका, कारण तुमच्यासाठी एक चांगली बातमी माझ्याकडे आहे. मशीहा (ख्रिस्त), प्रभु, बेथलेहेमात जन्मला आहे!“// [23-06]//
+  - **हेच ते बाळ आहे हे त्यांना कसे समजणार होते****?**
+      * ते कपड्यात गुंडाळलेले व गव्हाणीत ठेवलेले असणार होते//. [23-08]//
+  - **बाळाला पाहिल्यानंतर मेंढपाळांनी काय केले****?**
+      * त्यांनी जे ऐकले व पाहिले त्याबद्दल ते देवाचे गौरव व स्तुती करत परत शेतात गेले//. [23-08]//
+  - **नंतर,पूर्वेकडच्या ज्ञानी लोकांना यहूद्यांचा राजा जन्मला आहे हे कसे कळले?**
+      * त्यांनी पूर्व दिशेला एक विशेष तारा पाहिला//. [23-09]//
+  - **ज्ञानी लोकांनी येशूला पाहिले तेंव्हा त्यांनी काय केले****?**
+      * त्याच्या पाया पडून त्यांनी त्याला नमन केले, व त्यांनी येशूला मौल्यवान दाने दिली//. [23-10]//
 
-
-**[[en/obs/notes/questions/22|<<  ]] | [[en/obs/notes/questions/24| >>]]**
+**[[:en:obs:notes:questions:22|<< ]] | [[:en:obs:notes:questions:24| >>]]**
