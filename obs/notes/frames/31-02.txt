@@ -1,20 +1,16 @@
-===== The Storm [31-02] =====
+===== वादळ [31-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink&}}
 
-**Meanwhile**, the **disciples** were **rowing their boat**, but by late in the night they had only traveled as far as the middle of the lake. They were rowing with **great difficulty** because the wind was blowing hard against them.
-===== Important Terms: =====
+**दरम्यान**, शिष्य त्यांची बोट वल्हवून नेत होते, पण रात्री उशिरा ते फक्त सरोवरावराच्या मध्यभागीच पोहचू शकले.   त्यांना वल्हवणे अधिक कठिण जावू लागले कारण वारा त्यांच्या विरुद्ध वाहत होता.
+===== महत्वाचे शब्द: =====
 
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:other:pray]]**
+  * **शिष्य **
+  * प्रार्थना, प्रार्थना
 
+===== **भाषांतर टिपा: **  =====
 
-===== Translation Notes: =====
-
-  * **Meanwhile** - That is, "while Jesus was praying on the mountainside."
-  * **rowing their boat** - The boat had a sail, but it would not have worked when the wind was against them.
-  * **great difficulty** - That is, "much difficulty" or, "a lot of difficulty."
-
-
+  * **दरम्यान**  - म्हणजे, "दरम्यान येशू डोंगरावर प्रार्थना करीत होता."
+  * **नाव वल्हवित होते**  – नावेला एक शिड होते, पण वारा त्यांच्या विरुद्धचा होता तेव्हा ते काम करत नव्हते.
+  * **मोठी अडचण**  - म्हणजे, "खूप कठीण" आहे किंवा " भरपूर अडचणी."
 **[[:mr:obs:notes:frames:31-01|<<]] | [[:mr:obs:notes:31|Up]] | [[:mr:obs:notes:frames:31-03|>>]]**
-
