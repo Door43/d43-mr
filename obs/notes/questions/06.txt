@@ -1,25 +1,24 @@
-====== Story #6: God Provides for Isaac ======
+====== **कथा #6**: **इसहाकासाठी देवाचा उपाय **  ======
 
-===== Comprehension Questions and Answers =====
+===== **आकलन प्रश्न आणि उत्तरे**  =====
 
-  - **Why did Abraham send his servant back to the land of Abraham's relatives?**
-    *//To bring back a wife for his son, Isaac. [06-01]//
-  - **How did the servant find Rebekah?**
-    *//God led him to her. [06-02]//
-  - **How was Rebekah related to Abraham?**
-    *//Rebekah was the granddaughter of Abraham's brother. [06-02]//
-  - **Was Rebekah forced to go with the servant to marry Isaac?**
-    *//No, she agreed to go. [06-03]//
-  - **What promises of God were passed on to Isaac when Abraham died?**
-    *//All of the promises that God had made to Abraham, including that he would have countless descendants. [06-04]//
-  - **Why did it appear that the promise of countless descendants would not be fulfilled through Isaac?**
-    *//Rebekah could not have children. [06-04]//
-  - **What did God tell Rebekah about her two twin sons before they were born?**
-    *//They would become two nations, and the older son will serve the younger one. [06-06]//
-  - **What was the name of the older son?**
-    *//Esau. [06-07]//
-  - **What was the name of the younger son?**
-    *//Jacob. [06-07]//
+  - **अब्राहामाने त्याचा सेवकाला अब्राहामाच्या नातेवाईकाच्या देशात परत का पाठवले?**
+      * त्याचा मुलगा इसहाक याच्यासाठी नवरी परत आणण्यासाठी//. [06-01]//
+  - **सेवकाला रिबक् कशी मिळते****?**
+      * देवाने त्याला तिच्याकडे नेले//. [06-02]//
+  - **अब्राहामाचे रिबकाशी काय नाते होते****?**
+      * रिबका अब्राहामाच्या भावाची नात होती//. [06-02]//
+  - **रिबेकाला इसहाकाशी लग्न करण्यास भाग पाडले होते का****?**
+      * नाही, ती जाण्यासाठी मान्य झाली//. [06-03]//
+  - **अब्राहाम मेला, तेव्हा देवाची कोणती आश्वासने इसहाका वर आली होती?**
+      * अब्राहामाशी केलेली सर्व आश्वासने, ज्यात त्याची संताने आकाशातील ता-यांच्या समान होतील याचा सुद्धा समावेश आहे//. [06-04]//
+  - **अगणित संतानाचे जे वचन दिले होते ते इसहाकाच्या माध्यमातून पूर्ण केले जाणार नाही, असे का दिसत होते?**
+      * रिबेकाला मुल नव्हते//. [06-04]//
+  - **देवाने रिबेकाला तिच्या दोन जुळ्या मुलांनी जन्म घेण्यापुर्वी काय सांगितले?**
+      * मोठा मुलगा धाकट्याची सेवा करील, आणि ती दोन राष्ट्रे होतील//. [06-06]//
+  - **मोठ्या मुलाचे नाव काय होते****?**
+      * एसाव//. [06-07]//
+  - **धाकट्या मुलाचे नाव काय होते****?**
+      * याकोब//. [06-07]//
 
-
-**[[en/obs/notes/questions/05|<< ]] | [[en/obs/notes/questions/07| >>]]**
+**[[:en:obs:notes:questions:05|<< ]] | [[:en:obs:notes:questions:07| >>]]**
