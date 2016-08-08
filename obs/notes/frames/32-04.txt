@@ -1,16 +1,12 @@
-===== Living among the Tombs [32-04] =====
+===== कबरस्तान मध्ये राहणारे [32-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink&}}
 
-The man lived **among the tombs** in the area. This man would scream all day and all night. He did not wear clothes and cut himself repeatedly with stones.
-===== Important Terms: =====
+मनुष्य त्या परिसरातील **कबरेमध्ये** राहत असे. हा मनुष्य दिवसभर आणि रात्रीचा किंचाळत असे. तो कपडे घालत नसे आणि दगडांनी वारंवार स्वतःला इजा करीत असे.
+===== **महत्वाचे शब्द:**  =====
 
-  * **[[:mr:obe:other:tomb]]**
+  * **कबर, दफन भूमी, पुरण्याची जागा **
+===== **भाषांतर टिपा:**  =====
 
-
-===== Translation Notes: =====
-
-  * **among the tombs** - That is "near the tombs" or, "around the tombs."
-
-
+  * **कबरेमध्ये**  – याचा अर्थ, " कबरे जवळ" आहे " कबरेच्या सभोवती."
 **[[:mr:obs:notes:frames:32-03|<<]] | [[:mr:obs:notes:32|Up]] | [[:mr:obs:notes:frames:32-05|>>]]**
