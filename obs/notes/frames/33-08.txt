@@ -1,25 +1,23 @@
-===== The Desire for Riches [33-08] =====
+===== श्रीमंती माणसाची  इच्छा  [33-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink&}}
 
-“The **thorny ground is a person** who hears **God’s word**, but as time passes, the **cares**, **riches**, and **pleasures of life choke out** his **love** for **God**. As a result, the teaching he heard **does not produce fruit**.”
-===== Important Terms: =====
+"**काटेरी जमिन ही एक व्यक्ती** आहे जी **देवाचे वचन** ऐकते, पण जसा वेळ जातो, **चिंता****,**** संपत्ती****,** आणि **जीवनातील सुखे** त्याचे **देवाविषयी प्रेमाची** **वाढ खुंटवतात**.त्याचा परिणाम म्हणून, जे शिक्षण त्याने ऐकले **त्याचे फळ देत नाही**. "
+===== **महत्वाचे शब्द:**  =====
 
-  * **[[:mr:obe:kt:wordofgod]]**
-  * **[[:mr:obe:kt:love]]**
-  * **[[:mr:obe:kt:god]]**
+  * **देवाचे वचन****, ****यहोवाचे वचन, परमेश्वराचे वचन****, ****पवित्र शास्त्रातील वचन **
+  * **प्रेम **
+  * **देव **
+===== **भाषांतर टिपा:**  =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to explain the story.)
-  * **thorny ground** - See how you translated this term in **[[:mr:obs:notes:frames:33-04|[33-04]]]**.
-  * **is a person** - See how you translated this comparison in **[[:mr:obs:notes:frames:33-06|[33-06]]]**.
-  * **cares** - That is, "concerns" or, "needs" or, "problems."
-  * **riches** - That is, "desire for wealth."
-  * **pleasures of life** - This could also be translated as, "doing things to get pleasure" or, "focusing on things that give pleasure."
-  * **choke out** - That is, "squelch" or, "destroy" or, "overcome." This phrase could also be translated as, "cause him to stop loving God."
-  * **does not produce fruit** - That is, "does not produce spiritual fruit" or "does not behave in a way that shows God's Spirit is working in him."
-
-
+  * (येशू कथा स्पष्ट करुन सांगत आहे.)
+  * **काटेरी जमीन**  - हे पद तुम्ही कसे अनुवादित केले ते पहा [1} [2} \ [33-04] {3] {4].
+  * **एक व्यक्ती आहे**  - पहा आपण ही तुलना अनुवादित कसे [1} [2} \ [33-06] {3] {4].
+  * **काळजी घेतो**  - म्हणजे, "चिंता" किंवा "गरज" किंवा "समस्या."
+  * **संपत्ती**  - म्हणजे, "संपत्तीची इच्छा"
+  * **जीवनातील सुखे**  - हे असे देखील अनुवादित केले जाऊ शकते, किंवा "सुख मिळविण्या -साठी गोष्टी करणे", किंवा "आनंद देण्या-या गोष्टीकडे लक्ष केंद्रित करणे."
+  * **वाढ खुंटवतात**
+  - म्हणजे,  ', असे चिखलातून चालताना होणार्या आवाजासारखा' 'रप रप चा आवाज करत चालणे "किंवा" नष्ट "किंवा," मात. "
+  * हा वाक्प्रचारचा असा देखील अनुवादित केला जाऊ शकतो, "त्याला देवाशी प्रेम करण्यापासून थांबवने."
+  * **फळ देत नाही**  - म्हणजे "आध्यात्मिक फळ देत नाही" किंवा, " देवाचा आत्मा त्याच्यात काम करत आहे अशा प्रकारे वागणे नाही."
 **[[:mr:obs:notes:frames:33-07|<<]] | [[:mr:obs:notes:33|Up]] | [[:mr:obs:notes:frames:33-09|>>]]**
