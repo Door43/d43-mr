@@ -1,19 +1,15 @@
-===== Who Touched Me? [32-15] =====
+===== मला कोणी स्पर्श केला? [32-15] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink&}}
 
-Immediately, **Jesus** realized that **power had gone out from him**. So he turned around and asked, “Who touched me?” The **disciples** replied, “There are many people crowding around you and bumping into you. **Why did you ask, ‘Who touched me?’**”
-===== Important Terms: =====
+त्याच क्षणी **येशूच्या** लक्षात आले की **त्याच्यातून सामर्थ्य गेले आहे**.  त्यामुळे तो वळला आणि म्हणाला, "मला कोणी स्पर्श केला?" **शिष्य** म्हणाले, "अनेक लोक आपल्या सभोवती गर्दी करीत आहेत आणि तुझ्यावर आदळत आहेत.**तु का विचारतोस, मला कोणी स्पर्श केला? "**
+===== **महत्वाचे शब्द:**  =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:power]]**
-  * **[[:mr:obe:kt:disciple]]**
+  * **येशू, येशू ख्रिस्त, ख्रिस्त येशू**
+  * **शक्ती, शक्ती  **
+  * **शिष्य **
+===== **भाषांतर टिपा: **  =====
 
-
-===== Translation Notes: =====
-
-  * **power had gone out from him** - This may be translated as, "healing power had flowed from him into someone else" or, "his power had healed someone." Jesus did not lose any power because of this.
-  * **Why did you ask, 'Who touched me?'** - In some languages it may be better to use an indirect quote here such as, "Why did you ask who was touching you?" or, "Why you are wondering who touched you?"
-
-
+  * **त्याच्या मधून सामर्थ्य गेले होते**  - हे असे ही अनुवादित केले जाऊ शकते,  "बरे करण्याचे सामर्थ्य त्याच्यापासून दूस-या कोणाततरी गेले," किंवा, "आपल्या सामर्थ्याने कोणालातरी बरे केले आहे."  त्या कारणामुळे येशूची कुठली ताकद गेली नाही.
+  * **तु का विचारतोस, मला कोणी स्पर्श केला? "**' - काही भाषांमध्ये ते, जसे की येथे एक अप्रत्यक्ष उदाहरणाचा वापर करणे चांगले असू शकते "तुम्ही तुम्हाला कोणी स्पर्श केला असे का विचारता?" किंवा, "तुला कोणी स्पर्श केला म्हणून तुला आश्चर्य का वाटते?"
 **[[:mr:obs:notes:frames:32-14|<<]] | [[:mr:obs:notes:32|Up]] | [[:mr:obs:notes:frames:32-16|>>]]**
