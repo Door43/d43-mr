@@ -1,18 +1,14 @@
-===== The Sick Woman [32-13] =====
+===== आजारी स्त्री  [32-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink&}}
 
-**Jesus** returned to the other side of the lake. After he arrived there, a large crowd gathered around him and **pressed in on him**. In the crowd was a woman who had suffered from a bleeding problem for twelve years. She had paid all of her money to doctors so they would **heal** her, but **she only got worse**.
-===== Important Terms: =====
+**येशू** सरोवराच्या दुसऱ्या बाजूला परतला. तो तेथे आल्यानंतर एक मोठा समुदाय त्याच्या भोवती गोळा झाला **आणि त्याला रेटत होते.** त्या गर्दीत बारा वर्षांपासून रक्तस्त्राव समस्येने  ग्रस्त अशी एक स्त्री होती. तीने तीचे सर्व पैसे वैद्यावर खर्च केले, ते तीला बरे करतील म्हणून,  **पण तिला फक्त त्रासच मिळाला.**
+===== **महत्वाचे शब्द:**  =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:heal]]**
+  * **येशू, येशू ख्रिस्त, ख्रिस्त येशू**
+  * **बरे, बरा **
+===== **भाषांतर टिपा: **  =====
 
-
-===== Translation Notes: =====
-
-  * **pressed in on him** - That is, "pushed tightly against him" or, "crowded in tightly around him."
-  * **she only got worse** - That is, "her condition only got worse" or, " her health got worse instead of better" or, "instead she became more sick."
-
-
+  * **आणि त्याला रेटत होते.**- याचा अर्थ "त्याला ढकलत होते " किंवा " त्याच्या भोवती खुप गर्दी होती."
+  * **तिला फक्त त्रासच मिळाला.**- याचा अर्थ "तिची प्रकृती फारच वाईट झाली" किंवा "तिला आरोग्य मिळायचे त्याऐवजी त्रासच मिळाला " किंवा "त्याऐवजी ती अधिक आजारी पडली."
 **[[:mr:obs:notes:frames:32-12|<<]] | [[:mr:obs:notes:32|Up]] | [[:mr:obs:notes:frames:32-14|>>]]**
