@@ -1,14 +1,12 @@
-===== The Seed on the Rocks [33-03] =====
+===== खडका वरील बी [33-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink&}}
 
-“Other seeds fell on **rocky ground**, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died.”
-===== Important Terms: =====
+"इतर बी **खडकाळ जमिनीवर** पडले जेथे फार थोडी माती होती.  Tखडकाळ जमिनीवर बी पटकन अंकुरलेले, पण त्यांची मुळे माती मध्ये खोल जाण्यासाठी सक्षम नव्हती.जेव्हा सूर्य उगवला आणि तो वर ऊन पडल्यावर पिक करपले आणि मरण पावले. "
+===== **महत्वाचे शब्द:**  =====
 
-===== Translation Notes: =====
+===== **भाषांतर टिपा:**  =====
 
-  * (Jesus continues the story.)
-  * **rocky ground** - That is, "ground that was full of rocks."
-
-
+  * (येशू कथा चालू ठेवतो.)
+  * **खडकाळ जमिन**  - म्हणजे, "जमीन जी संपुर्ण खडकाने भरली होती."
 **[[:mr:obs:notes:frames:33-02|<<]] | [[:mr:obs:notes:33|Up]] | [[:mr:obs:notes:frames:33-04|>>]]**
