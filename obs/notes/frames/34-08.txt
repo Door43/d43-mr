@@ -1,18 +1,16 @@
-===== I Am Good [34-08] =====
+===== मी चांगला आहे  [34-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink&}}
 
-“‘For example, I **fast** two times every week and I give you **ten percent** of all the money and goods that I receive.’”
-===== Important Terms: =====
+उदाहरणार्थासाठी, "प्रत्येक आठवड्यात  मी दोन वेळा उपास करतो आणि मला जे सर्व पैसे आणि वस्तू मिळतात त्यातून दशांस देतो. '"
 
-  * **[[:mr:obe:other:fast]]**
+===== **महत्वाचे शब्द:**  =====
 
+  * **जलद **
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell of the religious leader's prayer.)
-  * **I fast** - The religious ruler believed that doing this would earn favor with God.
-  * **ten percent** - That is, "one-tenth."
-
+  * (येशू पुढे धार्मिक नेत्याची प्रार्थना सांगू लागला.)
+  * **मी उपवास करतो**  - धार्मिक अधिकारी असे समजत की असे केल्याने देवाची कृपा मिळवता येईल.
+  * दशांश - म्हणजे "एकाचा दहावा भाग."
 
 **[[:mr:obs:notes:frames:34-07|<<]] | [[:mr:obs:notes:34|Up]] | [[:mr:obs:notes:frames:34-09|>>]]**
