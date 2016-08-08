@@ -1,37 +1,35 @@
-======Story #5: The Son of Promise======
+====== **कथा #5**: **वचनाचा पुत्र**  ======
 
-===== Comprehension Questions and Answers =====
+===== **आकलन प्रश्न आणि उत्तरे**  =====
 
-  - **Why did Sarai think she would not have children?**
-    *//She was too old. [05-01]//
-  - **What did Sarai tell Abram to do in order to have a child?**
-    *//Marry her servant Hagar, so Hagar could have a child for her. [05-01]//
-  - **What was the name of Hagar's child?**
-    *//Ishmael. [05-02]//
-  - **What problem happened between Sarai and Hagar?**
-    *//Sarai became jealous of Hagar. [05-02]//
-  - **What covenant promises did God make to Abram?**
-    *//Abram would be the father of many nations, and God would give the land of Canaan to him and to his descendants. [05-03]//
-  - **What did God tell Abram to do as a sign of the covenant between them?**
-    *//Circumcise every male in his family. [05-03]//
-  - **Who did God say would be the son of the promise?**
-    *//Isaac, Sarai's son. [05-04]//
-  - **Who did God say would become a great nation?**
-    *//Both Isaac and Ishmael. [05-04]//
-  - **What did Abram's new name, Abraham, mean?**
-    *//Father of many. [05-04]//
-  - **What did God ask Abraham to do to Isaac when Isaac was a young man?**
-    *//God asked Abraham to sacrifice Isaac to him. [05-06]//
-  - **Why did God ask Abraham to sacrifice Isaac?**
-    *//To test Abraham's faith. [05-06]//
-  - **What did Abraham tell Isaac was the reason they did not have a lamb for the sacrifice?**
-    *//Abraham said God would provide the lamb for the sacrifice. [05-07]//
+  - **का साराय ती मुले नाही असे वाटते का****?**
+      * ती खूप जुना होता//. [05-01]//
+  - **अब्राहामास मूल होण्यासाठी साराने काय करावयास सांगितले****?**
+      * तिची दासी हागार सोबत लग्न कर, मग त्यामुळे हागार तिच्या साठी एक मूल देईल//. [05-01]//
+  - **हागारेच्या मुलाचे नाव काय होते****?**
+      * इश्माएल//. [05-02]//
+  - **साराय आणि हागार यात काय समस्या निर्माण झाली****?**
+      * साराय हागारेचा द्वेश करु लागली//. [05-02]//
+  - **देवाने अब्रामाशी कोणता कराराते वचन दिले****?**
+      * अब्राम अनेक राष्ट्रांचा पिता होईल, आणि देव त्याला व त्याच्या वंशजांना कनान देश वतन देईल//. [05-03]//
+  - **देवाने त्यांच्या दरम्यान केलेल्या कराराचा पुरावा म्हणून अब्राहामली काय करायला सांगितले?**
+      * त्याच्या कुटुंबातील प्रत्येक पुरुषांची सुंता करण्यास सागितले//. [05-03]//
+  - **देव कोणाला म्हणला वचनाचा पुत्र असेल****?**
+      * इसहाक सारायचा मुलगा//. [05-04]//
+  - **एक मोठे राष्ट्र होईल असे देव कोण म्हणला****?**
+      * इसहाक व इश्माएल या दोघांना.// [05-04]//
+  - **अब्रामाचा नवीन नाव काय, अब्राहाम, याचा अर्थ काय?**
+      * अनेकांचा पिता//. [05-04]//
+  - **देवाने अब्राहामास जेव्हा इसहाक एक तरुण होता तेव्हा काय करण्यात सांगितले?**
+      * देवाने अब्राहामाला सांगितले इसहाकाला माझ्यासाठी अर्पण दे//. [05-06]//
+  - **देव अब्राहामाला इसहाकाचे अर्पण का मागतो****?**
+      * अब्राहामाच्या विश्वासाची परीक्षा करण्यासाठी//. [05-06]//
+  - **अर्पणाला कोकरु नव्हते तेव्हा अब्राहामाने इसहाक काय कारण सांगितले?**
+      * अब्राहाम म्हणाला अर्पणाला देव कोंकरु पुरवून देईल//. [05-07]//
   - **Did God want Abraham to kill Isaac?**
-    *//No. He only wanted to see if Abraham would obey him. [05-08]//
+      * //No. He only wanted to see if Abraham would obey him. [05-08]//
   - **What did God provide as a sacrifice instead of Isaac?**
-    *//He provided a ram stuck in a bush. [05-09]//
+      * //He provided a ram stuck in a bush. [05-09]//
   - **What did God promise to do for Abraham because Abraham had obeyed him?**
-    *//He promised that Abraham's descendents would be more than the stars in the sky, and that all the families of the world would be blessed through his family. [05-10]//
-
-
-**[[en/obs/notes/questions/04|<< ]] | [[en/obs/notes/questions/06| >>]]**
+      * //He promised that Abraham's descendents would be more than the stars in the sky, and that all the families of the world would be blessed through his family. [05-10]//
+**[[:en:obs:notes:questions:04|<< ]] | [[:en:obs:notes:questions:06| >>]]**
