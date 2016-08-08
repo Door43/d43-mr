@@ -1,14 +1,14 @@
-===== The Country of the Gerasenes [32-01] =====
+===== **गरसेकरांच्या देशात ** [32-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink&}}
 
-**One day**, **Jesus** and his **disciples** went in a boat across the lake to the region where **the Gerasene people** lived.
-===== Important Terms: =====
+**एके दिवशी, येशू** आणि त्याचे **शिष्य** नावे मध्ये बसून सरोवर ओलांडून का प्रदेशात गेले जेथे **गरसेकर लोक** वास्तव्य करीत होते.
+===== **महत्वाचे शब्द:**  =====
 
-  * **[[:mr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:mr:obe:kt:disciple|disciple]]**
-===== Translation Notes: =====
+  * **येशू, येशू ख्रिस्त, ख्रिस्त येशू**
+  * **शिष्य **
+===== **भाषांतर टिपा:**  =====
 
-  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **the Gerasene people**  - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
+  * **एके दिवशी**  - हा वाक्यांश भूतकाळात काय घडले घटना विषयी समाविष्टीत आहे, पण विशिष्ट वेळ स्पष्ट करत नाही. अनेक भाषामध्ये एक सत्य कथा सांगताना समान मार्ग आहे.
+  * **गरसेकर लोक**  - **गरसेकर**  लोक गालील समुद्राच्या पूर्व क्षेत्रामध्ये किना-याच्या बाजूने राहत होते. ते यहूदी वंशाचे आहेत, पण आपल्याला त्यांच्याबद्दल थोडीच माहिती आहे.
 **[[:mr:obs:notes:frames:31-08|<<]] | [[:mr:obs:notes:32|Up]] | [[:mr:obs:notes:frames:32-02|>>]]**
