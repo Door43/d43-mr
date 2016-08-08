@@ -1,19 +1,15 @@
-===== Jesus Called Peter [31-05] =====
+===== येशू पेत्राला हा मारतो  [31-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&}}
 
-Then **Peter** said to **Jesus**, “**Master**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
-===== Important Terms: =====
+मग **पेत्र येशूला** म्हणाला, "**गुरुजी, जर तो तू आहेस** तर मला पाण्यावरून तुझ्याकडे यायला सांग.”येशू पेत्राला म्हणाला, "**ये**!"
+===== **महत्वाचे शब्द:**  =====
 
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:lord]]**
+  * **पेत्र, शिमोन पेत्र, केफा **
+  * **येशू, येशू ख्रिस्त, ख्रिस्त येशू**
+  * **जर तो तू आहेस**
+===== **भाषांतर टिपा:**  =====
 
-
-===== Translation Notes: =====
-
-  * **if it is you** - That is, "if it is really you, and not a ghost."
-  * **Come!** - That is, "Come here" or, "Come to me" or, "Come, walk to me."
-
-
+  * **जर तो तू आहेस**  - याचा अर्थ "जर खरोखर तो तूच आहेस, आणि भूत नाहीस."
+  * **ये!**  - म्हणजे "इकडे ये" किंवा "माझ्याकडे ये" किंवा, "माझ्याकडे चालत ये."
 **[[:mr:obs:notes:frames:31-04|<<]] | [[:mr:obs:notes:31|Up]] | [[:mr:obs:notes:frames:31-06|>>]]**
