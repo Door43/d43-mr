@@ -1,16 +1,14 @@
-===== The Seed in the Thorns [33-04] =====
+===== काट्यातील बी   [33-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink&}}
 
-“Still other seeds fell among thorn bushes. Those seeds began to grow, but **the thorns choked them out**. So the plants that grew from the seeds in the **thorny ground** did not produce any grain.”
-===== Important Terms: =====
+"तरीही त्यातील काही बी काटेरी झुडुपात पडले.ते बी वाढण्यास सुरुवात झाली, पण **काटायांनी त्यांची वाढ खुंटविली**. म्हणून काटेरी जमिनीवर जे बी वाढले ते  कोणत्येही धान्य उत्पन्न करु शकले नाही.”
+===== **महत्वाचे शब्द:**  =====
 
-===== Translation Notes: =====
+===== **भाषांतर टिपा:**  =====
 
-  * (Jesus continues the story.)
-  * **the thorns** - That is, "the thorn plants" or, "the thorn bushes."
-  * **choked them out** - This can also be translated as, "overshadowed them" or, "crowded them out."
-  * **thorny ground** - That is, "ground that was covered with thorny bushes."
-
-
+  * (येशू कथा चालू ठेवतो.)
+  * **काटेरी**  - याचा अर्थ "काटेरी वनस्पती" किंवा " काटेरी झुडुप."
+  * **त्यांची वाढ खुंटविली**  - हे असे देखील अनुवादित केले जाऊ शकते, "त्याने छायेने झाकून टाकले" किंवा "बाहेरुन दाटी केली."
+  * **काटेरी जमिनीवर**  - म्हणजे, "जमीन जी काटेरी झुडुपाने झाकलेले होती."
 **[[:mr:obs:notes:frames:33-03|<<]] | [[:mr:obs:notes:33|Up]] | [[:mr:obs:notes:frames:33-05|>>]]**
