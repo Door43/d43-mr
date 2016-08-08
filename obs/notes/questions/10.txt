@@ -1,27 +1,26 @@
-====== Story #10: The Ten Plagues ======
+====== **कथा ****#10**: **दहा पीडा**  ======
 
-===== Comprehension Questions and Answers =====
+===== **आकलन प्रश्न आणि उत्तरे**  =====
 
-  - **What was God's message that Moses and Aaron gave to Pharaoh?**
-    *//"Let my people go!" [10-01]//
-  - **What did Pharaoh do when he heard this command?**
-    *//He forced the Israelites to work even harder. [10-01]//
-  - **What did God do when Pharaoh refused to let the Israelites go?**
-    *//He sent ten terrible plagues on Egypt. [10-02]//
-  - **What did God show Pharaoh through these plagues?**
-    *//That he is more powerful than Pharaoh and all of Egypt's gods. [10-02]//
-  - **What did God do to the water in the Nile River?**
-    *//God turned water in the Nile River into blood. [10-03]//
-  - **Who was affected by the plague of the painful skin sores?**
-    *//The sores appeared on the Egyptians, but not on the Israelites. [10-07]//
-  - **Did the plague of darkness affect everyone equally?**
-    *//No. It was dark where the Egyptians lived, but there was light where the Israelites lived. [10-11]//
-  - **How did Pharaoh respond to each of the first nine plagues?**
-    *//He refused to let the people go free. [10-12]//
-  - **What did God do after Pharaoh did not respond to the first nine plagues?**
-    *//God planned to send one last plague. [10-12]//
-  - **What would this last plague do that the first nine had not done?**
-    *//It would change Pharaoh's mind. [10-12]//
+  - **मोशे आणि अहरोनाकडे फारोला देण्यासाठी देवाचा संदेश काय होता?**
+      * "माझ्या लोकांना जाऊ दे!//" [10-01]//
+  - **तो हा आदेश ऐकले तेव्हा फारो काय करेल****?**
+      * तो इस्राएल लोकांस अगदी कठिण काम करण्यास भाग पाडेल//. [10-01]//
+  - **फारो इस्राएली लोकांना जाऊ देण्यास नकार देईल तेव्हा देव काय करेल?**
+      * तो अवघ्या मिसरावर दहा भयंकर पीडा पाठविल//. [10-02]//
+  - **या पिडांच्या माध्यमातून देव फारोला काय दाखवेल****?**
+      * की तो फारो आणि मिसरच्या सर्व देवांच्या पेक्षा अधिक प्रभावी आहे//. [10-02]//
+  - **नाईल नदीच्या पाण्याचे देवाने काय केले****?**
+      * देवाने नाईल नदीचे पाणी रक्तात बदलले//. [10-03]//
+  - **वेदनादायक त्वचा फोडाचा परिणाम कोणावर झाला होता****?**
+      * फोड मिसरच्या वर दिसू लागले, पण इस्राएलावर नाही//. [10-07]//
+  - **अंधाराच्या पिडेचा प्रभाव सर्वांना सारखाच झाला का****?**
+      * नाही.//// जेथे मिसरी लोक राहत होते तेथे अंधार होता, पण इस्राएली लोक राहात होते तेथे प्रकाश होता//. [10-11]//
+  - **फारोने पहिल्या नऊ पीडांना कसा प्रतिसाद दिला****?**
+      * त्याने लोकांना मुक्त करून जाऊ देण्यास नकार दिला//. [10-12]//
+  - **फारोने पहिल्या नऊ पीडांना प्रतिसाद न दिल्यामुळे देवाने काय केले?**
+      * देव एक शेवटची पिडा पाठवण्याचे नियोजन केले//. [10-12]//
+  - **ह्या शेवटच्या पिडेने असे काय केले जे पहिल्या नऊ पिडांनी केले नाही****?**
+      * त्याने फारोचे मन बदलेल//. [10-12]//
 
-
-**[[en/obs/notes/questions/09|<< ]] | [[en/obs/notes/questions/11| >>]]**
+**[[:en:obs:notes:questions:09|<< ]] | [[:en:obs:notes:questions:11| >>]]**
