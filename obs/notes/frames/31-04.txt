@@ -1,19 +1,15 @@
-===== The Disciples Were Afraid [31-04] =====
+===== शिष्य भीत होते [31-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink&}}
 
-The **disciples** were very afraid when they saw **Jesus**, because they thought they were seeing **a ghost**. Jesus knew that they were afraid, so he called out to them and said, “**Do not be afraid. It is I**!”
-===== Important Terms: =====
+**शिष्यांनी** **येशूला** पाहिले तेव्हा ते भयभीत झाले होते कारण त्यांना वाटले केला की, ते **भूत** पाहत आहेत.  येशूला माहीत होते ते घाबरत आहेत, त्यामुळे त्याने त्यांना आवाज दीला आणि म्हणाला, **"भिऊ नका. मी आहे!** "
+===== **महत्वाचे शब्द:**  =====
 
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:jesus]]**
+  * **शिष्य **
+  * **येशू, येशू ख्रिस्त, ख्रिस्त येशू**
+===== **भाषांतर टिपा:**  =====
 
-
-===== Translation Notes: =====
-
-  * **a ghost** - That is, "a spirit." They thought Jesus was a spirit, since normally a human being cannot walk on water.
-  * **Do not be afraid** - For some languages it may be more natural to say here, "Stop being afraid."
-  * **it is I!** - For some, it might be more natural to translate this as, "It is me, Jesus."
-
-
+  * **भूत**  - म्हणजे, "आत्मा." त्यांना असे वाटले की येशू आत्मा होता साधारणपणे मानूस पाण्यावर चालू शकत नाही.
+  * **भिऊ नका**  - काही भाषांमध्ये असे बोलणे अधिक नैसर्गिक असू शकते "भिण्याचे थांबवा."
+  * **मी आहे**! - त्यामुळे हे अनुवाद करण्यास अधिक नैसर्गिक असू शकते "तो मी येशू आहे,."
 **[[:mr:obs:notes:frames:31-03|<<]] | [[:mr:obs:notes:31|Up]] | [[:mr:obs:notes:frames:31-05|>>]]**
