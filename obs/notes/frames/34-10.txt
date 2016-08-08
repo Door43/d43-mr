@@ -1,28 +1,32 @@
-===== The Proud Will Be Humbled [34-10] =====
+===== **गर्विषठाला नम्र केले जाईल** [34-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink&}}
 
-Then **Jesus** said, “I tell you the **truth**, **God** heard the **tax collector's prayer** and **declared him to be righteous**. But he did not like the **religious leader's** prayer. God **will humble** everyone who is **proud**, and he will lift up whoever **humbles himself**.”
-===== Important Terms: =====
+तेंव्हा **येशू** म्हणाला, ‘‘मी तुम्हाला **खचित** सांगतो**, ****देवाने** त्या **जकातदाराची** **प्रार्थना** ऐकून **त्यास** **नितिमान** **ठरविले**
+.  ‌‌‌परंतू त्याला **धार्मिक** **पुढा** **
+- ****याची** प्रार्थना आवडली नाही
+.  ‌‌‌देव प्रत्येक **गर्विष्ठाला** **नीच** **करील**, व **जो** **स्वत** **
+: ****ला** **नम्र** **बनवितो** त्याला देव उंचाविल
+. ’’
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:true]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:taxcollector]]**
-  * **[[:mr:obe:other:pray]]**
-  * **[[:mr:obe:kt:righteous]]**
-  * **[[:mr:obe:other:jewishleaders]]**
-  * **[[:mr:obe:other:humble]]**
-  * **[[:mr:obe:other:proud]]**
+===== महत्वाचे शब्द: =====
 
+  * **येशू****, ****येशू ख्रिस्त****,**** येशू ख्रिस्त **
+  * **खरे****, ****सत्य **
+  * **देव**
+  * **जकातदार **
+  * **प्रार्थना****, ****प्रार्थना **
+  * **धार्मिक****,**** चांगुलपणा **
+  * **यहूदी****, ****ज्यू अधिकारी****, ****धार्मिक पुढारी****,**
+  * **नम्र****, ****नम्रता **
+  * **अभिमान****, ****गर्व****,**** गर्विषठ **
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **declared him to be righteous** - That is, "considered him to be a righteous person." Even though the tax collector was a sinner, God was merciful to him because of his humility and repentance.
-  * **will humble** - This could also be translated as, "will give a lower status to" or, "will cause to not be important." It could be translated figuratively as, "will bring down."
-  * **will lift up** - That is, "will give a higher position to" or, "will honor."
-  * **humbles himself** - That is, "chooses to behave in a humble way" or, "has a humble attitude about himself."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **त्यास****नितिमान****ठरविले**  - म्हणजे असे, त्याला एक चांगला माणूस असे मानले. " जकातदार जरी पापी होती, तरी देव त्याच्याविषयी दयाळू होता, कारण त्याची नम्रता आणि त्याला झालेला पश्चात्ताप.
+  * **नम्र करेल**  - हे असे देखील अनुवादित केले जाऊ शकते, "कमी स्थान देण्यात येईल" किंवा, "महत्त्वाचे नाही असे करील." , म्हणून लाक्षणिक अर्थाने असे भाषांतरित केले जाईल "खाली आणील."
+  * **उच्च स्थान देईल**  – याचा अर्थ, "उच्च दर्जाचे स्थान देईल" किंवा, "प्रतिष्ठा देईस."
+  * **स्वत** **
+: ****ला****नम्र****बनवितो**  - याचा अर्थ "एक नम्र प्रकारे वागणे निवडतो" किंवा "स्वत: विषयी एक नम्र वृत्ती आहे."
+  * बायबल कथा - या संदर्भ काही बायबल अनुवाद जरा वेगळी असू शकते.
 
 **[[:mr:obs:notes:frames:34-09|<<]] | [[:mr:obs:notes:34|Up]] | [[:mr:obs:notes:frames:35-01|>>]]**
