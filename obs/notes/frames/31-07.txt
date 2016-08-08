@@ -1,24 +1,18 @@
-====== Peter Sank [31-07] ======
+====== पीटर बुडू लागला [31-07] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink&}}
 
-Then **Peter** became afraid and began to sink in the water. He cried out, “**Master**, **save** me!” **Jesus** reached out right away and grabbed him. Then he said to Peter, “**You man of little faith**, **why did you doubt**?”
+मग **पेत्र** भयभीत झाला पाण्यात बुडू लागला. तो मोठ्याने ओरडून म्हणाला, "**गुरुजी, ** मला** वाचवा**!" **येशूने** लगेच त्याला गाठले आणि त्याला पकडले. मग तो पेत्राला म्हणाला, " **हे अल्प विश्वासी माणसा तू संशय का धरलास**?"
+===== **महत्वाचे शब्द:**  =====
 
+  * **पेत्र, शिमोन पेत्रा, केफा**
+  * **स्वामी, गुरुजी, सर **
+  * **वाचवणे, सुरक्षित **
+  * **येशू, येशू ख्रिस्त, ख्रिस्त येशू**
+  * **विश्वास **
+===== भाषांतर टिपा: =====
 
-===== Important Terms: =====
-
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:kt:save]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:faith]]**
-
-
-===== Translation Notes: =====
-
-  * **You man of little faith** - This may also be translated as, "You have so little faith in me!" or, "You do not trust me very much!"
-  * **why did you doubt?** - That is, "You should not have doubted me!" or, "You should have trusted me completely." This isn't a real question, but a way in this language to make a strong point. In many languages, it works better to express this as a statement.
-
-  
+  * **हे अल्प विश्वासी माणसा **- हे असे देखील अनुवादित केले जाऊ शकते, "तुझा सुद्धा माझ्यावर थोडा विश्वास आहे!" किंवा, "तूझा माझ्यावर संपूर्ण विश्वास नाही!"
+  * **तू संशय का धरलास?**  - याचा अर्थ "तू माझ्यावर शंका घ्यायला नको होती!" किंवा, "तुझा माझ्यावर पूर्णपणे विश्वास असला पाहिजे." हा खरा प्रश्न नाही आहे, पण या भाषेतून एक मुददा मजबूत होतो. अनेक भाषांमध्ये, ते एक विधान व्यक्त करण्यासाठी चांगले कार्य करते.
 
 **[[:mr:obs:notes:frames:31-06|<<]] | [[:mr:obs:notes:31|Up]] | [[:mr:obs:notes:frames:31-08|>>]]**
