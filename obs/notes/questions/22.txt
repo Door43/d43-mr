@@ -1,33 +1,32 @@
-====== Story #22: The Birth of John ======
+====== **कथा**** #22**: **योहानाचा जन्म**  ======
 
-===== Comprehension Questions and Answers =====
+===== **अभ्यासासाठी प्रश्न व उत्तरे**  =====
 
-  - **How many years had passed since God had spoken to his people?**
-    *//400 years. [22-01]//
-  - **What problem did Elizabeth, Zechariah’s wife, have?**
-    *//She had not been able to have children. [22-01]//
-  - **What did the angel tell Zechariah to name his son?**
-    *//He was to name him John. [22-02]//
-  - **What did the angel say John would do in his life?**
-    *//John would prepare the people for the Messiah. [22-02]//
-  - **Why did Zechariah not believe Elizabeth would have a son?**
-    *//They were too old. [22-02]//
-  - **How did the angel punish Zechariah because he did not believe?**
-    *//Zechariah was not able to speak until John was born. [22-03]//
-  - **How long had Elizabeth been pregnant when the angel appeared to Mary?**
-    *//Six months. [22-04]//
-  - **What did the angel say was going to happen to Mary?**
-    *//She would become pregnant and give birth to a son. [22-04]//
-  - **Who did the angel say Jesus was going to be?**
-    *//The Son of the Most High God. [22-04]//
-  - **Why was Jesus’ birth a miracle?**
-    *//Mary was a virgin. [22-05]//
-  - **Whose son is Jesus?**
-    *//Jesus is the Son of God. [22-05]//
-  - **Who did Mary go to visit after after the angel left her?**
-    *//She went to visit Elizabeth. [22-06]//
-  - **What did Zechariah say about John?**
-    *//John would be a prophet of the Most High God and would tell the people how they could receive forgiveness for their sins. [22-07]//
+  - **किती वर्षांपुर्वी देव मनुष्याशी बोलला होता****?**
+      * //400 // वर्षापुर्वी//. [22-01]//
+  - **अलीशिबा जख-याची बायको, हिची कोणती समस्या होती****?**
+      * तिला मुलबाळ नव्हते//. [22-01]//
+  - **देवदूताने जख-याला त्याच्या मुलाचे काय नाव ठेवायला सांगितले****?**
+      * त्याने त्याचे नाव योहान असे ठेवायचे होते//. [22-02]//
+  - **देवदूताने योहान त्याच्या जीवनात काय करील असे सांगितले होते****?**
+      * योहान लोकांना मशीहासासाठी तयार करील//. [22-02]//
+  - **अलीशिबेला मुलगा होईल असा विश्वास जख-याला का वाटला नाही****?**
+      * कारण ते फार म्हातारे होते//. [22-02]//
+  - **जख-याने विश्वास न ठेवल्यामुळे देवदूताने त्याला कशी शिक्षा केली****?**
+      * योहानाच्या जन्मापर्यंत जख-याला बोलता आले नाही//. [22-03]//
+  - **देवदूताने मरीयेला दर्शन दिले तेंव्हा अलीशिबेला कितवा महिना होता****?**
+      * सहावा महिना//. [22-04]//
+  - **मरीयेला काय होणार होते म्हणून देवदूताने सांगितले****?**
+      * ती गरोदर होईल व मुलाला जन्म देईल//. [22-04]//
+  - **येशू कोण होईल असे देवदूताने सांगितले****?**
+      * परात्पराचा पुत्र//. [22-04]//
+  - **येशूचा जन्म हा चमत्कार का आहे****?**
+      * मरीया कुमारी होती//. [22-05]//
+  - **येशू कोणाचा पुत्र आहे****?**
+      * येशू देवाचा पुत्र आहे//. [22-05]//
+  - **देवदूत निघून गेल्यानंतर मरीया कोणाला भेटावयास गेली****?**
+      * ती अलीशिबेला भेटावयास गेली//. [22-06]//
+  - **जख-या योहानाविषयी काय म्हणाला****?**
+      * योहान हा परात्पराचा संदेष्टा होईल व त्यांच्या पापांची क्षमा कशी मिळेल हे तो लोकांना सांगेल//. [22-07]//
 
-
-**[[en/obs/notes/questions/21|<<  ]] | [[en/obs/notes/questions/23| >>]]**
+**[[:en:obs:notes:questions:21|<< ]] | [[:en:obs:notes:questions:23| >>]]**
