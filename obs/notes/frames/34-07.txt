@@ -1,23 +1,19 @@
-===== The Religious Leader's Prayer [34-07] =====
+===== **धार्मिक नेत्याची प्रार्थना ** [34-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink&}}
 
-“The **religious leader prayed like this**, ‘Thank you, **God**, that **I am not a sinner like** other men—such as robbers, **unjust men**, **adulterers**, or even like that **tax collector**.’”
-===== Important Terms: =====
+"**धार्मिक नेत्यानी अशी प्रार्थना केली**, 'धन्यावाद **देवा** **मी इतर पुरुषांसारखा पापी नाही **– जसे की चोर, **अनीतिमान लोक****, ****व्यभिचारी**, किंवा अगदी ह्या **जकातदारासरखा**.'"
+===== **महत्वाचे शब्द:**  =====
 
-  * **[[:mr:obe:other:jewishleaders]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:adultery]]**
-  * **[[:mr:obe:other:taxcollector]]**
+  * **यहूदी****, ****ज्यू अधिकारी****, ****धार्मिक पुढारी****,**
+  * **देव **
+  * **पाप****,**** पापी****,**** पापी****,**** पाप **
+  * **व्यभिचार****, ****व्यभिचार****,**** व्यभिचार व्यभिचारिणी **
+  * **जकातदार **
+===== **भाषांतर टिपा: **  =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **The religious leader prayed like this** - Another way to say this would be, "This is how the religious leader prayed" or, "The religious leader prayed in this way."
-  * **I am not a sinner like** - That is, "I am not sinful like" or, "I am righteous, not like."
-  * **unjust men** - That is, "men who are not righteous" or, "people who do evil things" or, "law breakers."
-
-
+  * (येशू पुढे कथा सांगत आहे.)
+  * **धार्मिक नेत्यानी अशी प्रार्थना केली**  – दुस-या मार्गाने सांगायचे तर, " धार्मिक पुढारी या प्रकारे प्रार्थना करत " किंवा, "धार्मिक पुढारी अशा मार्गाने प्रार्थना करत.
+  * **मी त्याच्या सारखा वाममार्गी नाही जसे**  - आहे, "मी त्यांच्यासारखा सारखे पापी नाही" किंवा, "मी नितिमान आहे, तसा नाही,"
+  * **अनीतिमान लोक**  - म्हणजे, "धार्मिक नसलेले लोक,” किंवा "वाईट गोष्टी करतात ते लोक" किंवा ". कायदा मोडणारे."
 **[[:mr:obs:notes:frames:34-06|<<]] | [[:mr:obs:notes:34|Up]] | [[:mr:obs:notes:frames:34-08|>>]]**
