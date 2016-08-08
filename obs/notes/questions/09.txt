@@ -1,37 +1,36 @@
-====== Story #9: God Calls Moses ======
+====== **कथा**** #9**: **देवाचे मोशेला पाचरण**  ======
 
-===== Comprehension Questions and Answers =====
+===== **आकलन प्रश्न आणि उत्तरे**  =====
 
-  - **Why were the Egyptians afraid of the Israelites?**
-    *//Because there were so many Israelites. [09-02]//
-  - **What did Pharaoh do to the Israelites because he was afraid of them?**
-    *//He made them slaves to the Egyptians. [09-02]//
-  - **How did Pharaoh try to keep the Israelites from increasing in number?**
-    *//He ordered all Israelite baby boys to be thrown into the Nile River. [09-04]//
-  - **What happened to the baby boy in the basket in the river?**
-    *//A daughter of Pharaoh saw him, took him as her own son, and named him Moses. [09-06], [09-07]//
-  - **What did Moses do in order to save a fellow Israelite?**
-    *//He killed an Egyptian who was beating him, and buried the Egyptian's body. [09-08], [09-09]//
-  - **Why did Moses have to flee from Egypt?**
-    *//When Pharaoh found out that he killed the Egyptian, he wanted to kill Moses. [09-10]//
-  - **Where did Moses go to escape from Pharaoh?**
-    *//He went to the wilderness. [09-10]//
-  - **What unusual thing did Moses see while taking care of his sheep in the wilderness?**
-    *//He saw a bush that was on fire, but it did not burn up. [09-12]//
-  - **What did God tell Moses as he approached the burning bush?**
-    *//God said, "Moses, take off your shoes. You are standing on holy ground." [09-12]//
-  - **How do we know God cared about the Israelites in Egypt?**
-    *//God said to Moses, "I have seen the suffering of my people." [09-13]//
-  - **What did God send Moses to do for the Israelites?**
-    *//God told him to go to Pharaoh and bring the Israelites out of their slavery in Egypt. [09-13]//
-  - **What land did God say he would give to the Israelites?**
-    *//The land of Canaan, the land God had promised to Abraham, Isaac, and Jacob. [09-13]//
-  - **What name did God say would be his forever?**
-    *//Yahweh. [09-14]//
-  - **Who did God send to help Moses?**
-    *//God sent Moses' brother, Aaron, to help him. [09-15]//
-  - **How did God say Pharaoh would react to Moses and Aaron?**
-    *//Pharaoh would be stubborn. [09-15]//
+  - **मिसरी सोक इस्राएल लोकांना का घाबरत होते****?**
+      * कारण इस्राएल लोक पुष्कळ होते//. [09-02]//
+  - **इस्राएल लोकांची फारोला भीती वाटत होती म्हणून त्याने काय केले?**
+      * तत्याने त्यांना मिसरी लोकांचे गुलाम केले//. [09-02]//
+  - **इस्राएल लोकांची संख्या वाढू नये म्हणून फारोने काय प्रयत्न केले?**
+      * त्याने सर्व इस्राएली लहान मुलगे यांना नाईल नदीत फेकून देणायाचा आदेश दिला//. [09-04]//
+  - **नदीतील टोपलीतल्या मुलाचे काय झाले****?**
+      * फारोच्या मुलीने त्याला पाहिले, तिने स्वत: चा मुलगा म्हणून घेतले णि त्याचे नाव मोशेने ठेवले//. [09-06], [09-07]//
+  - **मोशेने इस्राएल बांधवाचे रक्षण करण्यासाठी काय केले****?**
+      * त्याने एका मिसरी माणसाला ठार मारले आणि मिसरी माणसाचे शरीर दफन केले//. [09-08], [09-09]//
+  - **मोशे मिसर मधून पळून का जातो****?**
+      * जेव्हा फारोला कळले की त्याने मिसरी माणसाला ठार मारले, तेव्हा तो त्याला जिवे मारायाला पाहत होता//. [09-10]//
+  - **मोशे फारो पासून सुटून कुठे गेला****?**
+      * तो वाळवंटात गेला//. [09-10]//
+  - **वाळवंटात आपल्या मेंढरांची काळजी घेत असताना मोशेने काय असामान्य गोष्ट पाहिली?**
+      * त्याने आगीत जळणारे म पाहिले, पण ते जळून जात नव्हते//. [09-12]//
+  - **तो जळणा-या झुडुपाजवळ आला तेव्हा देव मोशेला काय बोलला****?**
+      * देव म्हणाला, "मोशे, आपले जोडे काढ//. // तु पवित्र भुमीवर उभा आहेस."// [09-12]//
+  - **देवाला मिसर मध्ये इस्राएली लोकांची काळजी आहे, हे आपण कसे माहीत होते?**
+      * देव मोशेला म्हणाला, "मी माझ्या लोकांचे दु: ख पाहिले आहे.//" [09-13]//
+  - **देवाने मोशेला मिसर मध्ये काय करायला पाठवले****?**
+      * देवाने त्याला सांगितले फारोकडे जा आणि इस्राएल लोकांना मिसर मधल्या गुलामगिरी मधून बाहेर आण//. [09-13]//
+  - **देव इस्राएल लोकांना कोणती भुमी देणार असे म्हणाला होता****?**
+      * कनान देशातील जमीन, देवाने अब्राहाम, इसहाक व याकोब आश्वासन दिले होते//. [09-13]//
+  - **कोणते देवाचे नाव सर्वकाळ राहणार आहे****?**
+      * यहोवा//. [09-14]//
+  - **मोशेला मदत करण्यासाठी देवाने कोणास पाठवले****?**
+      * देवाने मोशेचा भाऊ अहरोन, याला मदत करण्यासाठी पाठविले//. [09-15]//
+  - **फारो मोशे व अहरोनशी कसा वागेल हे देवाने कसे सांगितले?**
+      * फारो हट्टी होईल//. [09-15]//
 
-
-**[[en/obs/notes/questions/08|<< ]] | [[en/obs/notes/questions/10| >>]]**
+**[[:en:obs:notes:questions:08|<< ]] | [[:en:obs:notes:questions:10| >>]]**
