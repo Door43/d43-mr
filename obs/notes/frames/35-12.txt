@@ -1,22 +1,23 @@
-===== Working for Nothing [35-12] =====
+===== **फुकटवारी काम केले ** [35-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink&}}
 
-“The older son said to his father, ‘All these years I have worked **faithfully** for you! I never **disobeyed** you, and still you did not even give me **one small goat** so I could celebrate with my friends. But when **this son of yours** who **consumed your money** in **sinful** behavior came home, you **killed the best calf** for him!’”
-===== Important Terms: =====
+”थोरला पुत्र आपल्या पित्यास म्हणाला, ‘एवढी वर्षे मी तुम्हासाठी **विश्वासूपणे** काम करत आहे
+!  ‌‌‌मी कधी तुझी **आज्ञा मोडली** **नाही**, तरिही तुम्ही माझ्या मित्रांसोबत आनंद करण्यासाठी एक **लहानसे** **करडूही ** दिले नाही
+.  **‌‌‌****परंतू** **तुमचा** **हा** **पुत्र** आपली सारी **मालमत्ता** **वाईट** **मार्गाने** **उधळुन** घरी परतल्यावर, आपण **त्याच्यासाठी** **एक** **उत्तम** **वासरु** **कापले** आहे
+! ’’
 
-  * **[[:mr:obe:kt:faithful]]**
-  * **[[:mr:obe:other:disobey]]**
-  * **[[:mr:obe:kt:sin]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **विश्वासू****, ****विश्वासूपणे**
+  * **आज्ञा न मानणे****,**** आज्ञा न पाळणारा****,**** आज्ञा पाळीत नाहीत**
+  * **पाप****,**** पापमय****,**** पापी****,**** पाप करणे**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **one small goat** - A small goat would have fed fewer people than the best calf, and would not be valued as much. The older brother is complaining that his father was treating the sinful younger son better than him.
-  * **this son of yours** - This expression shows that the older son was angry. It shows his rejection of his younger brother and his disapproval of his father for welcoming back this wayward son. Other languages may also have an indirect way of communicating these things.
-  * **consumed your money** - That is, "squandered the money that you gave him" or, "devoured your wealth." If possible, use an expression that shows the brother's anger.
-  * **killed the best calf** - That is, "killed the best calf to eat at a feast."
-
-
+  * (येशू पूढे गोष्ट सांगतो.)
+  * **लहानसे****करडू****
+ - ** एक लहान शेळीचे करडू ही पोसलेल्या वासरा पेक्षा कमी लोकांचे पोट भरते, , आणि त्याची किंमतही फार नसते. मोठा भाऊ तक्रार करतो की त्याचे वडील त्याच्या पेक्षा जास्त चांगली वागणूक त्याच्या धाकट्या पापी मुलाला देतात.
+  * **‌‌‌****परंतू****तुमचा****हा****पुत्र**** – ** हा वाकप्रचार दाखवितो की मोठा मुलगा रागावला आहे. तो त्याच्या धाकटा भावाला नाकारतो आणि त्याच्या वडीलांनी या लहरी मुलाचे परत आल्यामुळे स्वागत केले म्हणुन नापसंती दर्शविते. इतर भाषेत अप्रत्यक्षपणे या गोष्टी व्यक्त करण्यासाठी अनेक प्रकार असू शकतात.
+  * **मालमत्ता****वाईट****मार्गाने****उधळुन – ** म्हणजे, तुम्ही त्याला दिलेल्या पैशाची उधळपट्टी, किंवा, "आपली संपत्ती खाऊन टाकली." शक्य असल्यास, अशा शब्दांचा वापर करा ज्यातून भावाचा राग व्यक्त होईल.
+  * **एक****उत्तम****वासरु****कापले**** – ** म्हणजे,"मेजवानीच्यावेळी खाण्यास उत्तम वासरु कापले आहे."
 **[[:mr:obs:notes:frames:35-11|<<]] | [[:mr:obs:notes:35|Up]] | [[:mr:obs:notes:frames:35-13|>>]]**
