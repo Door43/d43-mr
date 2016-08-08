@@ -1,20 +1,17 @@
-===== The Yeast [34-03] =====
+===== खमिर [34-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink&}}
 
-**Jesus** told another **story**, “The **kingdom of God** is like **yeast** that a woman mixes into some **bread dough** until **it spreads throughout the dough**.”
-===== Important Terms: =====
+येशू आणखी एक गोष्ट सांगितली, "देवाचे राज्य हे एका खमिरा सारखे आहे, जसे की एखादी स्त्री ते पिठामध्ये मिसळते जोपर्यंत ते संपूर्ण पिठामध्ये पसरत नाही."
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:kingdomofgod]]**
+===== **महत्वाचे शब्द:**  =====
 
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **देवाचे राज्य****, ****स्वर्गाचे राज्य **
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **story** - See how you translated this term in **[[:mr:obs:notes:frames:34-01|[34-01]]]**.
-  * **yeast** - This can also be translated as, "leaven" or, "the little bit of leaven." It is added to bread dough to make it rise. A little bit of yeast can be mixed into a large amount of dough and make the whole batch of dough rise.
-  * **bread dough** - This is a mixture of flour and liquid that can be shaped and baked into bread. If you do not have words for dough or flour, you can borrow a word for flour or call it "ground-up grain."
-  * **it spreads throughout the dough** - That is, "every part of the dough has yeast in it" or, "the yeast grows throughout all the dough."
-
-
+  * **गोष्ट**  - तुम्ही हा शब्द [34-01] मध्ये अनुवादित कसा केला ते पहा.
+  * **खमिर**  - हे सुद्धा असे भाषांतरीत केली जाऊ शकते, "खमीर" किंवा, "थोडेसे खमीर." पिठ वाढण्यासाठी हे त्यात मिसळतात. थोडे खमीर जास्त पीठा मध्ये मिसळतात आणि पिठ फुगून जास्त होते.
+  * **भाकरीचे पीठ**  - हे पीठ आणि द्रव पदार्थाचे मिश्रण असते ज्याला आकार देवून भाकरी भाजतात. जर तूमच्याकडे पीठाला किंवा कणकेला शब्द मिळाला नाही तर तुम्ही पीठासाठी तात्पूरत्या उपयोगासाठी दळलेले धान्य असे म्हणा.
+  * **ते संपूर्ण पीठा मध्या पसरते**  – म्हणजे, “पीठाच्या प्रत्येक भागामध्ये खमीर असतो,” किंवा, “संपूर्ण पीठामध्ये खमीर फूगते.”
 **[[:mr:obs:notes:frames:34-02|<<]] | [[:mr:obs:notes:34|Up]] | [[:mr:obs:notes:frames:34-04|>>]]**
