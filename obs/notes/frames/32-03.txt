@@ -1,14 +1,12 @@
-===== Breaking the Chains [32-03] =====
+===== **साखळदंड तोडत होता ** [32-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?nolink&}}
 
-This man was so strong that nobody could control him. People had even **fastened** his arms and legs with chains, but he **kept breaking them**.
-===== Important Terms: =====
+This man was so strong that nobody could control him. लोक अगदी त्याचे हात पाय साखळदंडानी **जखडून** बांधत होते, परंतु तो **त्यांना तोडत असे**.
+===== **महत्वाचे शब्द**: =====
 
-===== Translation Notes: =====
+===== **भाषांतर टिपा:**  =====
 
-  * **fastened his arms and legs** - That is, "restrained" or, "bound."
-  * **kept breaking them** - Some languages may need to say, "kept breaking the chains."
-
-
+  * **त्याचे हात पाय साखळदंडानी जखडून बांधले**  - म्हणजे, "बंदिस्त ठेवणे" किंवा "बंधन घालणे."
+  * **त्यांना तोडत असे**  - काही भाषामध्ये असे बोलण्याची गरज आहे , "साखळदंड तोडत असे."
 **[[:mr:obs:notes:frames:32-02|<<]] | [[:mr:obs:notes:32|Up]] | [[:mr:obs:notes:frames:32-04|>>]]**
