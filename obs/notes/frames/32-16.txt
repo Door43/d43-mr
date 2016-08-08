@@ -1,24 +1,21 @@
-===== Healed by Faith [32-16] =====
+===== विश्वासाने बरे केले  [32-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
-The woman **fell on her knees before Jesus**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your faith has healed you**. Go in **peace**.”
-===== Important Terms: =====
+स्त्री **अतिशय भयभीत होवून आणि थरथर कापत येशू समोर तिने गुडघे टेकले.** तेव्हा तिने जे केले होते, आणि ती कशी बरी झाली ते त्याला सांगितले. Jesus said to her, येशू तिला म्हणाला "**तुझ्या विश्वासाने तुला बरे केले आहे**. **शांतीने** जा. "
+===== **महत्वाचे शब्द:**  =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:faith]]**
-  * **[[:mr:obe:other:heal]]**
-  * **[[:mr:obe:other:peace]]**
+  * **येशू, येशू ख्रिस्त, ख्रिस्त येशू**
+  * **विश्वास **
+  * **बरे, बरा **
+  * **शांत, शांतता**
+===== भाषांतर टिपा: =====
 
-
-===== Translation Notes: =====
-
-  * **fell on her knees** - That is, "quickly knelt down."
-  * **before Jesus** - That is, "in front of Jesus."
-  * **shaking and very afraid** - That is, "shaking with fear" or, "trembling because she was afraid."
-  * **Your faith has healed you.** - This could also be translated as, "You have been healed because of your faith."
-  * **Go in peace.** - People spoke this traditional blessing when they left each other. Other languages may say something similar such as, "Go well", "Go with God" or, "Peace." Other ways of translating it could be, "May you have peace as you go" or, "Go and know that all is well between us."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * भाषांतर टिपा:
+  * **येशू समोर**  – म्हणजे "येशूच्या पुढे".
+  * **भयभीत होवून आणि थरथर कापत**  - म्हणजे', भीतीने थरथर कापत आहे, "" थरथर कापत होती कारण ती फार घाबरली होती. "
+  * **तुझ्या विश्वासाने तुला बरे केले आहे**. - हे असे देखील भाषांतरित केले जाईल, "तुबरी झालीस कारण तुझ्या विश्वासामुळे."
+  * **शांतीने जा.**  – लोक जेव्हा एकमेकांचा निरोप घेतात तेव्हा लोक अशा परंपरागत पद्धतीने आशीर्वाद देतात,  इतर भाषांमध्ये अशाच प्रकारे काहीसे म्हणतात, जसे "सुखाने जा", "देवा सोबत जा," किंवा "शांतीने." दुर-या मार्गाने असे भाषांतर करु शकतो,  मार्ग, किंवा, "जाताना तुझ्या बरोबर शांती असो", किंवा, "जा आणि माहीत असूदे की आमच्यात सर्व काही ठिक आहे."
+  * बायबल कथा - या संदर्भ काही बायबल अनुवाद जरा वेगळी असू शकते.
 
 **[[:mr:obs:notes:frames:32-15|<<]] | [[:mr:obs:notes:32|Up]] | [[:mr:obs:notes:frames:33-01|>>]]**
