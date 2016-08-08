@@ -1,17 +1,15 @@
-===== The Large Tree [34-02] =====
+===== मोठा वृक्ष  [34-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink&}}
 
-“But when the **mustard seed grows**, it becomes the largest of all of the **garden plants**, big enough that even the birds come and **rest in** its branches.”
-===== Important Terms: =====
+"पण जेव्हा **मोहरीचे बी उगवते** तेव्हा,  ते **शेतामधल्या इतर वनस्पती ** पेक्षा मोठे होते.  तो अगदी इतके मोठे की पक्षी येऊन त्याच्या फांद्यांवर **विश्रांती** घेतात."
+===== **महत्वाचे शब्द:**  =====
 
-===== Translation Notes: =====
+===== **भाषांतर टिपा:**  =====
 
-  * (Jesus continues the story.)
-  * **mustard seed** - See how you translated this term in **[[:mr:obs:notes:frames:34-01|[34-01]]]**.
-  * **grows** - You may want to add, "into a mature plant."
-  * **garden plants** - This can also be translated as, "plants that would be planted in a garden."
-  * **rest in** - This may also be translated as, "sit on" or, "perch on."
-
-
+  * (येशू पुढे गोष्ट सांगत आहे.)
+  * **मोहरीचे बी**  - तुम्ही हे पद [1} [2} \ [34-01] {3] {4]. मध्ये कसे अनुवादित केले ते पहा
+  * **उगवते**  – यात तुम्हाला अधिक जोडण्याची इच्छा असेल तर  "एक पुर्ण वनस्पती मध्ये."
+  * **शेतातील वनस्पती**  - हे असे देखील अनुवादित केले जाऊ शकते " वनस्पती की ज्या शंतात लागवड करतात."
+  * **विश्रांती**  - हे देखील असे अनुवादित केले जाऊ शकते की, "बसून" किंवा "फांदीवर बसणे."
 **[[:mr:obs:notes:frames:34-01|<<]] | [[:mr:obs:notes:34|Up]] | [[:mr:obs:notes:frames:34-03|>>]]**
