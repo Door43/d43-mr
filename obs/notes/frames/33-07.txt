@@ -1,22 +1,18 @@
-===== Persecution and Hardship [33-07] =====
+===== **छळ आणि दु: ख ** [33-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&}}
 
-“The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
-===== Important Terms: =====
+"**खडकाळ जमिन ही एक व्यक्ती आहे** जी **देवाचे वचन** ऐकते आणि **आनंदाने स्वीकारतो. ** पण जेव्हा त्याच्यावर **संकट किंवा पाठलाग झाला की ते अडखळतात**.”
+===== महत्वाचे शब्द: =====
 
-  * **[[:mr:obe:kt:wordofgod]]**
-  * **[[:mr:obe:kt:joy]]**
-  * **[[:mr:obe:other:persecute]]**
+  * **देवाचे वचन****, ****यहोवाचे वचन, परमेश्वराचे वचन****, ****पवित्र शास्त्रातील वचन **
+  * **आनंद, ****आनंदी **
+  * **छळ केला,**** छळ **
+===== **भाषांतर टिपा:**  =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to explain the story.)
-  * **rocky ground** - See how you translated this term in **[[:mr:obs:notes:frames:33-03|[33-03]]]**.
-  * **is a person** - See how you translated this comparison in **[[:mr:obs:notes:frames:33-06|[33-06]]]**.
-  * **accepts it with joy** - That is, "believes it joyfully" or, "joyfully agrees that it is true."
-  * **falls away** - That is, "no longer follows God or obeys him" or, "stops following or obeying God."
-
-
+  * (येशू कथा स्पष्ट करुन सांगत आहे.)
+  * **खडकाळ जमिनीवर**  - तुम्ही हे पद कसे अनुवादित केले ते पहा [1}  \ [33-03] {3] {4]
+  * **एक व्यक्ती आहे**  - पहा आपण तुलनात्मक भाषांतर कसे केले [1} [2} \ [33-06] {3] {
+  * **आनंदाने स्वीकारतो**  – म्हणजे, "ते आनंदाने विश्वास ठेवतात" किंवा, "ते आनंदाने ते खरे आहे अशी सहमत देतात."
+  * **ते अडखळतात**  - म्हणजे, "पुढे देवाच्या मागे चालत नाहीत किंवा आज्ञा पालन करीत नाहीत, किंवा, "देवाच्या आज्ञा पाळण्याचे थांबवतात."
 **[[:mr:obs:notes:frames:33-06|<<]] | [[:mr:obs:notes:33|Up]] | [[:mr:obs:notes:frames:33-08|>>]]**
