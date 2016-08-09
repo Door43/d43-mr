@@ -1,21 +1,21 @@
-===== Jesus' Prayer [37-09] =====
+===== **येशूची प्रार्थना ** [37-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink&}}
 
-Then **Jesus** looked up to **heaven** and said, “**Father**, thank you for **hearing me**. I know you always listen to me, but I say this for the sake of all these people standing here, so that they will **believe** you sent me.” Then Jesus shouted, “**Lazarus**, **come out**!”
-===== Important Terms: =====
+तेव्हा **येशूने** वर **स्वर्गाकडे** पाहून म्हटले,‘‘**बापा**, तू **माझे** **ऐकले****स** म्हणून मी तुझे आभार मानतो
+.  मला ठाऊक आहे, की तू सर्वदा माझे ऐकतोस, परंतू जो लोकसमुदाय सभोवती उभा आहे त्याच्याकरिता मी बोललो; हयासाठी की, तू मला पाठविले आहे असा त्यांनी **विश्वास** धरावा
+. ’’ मग येशूने मोठयाने हाक मारली,‘‘**लाजरा****, ****बाहेर** **ये**
+! ’’
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:heaven]]**
-  * **[[:mr:obe:kt:godthefather]]**
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:other:lazarus]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **स्वर्ग****, ****आकाश****,**** अनेक स्वर्ग****,**** स्वर्गीय**
+  * **देव पिता, स्वर्गीय पिता, पिता**
+  * **विश्वास****,**** च्यावर विश्वास ठेवने, श्रद्धा**
+  * **लाजर**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **hearing me** - That is, "listening to me." It may be helpful to add, "as I pray to you" or, "when I talk to you."
-  * **come out** - Some languages may prefer to say, "come out of the tomb."
-
-
+  * **माझे****ऐकले****स – ** याचा अर्थ, "माझे ऐकत आहेस." यात हे जोडल्यास मदत होईल, “मी प्रार्थना करताना,”किंवा, “जेव्हा मी तुझ्याशी बोलतो.’
+  * **बाहेर****ये**** – ** काही भाषांमध्ये “कबरेतून बाहेर ये” असे म्हणने योग्य ठरेल.
 **[[:mr:obs:notes:frames:37-08|<<]] | [[:mr:obs:notes:37|Up]] | [[:mr:obs:notes:frames:37-10|>>]]**
