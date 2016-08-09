@@ -1,14 +1,23 @@
-===== The Dove [03-11] =====
+===== **कबूतर** [03-11] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink&}}
 
-Later, **Noah** sent out a bird called a **dove**. But it also could not find any dry land, so it came back to Noah. A week later he sent the dove out again, and it came back with an **olive branch** in its beak! **The water was going down**, and the plants were growing again!
-===== Important Terms: =====
+नंतर **नोहाने** **कबुतर** नावाचा पक्षी पाठविला. पण तो देखील कोणतीही कोरडी जमीन शोधू शकला नाही, त्यामुळे नोहाकडे परत आला. एक आठवड्यानंतर त्याने पुन्हा कबुतराला बाहेर सोडले, आणि ते आपल्या चोची मध्ये एक **जैतूनातचr फांदी** घेवून परत आले
+! **पाणी ओसरत होते**, आणि वनस्पती पुन्हा वाढत होती
+!
 
-  * **[[:mr:obe:other:noah]]**
-===== Translation Notes: =====
+===== महत्वाचे शब्द : =====
 
-  * **dove**  - A small, white or gray flying bird that eats seeds or fruit.
-  * **olive branch**  - An olive tree's fruit contains oil which people use for cooking or putting on their skin. If your language does not have a word for "olive branch," you could translate it as, "branch from a tree called 'olive'" or, "branch from an oil-tree."
-  * **water was going down**  - It may be more natural in your language to say that, "the water was going away" or, "the level of the water was getting lower."
+  * **नोहा**
+===== **भाषांतरीत टिपा**: =====
+
+  * **कबुतर**  - एक लहान पांढ-या किंवा करड्या रंगाचा उडणारा पक्षी जो बिया किंवा फळे खातो
+.
+  * **जैतूनातचr फांदी**
+ -
+  जैतून वृक्षांच्या फळामध्ये तेल असते, जे लोक स्वयंपाकासाठी किंवा त्वचेला लावण्यासाठी वापरतात. जर आपल्या भाषेमध्ये “जैतूनातची फांदी” हा शब्द नसेल तर तुम्ही त्याचे “तेल देणी-या झाडाची फांदी” असे ही म्हणू शकता.
+  * **पाणी ओसरत होते**
+-  आपल्या भाषेत अधिक सहज असू शकते
+" पाण्याची पातळी कमी होत होती किंवा पाणी आटत होते."
+
 **[[:mr:obs:notes:frames:03-10|<<]] | [[:mr:obs:notes:03|Up]] | [[:mr:obs:notes:frames:03-12|>>]]**
