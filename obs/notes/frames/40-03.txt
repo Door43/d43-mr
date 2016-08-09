@@ -1,19 +1,18 @@
-===== Gambling for His Clothes [40-03] =====
+===== **त्याच्या वस्त्रावर चिठ्टया टाकल्या ** [40-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?nolink&}}
 
-The soldiers **gambled for Jesus' clothing**. When they did this, **they fulfilled a prophecy that said**, “They divided my garments among them, and gambled for my clothing.”
-===== Important Terms: =====
+येशूचे **वस्त्र** **वाटून** घेण्यासाठी **सैनिकांनी** **चिठ्टया** **टाकल्या**
+.  त्यांनी असे केल्यामुळे ही **भविष्यवाणी** **पूर्ण** **झाली**,’’ त्यांनी माझे वस्त्र वाटून घेण्यासाठी चिठ्ठया टाकल्या
+. ’’
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:fulfill]]**
-  * **[[:mr:obe:kt:prophet]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **पूर्ण**
+  * **संदेष्टा, भविष्यवाणी, भविष्यवाणी, द्रष्टा, संदेष्टे**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **gambled for Jesus' clothing** - That is, "played a game of chance to win Jesus' clothes." We do not know how they did this, but in some cultures it could be translated as, "tossed stones on the ground to win Jesus' clothing" or, "chose sticks to decide who could take Jesus' clothes."
-  * **they fulfilled a prophecy that said** - That is, "they did what the scriptures had long ago predicted would happen to the Messiah" or, "they did what a prophet wrote long ago."
-
-
+  * **येशूचे****वस्त्र****वाटून ****घेण्यासाठी ****चिठ्टया****टाकल्या**** – म्हणजे, **"येशूच्या कपडे जिंकण्यासाठी एक खेळ." आपल्याला हे कसे केले ते माहित नाही, पण पण काही संस्कृती मध्ये असे अनुवादित केले जाऊ शकते की, येशूची कपडे जिंकण्यासाठी जमिनीवर खडे उडवले, किंवा, "येशूचे कपडे कोण घेणार या साठी चिठ्टया टाकल्या."
+  * **ही****भविष्यवाणी****पूर्ण****झाली**** – ** म्हणजे, त्यांनी ते केले जे पवित्रशास्त्रात पुर्वी लिहिले होते, किंवा, त्यांनी खुप वर्षापुर्वी संदेष्ट्याने लिहिलेली गोष्ट पुर्ण केली.
 **[[:mr:obs:notes:frames:40-02|<<]] | [[:mr:obs:notes:40|Up]] | [[:mr:obs:notes:frames:40-04|>>]]**
