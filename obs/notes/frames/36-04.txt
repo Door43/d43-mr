@@ -1,22 +1,20 @@
-===== Peter's Comments [36-04] =====
+===== **पेत्राचे स्पष्टिकरण ** [36-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink&}}
 
-As **Moses** and **Elijah** were talking with **Jesus**, **Peter** said to Jesus, “It is **good** for us to be here. Let us make three **shelters**, one for you, one for Moses, and one for Elijah.” Peter **did not know what he was saying**.
+**मोशे** व **एलिया** **येशूबरोबर** संभाषण करत असताना, पेत्र येशूला म्हणला,‘‘आपण येथेच राहावे हे **बरे** आहे
+.  येथे आपण तीन **तंबू** बववू या
+.  एक मोशेसाठी, एक एलियासाठी व एक आपणासाठी पेत्र **काय** **बोलत** **होता** **हयाचे** **त्याला** **भान** **नव्हते**
+===== **महत्वाचे** **शब्द :**  =====
 
-===== Important Terms: =====
+  * **मोशे**
+  * **एलीया**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **पेत्र, शिमोन पेत्र****, ****केफा**
+  * **चांगला****, ****चांगुलपणा**
+===== **भाषांतर टिपा:**  =====
 
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:other:elijah]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:kt:good]]**
-
-
-===== Translation Notes: =====
-
-  * **shelters** - This can also be translated as, "lean-tos" or, "garden huts" or, "tents." It refers to small, individual, temporary shelters, like the Jews made from tree branches during an annual Jewish holiday.
-  * **did not know what he was saying** - That is, "was speaking without understanding what was happening" or, "spoke without thinking clearly because he was so excited."
-
-
+  * **तंबू****
+ - ** हे असे देखील भाषांतर करता येईल, "पडवी ओटी" किंवा "बागेतील झोपडी" किंवा "तंबू." हे एक लहान, वैयक्तिक, तात्पुरत्या निवा-या संदर्भात आहे, जसे की यहूदी लोक वार्षिक सुट्टी दरम्यान झाडाच्या फांद्यापासून तयार करत असत.
+  * **काय****बोलत****होता****हयाचे****त्याला****भान****नव्हते**** – म्हणजे, **"काय होईल याचा विचार न करता बोलत होता"," स्पष्टपणे विचार न करता बोलत होता कारण तो खूप उत्साहात होता."
 **[[:mr:obs:notes:frames:36-03|<<]] | [[:mr:obs:notes:36|Up]] | [[:mr:obs:notes:frames:36-05|>>]]**
