@@ -1,21 +1,24 @@
-===== Thirty Pieces of Silver [38-03] =====
+===== **चांदीच्या तीस मोहरा ** [38-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink&}}
 
-The **Jewish leaders**, led by the **high priest**, paid **Judas thirty silver coins** to **betray Jesus**. This happened just as the **prophets** had predicted. Judas agreed, took the money, and went away. He began looking for an opportunity to help them arrest Jesus.
-===== Important Terms: =====
+तेंव्हा **येशला पकडून देण्यासाठी** **महायाजक** व **यहूदी** **पुढार्यांनी** मिळून **यहूदाला** **चांदिचे** **तीस** **नाणी** मोबदला देण्याचे ठरविले
+.  **संदेष्ट्यानी** सांगितलेली भविष्यवाणी पूर्ण होण्यासाठी हे सर्व काही झाले
+.  यहूदा त्यांच्याशी सहमत झाला व पैसे घेऊन तो निघाला
+.  तेंव्हापासून तो येशूला धरुन देण्याची वाट पाहू लागला
+.
 
-  * **[[:mr:obe:other:jewishleaders]]**
-  * **[[:mr:obe:kt:highpriest]]**
-  * **[[:mr:obe:other:judasiscariot]]**
-  * **[[:mr:obe:kt:betray]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:prophet]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **यहूदी पुढारी****, ****यहूदी अधिकारी****, ****धार्मिक नेते**
+  * **महा याजक**
+  * **यहूदा इस्कर्योत**
+  * **विश्वासघाताने पकडून देणे****,**** विश्वासघातकी**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **संदेष्टा****, ****भविष्यवाणी****, ****भविष्यवाणी****, ****द्रष्टा****, ****संदेष्टे**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **thirty silver coins** - Each of these coins were worth about four days' wages.
-
+  * **चांदि****ची ****तीस****नाणी****
+ - ** प्रत्येक नाणी म्हणजे चार दिवसांचे 'वेतन आहे.
 
 **[[:mr:obs:notes:frames:38-02|<<]] | [[:mr:obs:notes:38|Up]] | [[:mr:obs:notes:frames:38-04|>>]]**
