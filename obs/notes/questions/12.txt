@@ -1,35 +1,34 @@
-====== Story #12: The Exodus ======
+====== **कथा** #12: **निर्गमन**  ======
 
-===== Comprehension Questions and Answers =====
+===== **आकलन प्रश्न आणि उत्तरे**  =====
 
-  - **What did the Egyptians give the Israelites as they left Egypt?**
-    *//Whatever they asked for, even gold and silver and other valuable things. [12-01]//
-  - **Who else left Egypt with the Israelites?**
-    *//Some people from other nations who believed in God. [12-01]//
-  - **How did God lead the Israelites?**
-    *//With a pillar of cloud during the day and a pillar of fire at night. [12-02]//
-  - **Why did God cause Pharaoh to be stubborn and chase the Israelites?**
-    *//To show that he is is the One True God who is more powerful than Pharaoh and his gods. [12-03]//
-  - **How did the Israelites react when they were trapped between the sea and Pharaoh's army?**
-    *//They said, "Why did we leave Egypt? We are going to die!" [12-04]//
-  - **What did Moses say to the Israelites to calm their fear?**
-    *//"Stop being afraid! God will fight for you today and save you." [12-05]//
-  - **What did God tell Moses to do in order to make a path of escape for the Israelites?**
-    *//God told him to raise his hand over the sea so that the waters would divide. [12-07]//
-  - **How did God prevent the Egyptians from seeing the Israelites as they started to escape?**
-    *//He placed the pillar of cloud between them. [12-06]//
-  - **How were the Israelites able to cross the sea?**
-    *//They walked through it on dry ground. [12-08]//
-  - **What happened to the Egyptians as they chased the Israelites through the sea?**
-    *//He caused the Egyptians to panic and their chariots to get stuck. [12-10]//
-  - **How did God destroy the Egyptian army?**
-    *//The water covered the Egyptian army so that they drowned. [12-11]//
-  - **How did the Israelites react when they saw that the Egyptians were dead?**
-    *//They trusted in God and believed that Moses was a prophet of God. [12-12]//
-  - **Why did the Israelites sing and praise God?**
-    *//Because he had saved them from the Egyptians. [12-13]//
-  - **What did God tell the Israelites to do in order to remember his victory over the Egyptians?**
-    *//He commanded them to celebrate the Passover every year. [12-14]//
+  - **मिसरच्या लोकांनी इस्राएल लोकांना मिसर सोडताना काय दिले होते****?**
+      * जे मागेल ते अगदी सोने, चांदी आणि इतर मौल्यवान गोष्टी.// [12-01]//
+  - **इस्राएल लोकांशिवाय आणखी अन्य कोणी मिसर सोडून गेले****?**
+      * इतर राष्ट्रांचे काही लोक ज्यांनी देवावर विश्वास ठेवला होता.// [12-01]//
+  - **इस्राएल लोकांचे देवाने कसे नेतृत्व केले****?**
+      * दिवसाच्या दरम्यान एका उंच खांबासारख्या ढगातून आणि रात्री अग्निस्तंभाद्वारे.// [12-02]//
+  - **देवाने फारोला हट्टी का केले आणि इस्राएल लोकांचा पाठलाग करु दिला?**
+      * हे सिद्ध करण्यासाठी की तोच एक खरा देव आहे जो फारो व त्याच्या देव पेक्षा अधिक शक्तिशाली आहे.//[12-03]//
+  - **जेव्हा इस्राएल लोक समुद्र आणि फारोचे सैन्यामध्ये सापडले होते तेव्हा त्यांची काय प्रतिक्रिया होती?**
+      * ते म्हणाले, "आम्ही मिसर का सोडले? आम्ही आता मरणार आहोत!"// [12-04]//
+  - **मग मोशेने त्यांना त्यांच्या भीती सोडून शांत राहण्यालाठी इस्राएल लोकांस काय सांगितले?**
+      * "भिऊ नका!आज तुम्हा साठी देव लढेल आणि तुमचे रक्षण करीन.// [12-05]//
+  - **देवाने इस्राएल लोकांच्या सुटकेसाठी एक मार्ग तयार करण्यासाठी मोशेला काय सांगितले?**
+      * देवाने त्याला आपला हात समुद्रावर पसरायला सांगितला ज्यामुळे पाण्याचे देन भाग होतील.// [12-07]//
+  - **देवाने इस्राएल लोकांची सुटका करताना मिसरी लोकांना कसा अडथळा आणला ?**
+      * त्याने त्यांच्या दरम्यान ढगाचा खांब ठेवला.// [12-06]//
+  - **इस्राएल लोक समुद्र पार करण्यासाठी कसे सक्षम झाले****?**
+      * ते कोरड्या भूमीवरुन चालत गेले. //[12-08]//
+  - **समुद्र पार करताना इस्राएल लोकांचा पाठलाग करणा-या मिसरी लोकांचे काय झाले?**
+      * परमेश्वराने मिसरच्या लोकांना गोंधळात टाकले व त्यांचे रथ अडकून बसले.// [12-10]//
+  - **देवाने मिसरी सैन्याला कसे नष्ट केले****?**
+      * देवाने त्या सर्व मिसरी सैन्याला पाण्याने झाकून टाकले आणि ते सगळे बुडाले. //[12-11]//
+  - **मिसरी लोकांना मेलेले पाहून इस्त्राएल लोकांनी कशा प्रकारे प्रतिक्रिया केली?**
+      * त्यांनी देवावर भरवसा ठेवला आणि मोशे देवाचा संदेष्टा होता असा विश्वास ठेवला.// [12-12]//
+  - **इस्राएल लोकांनी देवाची गाणे का गायले आणि स्तुती केली****?**
+      * कारण परमेश्वराने मिसरच्या लोकांपासून त्यांचे संरक्षण केले होते.//[12-13]//
+  - **इस्राएल लोकांना देवाने मिसरच्या लेकांवरिल विजय लक्षात ठेवण्यासाठी काय करण्यास सांगितले?**
+      * दरवर्षी वल्हांडण सण साजरा करण्याची आज्ञा केली. //[12-14]//
 
-
-**[[en/obs/notes/questions/11|<< ]] | [[en/obs/notes/questions/13| >>]]**
+**[[:en:obs:notes:questions:11|<< ]] | [[:en:obs:notes:questions:13| >>]]**
