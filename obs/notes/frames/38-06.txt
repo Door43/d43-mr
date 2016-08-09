@@ -1,20 +1,21 @@
-===== The Betrayer [38-06] =====
+===== **विश्वासघातकी ** [38-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg?nolink&}}
 
-Then **Jesus** said to the **disciples**, “One of you will **betray** me.” The disciples were shocked, and asked who would do such a thing. Jesus said, “The person to whom I give this piece of bread **is the betrayer**.” Then he gave the bread to **Judas**.
-===== Important Terms: =====
+तेंव्हा **येशू** **शिष्यांना** म्हणाला,‘‘तुम्हापैकी एक मला **धरुन** **देईल**
+. ’’ तेंव्हा ते आश्चर्याने पाहू लागले की अशी गोष्ट कोण करील
+.  येशू म्हणला,‘‘त्याला मी **ही** **भाकर** **मोडून** **देईल**, तोच माझा **विश्वासघा****तकी आहे.**
+. ’’ तेंव्हा त्याने **यहूदास** ती भाकर मोडून दिली
+.
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:betray]]**
-  * **[[:mr:obe:other:judasiscariot]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **शिष्य**
+  * **विश्वासघाताने पकडून देणे****,**** विश्वासघातकी**
+  * **यहूदा इस्कर्योत**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **give this piece of bread** - That is, "hand this piece of bread."
-  * **is the betrayer** - This could also be translated as, "will betray me" or, "is the one who will betray me."
-
-
+  * **ही****भाकर****मोडून****देईल****– ** म्हणजे**,**  "ज्याच्या हातात भाकरीचा तुकडा देईल."
+  * **विश्वासघा****तकी आहे - ** हे असे अनुवादित केले जाऊ शकते, , "माझा विश्वासघात करील" किंवा " तो एक जो माझा विश्वासघात करणार आहे."
 **[[:mr:obs:notes:frames:38-05|<<]] | [[:mr:obs:notes:38|Up]] | [[:mr:obs:notes:frames:38-07|>>]]**
