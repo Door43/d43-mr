@@ -1,22 +1,24 @@
-===== Mary Met Jesus [37-06] =====
+===== **मरीया येशूला भेटते ** [37-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink&}}
 
-Then **Mary** arrived. She **fell at the feet of Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**.” Jesus asked them, “Where have you put **Lazarus**?” They told him, “In the **tomb**. Come and see.” Then Jesus wept.
-===== Important Terms: =====
+तेंव्हा **मरीया** तेथे आली
+.  तिने **येशूच्या** **पायावर** **पडून** **म्हटले**,‘‘**स्वामी**, तुम्ही येथे असतात, **तर** **माझा** **भाऊ** **मेला** **नसता** **
+. ’’ ** येशून त्यांना विचारले,‘‘तुम्ही **लाजरला** कोठे ठेविले आहे?’’ त्यांनी म्हटले ,‘‘**कबरे** मध्ये
+. ’’ ये आणि पाहा
+.  तेंव्हा येशू रडला
+.
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:other:lazarus]]**
-  * **[[:mr:obe:other:tomb]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **येशू, येशू ख्रिस्त, ख्रिस्त येशू**
+  * **स्वामी****, ****गुरुजी****,**** महाराज**
+  * **मृत्यू****, ****मरेल****,**** मृत**
+  * **लाजर**
+  * **थडगे,****थडगे, दफन करण्याची जागा**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **Mary** - This was the same woman as in **[[:mr:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
-  * **fell at the feet of Jesus** - That is, "knelt down at Jesus' feet" as a sign of respect.
-  * **my brother would not have died.** - That is, "you could have kept my brother from dying" or, "you could have prevented my brother's death" or, "my brother would still be alive."
-
-
+  * **मरीया**  – ही तीच ती स्त्री जी  [37-01]मध्ये आहे, येशूची आई नाही.
+  * **येशूच्या****पायावर****पड****ली – ** याचा अर्थ**, ** आदराचे लक्षण म्हणून "येशूच्या पाया पडली".
+  * **तर****माझा****भाऊ****मेला****नसता**** – ** म्हणजे, **“** तू माझ्या भावाला बरे केले असते,” किंवा, “तू माझ्या भावाला मरु दिले नसते,” किंवा, ‘माझा भाऊ आजही जीवंत असता.”
 **[[:mr:obs:notes:frames:37-05|<<]] | [[:mr:obs:notes:37|Up]] | [[:mr:obs:notes:frames:37-07|>>]]**
