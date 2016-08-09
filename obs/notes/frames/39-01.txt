@@ -1,19 +1,21 @@
-===== The House of the High Priest [39-01] =====
+===== **मुख्य याजकाच्या घरी ** [39-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink&}}
 
-It was now **the middle of the night**. The soldiers led **Jesus** to the house of the **high priest** in order for the high priest **to question him**. **Peter** followed far behind them. When Jesus was taken into the house, Peter stayed outside and warmed himself by a fire.
-===== Important Terms: =====
+तो आता **मध्यरात्रीचा** **समय** होता
+.  सैनिक **येशूची** **परीक्षा** **पाहण्यासाठी** त्याला **महायाजकाच्या** घरी घेऊन गेले
+.  **पेत्र** लांबूनच त्यांच्या पाठीमागे येत होता
+.  ते जेंव्हा येशूला आत घरामध्ये घेऊन गेले, तेंव्हा पेत्र बाहेर थंडी असल्यामुळे शेकत बसला होता
+.
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:highpriest]]**
-  * **[[:mr:obe:other:peter]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **महायाजक**
+  * **पेत्र हा शिमोन पेत्राचा****, ****पेत्र**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **the middle of the night** - This expression means, "halfway through the night" or, "very late at night."
-  * **to question him** - That is, "to ask Jesus questions to try to find something they could accuse Jesus of doing wrong."
-
-
+  * **मध्यरात्रीचा****समय****
+ - ** या अभिव्यक्तीचा अर्थ, " अर्ध्या रात्रीनंतर" किंवा "रात्री खूप उशिरा."
+  * **परीक्षा****पाहण्यासाठी**** – ** म्हणजे, येशूला असे प्रश्न विचारुन त्याच्याकडून काहूतरी वेगळे उत्तर मिळाले तर त्यांना आरोप करायल शोधत होते.
 **[[:mr:obs:notes:frames:38-15|<<]] | [[:mr:obs:notes:39|Up]] | [[:mr:obs:notes:frames:39-02|>>]]**
