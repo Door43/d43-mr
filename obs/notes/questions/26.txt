@@ -1,33 +1,32 @@
-====== Story #26: Jesus Starts His Ministry ======
+====== **कथा**** #26**: **येशू त्याची सेवा सुरु करतो**  ======
 
-===== Comprehension Questions and Answers =====
+===== **अभ्यासासाठी प्रश्न व उत्तरे**  =====
 
-  - **Where did Jesus go after he overcame Satan’s temptations?**
-    *//Jesus went to the region of Galilee where he lived. [26-01]//
-  - **What was the name of the city where Jesus lived as a child?**
-    *//Nazareth. [26-02]//
-  - **Where did Jesus go on the Sabbath?**
-    *//He went to the place of worship. [26-02]//
-  - **Why did the people in the place of worship hand Jesus the scroll of Isaiah?**
-    *//They wanted Jesus to read from it. [26-02]//
-  - **The passage of Scripture that Jesus read referred to what person?**
-    *//The Messiah. [26-04]//
-  - **What did Jesus say about the Scripture that he had just read?**
-    *//He said it was being fulfilled right then. [26-04]//
-  - **How did the people of Jesus' hometown react to his words?**
-    *//They were amazed and asked, “Isn't this the son of Joseph?” [26-04]//
-  - **What examples did Jesus give of God's prophets helping people from other nations?**
-    *//God helped a widow during a drought in Elijah’s time, and he healed Naaman, a commander of Israel’s enemies. [26-05], [26-06]//
-  - **How did the people respond when Jesus told them these stories?**
-    *//They were furious and tried to kill Jesus. [26-06], [26-07]//
-  - **How did Jesus escape from the crowd?**
-    *//Jesus walked through the crowd and left the town. [26-07]//
-  - **How did the crowds in Galilee respond to Jesus?**
-    *//They brought him many who were sick or handicapped so he could heal them. [26-08]//
-  - **Who did the demons acknowledge Jesus to be when he commanded them to come out of people?**
-    *//They said Jesus was the Son of God. [26-09]//
-  - **How many men did Jesus choose to be his apostles?**
-    *//He chose twelve apostles. [26-10]//
+  - **सैतानाच्या परीक्षा घेणे संपल्यानंतर येशू कोठे गेला****?**
+      * येशू गालील प्रांतात जेथे तो राहात होता तेथे गेला//. [26-01]//
+  - **येशू लहानपणी राहात होता त्या शहराचे नाव काय होते****?**
+      * नासरेथ//. [26-02]//
+  - **शब्बाथ दिवशी येशू कुठे गेला****?**
+      * तो उपासनेच्या ठिकाणी गेला//. [26-02]//
+  - **उपासनेच्या ठिकाणच्या लोकांनी त्याला यशया संदेष्टयाची गुंडाळी का दिली?**
+      * येशूने त्यातून वाचावे अशी त्यांची इच्छा होती//. [26-02]//
+  - **जो शास्त्रभाग येशूने वाचला तो कोणत्या व्यक्तीविषयी होता?**
+      * मशीहा//. [26-04]//
+  - **जो शास्त्रभाग येशूने नुकताच वाचला होता त्याविषयी तो काय म्हणाला****?**
+      * तो म्हणाला हा शास्त्रलेख वाचत असतांना पूर्ण झाला आहे//. [26-04]//
+  - **येशूच्या ह्या बोलण्याने त्याच्या गावच्या लोकांची प्रतिक्रीया काय होती****?**
+      * त्यांना आश्चर्य वाटले व ते म्हणाले, ”हा योसेफाचा मुलगा ना”? // [26-04]//
+  - **दुस-या राष्ट्रातील लोकांना मदत करणा-या देवाच्या संदेष्ट्यांविषयीची कोणती उदाहरणे येशूने दिली?**
+      * एलीयाच्या काळात दुष्काळाच्या वेळी देवाने एका विधवेला मदत केली, आणि जो इस्राएलाच्या शत्रुंचा सेनापती नामान, त्याला बरे केले//. [26-05], [26-06]//
+  - **येशूने ह्या गोष्टी सांगितल्यावर लोकांचा प्रतिसाद कसा होता****?**
+      * ते संतापले आणि येशूला जिवे मारण्याचा प्रयत्न केला//. [26-06], [26-07]//
+  - **लोकांच्या गर्दीतुन येशू कसा निसटला**
+      * येशू त्यांच्यामधून चालत गेला व शहर सोडून निघून गेला//. [26-07]//
+  - **गालीलातील लोकांनी येशूला कसा प्रतिसाद दिला****?**
+      * त्यांनी त्याच्याकडे पुष्कळ आजारी किंवा अपंग लोक आणले यासाठी की त्याने त्यांना बरे करावे. //[26-08]//
+  - **जेंव्हा येशू लोकांतुन अशुद्ध आत्म्यांना निघून जाण्याची आज्ञा देत असे****तेंव्हा ते त्याला तो कोण आहे म्हणून म्हणत होते****?**
+      * ते म्हणाले येशू देवाचा पुत्र आहे. // [26-09]//
+  - ते म्हणाले येशू देवाचा पुत्र आहे.
+      * त्याने बारा प्रेषित निवडले. // [26-10]//
 
-
-**[[en/obs/notes/questions/25|<< ]] | [[en/obs/notes/questions/27| >>]]**
+**[[:en:obs:notes:questions:25|<< ]] | [[:en:obs:notes:questions:27| >>]]**
