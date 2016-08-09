@@ -1,25 +1,24 @@
-===== Lazarus Was Sick [37-01] =====
+===== **लाजर आजारी होता ** [37-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink&}}
 
-One day, **Jesus** received a message that **Lazarus** was very sick. Lazarus and his two sisters, **Mary** and Martha, were close friends of Jesus. When Jesus heard this news, he said, “**This sickness will not end in death**, but **it is for the glory of God**.” Jesus **loved** his friends, **but he waited where he was for two days**.
-===== Important Terms: =====
+एके दिवशी**,** **लाजर** खूप आजारी असल्याची बातमी **येशूला** कळली लाजर व त्याच्या दोन बहिनी मार्था व **मारिया**, ही येशूच्या जवळचे मित्र होते
+.  जेव्हा येशूने ही बातमी ऐकली, तेंव्हा तो म्हणाला,‘‘**हया** **आजाराचा** **अन्त** **मृत्यू** **ही**, तर **हा** **आजार** **देवाच्या** **गौरवासाठी** **आहे** **
+.  ** येशू आपल्या मित्रांवर **प्रेम** करत होता, **परंतू** **तो** **असलेल्या** **ठिकाणी** **तो** **आणखी** **दोन** **दिवस** **राहिला****.**
+===== **महत्वाचे** **शब्द :**  =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:lazarus]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:kt:glory]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:love]]**
+  * **येशू**, **येशू ख्रिस्त**,** ख्रिस्त येशू**
+  * **लाजर**
+  * **मृत्यू****, ****मरेल****,**** मृत**
+  * **गौरव**,** गौरवी**
+  * **देव**
+  * **प्रेम**
+===== **भाषांतर टिपा:**  =====
 
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Mary** - Jesus' mother was also named Mary. This was a different woman.
-  * **this sickness will not end in death** - This can also be translated as, "the final result of this sickness will not be death" or, "Lazarus is sick, but death is not the final result of this sickness." Jesus' disciples probably thought this meant that Lazarus would not die. But Jesus knew that, although Lazarus would die from his sickness, he would live in the end.
-  * **it is for the glory of God** - That is, "this will cause people to praise God for how great he is."
-  * **but he waited where he was for two days** - This could be translated as, "but he stayed where he was for two days, even though they wanted him to go and heal Lazarus."
-
-
+  * **एके****दिवशी**  - ह्या वाक्प्रचारात एक घटना समाविष्ट आहे जी भूतकाळात घडली आहे. पण एक विशिष्ट वेळ दर्शवित नाही. अनेक भाषांमध्ये एक सत्य कथा सांगण्यासाठी एक समान मार्ग आहे.
+  * **मर****ी****या**** – ** येशूच्या आईचे नाव सुद्धा मरीया होते. ही वेगळी स्त्री होती
+  * **हया****आजाराचा****अन्त****मृत्यू****नाही****
+ - ** हे असे देखील भाषांतर करणे शक्य आहे, या आजाराचा शेवटचा म्हणजे मृत्यू नाही, किंवा, लाजर आजारी आहे पण त्याच्या आजाराचा शेवट मृत्यू नाही. येशूच्या शिष्यांनी कदाचित हा विचार केला की म्हणजे लाजर मरणार नाही.  पण येशूला माहित होते की, जरी लाजर त्याच्या आजाराने मेला, तरी तो शेवटी जिवंत होणार आहे.
+  * **देवाच्या****गौरवासाठी****आहे****- ** याचा अर्थ, "तो किती महान आहे म्हणून लोक देवाची स्तुती करणयाचे कारण होईल."
+  * **परंतू****तो****असलेल्या****ठिकाणी****तो****आणखी****दोन****दिवस****राहिला**** - ** हे असे देखील भाषांतर करणे शक्य आहे, "जरी त्याला जावुन लाजरला बरे करावेसे वाटले तरी पण तो जेथे होता तेथे दोन दिवस राहिला.”
 **[[:mr:obs:notes:frames:36-07|<<]] | [[:mr:obs:notes:37|Up]] | [[:mr:obs:notes:frames:37-02|>>]]**
