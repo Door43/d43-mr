@@ -1,21 +1,23 @@
-===== Open the Tomb [37-07] =====
+===== **थडगे  उघडा ** [37-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink&}}
 
-The **tomb** was a cave with a stone rolled in front of its opening. When **Jesus** arrived at the tomb, **he told them**, “**Roll the stone away**.” But **Martha** said, “**He has been dead for four days**. There will be a bad smell.”
-===== Important Terms: =====
+ती खडकामध्ये खोदलेली **कबर** होती व तिच्या दाराशी धोंडा ठेवण्यात आला होता
+.  जेव्हा येशू कबरेपाशी आला, **तो ****त्यांना** **म्हणाला**, ‘‘**धोंडा** **बाजूला** **सारा**
+. ’’ परंतू **मार्थ****ा** म्हणाली,‘‘**त्याला** **मरुन** **चार** **दिवस** **झाले** **आहेत**
+.  आता त्याला दुर्गंधी येत असेल
+. ’’
 
-  * **[[:mr:obe:other:tomb]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:death]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **थडगे,****थडगे, दफन करण्याची जागा**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **मृत्यू****, ****मरेल****,**** मृत**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **he told them** - That is, "he told the men there." He was probably not telling Mary and Martha to roll the stone away.
-  * **Roll the stone away** - Some languages may prefer to say, "Roll the stone away from the opening of the tomb."
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:mr:obs:notes:frames:37-01|[37-01]]]**.
-  * **He has been dead for four days** - This could also be translated as, "He died four days ago and his body is lying there."
-
-
+  * **तो ****त्यांना****म्हणाला**** – ** म्हणजे, “तो तेथील लोकांना म्हणाला.” तो नक्कीच मरीया आणि मार्था यांना धोंडा दूर करायला सांगत नाही.
+  * **धोंडा****बाजूला****सारा****
+ - ** काही भाषांमध्ये असे म्हणन्यास प्राधान्य द्या, कबरेच्या तोंडावरील धोड बाजूला सारा.
+  * **मार्था**  - मार्था लाजर आणि मरीयाची बहीण होती.
+  * **त्याला****मरुन****चार****दिवस****झाले****आहेत**** - ** हे असे देखील भाषांतरित केला जाईल, तो चार दिवसांपूर्वी मरण पावला आणि त्याचे शरीर तेथे पडलेले आहे. "
 **[[:mr:obs:notes:frames:37-06|<<]] | [[:mr:obs:notes:37|Up]] | [[:mr:obs:notes:frames:37-08|>>]]**
