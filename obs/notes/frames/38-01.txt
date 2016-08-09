@@ -1,25 +1,25 @@
-===== The Passover [38-01] =====
+===== **वल्हांडण सण ** [38-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink&}}
 
-Every year, the **Jews** celebrated the **Passover**. This was a celebration of how **God** had **saved** their ancestors from **slavery** in **Egypt many centuries earlier**. About three years after **Jesus** first began **preaching** and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in **Jerusalem**, and that he would be killed there.
-===== Important Terms: =====
+दरवर्षी, **यहूदी** **वल्हांडण** सण साजरा करतात
+.  **अनेक वर्षांपूर्वी ****देवाने** **मिसर** देशातील **गुलामगिरीतून** त्याच्या पुर्वजांची कशाप्रकारे **सुटका** केली, याचे स्मरणार्थ यहूदी लोक हा सण पाळतात
+.  **येशूच्या** **प्रचारकार्यास** आरंभ होऊन सुमारे तीन वर्षांनंतर, येशूने आपल्या **शिष्यांस** सांगितले की त्यांजबरोबर **यरुशलेम** मध्ये वल्हांडण साजरा करावा अशी त्याची इच्छा आहे, आणि त्यानंतर तो मरणार आहे असेही त्याने सांगितले
+.
 
-  * **[[:mr:obe:other:jew]]**
-  * **[[:mr:obe:kt:passover]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:save]]**
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:preach]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:other:jerusalem]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **यहूदी****, ****यहूदी****,**** यहूदी**
+  * **वल्हांडण**
+  * **देव**
+  * **सुटका****, ****सुरक्षित**
+  * **सेवक****, ****गुलाम****, ****गुलामगिरी**
+  * **मिसरी, मिसरी लोक**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **प्रचारकार्य**
+  * **शिष्य**
+  * **यरुशलेम**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **many centuries earlier** - That is, "hundreds of years earlier" or, "a very long time before."
-
-
+  * **अनेक वर्षांपूर्वी- **- याचा अर्थ, " शेकडो वर्षा पूर्वी " किंवा " खूप वेळ अगोदर."
 **[[:mr:obs:notes:frames:37-11|<<]] | [[:mr:obs:notes:38|Up]] | [[:mr:obs:notes:frames:38-02|>>]]**
