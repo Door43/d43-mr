@@ -1,25 +1,26 @@
-===== God Blessed Abram [04-06] =====
+===== **देवाने अब्रामास आशिर्वाद दिला** [04-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink}}
+जेव्हा अब्राम कनानमघ्ये पोहोंचलो, तेव्हा देव त्याला म्हणाला, "आपल्या सभोवताली पहा, जेवढी भूमि तू पाहतोस तो हा सर्व देशतुला व तुझ्या संतानाला वतन
+" म्हणून देईल. मग अब्राहामाने तेथे स्थायिक झाला.
 
-When **Abram** arrived in **Canaan**, **God** said, “Look all around you. I will give to you and your **descendants all the land that you can see as an inheritance**”. **Then Abram settled in the land**. 
+===== महत्वाचे शब्द : =====
 
-===== Important Terms: =====
+  * **अब्राम**
+  * **कनान**
+  * **देव**
+  * **संतान**
+  * **वतन**
+===== **भाषांतरीत टिपा**: =====
 
-
-  * **[[:mr:obe:other:abraham]]**
-  * **[[:mr:obe:other:canaan]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:descendant]]**
-  * **[[:mr:obe:kt:inherit]]**
-
-
-===== Translation Notes: =====
-
-
-  * **all the land that you can see** - If Abram was standing on a mountain, he could have seen a very large area. On several occasions God promised to give the entire land of Canaan to Abram and his descendants.
-  * **as an inheritance** - God promised to give land to Abram and his descendants as a father gives land and possessions to his children.
-  * **Then Abram settled in the land** - Abram lived there along with all those who had gone there with him.
+  * **तू****पाहू****शकत****ोस तो ****सर्व****प्रदेश** **
+– ** जर अब्राहाम डोंगरावर उभा असेल, तर त्याने अतिशय मोठे क्षेत्र पाहिले असेल
+. अनेक प्रसंगी देवाने अब्राहामास व त्याच्या संतानाला कनान हा संपूर्ण देश देण्याचे वचन दिले
+.
+  * **वतन****म्हणून**
+-  पिता जसा आपल्या मुलांना जमीन आणि मालमत्ता देतो तसे देवान अब्राम व त्याच्या संतानाला जमीन देण्याचे वचन दिले
+. तेव्हा अब्रामाने देशात स्थायिक झाला-  अब्राम त्याच्याबरोबर तेथे गेले होते त्या सर्वांना सोबत तेथे राहिला
+.
 
 **[[:mr:obs:notes:frames:04-05|<<]] | [[:mr:obs:notes:04|Up]] | [[:mr:obs:notes:frames:04-07|>>]]**
