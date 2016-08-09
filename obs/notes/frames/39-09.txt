@@ -1,21 +1,21 @@
-===== Jesus and Pilate [39-09] =====
+===== **येशू आणि पिलात ** [39-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink&}}
 
-Early the next morning, the **Jewish leaders** brought **Jesus** to **Pilate**, the **Roman governor**. They hoped that Pilate would condemn Jesus as guilty and **sentence him to be killed**. Pilate asked Jesus, “Are you the **king of the Jews**?”
-===== Important Terms: =====
+दुसर्या दिवशी सकाळीच **यहूदी** **पुढार्यांनी** **येशूला** **रोमी** **सुभेदार** **पिलातासमोर** आणले
+.  त्यांना पिलाताकडून आशा होती की तो येशूस दोषी ठरवून **मरणदंडाची** **शिक्षा** **देईल**
+.  पिलाताने येशूला विचारले,‘‘**तू** **यहू़द्यांचा** **राजा** आहेस काय?’’
+===== **महत्वाचे** **शब्द :**  =====
 
-  * **[[:mr:obe:other:jewishleaders]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:pilate]]**
-  * **[[:mr:obe:other:rome]]**
-  * **[[:mr:obe:kt:kingofthejews]]**
+  * **यहूदी****, ****ज्यू अधिकारी****, ****धार्मिक पुढारी****,**
+  * **येशू, येशू ख्रिस्त, ख्रिस्त येशू**
+  * **पिलात**
+  * **रोम****, ****रोमी**
+  * **यहू़द्यांचा****राजा**
+===== **भाषांतर टिपा:**  =====
 
-
-===== Translation Notes: =====
-
-  * **Roman governor** - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
-  * **sentence him to be killed** - As governor, Pilate had the authority to condemn Jesus to death and to give approval for his crucifixion, or to set him free. The Jewish religious leaders did not have the authority to have someone killed.
-
+  * **रोमी****सुभेदार**** – ** म्हणजे, "रोमन सरकारी अधिकारी." रोमन सरकारने इस्राएलच्या यहूदीया प्रांतात पिलाताची नियुक्ती केली होती.
+  * **मरणदंडाची****शिक्षा****देईल****
+ - ** राज्यपाल म्हणून, पिलाताला येशूला मृत्यूदंडाची शिक्षा निषेध करण्याची आणि त्याला सुळावर देण्याची मान्यता होती किंवा त्याला सोडम्याचे अधिकार होते. यहुदी धार्मिक नेत्यांनी कोणालाही मारण्याचे आहेत अधिकार नव्हते.
 
 **[[:mr:obs:notes:frames:39-08|<<]] | [[:mr:obs:notes:39|Up]] | [[:mr:obs:notes:frames:39-10|>>]]**
