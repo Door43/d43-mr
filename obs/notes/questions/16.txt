@@ -1,35 +1,34 @@
-====== Story #16: The Deliverers ======
+====== **कथा** #16: **तारणारा**  ======
 
-===== Comprehension Questions and Answers =====
+===== **आकलन प्रश्न आणि उत्तरे**  =====
 
-  - **How did the Israelites disobey God after Joshua died?**
-    *//They did not drive out the Canaanites, and worshiped the Canaanite gods instead of Yahweh, the true God. [16-01]//
-  - **How did God punish the Israelites for their disobedience?**
-    *//God allowed their enemies to defeat them. [16-02]//
-  - **How did God respond when the Israelites cried out for help?**
-    *//He provided a deliverer who rescued them and brought peace to the land. [16-03]//
-  - **What was Gideon doing when the angel of Yahweh came to him?**
-    *//Gideon was threshing grain secretly so the Midianites would not steal it. [16-05]//
-  - **What two signs did God do to prove that he would save Israel through Gideon?**
-    *//God made the morning dew fall only on the cloth and not the ground, and then the dew fell only on the ground and not the cloth. [16-08], [16-09]//
-  - **Why did Gideon send home all except 300 of the soldiers?**
-    *//Because God told him he had too many men. [16-10]//
-  - **What additional sign did God give Gideon so he would not be afraid?**
-    *//Gideon heard a Midianite soldier tell of his dream that Gideon's army would defeat the Midianite army. [16-11]//
-  - **What did Gideon do when he heard the Midianite soldier's dream?**
-    *//He worshiped God. [16-11]//
-  - **How did Gideon and his men attack the Midianites?**
-    *//They surrounded the Midianite camp, broke their pots to reveal their torches, and blew their horns and shouted, "A sword for Yahweh and for Gideon." [16-13]//
-  - **What did God do to help Gideon defeat the Midianites?**
-    *//God confused the Midianites so they attacked and killed each other. [16-14]//
-  - **What did Gideon do that later led the people to return to idol worship?**
-    *//He made a special garment of gold that the people later began to worship as an idol. [16-16]//
-  - **What was the pattern that Israel repeated many times?**
-    *//The Israelites would sin, God would punish them, they would repent, and God would send a deliverer to save them. [16-17]//
-  - **Why did the people ask God for a king?**
-    *//All the other nations had kings, and they wanted someone to lead them into battle. [16-18]//
-  - **How did God answer their request?**
-    *//He gave them a king just as they had asked. [16-18]//
+  - **इस्राएल लोकांनी यहोशवाच्या मृत्यूनंतर देवाची आज्ञा कशी मोडली?**
+      * त्यांनी कनानी लोकांना घालवून दिले नाही, आणि त्यांनी परमेश्वर खर्या देवा ऐवजी,  कनानी देवांची उपासना केली.// [16-01]//
+  - **देवाने इस्राएली लोकांना त्यांच्या पापांची शिक्षा कशा प्रकारे दिली?**
+      * देवाने त्यांच्या शत्रूंना त्यांना पराभूत करण्यासाठी परवानगी दिली.// [16-02]//
+  - **इस्राएल मदतीसाठी धावा केला तेव्हा देवाने कसे उत्तर दिले?**
+      * त्याने एक तारणारा दिला, जो त्यांची सुटका करेल आणि देशात शांतता आणील//. [16-03]//
+  - **परमेश्वराचा दूत त्याच्याकडे आला तेव्हा गिदोन काय करत होता?**
+      * मिद्यानी लेकांनी चोरु नये म्हणुन गिदोन गुप्तपणे धान्याची मळणी करीत होता//. [16-05]//
+  - **कोणते दोन चमत्कार देवाने केले ज्यामुळे गिदोनच्या माध्यमातून इस्राएल लोकांचे रक्षण होईल?**
+      * देव सकाळी दव फक्त कापडावर पाडले आणि जमिनीवर नाही, आणि नंतर दव फक्त जमिनीवर पाडले कापडावर नाही.  // [16-08], [16-09]//
+  - **गिदोनाने 300 सैनिक वगळता सर्व घरी का पाठवून दिले****?**
+      * कारण देवाने त्याला सांगितले की ती खूप माणसे होती.// [16-10]//
+  - **देवाने कोणते अतिरिक्त चिन्ह गिदोनाने भिऊ नये म्हणून दिले?**
+      * गिदोनाने ऐकले की एक मिद्यानी सैनिक त्याचे स्वप्न सांगत होता की गिदोनाचे सैन्य मिद्यानी सैन्यांला पराभूत करेल.// [16-11]//
+  - **गिदोन जेव्हा मिद्यानी सैनिकाचे स्वप्न ऐकले तेव्हा काय केले?**
+      * त्याने देवाची उपासना केली.// [16-11]//
+  - **गिदोन आणि त्याच्या बरोबरचे लोकांनी मिद्यानीवर कसा हल्ला केला?**
+      * त्यांनी मिद्यानी छावणीला वेढला दिला आणि त्यांच्या मशाली एकदम दिसण्यासाठी त्यांनी आपली भांडी फोडली, आणि त्यांनी शिंगे फुंकली आणि मोठ्याने ओरडले, "यहोवाची आणि गिदोनची तलवार."// [16-13]//
+  - **मिद्यानी पराभूत करण्यासाठी देवाने गिदोनाला काय मदत केली****?**
+      * देवाने मिद्यानींना गोंधळून टाकले त्यामुळे त्यांनी हल्ला केला आणि एकमेकांना ठार केले.// [16-14]//
+  - **काय गिदोनाने नंतर असे काय केले की लोकांना परत मूर्तिपूजेकडे वळनिले****?**
+      * त्याने सोन्याचे एक विशेष वस्त्र केले ज्याची नंतर लोकांनी एक मूर्ती समजून पूजा करायला सुरवात केली. //[16-16]//
+  - **इस्राएल लोक अनेक वेळा कोणत्या गोष्टीची पुनरावृत्ती करत होते?**
+      * इस्राएल लोकांनी पाप करायचे, देवाने त्यांना शिक्षा करायची, त्यांनी पश्चात्ताप करायचा आणि देवाने त्यांचे रक्षण करण्यासाठी तारणारा पाठवायचा.// [16-17]//
+  - **लोकंनी देवाला राजा का मागितला****?**
+      * इतर राष्ट्रांना राजे होते, आणि त्यांना लढाईमध्ये कोणीतरी मदतीला घेऊन जण्याची ईच्छा होती.// [16-18]//
+  - **देव त्यांच्या विनंतीचे उत्तर कसे दिले?**
+      * त्याने त्यांना विचारले होते, म्हणून त्यांना राजा दिला.//[16-18]//
 
-
-**[[en/obs/notes/questions/15|<< ]] | [[en/obs/notes/questions/17| >>]]**
+**[[:en:obs:notes:questions:15|<< ]] | [[:en:obs:notes:questions:17| >>]]**
