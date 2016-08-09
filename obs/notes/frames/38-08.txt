@@ -1,24 +1,24 @@
-===== You Will Be Scattered [38-08] =====
+===== **तुमची दाणादाण होईल ** [38-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink&}}
 
-After the meal, **Jesus** and his **disciples** walked to the **Mount of Olives**. Jesus said, “You will all **abandon me** tonight. **It is written**, ‘**I will strike the shepherd and all the sheep will be scattered**.’”
-===== Important Terms: =====
+भोजनानंतर, **येशू** आपल्या **शिष्यांसोबत** **जैतुनाच्या** **डोंगराकडे** जात होता
+.  येशू म्हणाला,‘‘आज रात्री तुम्ही **सर्व** **मला** **सोडून** **जाल**
+.  **असे** **लिहिले** **आहे****, ****मी** **मेंढपाळास** **मारील** **आणि सर्व ****मेंढरांची** **दाणादाण** **करील** **
+. ****’’**
+===== **महत्वाचे शब्द :**  =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:other:shepherd]]**
-  * **[[:mr:obe:other:sheep]]**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **शिष्य**
+  * **मेंढपाळ****,**** मेंढपाळ**
+  * **मेंढरे, मेंढा, मेंढी**
+===== **भाषांतर टिपा:**  =====
 
-
-===== Translation Notes: =====
-
-  * **Mount of Olives** - This is the name of a hill covered with olive trees, just outside the walls of the city of Jerusalem. It can also be translated as, "Olive Tree Hill."
-  * **abandon me** - That is, "desert me" or, "leave me."
-  * **It is written** - That is, "It is written in God's word" or, "It is written in the scriptures" or, "One of God's prophets wrote." It is also possible to say, "What is written will happen" or, "It will be like what is written." This prophecy refers to Jesus' death and his followers running away.
-  * **I will strike** - That is, "I will kill."
-  * **the shepherd and all the sheep** - Do not use Jesus' name in this quote because the prophet who first wrote it would not have known the shepherd's name. Also, do not refer to the sheep being the disciples. It is best to use words that mean "shepherd" and "sheep" in your translation.
-  * **will be scattered** - That is, "will go away in different directions."
-
-
+  * **जैतुनाच्या****डोंगराकडे****
+ - ** हे जैतून वृक्षांना झाकून टाकलेल्या टेकडीचे नाव आहे, यरुशलेम नगराच्या भिंती बाहेर अगदी जवळच. त्याचे असे देखील भाषांतर करता येईल, जैतून वृक्षांचा पर्वत.
+  * **मला****सोडून****जाल**** – ** म्हणजे, "एकटे सोडूल द्याल" किंवा, "माझा त्याग कराल" किंवा,
+  * **असे****लिहिले****आहे**** – ** म्हणजे**, **"ते देवाच्या वचनात लिहिले आहे" किंवा, "ते पवित्र शास्त्रात लिहिले आहे" किंवा "देवाच्या संदेष्ट्यांच्या लिहिले आहे." असे म्हणने सुद्धा शक्य आहे, "जे काय लिहिले आहे ते होईल" किंवा, "जे काही लिहिले आहे त्या प्रमाणे होईल." ही भविष्यवाणी येशूचा मृत्यू आणि नंतर त्याचे अनुयायी पळून जातील या संदर्भित आहे.
+  * **मी****मारील**** – ** म्हणजे, , "मी ठार मारीन."
+  * **मेंढपाळास****ल****आणि सर्व ****मेंढरांची**** - ** या मेंढपाळाच्या जागी येशूचे नाव वापरू नका कारण संदेष्टे जे पुर्वी होउन गेले त्यांना मेंढपाळाचे नाव माहित नसावे. तसेच, मेंढरांच्या जागी शिष्य असे म्हणु नका. तुमच्या भाषांतरामध्ये सर्वोत्तम शब्द वापरणे म्हणजे, "मेंढपाळ" आणि "मेंढरे."
+  * **दाणादाण****करील**** – ** म्हणजे, "वेगवेगळ्या दिशेला निघून जातील."
 **[[:mr:obs:notes:frames:38-07|<<]] | [[:mr:obs:notes:38|Up]] | [[:mr:obs:notes:frames:38-09|>>]]**
