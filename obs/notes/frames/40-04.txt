@@ -1,28 +1,30 @@
-===== The Two Robbers [40-04] =====
+===== **दोन लुटारु ** [40-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink&}}
 
-**Jesus** was **crucified** between **two robbers**. One of them **mocked** Jesus, but the other said, “Do you have no fear of **God**? We are **guilty**, **but this man is innocent**.” Then he said to Jesus, “**Please remember me in your kingdom**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
-===== Important Terms: =====
+**येशूला** **दोन** **लुटारु** मधोमध **वधस्तंभावर** **खिळण्यात** **आले**
+.  त्यापैकी एकाने येशूची **थट्टा** **केली**, परंतू दुसरा म्हणाला,‘‘**तू** **देवाला** **भित** **नाही** **काय**? **आपण** **दोषी** **आहोत****, ****पण** **हा** **मनुष्य** **निर्दोष** **आहे**
+. ’’ तेंव्हा तो येशूला म्हणाला,‘‘**तुझ्या** **राज्यामध्ये** **माझी** **आठवण** **ठेव**
+. ’’ येशू त्यास म्हणाला,‘‘आजच तू मजबरोबर **सुखलोकात** असशिल
+. ’’
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:crucify]]**
-  * **[[:mr:obe:other:mock]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:guilt]]**
-  * **[[:mr:obe:kt:innocent]]**
-  * **[[:mr:obe:kt:kingdomofgod]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **क्रूसावर****टांग****णे**
+  * **थट्टा****, ****उपहास****,तुच्छतेने हसणे**
+  * **देव**
+  * **दोष****,**** दोषी**
+  * **निर्दोष**
+  * **देवाचे राज्य****, ****स्वर्गाचे राज्य **
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **two robbers** - This could also be translated as, "two bandits." This refers to criminals who used force or violence to steal things.
-  * **Do you have no fear of God?** - The robber does not expect an answer to this question; it is a way that some languages use to make a strong statement. If your language does not use questions in this way, then translate this as, "You should fear God!"
-  * **We are guilty but this man is innocent** - This could be translated as, "You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die." "We" here includes both robbers, but does not include Jesus.
-  * **this man** - This phrase refers to Jesus.
-  * **Please remember me** - That is, "Please accept me" or, "Please welcome me" or, "Please allow me to be with you." "Remember" here does not mean to recall something after forgetting it. Translate this in a way that communicates a humble request.
-  * **in your kingdom** - That is, "when you establish your kingdom" or, "when you are ruling as king."
-  * **Paradise** - This is another name for "heaven."
-
-
+  * **दोन****लुटारु - ** हे असे अनुवादित केले जाऊ शकते, "दोन दरोडेखोर." हे गुन्हेगारां संदर्भात आहे जे गोष्टी चोरण्यासाठी शक्ती किंवा हिंसेचा वापर करतात.
+  * **तू****देवाला****भित****नाही****काय****
+ - ** दरोडेखोराने या प्रश्नाच्या उत्तराची अपेक्षा केली नाही; काही भाषामध्ये असे विधान वापरून्याचा एक मार्ग आहे जर आपल्या भाषेमध्ये अशाप्रकारे प्रश्न वापरत नसतील, तर मग असे अनुवाद करा"तू देवाचे भय धर!"
+  * **आपण****दोषी****आहोत****, ****पण****हा****मनुष्य****निर्दोष****आहे**** - ** हे असे अनुवादित केले जाऊ शकते, "तू आणि मी वाईट गोष्टी केल्या आहेत आणि मरणास पात्र आहोत, परंतु हा मनुष्य, येशू ज्याने चुकीचे काहीच केले नाही आणि तो मरणास पात्र नाही." "आपण" येथे दोन्ही लुटारु समाविष्ट आहे, परंतु येशूचा समावेश नाही.
+  * **हा****मनुष्य**** - ** हा वाक्प्रचार येशू संदर्भात आहे.
+  * **माझी****आठवण****ठेव**** –म्हणजे, **"माझा स्वीकार करा" किंवा "माझे स्वागत करा" किंवा, "कृपया मला तुमच्या बरोबर असू द्या." "लक्षात ठेवा" येथे तो विसरून नंतर काहीतरी आठवण्याचा असा अर्थ नाही. एक नम्र विनंती संवाद अशा रितीने भाषांतर करा .
+  * **तुझ्या****राज्यामध्ये**** – ** म्हणजे**, ** किंवा, "तु आपल्या राज्याची स्थापना करशील तेव्हा" "जेव्हा तू राज्य करणारा राजा असशील तेव्हा."
+  * **सुखलोकात**** - ** ह्याला आणखी एक नाव आहे, "स्वर्ग."
 **[[:mr:obs:notes:frames:40-03|<<]] | [[:mr:obs:notes:40|Up]] | [[:mr:obs:notes:frames:40-05|>>]]**
