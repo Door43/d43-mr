@@ -1,31 +1,30 @@
-====== Story #18: The Divided Kingdom ======
+====== **कथा ** #18: **राज्याची विभागणी**  ======
 
-===== Comprehension Questions and Answers =====
+===== **आकलन प्रश्न आणि उत्तरे **  =====
 
-  - **What did Solomon ask God to give him?**
-    *//Wisdom. [18-01]//
-  - **What was the purpose of the Temple that Solomon built?**
-    *//It was a place for the people to worship God and offer sacrifices. [18-02]//
-  - **What serious sins did Solomon commit?**
-    *//He married many foreign women and worshiped their gods in his old age. [18-03]//
-  - **How did God punish Solomon’s sins?**
-    *//God promised to divide the nation of Israel into two kingdoms after Solomon’s death. [18-04]//
-  - **What foolish answer did Rehoboam give to the people?**
-    *//I will make you work harder and punish you more than my father Solomon did. [18-06]//
-  - **What was the name of the kingdom founded by the two southern tribes who remained with Rehoboam?**
-    *//The kingdom of Judah. [18-07]//
-  - **How many of the tribes rebelled against Rehoboam and formed the northern kingdom?**
-    *//Ten tribes joined the kingdom of Israel. [18-08]//
-  - **What did Jeroboam do to keep his people from going to Judah to worship at the Temple?**
-    *//He built two idols for the people to worship. [18-09]//
-  - **How many of the kings of Israel were faithful to God?**
-    *//None. [18-11]//
-  - **What were some of the evil practices that were often included in the worship of idols?**
-    *//Sexual immorality and child sacrifice. [18-12]//
-  - **Who was the ancestor of the kings of Judah?**
-    *//King David. [18-13]//
-  - **Were any kings of Judah faithful to God?**
-    *//Yes, some were faithful, but most were evil. [18-13]//
+  - **शलमोनाने देवाला काय मागणे मागितले****?**
+      * शहाणपणा. // [18-01]//
+  - **शलमोनाने बांधलेल्या मंदिराचा काय उद्देश होता****?**
+      * हे लोकांना देवाची उपासना करण्यासाठी आणि अर्पणे आणण्याची एक जागा होती.// [18-02]//
+  - **शलमोन कोणते गंभीर पाप केले****?**
+      * त्यांनी अनेक परकीय स्त्रियांशी विवाह केले आणि त्याच्या वृद्धपणा मध्ये त्यांने त्यांच्या दैवतांची पूजा केली.// [18-03]//
+  - **देवाने शलमोनाला पापाची शिक्षा कशी दिली****?**
+      * देवाने शलमोनाच्या मृत्यूनंतर इस्राएल राष्ट्र दोन राज्यात वाटण्याचे वचन दिले.// [18-04]//
+  - **रहबामाने लोकांना काय मूर्ख उत्तर दिले****?**
+      * मी तुमचे काम अजून कठीन करान आणि आपण माझे वडील शलमोन याच्यापेक्षा जास्त शिक्षा करीन.// [18-06]//
+  - **रहबाम सोबत राहिले दोन दक्षिण वंश यांच्या राज्याचे नाव काय होते?**
+      * यहूदाचे राज्य.// [18-07]//
+  - **किती वंशानी रहबाम याच्या विरुद्ध बंड केले आणि उत्तर राज्याची स्थापना केली?**
+      * दहा वंश इस्राएलच्या राज्यात सामील झाले.// [18-08]//
+  - **यराबामाने आपल्या लोकांना यहूदा मंदिरात देवाची पूजा करण्यासाठी जात ते रोखण्यासाठी काय केले?**
+      * त्याने लोकांना उपासना करण्यासाठी दोन मूर्ती तयार केल्या.// [18-09]//
+  - **इस्राएलचे किती राजे देवासोबत विश्वासू होते****?**
+      * एकही नाही//. [18-11]//
+  - **मूर्तीच्या उपासनेत कोणत्या वाईट गोष्टी समाविष्ट केल्या होत्या?**
+      * लैंगिक अनैतिकता आणि बाल यज्ञ.// [18-12]//
+  - **यहूदाच्या राजांचे पूर्वज कोण होते****?**
+      * राजा दावीद.// [18-13]//
+  - **यहूदाचे कोणते राजे देवाशी विश्वासू होते****?**
+      * होय, काही विश्वासू होते, पण जास्त करुन वाईट होते.// [18-13]//
 
-
-**[[en/obs/notes/questions/17|<<  ]] | [[en/obs/notes/questions/19| >>]]**
+**[[:en:obs:notes:questions:17|<< ]] | [[:en:obs:notes:questions:19| >>]]**
