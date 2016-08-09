@@ -1,32 +1,30 @@
-====== Story #20: The Exile and Return ======
+====== **कथा ** #20: **हद्दपार आणि परत**  ======
 
-===== Comprehension Questions and Answers =====
+===== **आकलन प्रश्न आणि उत्तरे**  =====
 
+  - **संदेष्ट्यांनी लोकांना कोणत्या गोष्टी विषयी चेतावणी दिली होती****?**
+      * त्यांना त्यांना सांगितले पश्चात्ताप करा आणि देवाची उपासना करा.  //[20-01]//
+  - **लोकांनी संदेष्ट्यांच्या संदेशाला कसे उत्तर दिले****?**
+      * त्या नियमांचे पालन करण्यास नकार ददला.// [20-01]//
+  - **कोणता शत्रूने इस्राएलचे राज्य नष्ट केले****?**
+      * अश्शूरचे साम्राज्य.// [20-02]//
+  - **शोमरोनी कोण होते****?**
+      * इस्राएल वंशज ज्यांनी अश्शूरच्या देशातील परदेशी लग्न केले. //[20-04]//
+  - **इस्राएल राज्यातील लोकांना शिक्षा झालेली पाहिली, तेव्हा यहूदा राज्यातील लोकांनी देवाच्या आज्ञेचे पालन केले होते का?**
+      * नाही, ते मूर्तीची पूजा करत राहिले.// [20-05]//
+  - **यहूदाचा राजा कोणाची सेवा करण्यास सहमत होता****?**
+      * बाबेलचा राजा नबुखद्नेस्सर.// [20-06]//
+  - **यहूदाचा राजाने बंड केले तेव्हा, काय नबुखद्नेस्सर सैनिकांनी त्याला काय केले?**
+      * ते त्याच्या समोर राजाचे मुलगे ठार मारले, त्याला आंधळे केले आणि त्याला बाबेलच्या बंदिवासात मरण पावण्यास घेवीन गेले. // [20-08]//
+  - **आम्ही त्या वेळेला काय म्हणते जेव्हा देवाच्या लोकांना जबरदस्तीने वचन दिलेला देश सोडण्यास भाग पाडत?**
+      * हद्दपार.// [20-09]//
+  - **हद्दपारी दरम्यान देवाने लोकांना काय आश्वासन दिले****?**
+      * सत्तर वर्षा नंतर वचन दिलेल्या देशात तुम्ही परत जाल, असे देवाने आश्वासन दिले. //[20-10]//
+  - **बाबेलच्या राजाचा पराभव कोणी केला होता****?**
+      * पर्शियन साम्राज्य राजा कोरेश.// [20-11]//
+  - **राजा कोरेश याने यहूदीयांना काय आज्ञा दिली****?**
+      * कोणत्याही यहूदीयाला यहूदात परत जायचे असेत तर जाऊ शकतात. // [20-12]//
+  - **ते जेव्हा यरुशलेमेला परत आले तेव्हा यहूदीयांनी काय केले****?**
+      * त्यांनी मंदिर आणि शहराच्या तटबंदी पुन्हा बांधल्या.// [20-13]//
 
-  - **What was the warning that the prophets spoke to the people?**
-    *//They told them to repent and worship God. [20-01]//
-  - **How did the people respond to the message from the prophets?**
-    *//The people refused to obey. [20-01]//
-  - **What enemy destroyed the kingdom of Israel?**
-    *//The Assyrian Empire. [20-02]//
-  - **Who were the Samaritans?**
-    *//The descendants of the Israelites who married the foreigners brought to the land by the Assyrians. [20-04]//
-  - **Did the people of the kingdom of Judah obey God when they saw how he had punished the kingdom of Israel?**
-    *//No, they continued worshiping idols. [20-05]//
-  - **Who did the king of Judah agree to serve?**
-    *//King Nebuchadnezzar of Babylon. [20-06]//
-  - **When the king of Judah rebelled, what did Nebuchadnezzar’s soldiers do to him?**
-    *//They killed the king’s sons in front of him, made him blind, and took him away to die in prison in Babylon. [20-08]//
-  - **What do we call the period of time when God’s people were forced to leave the Promised Land?**
-    *//The Exile. [20-09]//
-  - **What did God promise to the people during the Exile?**
-    *//God promised that after seventy years, they would return to the Promised Land. [20-10]//
-  - **Who was the king who defeated the Babylonians?**
-    *//King Cyrus of the Persian Empire. [20-11]//
-  - **What order did King Cyrus give concerning the Jews?**
-    *//Any Jew who wanted to return to Judah could go there. [20-12]//
-  - **What did the Jews do when they returned to Jerusalem?**
-    *//They rebuilt the Temple and the wall around the city. [20-13]//
-
-
-**[[en/obs/notes/questions/19|<<  ]] | [[en/obs/notes/questions/21| >>]]**
+**[[:en:obs:notes:questions:19|<< ]] | [[:en:obs:notes:questions:21| >>]]**
