@@ -1,24 +1,30 @@
-===== This Is My Body [38-04] =====
+===== **हे माझे शरीर आहे  ** [38-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink&}}
 
-In Jerusalem, **Jesus celebrated** the **Passover** with his **disciples**. During the Passover meal, Jesus **took some bread** and **broke it**. He said, “Take and eat this. This is my body, which is **given for you**. **Do this to remember me**.” In this way, Jesus said that his body would be **sacrificed** for them.
-===== Important Terms: =====
+यरुशलेमध्ये, **येशूने** आपल्या **शिष्यांसह** **वल्हांडण** **सण** **साजरा** **केला**
+.  वल्हांडण सणाच्या जेवणाच्या दरम्यान येशूने **भाकर** **घेऊन** **ती** **मोडिली**
+.  तो म्हणाला,‘‘घ्या आणि खा
+. ’’ हे माझे शरीर आहे ते **तुम्हासाठी** **दिले** **जात** **आहे**
+.
 
-  * **[[:mr:obe:other:jerusalem]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:passover]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:other:sacrifice]]**
+**माझ्या** **स्मरणार्थ** **हे** **करा** **
+. ’’ ** ह्याच प्रकारे ,येशूने म्हटले की त्याचे शरीर त्यांच्यासाठी बलिदान म्हणून देण्यात येईल
+.
 
+===== **महत्वाचे** **शब्द :**  =====
 
-===== Translation Notes: =====
+  * **यरुशलेम**
+  * **येशू**, **येशू ख्रिस्त**,** ख्रिस्त येशू**
+  * **वल्हांडण**
+  * **शिष्य**
+  * **बलिदान**, **अर्पण**
+===== **भाषांतर टिपा:**  =====
 
-  * **celebrated** - That is, "was celebrating."
-  * **took some bread** - This could be translated as, "picked up a piece of bread" or, "picked up a flat loaf of bread."
-  * **broke it** - Some languages should say, "tore it in pieces" or, "tore it in half" or, "tore off part of it."
-  * **given for you** - This can also be translated as, "which I give for you."
-  * **Do this to remember me** - That is, "Do this as a way to remind yourselves of what I am doing for you." Jesus was referring to his death, which would happen soon.
-
-
+  * **साजरा****केला****
+ - ** म्हणजे, "साजरा केला होता."
+  * **भाकर****घेऊन**** - ** हे असे ही अनुवादित केले जाऊ शकते, , "एक भाकरीचा तुकडा उचलला" किंवा "पावाचा तुकडा उचलला."
+  * **ती****मोडिली**** - ** हे असे ही अनुवादित केले जाऊ शकते, “तुकडे केले,” किंवा, “अर्धे अर्धे तुकडे केला,”  “अनेक तुकडे केले.”
+  * **तुम्हासाठी****दिले****जात****आहे**** - ** हे असे ही अनुवादित केले जाऊ शकते, “जे मी तम्हासाठी देत आहे.”
+  * **माझ्या****स्मरणार्थ****हे****करा**** – म्हणजे, **"मी तुमच्यासाठी काय करीत आहे, असे स्वत: ला आठवण होईल अशा मार्गाने हे करा." येशू त्याच्या मृत्यू विषयी बोलत होता जे लवकरच घडणार होते.
 **[[:mr:obs:notes:frames:38-03|<<]] | [[:mr:obs:notes:38|Up]] | [[:mr:obs:notes:frames:38-05|>>]]**
