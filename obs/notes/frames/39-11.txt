@@ -1,21 +1,24 @@
-===== He Is Not Guilty [39-11] =====
+===== **तो निर्दोष आहे ** [39-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink&}}
 
-After speaking with **Jesus**, **Pilate** went out to the crowd and said, “**I find no guilt in this man**.” But the **Jewish leaders** and the crowd shouted, “**Crucify** him!” Pilate replied, “**He is not guilty**.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
-===== Important Terms: =====
+**येशूबरोबर** बोलल्यानंतर **पिलात** बाहेर असलेल्या जमावास म्हणाला,‘‘**मला** **या** **मनुष्यामध्ये** **काहीच** **दोष** **आढळत** **नाही** **
+. ’’ ** परन्तु **यहूदी** **पुढारी** व लोकसमुदाय मोठयाने ओरडले, ‘‘त्याला **क्रूसावर** **टांगा**
+! ’’ पिलात उत्तरला,‘‘**तो** **निर्दोष** **आहे**
+! ’’ पण ते आणखी मोठयाने ओरडू लागले
+.  तेंव्हा पिलात तिसर्यांदा म्हणाला,‘‘तो निरपराण आहे
+. ’’
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:pilate]]**
-  * **[[:mr:obe:kt:guilt]]**
-  * **[[:mr:obe:other:jewishleaders]]**
-  * **[[:mr:obe:kt:crucify]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **पिलात**
+  * **दोष****,**** दोषी**
+  * **यहूदी****, ****ज्यू अधिकारी****, ****धार्मिक पुढारी****,**
+  * **क्रूसावर****टांग****णे**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **I find no guilt in this man** - That is, "I do not find this man to be guilty" or, "I have examined this man, and I do not see that he has done anything wrong."
-  * **He is not guilty** - That is, "He has done nothing wrong!"
-
-
+  * **मला****या****मनुष्यामध्ये****काहीच****दोष****आढळत****नाही****
+ - **"मला ह्या मनुष्यात दोष आढळत नाही" किंवा "मी हा मनुष्य चौकशी केली आहे, आणि मला त्याने काही चुकीचे केले आहे असे दिसत नाही."
+  * **तो****निर्दोष****आहे**** – ** म्हणजे, "त्याने काहीही अयोग्य केले नाही.
 **[[:mr:obs:notes:frames:39-10|<<]] | [[:mr:obs:notes:39|Up]] | [[:mr:obs:notes:frames:39-12|>>]]**
