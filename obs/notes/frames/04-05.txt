@@ -1,26 +1,32 @@
-===== To Canaan [04-05] =====
+===== **कनान कडे** [04-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink}}
+अशा प्रकारे अब्रामाने देवाची आज्ञा पाळली. त्याने त्याची पत्नी **सराय** व त्याच्या सर्व चाकर आणि सर्व काही मालकीचे सोबत घेतले आणि देवाने दाखविलेल्या कनान देशात गेला.
+===== महत्वाचे शब्द : =====
 
-So **Abram obeyed God**. **He took** his wife, **Sarai**, together with all of his **servants** and everything he owned and went to the land **God showed him**, **the land of Canaan**. 
+  * **अब्राम**
+  * **आज्ञापालन**
+  * **देव**
+  * **साराय**
+  * **चाकर**
+  * **कनान**
+===== **भाषांतरीत टिपा**: =====
 
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:other:abraham]]**
-  * **[[:mr:obe:other:obey]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:sarah]]**
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:other:canaan]]**
-
-
-===== Translation Notes: =====
-
-
-  * **He took** – Some languages would say, "He brought" here. Others would use two different verbs here, such as, "He caused his wife to come with him" and, "He brought along all of their servants and possessions."
-  * **God showed him** - Somehow God made it clear to Abram where he was to go. The text doesn't tell how God showed him.
-  * **land of Canaan** - The name of this land was "Canaan". This could be translated, "the land called Canaan."
+  * त्याने घेतले -
+" काही भाषामध्ये म्हणायचे तर,
+"  त्याने सोबत आणले
+. ” जसे येथे दोन भिन्न क्रियापदांचा वापर होईल, , "तो आपल्या बरोबर पत्नीला घेतले,  आणि तो त्याचे सेवक आणि मालमत्ता सर्व सोबत आणले
+."
+  * **देवाने त्याला दाखवले
+– ** असाप्रकारे देवाने अब्रामाला कुठे जायचे हे स्पष्ट केले होते
+.  देवाने त्याला कसे दाखवले हे शब्दात सांगत नाही
+.
+  * **कनान देश**
+-  या देशाचे नाव
+" कनान
+" होते. ,
+" कनान नावाच्या देशात असेही अनुवादीत केले जाऊ शकते
+."
 
 **[[:mr:obs:notes:frames:04-04|<<]] | [[:mr:obs:notes:04|Up]] | [[:mr:obs:notes:frames:04-06|>>]]**
