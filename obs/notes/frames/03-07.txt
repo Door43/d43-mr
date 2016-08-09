@@ -1,19 +1,14 @@
-===== The Rain Began [03-07] =====
+===== पाऊसाला सुरूवात झाली [03-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?nolink}}
+मग पाऊस पडू लागला, आणि पडतच राहिला. चाळीस दिवस आणि चाळीस रात्र न थांबता प्रचंड पाऊस पडला! पाणी पृथ्वीतून उफाळुन बाहेर जोरदार वाहते आले. संपूर्ण जगातील प्रत्येक गोष्ट, अगदी उंच पर्वत सुद्धा पाण्यात बुडाले.
 
-Then it began to **rain, and rain, and rain**. It rained for forty days and forty nights without stopping! Water also came gushing up out of the earth. Everything in the **whole world was covered with water**, even the highest mountains. 
+===== **महत्वाचे शब्द**: =====
 
-===== Important Terms: =====
+===== **भाषांतरीत टिपा**: =====
 
-
-
-===== Translation Notes: =====
-
-
-  * **rain, and rain, and rain** - This emphasizes that there was an unusual, extreme amount of rain. Other languages may have a different way of emphasizing this.
-  * **gushing** - This indicates that there was a large amount of water coming out.
-  * **whole world was covered** - This refers to all the earth being covered with water from the flood.
-
+  * **मग पाऊस पडू लागला, आणि पडतच राहिला**  – हे या गोषटीवर जोर देत आहे की हा एक असाधारण, प्रचंड पाऊस होता इतर भाषे मध्ये वेगळ्या पद्धतीने सांगू शकतात.
+  * **उफाळून**  – हे पाण्याचा मोठा प्रवाह बाहेर येत होता असे निर्देशीत करते.
+  * **संपूर्ण जग झाकलेले होते**  – याचा अर्थ असा की जलप्रलयामुळे सर्व पृथ्वी पाण्यात बुडाली.
 **[[:mr:obs:notes:frames:03-06|<<]] | [[:mr:obs:notes:03|Up]] | [[:mr:obs:notes:frames:03-08|>>]]**
