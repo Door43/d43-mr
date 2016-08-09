@@ -1,22 +1,23 @@
-===== The False Witnesses [39-02] =====
+===== **खोटे साक्षीदार ** [39-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink&}}
 
-Inside the house, the **Jewish leaders put Jesus on trial**. They brought many false **witnesses** who **lied about him**. However, **their statements did not agree with each other**, so the Jewish leaders could not prove **he was guilty of anything**. Jesus did not say anything.
-===== Important Terms: =====
+आत घरामध्ये, **यहूदी** **धर्मपुढारी** **येशूची** **परीक्षा** **पहात** **होते**
+.  त्यांनी येशूविरुध्द **अनेक** **खोटे** **साक्षिदार** आणले होते जे **त्याच्याविरुद्ध खोटी साक्ष देतील**
+.  तथापि, **त्यांच्या** **जबानीमध्येही** **फरक** **आढळून** **आल्याने** यहूदी पुढार्यांना **येशूचा** **गुन्हा** **स्पष्ट** **करता** **आला** **नाही** **
+.  ** येशू काहीच बोलला नाही
 
-  * **[[:mr:obe:other:jewishleaders]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:witness]]**
-  * **[[:mr:obe:kt:guilt]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **यहूदी****, ****ज्यू अधिकारी****, ****धार्मिक पुढारी****,**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **साक्षीदार****,**** प्रत्यक्षदर्शी**
+  * **दोष****,**** दोषी**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **put Jesus on trial** - This could be translated as, "had a formal meeting to accuse Jesus of doing something wrong." Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty.
-  * **lied about him** - That is, "told lies about him" or, "falsely accused him of doing something wrong."
-  * **their statements did not agree with each other** - This could be translated as, "they said things about Jesus that were very different from each other" or, "the witnesses said things about Jesus that contradicted each other."
-  * **he was guilty of anything** - That is, "that he had done anything wrong."
-
-
+  * **येशूची****परीक्षा****पहात****होते****
+ - ** हे असे अनुवादित केले जाऊ शकते, " येशूवर काहीतरी चुकीचा आरोप करण्यासाठी एक औपचारिक बैठक बोलवली." सहसा परिक्षा कोणीतरी निष्पाप किंवा एक विशिष्ट गुन्ह्यासाठी अपराधी असेल तर शोधण्यासाठी केले जाते. या प्रकरणात, पुढारी येशूला दोषी ठरवणयाचा निर्णय घेणार होते.
+  * **त्याच्याविरुद्ध खोटी साक्ष देतील – ** म्हणजे**, **"त्याच्या विरुद्ध खोटे सांगा,” किंवा," काहीतरी खोटे चुकीचे आरोप करा."
+  * **त्यांच्या****जबानीमध्येही****फरक****आढळून****आल्याने**** - ** हे असे अनुवादित केले जाऊ शकते, "त्यांनी येशूविषयी गोष्टी सांगितल्या पण त्या एकमेकांपेक्षा फार वेगळ्या होत्या,"
+  * **त्याच्यात काही अपराध आहे**  – याचा अर्थ, "त्याने काही चुकीचे कृत्य केले आहे."
 **[[:mr:obs:notes:frames:39-01|<<]] | [[:mr:obs:notes:39|Up]] | [[:mr:obs:notes:frames:39-03|>>]]**
