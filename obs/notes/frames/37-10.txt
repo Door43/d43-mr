@@ -1,22 +1,20 @@
-===== Lazarus Was Alive Again [37-10] =====
+===== **लाजर पुन्हा जिवंत झाला ** [37-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?nolink&}}
 
-So **Lazarus came out**! He was still wrapped in **grave clothes**. **Jesus** told them, “Help him take off those grave clothes and release him!” Many of the **Jews believed** in Jesus **because of this miracle**.
-===== Important Terms: =====
+मग **लाजर** **बाहेर** **आल****ा**! त्याचे हातपाय **प्रेतवस्त्रांनी** बांधलेले होते
+.  **येशूने** त्यांना सांगितले,‘‘हयाला मोकळे करुन जाऊ द्या
+!  ’’ अनेक **यहूद्यांनी** येशूवर **विश्वास** **ठेव****ला  कारण त्यांनी**** हा** **चमत्कार** **पाह****ीला.**
+===== **महत्वाचे** **शब्द :**  =====
 
-  * **[[:mr:obe:other:lazarus]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:jew]]**
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:kt:miracle]]**
+  * **लाजर**
+  * **येशू**, **येशू ख्रिस्त**,** ख्रिस्त येशू**
+  * **यहूदी**, **यहूदी**,** यहूदी**
+  * **विश्वास**,** च्यावर विश्वास ठेवने, श्रद्धा**
+  * **चमत्कार**,** आश्चर्य**, **चिन्ह**
+===== **भाषांतर टिपा:**  =====
 
-
-===== Translation Notes: =====
-
-  * **Lazarus came out!** - Some languages should say, "Lazarus came out of the tomb!"
-  * **grave clothes** - That is, "burial clothes." This can also be translated as, "burial bandages" or, "strips of cloth."
-  * **because of this miracle** - That is, "because God had done this amazing miracle" or, "because Jesus had made Lazarus come alive again."
-
-
+  * **लाजर****बाहेर****आल****ा****- ** काही भाषांमध्ये “लाजर कबरेच्या बाहेर आला” असे ही म्हणू शकतील
+  * **प्रेतवस्त्रांनी**** – ** याचा अर्थ, "दफन करताना वापरतात ते कापड." हे असे देखील भाषांतर करणे शक्य आहे, दफनाच्या पट्टया किंवा कपड्याच्या पट्टया.
+  * **कारण त्यांनी**** हा****चमत्कार****पाह****ीला – म्हणजे, **" कारण देवाने हे आश्चर्यकारक चमत्कार केला होता," किंवा, " कारण येशूने लाजरला पुन्हा जिवंत केले होते."
 **[[:mr:obs:notes:frames:37-09|<<]] | [[:mr:obs:notes:37|Up]] | [[:mr:obs:notes:frames:37-11|>>]]**
