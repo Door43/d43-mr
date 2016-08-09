@@ -1,22 +1,23 @@
-===== One People [04-01] =====
+===== एक लोक [04-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink}}
+जलप्रलयानंतर अनेक वर्षांनी, जगात पुन्हा पुष्कळ लोक होते, आणि ते सर्व एकच भाषा बोलत. त्या पृथ्वीवर भरून टाका ह्या देवाच्या आज्ञा ऐवजी, ते एकत्र जमले आणि एक नगर बांधले
+.
 
-**Many years after the flood**, there were **again many people** in the world, and they all spoke the **same language**. Instead of filling the earth as **God** had commanded, they gathered together and built **a city**.
+===== महत्वाचे शब्द : =====
 
-===== Important Terms: =====
+  * **देव**
+===== **भाषांतरीत टिपा**: =====
 
-
-  * **[[:mr:obe:kt:god]]**
-
-
-===== Translation Notes: =====
-
-
-  * **many years after the flood** - Many generations had passed since the end of the flood.
-  * **again many people** - Noah's family multiplied into enough people to fill a city.
-  * **same language** - This means there was only one language, so they could all understand each other.
-  * **a city** - It is best to use a general word for "city" since the text does not give a specific name.
+  * **जलप्रलयानंतर अनेक वर्षांनी**,  जलप्रलयानंतर अनेक पिढ्या गेल्या.
+  * **पुन्हा अनेक लोक**
+-  नोहा व त्याच्या कुटुंबाला एक नगर भरण्यासाठी पुरेशी लोकसंख्या वाढली.
+  * **एकच भाषा**
+-  याचा अर्थ तेथे एकच भाषा होती, म्हणून ती एकमेकांना समजत हेती
+.
+  * **एक नगर**
+- " येथे “नगर” एक सामान्य शब्द वापरणे सर्वोत्तम आहे
+. विशिष्ट नाव देत नाही.
 
 **[[:mr:obs:notes:frames:03-16|<<]] | [[:mr:obs:notes:04|Up]] | [[:mr:obs:notes:frames:04-02|>>]]**
