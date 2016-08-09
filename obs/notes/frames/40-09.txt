@@ -1,23 +1,25 @@
-===== The Burial of Jesus [40-09] =====
+===== **येशूचे  दफन ** [40-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink&}}
 
-Then **Joseph** and Nicodemus, two **Jewish leaders** who **believed Jesus** was the **Messiah**, **asked Pilate for Jesus’ body**. They wrapped his body in cloth and placed it in a **tomb** cut out of rock. Then they rolled a large stone in front of the tomb to block the opening.
-===== Important Terms: =====
+तेंव्हा **योसेफ** आणि **निकदेम** ही दोघे यहूदी पुढारी ज्यांनी **येशू** **हा** **मसीहा** **आहे** **असा** **विश्वास** **ठेविला** होता, **पिलाताकडे** **जाऊन** **येशूचे** **पार्थिव** **शरीर** **मागितले**
+.  त्यांनी त्याचे शरीर वस्त्रांनी गुंडाळून खडकामध्ये खोदलेल्या एका **कबरेमध्ये** ठेविले
+.  मग त्यांनी त्या कबरेच्या दाराशी एक मोठी धोंड उभी केली
+.
 
-  * **[[:mr:obe:other:jewishleaders]]**
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:christ]]**
-  * **[[:mr:obe:other:pilate]]**
-  * **[[:mr:obe:other:tomb]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **यहूदी, ज्यू अधिकारी, धार्मिक पुढारी,**
+  * **विश्वास**,** च्यावर विश्वास ठेवने, श्रद्धा**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * ख्रिस्त, मसिहा
+  * **पिलात**
+  * **थडगे,****थडगे, दफन करण्याची जागा**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **Joseph** - This was not Mary's husband. It was another man named Joseph.
-  * **asked Pilate for Jesus' body** - That is, "asked Pilate to permit them to take Jesus' body down from the cross."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **योसेफ****
+ - ** हा मरीयाचा पती नाही. तो योसेफ नावाचा आणखी एक मनुष्य होता.
+  * **पिलाताकडे****जाऊन****येशूचे****पार्थिव****शरीर****मागितले**** – ** म्हणजे, "वधस्तंभावरुन येशूचे शरीर खाली घेण्याची परवानगी पिलाताला मागितली."
+  * बायबल कथा - यातील संदर्भ काही पवित्रशास्त्रातील अनुवादा पेक्षा जरा वेगळा असू शकते.
 
 **[[:mr:obs:notes:frames:40-08|<<]] | [[:mr:obs:notes:40|Up]] | [[:mr:obs:notes:frames:41-01|>>]]**
