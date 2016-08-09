@@ -1,26 +1,23 @@
-===== I Am the Resurrection [37-05] =====
+===== **मी पुनरुत्थान आहे ** [37-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink&}}
 
-**Jesus** replied, “**I am the Resurrection and the Life**. Whoever **believes** in me **will live**, **even though he dies**. Everyone who believes in me **will never die**. Do you believe this?” **Martha** answered, “Yes, **Master**! I believe you are the **Messiah**, the **Son of God**.”
-===== Important Terms: =====
+**येशू** म्हणाला, ‘‘**पुनरुत्थान** **व** **जीवन** **मीच** **आहे. ** जो माझ्यावर **विश्वास** ठेवतो **तो** **मेला** **असला** **तरी** **जगे****ल**. प्रत्येकजण जो माझ्यावर विश्वास ठेवितो, तो **कधिही** **मरणार** **नाही**. याजवर तू विश्वास ठेवतेस काय?’’ मार्थाने उत्तर दिले,‘‘होय,**स्वामी**
+!  आपण **देवाचे** **पुत्र** **मसीहा** आहात असा मी विश्वास धरिते’’
+===== **महत्वाचे** **शब्द :**  =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:resurrection]]**
-  * **[[:mr:obe:kt:life]]**
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:kt:christ]]**
-  * **[[:mr:obe:kt:sonofgod]]**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **पुनरुत्थान**
+  * **जीवन****, ****जगणे****,**** जिवंत असणे, जिवंत**
+  * **विश्वास****,**** च्यावर विश्वास ठेवने, श्रद्धा**
+  * **मृत्यू****, ****मरेल****,**** मृत**
+  * **स्वामी****, ****गुरुजी****,**** महाराज**
+  * **ख्रिस्त, मसिहा**
+  * **देवाचा पुत्र, मुलगा**
+===== **भाषांतर टिपा:**  =====
 
-
-===== Translation Notes: =====
-
-  * **I am the Resurrection and the Life** - This is one of several very powerful "I am" statements in which Jesus says something about his essential nature. In this one, Jesus indicated that he is the "provider" or, "source" of resurrection and life. If possible, translate this phrase in a way that makes it clear that this is his essential nature. This can also be translated as, "I am the one who resurrects people and causes them to live."
-  * **will live, even though he dies.** - That is, "will live forever, even if he dies." The English word, "he" does not only refer to men. Women who believe in Jesus will also live forever.
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:mr:obs:notes:frames:37-01|[37-01]]]**.
-  * **will never die** - This can also be translated as, "will live forever."
-
-
+  * **पुनरुत्थान****व****जीवन****मीच****आह****े **– अनेक शक्तीशाली गोष्टीमधील ही एक आहे ज्यात येशू “ मी आहे” याचा वापर करतो ज्यात तो आपल्या अत्यावश्यक स्वभावा विषयी सांगत आहे. यात, येशू असे संकेत देत आहे की तो, पुनरुत्थान आणि जीवनाचा "दाता" किंवा "स्रोत" आहे. शक्य असल्यास, अशा प्रकारे ह्या वाक्प्रचार अनुवाद करा की हा त्याच्या अत्यावश्यक स्वभाव आहे. हे असे देखील भाषांतर करणे शक्य आहे, की लोकांचे पुनरुत्थान आणि जीवन देणारा मीच आहे.
+  * **तो****मेला****असला****तरी****जगे****ल – ** याचा अर्थ**, **"जरी तो मेला तरी तो अनंतकाळ जगेल." इंग्रजी शब्द, "तो" हे फक्त पुरुषांसाठीच वापरत नाहीत. स्त्रिया ज्या येशूवर विश्वास ठेवतील त्या सुद्धा अनंतकाळ जगतील.
+  * **मार्था**  - मार्था लाजर आणि मरीयाची बहीण होती.
+  * **कधिही****मरणार****नाही**  - हे असे देखील भाषांतर करणे शक्य आहे, “तो अनंतकाळ जगेल.”
 **[[:mr:obs:notes:frames:37-04|<<]] | [[:mr:obs:notes:37|Up]] | [[:mr:obs:notes:frames:37-06|>>]]**
