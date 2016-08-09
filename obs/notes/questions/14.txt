@@ -1,39 +1,38 @@
-====== Story #14: Wandering in the Wilderness ======
+====== **कथा** #14: **वाळवंटात भटकणे**  ======
 
-===== Comprehension Questions and Answers =====
+===== **आकलन प्रश्न आणि उत्तरे**  =====
 
-  - **Where did God lead the Israelites after they left Mount Sinai?**
-    *//He led them towards Canaan, the Promised Land. [14-01]//
-  - **What did God tell the Israelites to do to the Canaanites?**
-    *//He told them to get rid of all of them, not to make peace with them, not to marry them, and to destroy all of their idols. [14-03]//
-  - **What did the twelve spies say about the land of Canaan?**
-    *//The land is very fertile and the crops are plentiful. [14-05]//
-  - **Why did ten of the spies say the Israelites should not attack the people of Canaan?**
-    *//They said, "The cities are strong and the people are giants. If we attack them, they will defeat us and kill us!" [14-05]//
-  - **What did Caleb and Joshua say about the people of Canaan?**
-    *//The people are strong, but we can defeat them. God will fight for us! [14-06]//
-  - **What did the people want to do after they heard the report of the spies?**
-    *//They wanted to choose another leader and go back to Egypt. [14-07]//
-  - **How did God say he would punish the people for their disobedience?**
-    *//They would wander in the wilderness until everyone twenty years or older, except Caleb and Joshua, died. [14-08]//
-  - **Why were the Israelites defeated when they attacked the Canaanites?**
-    *//Because God did not go with them into the battle. [14-10]//
-  - **How long did the Israelites wander in the wilderness?**
-    *//Forty years. [14-11]//
-  - **How did God provide for the Israelites in the wilderness?**
-    *//He gave them "manna," sent flocks of quail, and kept their clothes and shoes from wearing out. [14-11]//
-  - **How did God respond when the people complained and grumbled?**
-    *//God was still faithful to his promises to Abraham, Isaac, and Jacob. [14-12]//
-  - **Why was God angry when Moses struck the rock?**
-    *//Because Moses dishonored God by not speaking to the rock as he was told to do. [14-13]//
-  - **How did God punish Moses for his disobedience?**
-    *//God said that Moses would not enter the Promised Land. [14-13]//
-  - **Who did God promise to send one day in the future?**
-    *//Another prophet like Moses. [14-14]//
-  - **Who led the Israelites after Moses died?**
-    *//Joshua. [14-15]//
-  - **What kind of leader was Joshua?**
-    *//He was a good leader because he trusted and obeyed God. [14-15]//
+  - **सीनाय पर्वत सोडल्यानंतर देव इस्राएल लोकांना कुठे घेवून गेला?**
+      * तो त्यांना वचन दिलेल्या कनान, देशात घेवून गेला. //[14-01]//
+  - **देवाने इस्राएली लोकांना कनानी लोकांशी कसे वागण्यास सांगितले?**
+      * त्यांना घालवून द्या, त्यांच्याबरोबर शांतीने राहू नका, त्यांच्याशी लग्न करु नका, आणि त्यांच्या सर्व मूर्तीं नष्ट करा.// [14-03]//
+  - **बारा हेरांनी कनान देशा विषयी काय म्हटले****?**
+      * जमीन फार सुपीक आहे आणि पिके फार आहेत.// [14-05]//
+  - **दहा हेर इस्राएल लोकांना कनान लोकांवर हल्ला करु नये असे का म्हणाले?**
+      * ते म्हणाले, "नगरे मजबूत आहेत आणि लोक महाकाय आहेत.//// जर आपण त्यांच्यावर हल्ला केला तर ते आपला पराभव करतील आणि आपल्याला मारतील!"// [14-05]//
+  - **कनान लोकांविषयी कालेब व यहोशवा काय म्हणतात****?**
+      * लोक खूप शक्तिशाली आहेत, पण आम्ही त्यांना पराभव करू शकतो.//// देव आमच्यासाठी लढेल! //[14-06]//
+  - **हेरांची वार्ता ऐकल्या नंतर लोक काय करू इच्छित होते****?**
+      * ते दुसऱा नेता निवडू आणि मिसर देशात परत जाणार होते.// [14-07]//
+  - **त्यांच्या आज्ञाभंगामुळे देवाने लोकांना कशी शिक्षा दिली?**
+      * ते प्रत्येकजण जे वीस वर्षे किंवा त्यापेक्षा अधिक वर्षाचे आहेत ते फक्त कालेब व यहोशवा वगळता अरण्यात भटकतील, आणि मरण पावतील.// [14-08]//
+  - **त्यांनी कनानी लोकांवर हल्ला केला तेव्हा इस्राएल लोकांचा पराभव का झाला?**
+      * कारण लढाईसाठी देव त्यांच्या बरोबर गेला नाही.// [14-10]//
+  - **इस्राएल लोक अरण्यात किती काळ भटकले?**
+      * चाळीस वर्षे.// [14-11]//
+  - **देवाने इस्राएली लोकांना वाळवंटात कशी तरतूद केली****?**
+      * त्याने त्यांना "मान्ना" दिला, लावे पक्षाचे कळप पाठविले, आणि त्यांचे कपडे आणि जोडे फाटले नाहीत. [//14-11]//
+  - **लोकांनी तक्रार केली आणि पुटपुटले तेव्हा देवाने कसा प्रतीसाद दिला****?**
+      * देव अजूनही अब्राहाम, इसहाक व याकोब यांना दिलेल्या वचना बद्दल विश्वासू होता.// [14-12]//
+  - **मोशेने खडकावर मारले तेव्हा देव का रागावला होता****?**
+      * कारण मोशेनी खडकाशी न बोलल्यामुळे देवाचा अपमान केला जसे की त्याला त्याने तसे करायला सांगितले होते.// [14-13]//
+  - **देवाने आज्ञा न पाळल्यामुळे मोशेला काय शिक्षा दिली****?**
+      * देव मोशेला वचन दिलेल्या देशात प्रवेश करणार नाहीस, असे म्हणाला. //[14-13]//
+  - **भविष्यात एक दिवस कोणाला पाठविण्याचे आश्वासन देवाने दिले****?**
+      * मोशे सारखा दुसरा संदेष्टा.// [14-14]//
+  - **मोशेच्या मृत्यूनंतर नंतर इस्राएल लोकांचे नेतृत्व कोणी केले****?**
+      * यहोशवा.// [14-15]//
+  - **यहोशवा नेता कसा होता****?**
+      * तो एक चांगला नेता होता कारण तो देवावर विश्वास ठेवत होता आणि त्याच्या आज्ञेत राहात होता.// [14-15]//
 
-
-**[[en/obs/notes/questions/13|<< ]] | [[en/obs/notes/questions/15| >>]]**
+**[[:en:obs:notes:questions:13|<< ]] | [[:en:obs:notes:questions:15| >>]]**
