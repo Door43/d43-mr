@@ -1,22 +1,22 @@
-===== Judas Killed Himself [39-08] =====
+===== **यहूदा आत्महत्या करतो ** [39-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink&}}
 
-**Peter** went away and **cried bitterly**. Meanwhile, **Judas**, **the betrayer**, saw that the **Jewish leaders had condemned Jesus to die**. Judas became full of sorrow and went away and killed himself.
-===== Important Terms: =====
+तेंव्हा **पेत्र** दूर जाऊन **ढसा ढसा** **रडला** **
+.  ** दरम्यान, येशूस धरुन देणार्या **विश्वासघातकी** **यहूदाने** पाहिले की, **यहूदी** **धर्मपुढार्यांनी** **येशूला** **मरणदंडाची** **शिक्षा** **ठोठावली** **आहे** **
+.  ** तेंव्हा यहूदास असे केल्याचा पस्ताव झाला व त्याने जाऊन आत्महत्या केली
+.
 
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:other:judasiscariot]]**
-  * **[[:mr:obe:kt:betray]]**
-  * **[[:mr:obe:other:jewishleaders]]**
-  * **[[:mr:obe:kt:jesus]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **पेत्र हा शिमोन पेत्राचा****, ****पेत्र**
+  * **यहूदा इस्कर्योत**
+  * **विश्वासघाताने पकडून देणे****,**** विश्वासघातकी**
+  * **यहूदी****, ****ज्यू अधिकारी****, ****धार्मिक पुढारी****,**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **cried bitterly** - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
-  * **the betrayer** - That is, "who had betrayed Jesus" or, "who had helped the leaders arrest Jesus."
-  * **had condemned Jesus to die** - That is, "had said that Jesus was guilty and must die."
-
-
+  * **ढसा ढसा****रडला**** – म्हणजेच, **, "खोल दु:खात बूडून रडला," किंवा " खंत वाटून रडला."
+  * **विश्वासघातकी**  – म्हणजेच, "ज्याने येशूचा विश्वासघात केला होता" किंवा, "ज्यावे पुढा-यांना येशूला अटक करण्यास मदत केली होती."
+  * **येशूला****मरणदंडाची****शिक्षा****ठोठावली**** – ** म्हणजेच**, **"कारण ते म्हणाले येशू अपराधी आहे आणि मृत्यूस पात्र आहे.
 **[[:mr:obs:notes:frames:39-07|<<]] | [[:mr:obs:notes:39|Up]] | [[:mr:obs:notes:frames:39-09|>>]]**
