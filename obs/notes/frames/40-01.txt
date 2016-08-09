@@ -1,20 +1,21 @@
-===== Jesus Carried His Cross [40-01] =====
+===== **येशू त्याचा वधस्तंभ वाहून नेतो ** [40-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink&}}
 
-After the soldiers **mocked Jesus**, they **led him away to crucify him**. They made him carry the **cross** on which he would die.
-===== Important Terms: =====
+सैनिकांनी येशूची **थट्टा** **उडविल्यानंतर** ते **त्यास** **वधस्तंभावर** **खिळे** **ठोकून** **मारण्यासाठी** **घेऊन** **गेले** **
+.  ** ज्या वधस्तंभावर त्यास मारावयाचे होते तो अवजड **वधस्तंभ** त्यांनी त्याच्या खांदयावर दिला
+.
 
-  * **[[:mr:obe:other:mock]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:crucify]]**
-  * **[[:mr:obe:kt:cross]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **थट्टा****, ****उपहास****,तुच्छतेने हसणे**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **क्रूसावर****टांग****णे**
+  * **वधस्तंभ**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **led him away** - That is, "forced him to go with them." This could also be translated as, "took him away."
-  * **to crucify him** - That is, "to kill him on a cross."
-
+  * **घेऊन****गेले**** – ** म्हणजे**, **"त्यांच्याबरोबर जाण्यास त्याला भाग पाडले." हे असे अनुवादित केले जाऊ शकते, "त्याला घेऊन गेले."
+  * **वधस्तंभावर****खिळे****ठोकून****मारण्यासाठी****
+ - **" त्याला वधस्तंभावर ठार मारण्यासाठी."
 
 **[[:mr:obs:notes:frames:39-12|<<]] | [[:mr:obs:notes:40|Up]] | [[:mr:obs:notes:frames:40-02|>>]]**
