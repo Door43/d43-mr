@@ -1,21 +1,20 @@
-===== To the Mountain [36-01] =====
+===== **पर्वतावर ** [36-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?nolink&}}
 
-One day, **Jesus** took three of his **disciples**, **Peter**, **James**, and **John**, with him. (The disciple named John was not the same person who **baptized** Jesus.) They went up on a high mountain by themselves to pray.
+एके दिवशी **येशूने** आपल्या **शिष्यांपैकी** **पेत्र****, ****याकोबा** **व** **योहान** हया तिघांना त्यांच्या बरोबर घेतले
+.  (हा योहान **बाप्तिस्मा** करणारा योहान नव्हे) ते सर्व उंच डोंगरावर प्रार्थना करण्यासाठी चढून गेले
+.
 
-===== Important Terms: =====
+===== **महत्वाचे** **शब्द :**  =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:other:johntheapostle]]**
-  * **[[:mr:obe:kt:baptize]]**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **शिष्य**
+  * **पेत्र, शिमोन पेत्र****, ****केफा**
+  * **योहान(प्रेषित)**
+  * **बाप्तिस्मा****, ****बाप्तिस्मा**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **James** - This is a different James than the one who wrote the Book of James in the Bible. To make this clear, some languages may need to use two slightly different names or to spell them differently.
-
-
+  * **एके****दिवशी**  - ह्या वाक्प्रचारात एक घटना समाविष्ट आहे जी भूतकाळात घडली आहे. पण एक विशिष्ट वेळ दर्शवित नाही. अनेक भाषांमध्ये एक सत्य कथा सांगण्यासाठी एक समान मार्ग आहे.
+  * **याकोब **- हा पवित्र शास्त्रामधिल याकोब हे पुस्तक ज्याने लिहिले त्या पेक्षा हा वेगळा याकोब आहे. या स्पष्ट करण्यासाठी काही भाषांमध्ये दोन किंचित भिन्न नावे वापरण्यासाठी किंवा त्यांना वेगळे लिहिणे आवश्यक आहे.
 **[[:mr:obs:notes:frames:35-13|<<]] | [[:mr:obs:notes:36|Up]] | [[:mr:obs:notes:frames:36-02|>>]]**
