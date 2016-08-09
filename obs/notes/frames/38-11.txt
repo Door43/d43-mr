@@ -1,21 +1,23 @@
-===== At Gethsemane [38-11] =====
+===== **गेथशेमाने येथे  ** [38-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink&}}
 
-Then **Jesus** went with his **disciples** to **a place called Gethsemane**. Jesus told his disciples to **pray** that they would not **enter into temptation**. Then Jesus went to pray **by himself**.
-===== Important Terms: =====
+मग **येशू** आपल्या **शिष्यांना** घेऊन **गेथशेमानी** **येथील** **बागेत** गेला
+.  शिष्यांनी **परिक्षेत** **पडू** **नये** **म्हणून** येशूने त्यांना **प्रार्थना** करावयास सांगितले
+.  मग येशू **स्वत**: **प्रार्थना** करावयास गेला
+.
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:other:pray]]**
-  * **[[:mr:obe:kt:tempt]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **शिष्य**
+  * **प्रार्थना**
+  * **परीक्षा मोह**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **a place called Gethsemane** - This could be translated as, "a nearby place called Gethsemane" or, "a place called Gethsemane at the foot of the Mount of Olives."
-  * **enter into temptation** - That is, "would not sin when they were tempted" or, "would not give in to the temptation they were about to experience."
-  * **by himself** - This could be translated as, "alone."
-
-
+  * **गेथशेमानी****म्हटलेले ठिकान –**  हे असे अनुवादित केले जाऊ शकते, " गेथशेमाने नावाचे जवळपासचे ठिकाण "किंवा, "जैतून डोंगराच्या पायथ्याशी गेथशेमाने नावाची जागा."
+  * **परिक्षेत****पडू****नये****
+ - ** म्हणजे, "त्यांनी त्याची परीक्षेत पडल्यावर पाप करु नये किंवा, "येणा-या अनुभवाच्या परिक्षेपासून वाचावे .
+  *  **स्वत** **
+: **** -**  हे असे अनुवादित केले जाऊ शकते, “एकटा.”
 **[[:mr:obs:notes:frames:38-10|<<]] | [[:mr:obs:notes:38|Up]] | [[:mr:obs:notes:frames:38-12|>>]]**
