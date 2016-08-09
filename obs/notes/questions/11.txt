@@ -1,23 +1,22 @@
-====== Story #11: The Passover ======
+====== **कथा ** #11: **वल्हांडण सण**  ======
 
-===== Comprehension Questions and Answers =====
+===== **आकलन प्रश्न आणि उत्तरे**  =====
 
-  - **What did God say he would do to the Egyptians if Pharaoh did not let the Israelites go?**
-    *//He would kill all the firstborn males of both people and animals. [11-01]//
-  - **How could people save their firstborn son?**
-    *//They had to kill a perfect lamb and put its blood around the door of their house. [11-02], [11-03]//
-  - **What specific food did God tell the Israelites to eat with the roasted lamb?**
-    *//Bread that was made without yeast. [11-03]//
-  - **What were the Israelites to be ready to do when they ate?**
-    *//Be ready to leave Egypt. [11-03]//
-  - **What did God do at the houses that had the blood around the doors?**
-    *//He passed over those houses and everyone inside was safe. [11-05]//
-  - **What did God do at every Egyptian house?**
-    *//He killed the firstborn son. [11-06]//
-  - **How many of the firstborn sons of the Egyptians were killed?**
-    *//All of them died, including Pharaoh's son. [11-07]//
-  - **What did Pharaoh tell Moses and Aaron after this plague?**
-    *//"Take the Israelites and leave Egypt immediately!" [11-08]//
+  - **फारो इस्राएल लोकांना जाऊ दिले नाही तर मिसरच्या लोकांचे देव काय करेल म्हणाला?**
+      * तो लोकांचे आणि प्राण्याचे दोघांचेही सर्व प्रथम जन्मलेल्या नरांना मारुन टाकणार होता. //[11-01]//
+  - **लोकांची आपल्या पहिला जन्मलेल्या मुलाचे रक्षण कसे केले****?**
+      * त्यांना एक निर्दोष कोकरु मारायचे होते आणि त्याचे रक्त घराच्या दारापाशी लावायचे होते.// [11-02], [11-03]//
+  - **देवाने कोणते विशिष्ट अन्न भाजलेल्या कोकरा सोबत इस्राएल लोकांना खायचे होते?**
+      * खमिर न घातलेली भाकरी.//[11-03]//
+  - **ते खाल्या बरोबर इस्राएल लोकांना कशाची तयारी करायची होती?**
+      * मिसर सोडून जाण्यास तयार व्हायचे होते.// [11-03]//
+  - **दरवाज्यावर रक्त पाहून त्या घराचे देवाने काय केले****?**
+      * तो ते घर ओलांडून पुढे गेला आणि आतील प्रत्येकजण सुरक्षित होते. //[11-05]//
+  - **मिसरच्या लेकांच्या प्रत्येक घरात देवाने काय केले****?**
+      * त्याने ज्येष्ठ मुलला ठार केले.// [11-06]//
+  - **मिसरी लोकांच्या किती पहिल्या जन्मलेल्या मुलांना ठार मारले****?**
+      * फारोचे पुत्रासहित त्यांच्यातील सर्वजण.// [11-07]//
+  - **या पिडे नंतर फारोने मोशे व अहरोन यांना काय सांगितले?**
+      * "इस्राएल लोकांना घे आणि ताबडतोब मिसर सोडून जा!"//[11-08]//
 
-
-**[[en/obs/notes/questions/10|<< ]] | [[en/obs/notes/questions/12| >>]]**
+**[[:en:obs:notes:questions:10|<< ]] | [[:en:obs:notes:questions:12| >>]]**
