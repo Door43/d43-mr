@@ -1,24 +1,22 @@
-===== Noah's Sacrifice [03-14] =====
+===== **नोहाचे अर्पण** [03-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?nolink}}
+तारवातून उतरल्या नंतर, **नोहाने** एक **वेदी** बांधली आणि **अर्पणासाठी** वापरले जाऊ शकणार्या प्रत्येक प्राण्यांचे अर्पण केले. **देव ** अर्पणाने **आनंदी झाला** आणि नोहा व त्याचे कुटुंबाला **आशीर्वाद** दिला
+.
 
-After **Noah** got off the boat, he built an **altar** and **sacrificed** some of each kind of **animal that could be used for a sacrifice**. **God was happy** with the sacrifice and **blessed** Noah and his family. 
+===== महत्वाचे शब्द : =====
 
-===== Important Terms: =====
+  * **नोहा**
+  * **वेदी**
+  * **अर्पणे**
+  * **देव**
+  * **आशिर्वाद**
+===== **भाषांतरीत टिपा**: =====
 
-
-  * **[[:mr:obe:other:noah]]**
-  * **[[:mr:obe:other:altar]]**
-  * **[[:mr:obe:other:sacrifice]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:bless]]**
-
-
-===== Translation Notes: =====
-
-
-  * **animal that could be used for a sacrifice** - Another way to say this would be, "that people could use to sacrifice to him."
-  * **God was happy** - God was pleased with Noah for sacrificing these animals.
+  * **अर्पणास योग्य प्राणी – ** त्याला असे ही म्हणता येईल की, लोक त्याला अर्पण करण्यासाठी वापरू शकतात असे
+" .
+  * **देवाला आनंद झाला**– प्राण्यांच्या ह्या अर्पणामुळे देव प्रसन्न झाला
+.
 
 **[[:mr:obs:notes:frames:03-13|<<]] | [[:mr:obs:notes:03|Up]] | [[:mr:obs:notes:frames:03-15|>>]]**
