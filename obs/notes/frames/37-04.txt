@@ -1,24 +1,21 @@
-===== Martha Met Jesus [37-04] =====
+===== **मार्था येशूला भेटली ** [37-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink&}}
 
-When **Jesus** arrived at **Lazarus**' hometown, Lazarus had already been **dead** for four days. **Martha went out to meet Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**. But I **believe God will give you whatever you ask from him**.”
-===== Important Terms: =====
+जेंव्हा **येशू** **लाजर** राहत असलेल्या गावी आला, तेंव्हा लाजरला **मरुन** चार दिवस झाले होते
+.  **मार्था** **येशूला** **भेटण्यासाठी** **पुढे** **गेली** आणि म्हणाली**,‘‘****स्वामी**, जर आपण इथे असता, तर **माझा** **भाऊ** **मे****ला** **नसता.  ** परंतु **माझा** **महत्वाचे** **शब्द :**
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:lazarus]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:kt:god]]**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **लाजर**
+  * **मृत्यू****, ****मरेल****,**** मृत**
+  * **स्वामी****, ****गुरुजी****,**** महाराज**
+  * **विश्वास****,**** च्यावर विश्वास ठेवने, श्रद्धा**
+  * **देव**
+===== **भाषांतर टिपा:**  =====
 
-
-===== Translation Notes: =====
-
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:mr:obs:notes:frames:37-01|[37-01]]]**.
-  * **went out to meet Jesus** - That is, "went to meet Jesus as he was coming into the town."
-  * **my brother would not have died.** - That is, "you would have healed my brother and he would not have died" or, "you could have prevented my brother from dying."
-  * **will give you whatever you ask from him** - That is, "will do whatever you ask him to do."
-
-
+  * **मार्था****
+  - ** मार्था लाजर आणि मरीयाची बहिण होती
+  * **येशूला****भेटण्यासाठी****पुढे****गेली**** - म्हणजे,**  "तो नगरात प्रवेश करत असता येशूला भेटायला गेली."
+  * **माझा****भाऊ****मे****ला****नस****ता – म्हणजे, **"तू माझ्या भावाला वाचविण्याचा प्रयत्न केला असता आणि तो मेला नसता," किंवा, तू माझ्या भावाला मरण्यापासून रोकले असते.
+  * **आपण****जे****काही****मागाल****, ****देव****ते****पूर्ण****करील**** – याचा अर्थ, **"तु त्याला जे मागशिल ते तो करेल."
 **[[:mr:obs:notes:frames:37-03|<<]] | [[:mr:obs:notes:37|Up]] | [[:mr:obs:notes:frames:37-05|>>]]**
