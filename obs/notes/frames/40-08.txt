@@ -1,22 +1,22 @@
-===== The Soldier's Testimony [40-08] =====
+===== **एका शिपायाची साक्ष ** [40-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink&}}
 
-**Through his death**, **Jesus opened a way** for people to **come to God**. When the soldier guarding Jesus saw everything that had happened, he said, “Certainly, this man was **innocent**. He was the **Son of God**.”
-===== Important Terms: =====
+**त्याच्या** **मृत्यूद्वारे** **येशूने** लोकांसाठी **देवाकडे** **जाण्याचा** **मार्ग** **खूला** **करुन** **दिला**
+.  येशूचा पहारा करत असलेल्या सैनिकाने हे सर्व पाहून उद्गारला,‘‘खरोखर, हा मनुष्य **निष्पाप** होता
+.  तो देवाचा पुत्र होता
+. ’’
 
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:innocent]]**
-  * **[[:mr:obe:kt:sonofgod]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **मृत्यू**, **मरतात**,** मृत**
+  * **येशू**, **येशू ख्रिस्त**,** ख्रिस्त येशू**
+  * **देव**
+  * **निष्पाप**
+  * **देवाचा पुत्र, पुत्र,मुलगा **
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **Through his death** - That is, "By means of his death" or, "By dying."
-  * **opened a way** - That is, "made it possible."
-  * **come to God** - That is, "come near to God" or, "go near to God" or, "approach God" or, "know God personally." The tearing of the curtain showed that the barrier between God and people had been removed.
-
-
+  * **त्याच्या****मृत्यूद्वारे**** – ** याचा अर्थ, “म्हणजे त्याच्या मृत्यूमुळे" किंवा, “त्याच्या मरणाने.”
+  * **मार्ग****खूला****करुन****दिला**** – ** म्हणजे,"हे शक्य केले."
+  * **देवाकडे****जाण्याचा**** – म्हणजे, **"देवा जवळ येणे" किंवा, "देवा जवळ जाणे,”किंवा, "देव समोर येण्याची" किंवा “देवाला वैतक्तिक ओळखणे.” पडद्याच्या फाटण्यामुळे असे दिसते की लोकांमधील आणि देवामधिल अडथळा काढला गेला.
 **[[:mr:obs:notes:frames:40-07|<<]] | [[:mr:obs:notes:40|Up]] | [[:mr:obs:notes:frames:40-09|>>]]**
