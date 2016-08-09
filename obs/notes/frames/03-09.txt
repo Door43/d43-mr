@@ -1,20 +1,16 @@
-===== The Rain Stopped [03-09] =====
+===== **पाऊस थांबला  [03-09]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink}}
+पाऊस थांबल्यानंतर, तारु पाच महिने पाण्यावर तरंगत होते, आणि त्या दरम्यान पाणी ओसरु लागले. मग एक दिवस बोट डोंगर माथ्यावर टेकले, पण अजूनही संपूर्ण जग पाण्यात बुडालेलेच होते. तीन महिन्या नंतर पर्वताची शिखरे दिसू लागली.
 
-After **the rains stopped**, the boat floated on the water for five months, and during this time the water started going down. Then one day the **boat rested** on the top of a mountain, but the world was still covered with water. After **three more months**, the tops of the **mountains were visible**.
+===== महत्वाचे शब्द : =====
 
-===== Important Terms: =====
+===== **भाषांतरीत टिपा**: =====
 
-
-
-===== Translation Notes: =====
-
-
-  * **the rains stopped** – This could be translated as, "it stopped raining."
-  * **boat rested** - There was so much water from the rain that it covered the mountains. The ship floated over the mountains, and when the water started to go down, the ship went down with the water and settled on a mountain.
-  * **three more months** - During the next three months, the water continued to go down.
-  * **mountains were visible** - Other ways to translate this would be, "were showing" or, "appeared" or, "could be seen." It may be more clear to say, "After three months, the water had gone down enough so that Noah and his family could clearly see the tops of the mountains.
-
+  * **पाऊस थांबला**  - "याला असे अनुवादित केले जाऊ शकते," पाऊस पडने थांबले. "
+  * **तारू टेकले**  – जलप्रलयामुळे ईतके पाणी झाले होते की सर्व पर्वत बुडाले. तारू पर्वतावर तरंगत होते, आणि जसे पाणी ओसरु लागले, तेव्हा ते तारू पाण्याबरोबर खाली यावून डोंगरावर टेकले.
+  * **तीन महिने**
+-  पुढील तीन महिन्यांच्या पाणी खाली खाली जात होते.
+  * **पर्वत दिसू लागले**  - याचे भाषांतर असे सुद्धा करता येइल,”पर्वताची शिखरे दिसू लागली’, किंवा,” द्रष्टीस पडले’” किंवा, “पाहू शकतो.” आजूनही स्पष्ट करण्यासाठी असे म्हणू शकतो की तीन महिण्यानंतर, पाणी इतके कमी झाले की नोहा आणि त्याच्या परिवाराला पर्वताची शिखरे दिसू लागली.
 **[[:mr:obs:notes:frames:03-08|<<]] | [[:mr:obs:notes:03|Up]] | [[:mr:obs:notes:frames:03-10|>>]]**
