@@ -1,13 +1,14 @@
-===== The Darkness [40-06] =====
+===== **काळोख** [40-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?nolink&}}
 
-Then the sky over the whole region became completely dark, even though it was the middle of the day. It became dark at noon and stayed dark for three hours.
-===== Important Terms: =====
+तेंव्हा भर दुपारी आकाशामध्ये काळोख निर्माण झाला व सर्व प्रांतामध्ये अंधकार पसरला
+.  दुपारपासून तीन वाजेपर्यंत पृथ्वीवर काळोख होता
 
-===== Translation Notes: =====
+===== **महत्वाचे** **शब्द :**  =====
 
-  * //(There are no notes in this frame.)// 
+===== **भाषांतर टिपा:**  =====
 
+  * (या चौकटी मध्ये कोणत्याही टिपा नाहीत.)
 
 **[[:mr:obs:notes:frames:40-05|<<]] | [[:mr:obs:notes:40|Up]] | [[:mr:obs:notes:frames:40-07|>>]]**
