@@ -1,19 +1,14 @@
-===== Dry Land [03-12] =====
+===== **कोरडी जमीन** [03-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink}}
+**नोहाने दुसर्या आठवड्याची वाट पाहिली**, आणि तिसऱ्या वेळी कबुतराला बाहेर सोडले. या वेळी, बसण्यास जागा मिळाली आणि ते परत आले नाही. पाणी आटत होते!
+===== महत्वाचे शब्द : =====
 
-**Noah** **waited another week** and sent out the dove a third time. This time, it found a place to rest and did not come back. The water was drying up!
+  * **नोहा**
+===== **भाषांतरीत टिपा**: =====
 
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:other:noah]]**
-
-
-===== Translation Notes: =====
-
-
-  * **waited another week** - You could say, "waited seven more days." The word "waited" shows that Noah was allowing time for the floodwaters to go down before sending out the dove again.
+  * **आणखी एक आठवडा वाट पाहिली**-  तुम्ही म्हणू शकता की
+" आणखी सात दिवस वाट पाहिली". “वाट पाहिली” हा शब्द हे दर्शवतो की कबूतराला पुन्हा पाठवण्या अगोदर नोहाने पाणी ओसरण्याची वाट पाहिली.
 
 **[[:mr:obs:notes:frames:03-11|<<]] | [[:mr:obs:notes:03|Up]] | [[:mr:obs:notes:frames:03-13|>>]]**
