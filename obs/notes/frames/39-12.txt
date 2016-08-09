@@ -1,29 +1,29 @@
-===== The King of the Jews [39-12] =====
+===== **यहूद्यांचा राजा ** [39-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?nolink&}}
 
-**Pilate** became afraid that the crowd would begin to **riot**, so **he agreed to have** his soldiers **crucify Jesus**. The **Roman** soldiers whipped Jesus and put **a royal robe** and a **crown made of thorns** on him. Then they **mocked** him by saying, “**Look**, **the King of the Jews**!”
+जमाव आपल्या विरुध्द **बंड** पुकारिल अशी **पिलातास** भिती वाटली व त्याने आपल्या सैनिकांस येशूला क्रूसावर टांगण्यास अनुमती दिली
+.  ‌‌‌**रोमी** सैनिकांनी येशूला फटके मारिले, त्याच्या अंगावर एक **राजकीय** **झगा** घातला व क्यावर **काटयांचा** **मुकुट** ठेविला
+.  मग ते त्याची **थट्टा** करु लागले,‘‘**पहा****, ****हा** **यहूद्यांचा** **राजा**
+! ’’
 
+===== **महत्वाचे** **शब्द :**  =====
 
-===== Important Terms: =====
+  * **पिलात**
+  * **क्रूसावर****टांग****णे**
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त येशू**
+  * **रोम****, ****रोमी**
+  * **थट्टा****, ****उपहास****,तुच्छतेने हसणे**
+  * **यहूद्यांचा राजा**
+===== **भाषांतर टिपा:**  =====
 
-  * **[[:mr:obe:other:pilate]]**
-  * **[[:mr:obe:kt:crucify]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:rome]]**
-  * **[[:mr:obe:other:mock]]**
-  * **[[:mr:obe:kt:kingofthejews]]**
-
-
-===== Translation Notes: =====
-
-  * **riot** - That is, "start doing violent things in their anger."
-  * **he agreed to have** - Pilate did not want to kill Jesus because he believed that Jesus was innocent. But he was forced to tell his soldiers to crucify Jesus because of his fear of the crowd. If possible, translate this phrase in a way that shows his reluctance.
-  * **a royal robe** - That is, "a robe like a king's robe." This robe had a bright color, so it looked like the kind of robe that a king would wear.
-  * **crown made of thorns** - This means that they tied thorn branches into a circle to look like a crown. A crown is an ornament that a king wears on his head to show his authority. But the crown that they put on Jesus' head had sharp, dangerous thorns on it.
-  * **Look** - That is, "Look at" or, "Here is."
-  * **the King of the Jews** - Since the soldiers were mocking Jesus, this could be translated as, "the so-called King of the Jews."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **बंड****
+ - **"रागात हिंसक गोष्टी करायला सुरवात केली."
+  * **अनुमती****दिली**  - पिलाताला येशूला जिवे मारावयाचे नव्हते, कारण त्याचा विश्वास होता की येशू निर्दोष आहे. परंतू त्याने जमावाला भीवून आपल्या शिपायांना सांगून येशूला वधस्तंभी दिले.  शक्य असल्यास, ह्या वाक्प्रचार अनुवाद त्याची नाखुषी दाखवा.
+  * **राजकीय****झगा**** – ** म्हणजे, "राजांच्या झग्यासारखा सारखे झगा." हा झगा एका राजा घालतो त्याच्या झग्यासारखा शुभ्र रंगाचा होता
+  * **काटयांचा****मुकुट**** – ** याचा अर्थ कोटेरी फांद्या वर्तुळात गुंफून त्यांला मुकुटासारखे करणे. मुकुट एका अलंकारासालखा राजा डोक्यावर अधिकार दर्शविण्यासाठी घालतो. पण येशूच्या मस्तकावर ठेवलेला मुकुट हा काटेरी, धोकादायक काटेरी होता.
+  * **पहा**** – ** म्हणजे, , "पाहा" किंवा "येथे आहे."
+  * **यहूद्यांचा****राजा**** - ** शिपाई येशूची थट्टा करत असल्याने, हे असे अनुवादित केले जाऊ शकते "यहूदी लोकांचा तथाकथित राजा आहे."
+  * बायबल कथा - या संदर्भात काही बायबल अनुवाद जरा वेगळा असू शकते.
 
 **[[:mr:obs:notes:frames:39-11|<<]] | [[:mr:obs:notes:39|Up]] | [[:mr:obs:notes:frames:40-01|>>]]**
