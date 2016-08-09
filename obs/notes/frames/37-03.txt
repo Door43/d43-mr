@@ -1,22 +1,23 @@
-===== Lazarus Was Dead [37-03] =====
+===== **लाजर मेला ** [37-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-03.jpg?nolink&}}
 
-**Jesus' disciples** replied, “**Master**, if **Lazarus** is sleeping, then **he will get better**.” Then Jesus told them plainly, “**Lazarus is dead**. **I am glad** that I was not there, so that you may **believe** in me.”
-===== Important Terms: =====
+**येशूच्या** **शिष्यांनी** उत्तर दिले,‘‘**स्वामी**, जर **लाजर** झोपलेला आहे तर **तो** **बरा** **होईल**
+. ’’  तेंव्हा येशूने त्यांना स्पष्ट शब्दांत सांगितले,‘‘**लाजर** **मेला** **आहे**
+.  आणि मी तेथे नव्हतो म्हणून **मला** **आनंद** **वाटतो**, की तुम्ही मजवर **विश्वास** ठेवावा
+. ’’
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:other:lazarus]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:kt:believe]]**
+===== **महत्वाचे** **शब्द :**  =====
 
+  * **येशू****, ****येशू ख्रिस्त****,**** ख्रिस्त**
+  * **शिष्य**
+  * **स्वामी****, ****गुरुजी****,**** महाराज**
+  * **लाजर**
+  * **मृत्यू****, ****मरेल****,**** मृत**
+  * **विश्वास****,**** च्यावर विश्वास ठेवने, श्रद्धा**
+===== **भाषांतर टिपा:**  =====
 
-===== Translation Notes: =====
-
-  * **he will get better** - The disciples intended this in the sense of, "there is no reason for us to go to him now, since he will get well."
-  * **I am glad** - This could be translated as, "I am happy" or, "It is good that." It does not mean he was happy that Lazarus died, but rather that he was happy that God was going to show how great he is.
-
+  * **तो****बरा****होईल**** – ** शिष्यांना असे म्हणण्याचा हेतू हा होता की , " कारण तो बरा होणार असेल तर आम्हाला आता त्याच्याकडे जाण्याची गरज नाही."
+  * **मला****आनंद****वाटतो**** – ** हे असे ही अनुवादित केले जाऊ शकते, "मी आनंदी आहे" किंवा "हे चांगला आहे." याचा अर्थ असा नाही की लाजर मेला म्हणून तो आनंदी आहे, परंतू या गोष्टी मुळे आनंदी होता की देव त्याचे गौरव प्रकट करणार होता.
 
 **[[:mr:obs:notes:frames:37-02|<<]] | [[:mr:obs:notes:37|Up]] | [[:mr:obs:notes:frames:37-04|>>]]**
