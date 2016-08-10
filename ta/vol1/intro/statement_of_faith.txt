@@ -1,50 +1,44 @@
-===== Statement of Faith =====
+===== **विश्वासाचे विधान**  =====
 
-This module answers the question: What do we believe?\\
-Before you start this module have you learned about:
-  * [[mr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
+ही प्रश्नांची उत्तरे: आमचा विश्वास काय आहे\\
+या विषयावर समजून घेण्यासाठी, ते वाचले तर चांगले:
 
-//The official version of this document is found at [[https://unfoldingword.org/faith|unfoldingword.org/faith]].//
+  * [[:mr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
 
-==== Statement of Faith ====
+//या दस्तऐवजात अधिकृत आवृत्ती आढळले आहे//// [[https://unfoldingword.org/faith|unfoldingword.org/faith]].//
 
-//The following statement of faith is subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. It is in agreement with the [[http://www.lausanne.org/en/documents/lausanne-covenant.html|Lausanne Covenant]].//
+==== **
+विश्वासाचे
 
-We believe that Christian belief can and should be divided into **essential beliefs** and **peripheral beliefs**.
+विधान **  ====
 
-=== Essential beliefs ===
+खालील विश्वासाचे विधान करून सर्व सदस्य संस्था आणि योगदानकर्ते //[[http://unfoldingword.org|unfoldingWord]] project // ची सदस्यता घेतली आहे//. // हा करार लुसाने करारानुसार आहे //[[http://www.lausanne.org/en/documents/lausanne-covenant.html|Lausanne Covenant]].//
 
-Essential beliefs are what define a follower of Jesus Christ and can never be compromised or ignored.
+आम्ही विश्वास ठेवतो की ख्रिस्ती विश्वास हा **आवश्यक विश्वास**** आणि गौण विश्वास**  विभागला जावा असे वाटते.
 
-  * We believe the Bible to be the only inspired, inerrant, sufficient, authoritative Word of God.
+=== **अनिवार्य विश्वास **  ===
 
-  * We believe that there is one God, eternally existent in three persons: God the Father, Jesus Christ the Son and the Holy Spirit.
+अनिवार्य विश्वासाची व्याख्या ही की येशू ख्रिस्ताचे अनुयायी आणि तडजोड किंवा दुर्लक्षित केले जाऊ शकत नाही.
 
-  * We believe in the deity of Jesus Christ.
+  * आम्ही विश्वास ठेवतो की बायबलच फक्त प्रेरणा असल्याचे, , निर्दोष, पुरेसा देवाचा अधिकृत शब्द.
+  * आम्ही विश्वास धरतो की, फक्त एकच देव आहे, सर्वकाळ तीन व्यक्ती मध्ये
+  * देव पिता, येशू ख्रिस्त पुत्र, आणि पवित्र आत्मा.
+  * आमचा येशू ख्रिस्ताच्या देवपणावर विश्वास आहे.
+  * आम्ही येशू ख्रिस्ताच्या माणुस असण्यावर, त्याच्या कुमारीकेच्या पोटी जन्म, त्याचे पाप विरहित जीवन, त्याचे चमत्कार, त्याने दुसर्‍यासाठी स्वतः भोगलेले आणि त्याच्या रक्ताचे माध्यमातून ह्यांच्या करिता प्रायश्चित मृत्यू, त्याचे शारीरिक पुनरुत्थान, पित्याच्या आसनाच्या उजवीकडे हा विश्वास आहे.
+  * आम्ही विश्वास धरतो की, आम्ही प्रत्येक व्यक्ती अंतर्निहित पापी आहे आणि त्यामुळे चिरंतन नरकास पात्र आहे.
+  * आम्ही विश्वास धरतो की पापा पासून मोक्ष देवाने दिलेली भेट आहे, येशू ख्रिस्ताच्या अर्पणा संबंधी मृत्यू आणि पुनरुत्थान मिळलेले, श्रद्धेमुळे-कृपादृष्टीने मिळाले, कृत्यांनी नव्हे.
+  * आम्ही विश्वास धरतो की खरा विश्वास हा नेहमीच पश्चात्ताप आणि पवित्र आत्म्याने पुन्हा निर्माण केलेल्या दाखल्याची पूर्तता आहे.
+  * आम्ही विश्वास ठेवतो की पवित्र आत्म्याची उपस्थिती जो येशू ख्रिस्ताच्या अनुयायांमध्ये राहतो आणि एक शुद्ध जीवन जगण्यास सहकार्य करतो.
+  * आम्ही सर्व राष्ट्रांना व सर्व आणि लोक गटांना, प्रभु येशू ख्रिस्तामध्ये सर्व विश्वासणारे आध्यात्मिक ऐक्य असा विश्वास आहे.
+  * आमचा येशू ख्रिस्ताच्या वैयक्तिक आणि शारीरिक परत येण्यावर विश्वास आहे.
+  * आम्ही तारलेले आणि नाश पावलेले दोघांच्या पुनरुत्थानावर; नतारलेले नरकात जाण्यासाठी पुनरुत्थित केला जाईल व ज्यांचे तारण झाले आहे ते देवाच्या स्वर्गात चिरंतन आशीर्वादासाठी पुनरुत्थित केले जातील.
 
-  * We believe in the humanity of Jesus Christ, in His virgin birth, in His sinless life, in His miracles, in His vicarious and atoning death through His shed blood, in His bodily resurrection, in His ascension to the right hand of the Father.
+=== **गौण विश्वास**  ===
 
-  * We believe that every person is inherently sinful and so is deserving of eternal hell.
+गौण समजुती अशा रीतीने पवित्र शास्त्रात आहेत पण ज्या बद्दल ख्रिस्ताच्या प्रामाणिक अनुयायी मतभेद आहेत (उदा बाप्तिस्मा, प्रभीभोजन, इ) इतर सर्व काही आहे. आम्ही या विषयांवर आनंदाने न जुळणे आणि प्रत्येक गट शिष्य  बनवण्यासाठी एक सामान्य ध्येयाच्या दिशेने एकत्र. (
+मत्तय 28 : 18-20)
 
-  * We believe that salvation from sin is a gift of God, provided through the sacrificial death and resurrection of Jesus Christ, attained by grace through faith, not by works.
+पुढे आम्ही हे जाणून घेण्यासाठी शिफारस करतो:
 
-  * We believe that true faith is always accompanied by repentance and regeneration by the Holy Spirit.
-
-  * We believe in the present ministry of the Holy Spirit by whose indwelling the follower of Jesus Christ is enabled to live a godly life.
-
-  * We believe in the spiritual unity of all believers in the Lord Jesus Christ, from all nations and languages and people groups.
-
-  * We believe in the personal and physical return of Jesus Christ.
-
-  * We believe in the resurrection of both the saved and the lost; the unsaved will be resurrected to eternal damnation in hell and the saved will be resurrected to eternal blessing in heaven with God.
-
-=== Peripheral beliefs ===
-
-Peripheral beliefs are everything else that is in Scripture but about which sincere followers of Christ may disagree (e.g. Baptism, Lord's Supper, the Rapture, etc.). We choose to agree to disagree agreeably on these topics and press on together toward a common goal of making disciples of every people group (Matthew 28:18-20).
-
-
-
-Next we recommend you learn about:
-  * [[mr:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
-  * [[mr:ta:vol1:intro:open_license|Open License]]
-
+  * भाषांतर मार्गदर्शक तत्वे ([[:mr:ta:vol1:intro:translation_guidelines|Translation Guidelines]])
+  * कॉपीराइटचे, परवाना आणि स्त्रोत ग्रंथ ([[:mr:ta:vol1:intro:open_license|Open License]])
