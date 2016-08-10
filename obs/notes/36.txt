@@ -1,39 +1,34 @@
-====== 36. The Transfiguration ======
+====== 36. **रुपांतर**  ======
 
+===== आढावा =====
 
-===== Overview: =====
+येशू पेत्र, याकोब व योहान यांना घेवून उंच डोंगरावर एकांती गेला. येशू तेथे प्रार्थना करीत असताना, त्याचा चेहऱा आणि कपडे प्रकाशीत झाले. मोशे व एलीया दिसू लागले आणि येशूशी त्याच्या मृत्यूविषयी बोलत होते. जेव्हा शिष्यांनी हे पाहीले ते चकित झाले होते. तेव्हा आकाशातून वाणी झाली की, " हा माझा पुत्र आहे ज्याच्यावर मी प्रेम करतो " पण येशूने त्यांना सांगितले की तो मेलेल्यांतून उठविला जाईपर्यंत काय झाले ते कोणालाही सांगू नका.
 
+====== **कथेचे भाषांतर**  ======
 
-Jesus took Peter, James and John up a high mountain. While Jesus was praying there, his face and clothes became to shine. Moses and Elijah appeared and talked to Jesus about his death. The disciples were amazed when they saw this. Then a voice from heaven said “This is my Son whom I love.” But Jesus told them not to tell anyone what happened until after he was raised from the dead.  
+कथेची प्रत्येक फ्रेम अनुवादीत करण्यासाठी खालील लिंक वर क्लिक करा.
 
+[[:mr:obs:notes:frames:36-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?nolink&200}}]]\\
+पर्वतावर [36-01]
 
-====== Translate the Story ======
+[[:mr:obs:notes:frames:36-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-02.jpg?nolink&200}}]]\\
+येशूचे रुप पालटले  [36-02]
 
+[[:mr:obs:notes:frames:36-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink&200}}]]\\
+मोशे आणि एलीया [36-03]
 
-Click on the links below to translate each frame of the story.
+[[:mr:obs:notes:frames:36-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink&200}}]]\\
+पेत्राचे स्पष्टिकरण  [36-04]
 
+[[:mr:obs:notes:frames:36-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink&200}}]]\\
+हा माझा पुत्र आहे  [36-05]
 
-[[:mr:obs:notes:frames:36-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?200|Frame 36-01}}]]\\ 
-To the Mountain [36-01]\\ 
+[[:mr:obs:notes:frames:36-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink&200}}]]\\
+येशू सोबत एकटे  [36-06]
 
-[[:mr:obs:notes:frames:36-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-02.jpg?200|Frame 36-02}}]]\\ 
-Jesus Was Changed [36-02]\\ 
+[[:mr:obs:notes:frames:36-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink&200}}]]\\
+गुप्त ठेवा  [36-07]
 
-[[:mr:obs:notes:frames:36-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?200|Frame 36-03}}]]\\ 
-Moses and Elijah [36-03]\\ 
-
-[[:mr:obs:notes:frames:36-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?200|Frame 36-04}}]]\\ 
-Peter's Comments [36-04]\\ 
-
-[[:mr:obs:notes:frames:36-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?200|Frame 36-05}}]]\\ 
-This Is My Son [36-05]\\ 
-
-[[:mr:obs:notes:frames:36-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?200|Frame 36-06}}]]\\ 
-Alone with Jesus [36-06]\\ 
-
-[[:mr:obs:notes:frames:36-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?200|Frame 36-07}}]]\\ 
-Keep the Secret [36-07]\\ 
-
-//A Bible story from: Matthew 17:1-9; Mark 9:2-8; Luke 9:28-36//
+बायबल कथा:// // मत्तय 17: 1-9; मार्क 9: 2-8; लूक 9: 28-36
 
 **[[:mr:obs:notes:35|<< Previous]] | [[:mr:obs:notes:37|Next >>]]**
