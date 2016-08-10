@@ -1,26 +1,20 @@
-===== Hagar [05-01] =====
+===== **हागार** [05-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink}}
-
-Ten years after **Abram** and **Sarai** arrived in **Canaan**, **they still did not have a child**. So Abram's wife, Sarai, said to him, “Since **God** has not allowed me to have children and now I am too old to have children, here is my **servant**, **Hagar**. **Marry her also** so she can **have a child for me**.” 
+अब्राम व साराय कनान देशात आल्यानंतर दहा वर्षे झाली तरी त्यांना मुल नव्हते. तेव्हा अब्रामाची बायको साराय त्याला म्हणाली, देवाने अजुन मला मुले दिली नाहित, आणि मी आत्ता फार वयस्करही झाली आहे, येथे माझी दासी हागर आहे. तू तिच्या लग्न कर, त्यामुळे ती मला एक मूल देवू शकेल.”
 
 ===== Important Terms: =====
 
-
-  * **[[:mr:obe:other:abraham]]**
-  * **[[:mr:obe:other:sarah]]**
-  * **[[:mr:obe:other:canaan]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:other:hagar]]**
-
-
+  * **[[:mr:obe:other:abraham|Abraham, Abram]]**
+  * **[[:mr:obe:other:sarah|Sarah, Sarai]]**
+  * **[[:mr:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:mr:obe:kt:god|God]]**
+  * **[[:mr:obe:other:servant|servant, slave, slavery]]**
+  * **[[:mr:obe:other:hagar|Hagar]]**
 ===== Translation Notes: =====
 
-
-  * **still did not have a child** - Without a child, Abram had no descendants to become a great nation.
-  * **Marry her also** - Abram would take Hagar as a second wife, but Hagar would not have the full status of a wife as Sarai did. She was still Sarai's servant.
-  * **have a child for me** - Since Hagar was Sarai's servant, Sarai would be considered the mother of any children that Hagar bore.
-
+  * **still did not have a child**  - Without a child, Abram had no descendants to become a great nation.
+  * **Marry her also**  - Abram would take Hagar as a second wife, but Hagar would not have the full status of a wife as Sarai did. She was still Sarai's servant.
+  * **have a child for me**  - Since Hagar was Sarai's servant, Sarai would be considered the mother of any children that Hagar bore.
 **[[:mr:obs:notes:frames:04-09|<<]] | [[:mr:obs:notes:05|Up]] | [[:mr:obs:notes:frames:05-02|>>]]**
