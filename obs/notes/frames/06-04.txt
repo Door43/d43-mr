@@ -1,26 +1,41 @@
-===== Rebekah Was Childless [06-04] =====
+===== **रिबका निपुत्रिक होती** [06-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-04.jpg?nolink}}
+खुप दिवसानंतर, अब्राहामाचा मृत्यु झाला आणि देवाने जो करार त्याच्याशी केला होता ते सर्व आश्वासने इसहाक वर झाली होती
+. देवाने अब्राहामाला अगणित संतान होतील असे आश्वासन दिले होते आहे, पण इसहाक ची पत्नी रिबका हिला मुले झाली नाही.
 
-After a long time, **Abraham** died and all of **the promises that God had made to him in the covenant were passed on** to **Isaac**. God had promised that Abraham would have **countless descendants**, but Isaac's wife, **Rebekah**, could not have children.
+===== **महत्वाचे शब्द **: =====
 
-===== Important Terms: =====
+  *
 
+**अब्राहाम**
+**वचने**
 
-  * **[[:mr:obe:other:abraham]]**
-  * **[[:mr:obe:kt:promise]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:covenant]]**
-  * **[[:mr:obe:other:isaac]]**
-  * **[[:mr:obe:other:descendant]]**
-  * **[[:mr:obe:other:rebekah]]**
+**देव**
 
+**करार**
 
-===== Translation Notes: =====
+**इसहाक**
 
+**संताने**
 
-  * **the promises … were passed on** - The promises of the covenant that God made with Abraham were not for him only, but also for his descendants.
-  * **countless** - This could also be translated as, "very many." The word "countless" means there would be so many descendants that people would not be able to count them.
+**रिबका**
+
+===== **भाषांतरीत टिपा**: =====
+
+  *
+
+**देवाची****अभिवचने****या****वर****आ****ली****होती**
+-  देवाने अब्राहामाशी केलेला करार फक्त त्याच्यासाठीच नव्हे तर संपुर्ण संतानासाठी होती
+.
+
+**अगणित**
+-  हे असे देखील अनुवादित केले जाऊ शकते
+" फार अनेक
+." शब्द
+" अगणित
+"  म्हणजे अनेक संताने जे लोक त्यांना मोजू शकणार नाही, असा याचा अर्थ
+.
 
 **[[:mr:obs:notes:frames:06-03|<<]] | [[:mr:obs:notes:06|Up]] | [[:mr:obs:notes:frames:06-05|>>]]**
