@@ -1,30 +1,29 @@
-**unfoldingWord | OPEN BIBLE STORIES**
+==== शब्दांचा उलगडा करणे | पवित्र शास्त्र कथांचां उलगडा करणे  ====
 
-**an unrestricted visual mini-Bible in any language**
+**कोणत्याही भाषेत एक निर्बंध नसलेले दृश्यमान छोटे पवित्र शास्त्र**
 
-http://openbiblestories.com
+[[http://openbiblestories.com|http://openbiblestories.com]]
 
-Open Bible Stories, v. 4.1
+बायबल कथांचं उलगडा, v. 4.1
 
-Created by Distant Shores Media (http://distantshores.org) and the Door43 world missions community (http://door43.org).
+डिस्टन्ट शोरस मीडियाने तयार करून  ([[http://distantshores.org|http://distantshores.org]]) आणि Door43 वर्ल्ड मिशन कम्युनिटि ([[http://door43.org|http://door43.org]]).
 
+**परवाना:**
 
-**License:**
+हे काम एक **क्रीएटिव्ह कॉमन्स अट्रीब्युशन शेअर अलाईक** - 4.0 आंतरराष्ट्रीय परवाना अंतर्गत उपलब्ध आहे__ __ ([[http://creativecommons.org/licenses/by-sa/4.0/|http://creativecommons.org/licenses/by-sa/4.0/]]).
 
-This work is made available under a Creative Commons Attribution-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/).
+तुम्ही मुक्त आहात:
 
-You are free:
+  * **वाटणे**  - कोणत्याही माध्यमात किंवा स्वरूपात प्रत आणि साहित्य वाटप करणे
+  * **फेरफार करुन योग्य करणे**  – भर घालणे, परिवर्तन करणे, आणि अगदी व्यावसायिकपणे देखील कोणत्याही कारणासाठी साहित्य यासाठी तयार केले.
+खालील अटींवर:
 
-* **Share** — copy and redistribute the material in any medium or format
-* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+  * **विशेषता -**  खालील प्रमाणे आपण कामात काही बदल करणे आवश्यक आहे: मूळ काम यावर उपलब्ध http://openbiblestories.com."साधित कार्ये विशेषता स्टेटमेन्ट कोणत्याही प्रकारे सूचित नये हे काम आपल्या वापरासाठी आम्ही तुम्हाला मान्यता देणे आहे.
+  * त्याच प्रमाणे वितरण करणे- जर तुम्ही पुन्हा मिसळले,परिवर्तन, किंवा साहित्यवर आधारीत काही केले तर, आपण आपल्या मूळ परवाना अंतर्गत वितरण करणे आवश्यक आहे.
 
-Under the following conditions:
+**ट्रेडमार्कचा वापर**: uअन्फोल्डिंग वर्ड हा डीस्टंन्ट सोर मीडियाचा एक ट्रेडमार्क आहे आणि या शिवाय सामग्री तयार कोणत्याही साधित कार्ये समाविष्ट केली जाऊ शकत नाही. [[http://openbiblestories.com|http://openbiblestories.com]] इतरांना वितरण करताना अन्फोल्डिंग वर्ड (**unfoldingWord)**  लोगो समाविष्ट करणे आवश्यक आहे. पण तुम्ही जर मजकूर दूसरीकडील असेल तर, तुम्ही आपले कार्य वितरीत करण्यापूर्वी
+अन्फोल्डिंग वर्ड ( **unfoldingWord)**  लोगो काढून टाकणे आवश्यक आहे.
 
-* **Attribution** — You must attribute the work as follows: "Original work available at http://openbiblestories.com." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
-* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+**चित्रांची विशेषता:**  या कथेतील सर्व प्रतिमा © Sweet Publishing च्या आहेत. ([[http://www.sweetpublishing.com|www.sweetpublishing.com]]) ]) आणि **Creative Commons Attribution-Share Alike**  परवान्या खाली उपलब्ध आहेत ([[http://creativecommons.org/licenses/by-sa/3.0|http://creativecommons.org/licenses/by-sa/3.0]]).
 
-Use of trademarks: **unfoldingWord** is a trademark of Distant Shores Media and may not be included on any derivative works created from this content.  Unaltered content from http://openbiblestories.com must include the **unfoldingWord** logo when distributed to others. But if you alter the content in any way, you must remove the **unfoldingWord** logo before distributing your work.
-
-Attribution of artwork: All images used in these stories are © Sweet Publishing (www.sweetpublishing.com) and are made available under a Creative Commons Attribution-Share Alike License (http://creativecommons.org/licenses/by-sa/3.0).
-
-To our brothers and sisters in Christ all over the world—the global church. It is our prayer that God would use this visual overview of His Word to bless, strengthen, and encourage you.
+जागतिक चर्च -- जागतील सर्व ख्रिस्तामध्ये आमच्या भाऊ आणि बहिणीसाठी. त्याच्या वचनाचे दृश्य विहंगावलोकन याद्वारे देव आपणास आशीर्वाद देण्यासाठी, मजबूत करण्यासाठी, आणि , प्रोत्साहन देण्यासाठी करावा अशी आमची प्रार्थना आहे.
