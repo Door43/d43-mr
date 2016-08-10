@@ -1,24 +1,28 @@
-===== Birth of Isaac [05-05] =====
+===== **इसहाकाचा जन्म** [05-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-05.jpg?nolink}}
+त्या दिवशी अब्राहामाने आपल्या घरातील सर्व पुरुषांची सुंता केली
+. एक वर्षा नंतर, जेव्हा अब्राहाम
+100  वर्षांचा होता आणि सारा ते
+90  वर्षाची होती, तेव्हा साराने अब्राहामाचा मुलाला जन्म दिला
+. म्हणून त्यांनी त्याचे नाव **इसहाक** ठेवले जसे **देवाने** त्यांना सांगितले होते.
+===== **महत्वाचे शब्द **: =====
 
-That day **Abraham circumcised all the males in his household**. About a year later, when Abraham was 100 years old and **Sarah** was 90, Sarah gave birth to Abraham's **son**. They named him **Isaac** as **God** had told them to do. 
+  *
 
-===== Important Terms: =====
+**अब्राहाम**
+**सुंता**
 
+**सारा**
 
-  * **[[:mr:obe:other:abraham]]**
-  * **[[:mr:obe:kt:circumcise]]**
-  * **[[:mr:obe:other:sarah]]**
-  * **[[:mr:obe:kt:son]]**
-  * **[[:mr:obe:other:isaac]]**
-  * **[[:mr:obe:kt:god]]**
+**पुत्र**
 
+**इसहाक**
 
-===== Translation Notes: =====
+**देव**
 
+===== **भाषांतरीत टिपा**: =====
 
-  * **all the males in his household** - This means all of the men and boys that Abraham was responsible for, including his male servants, young and old.
-
+  * **त्याच्या घरातील प्रत्येक****पुरुष** – याचा अर्थ प्रत्येक मुलगा व पुरुष ज्यांस अब्राहाम जबाबदार होता, यात सर्व चाकर, लहान मोठे आले.
 **[[:mr:obs:notes:frames:05-04|<<]] | [[:mr:obs:notes:05|Up]] | [[:mr:obs:notes:frames:05-06|>>]]**
