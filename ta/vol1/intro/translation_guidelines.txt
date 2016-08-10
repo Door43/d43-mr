@@ -1,41 +1,40 @@
-===== Translation Guidelines =====
+===== **भाषांतरासाठी मार्गदर्शक तत्वे**  =====
 
-This module answers the question: By what principles do we translate?\\
-Before you start this module have you learned about:
-  * [[mr:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
-  * [[mr:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+ह्या प्रश्नाची उत्तरे: भाषांतर करण्यासाठी आपण कोणती तत्वे वापराल?\\
+हा विषयावर समजून घेण्यासाठी, ते वाचले तर चांगले होईल:
 
-//The official version of this document is found at [[https://unfoldingword.org/guidelines|unfoldingword.org/guidelines]].//
+  * उन्फोल्डिंग वर्ड प्रोजेक्ट ([[:mr:ta:vol1:intro:uw_intro|The unfoldingWord Project]])
+  * विश्वासाचे विधान ([[:mr:ta:vol1:intro:statement_of_faith|Statement of Faith]])
 
-==== Translation Guidelines ====
+या दस्तऐवजात अधिकृत आवृत्ती येथे मिळेल//[[https://unfoldingword.org/guidelines|unfoldingword.org/guidelines]].//
 
-//The following statement on the principles and procedures used in translation is subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. All translation activities are carried out according to these common guidelines.//
+==== **भाषांतर मार्गदर्शक तत्वे**  ====
 
-  - **[[mr:ta:vol1:translate:guidelines_accurate|Accurate]]** — Translate accurately, without  detracting from, changing, or adding to the meaning of the original text. Translated content should faithfully communicate as precisely as possible the meaning of the original text as it would have been understood by the original audience. 
-  - **[[mr:ta:vol2:translate:guidelines_faithful|Faithful]]**  — Avoid any political, denominational, ideological, social, cultural, or theological bias in your translation. Use key terms that are faithful to the vocabulary of the original biblical languages. Use equivalent common language terms for the biblical words that describe the relationship between God the Father and God the Son. These may be clarified, as needed, in footnotes or other supplemental resources.
-  - **[[mr:ta:vol2:translate:guidelines_authoritative|Authoritative]]**  — Use the original language biblical texts as the highest authority for translation of biblical content. Reliable biblical content in other languages may be used for clarification and as intermediary source texts. 
-  - **[[mr:ta:vol2:translate:guidelines_historical|Historical]]**  — Communicate historical events and facts accurately, providing additional information as needed in order to accurately communicate the intended message to people who do not share the same context and culture as the original recipients of the original content.
-  - **[[mr:ta:vol1:translate:guidelines_clear|Clear]]**  — Use whatever language structures are necessary to achieve the highest level of comprehension. This includes rearranging the form of a text and using as many or as few terms as necessary to communicate the original meaning as accurately as possible. 
-  - **[[mr:ta:vol1:translate:guidelines_natural|Natural]]**  — Use language forms that are effective and that reflect the way your language is used in corresponding contexts.
-  - **[[mr:ta:vol2:translate:guidelines_equal|Equal]]** — Communicate the same intent as the source text, including expressions of feeling and attitudes. As much as possible, maintain the different kinds of literature in the original text, including narrative, poetry, exhortation, and prophecy, representing them with corresponding forms that communicate in a similar way in your language. 
+अनुवाद करण्याची तत्त्वे आणि कार्यपद्धती खालील विधान करून सर्व सदस्य संस्था आणि योगदानकर्त्यांनी// [[http://unfoldingword.org|unfoldingWord]] project //
+प्रकल्पाची सदस्यता घेतली आहे. //. // सर्व भाषांतर उपक्रम या सामान्य मार्गदर्शक तत्त्वा नुसार चालत आहेत.
 
-==== Identifying and Managing Translation Quality ====
+  - **अचूकता**  - अचूक भाषांतर, काही न बदलता, किंवा मूळ मजकूराचा अर्थ बदलून किंवा जोडून न करता. अनुवादित सामग्रीचे सत्य मूळ वाचकाला समजावे म्हणून तंतोतंत शक्य तितक्या मूळ मजकूराचा अर्थ संवाद आवश्यक आहे. (पहा: अचूक भाषांतर तयार करा)
+  - **विश्वासू**  - आपले अनुवाद कोणत्याही राजकीय, सांप्रदायिक, वैचारिक, सामाजिक, सांस्कृतिक, किंवा वैचारिकतेचा कल टाळा. मूळ बायबलातील भाषेचा शब्दसंग्रह विश्वासूपणे वापरा. देव जो पिता आणि देव पुत्र संबंधाचे वर्णन पवित्रशासत्रातील समतुल्य सामान्य भाषेतील शब्द वापरा. ह्याचे तळटीप किंवा इतर पूरक संसाधने, गरज म्हणून वर्गीकरण केले जाऊ शकते. (पहा: विश्वासू भाषांतरे तयार करा)
+  - **अधिकृत**  - पवित्रशासत्रातील सामग्री भाषांतर सर्वोच्च अधिकारी म्हणून मूळ भाषेतील पवित्रशासत्र ग्रंथ वापरा. इतर भाषांमध्ये विश्वसनीय पवित्रशासत्रातील सामग्री स्पष्टीकरण आणि मध्यस्थ स्रोत ग्रंथ म्हणून वापरली जाऊ शकते. (पहा प्राधिकृत भाषांतरे तयार करा)
+  - **ऐतिहासिक**  -  ऐतिहासिक घडामोडी अचूकपणे आणि संवादातील तथ्य अचूकपणे मूळ सामग्री मूळ प्राप्तकर्ता म्हणून समान संदर्भ आणि संस्कृती सामायिक लोक हेतू  संदेश संवाद साधण्यासाठी आवश्यक अशी अतिरिक्त माहिती पुरवते. (पहा ऐतिहासिक भाषांतरे तयार करा)
+  - **स्पष्ट**  - आकलन उच्चतम पातळी साध्य करण्यासाठी भाषा संरचना साठी आवश्यक आहे ते वापरा. या मजकूराच्या स्वरूपात पुनर्निर्माण करने आणि स्पष्ट शक्य तितक्या मूळ अर्थ संवाद साधण्यासाठी आवश्यक तसे अनेक किंवा काही अटी वापरून समावेश करा. (पहा अचूक भाषांतर तयार करा)
+  - **नैसर्गिक**  – अशा स्वरुपाची भाषा वापरा की जे तुमच्या भाषेमध्ये प्रभावी आहेत आणि आपण ते संदर्भसाठी वापरले जाते. (पहा नैसर्गिक भाषांतरे तयार करा)
+  - **समान**  -स्रोत मजकूर समान हेतू संवाद भावना आणि वृत्ती सूत्रांचा समावेश आहे. शक्य तितके, आपल्या भाषेत एक प्रकारे संवाद करणारी संबंधित त्यांना प्रतिनिधित्व मूळ मजकूर साहित्य विविधता राखण्यासाठी, गोष्ट, कविता, बोध, भविष्यवाणी याचा समावेश आहे. (पहा समान भाषांतरे तयार करा)
+==== **भाषांतर गुणवत्तेची ओळख आणि व्यवस्थापन**  ====
 
-The quality of a translation generally refers to the fidelity of the translation to the meaning of the original, and the degree to which the translation is understandable and effective for the speakers of the receptor language. The strategy we suggest involves checking the forms and communicative quality of the translation with the language community, and checking the fidelity of the translation with the Church in that people group.
+भाषांतर गुणवत्ता साधारणपणे मूळ अर्थाचा तंतोतंतपणा आणि भाषांतराचा स्तर समजण्यासारखा आणि संवेदनशिलता. आम्ही सुचवितो धोरण फॉर्म आणि भाषा समुदाय अनुवाद बोलका गुणवत्ता तपासणी, आणि त्या लोकांना गटातील मंडळी अनुवादाचा स्तर तपासणी यांचा समावेश आहे.
 
-The specific steps involved may vary significantly, depending on the language and context of the translation project. Generally, we consider a good translation to be one that has been reviewed by the speakers of the language community and also by the leadership of the church in the language group so that it is:
-  - **Accurate, Clear, Natural, and Equal** — Faithful to the intended meaning of the original, as determined by the Church in that people group and in alignment with the Church global and historical, and consequently:
-  - **[[mr:ta:vol1:translate:guidelines_church_approved|Affirmed by the Church]]**  - Endorsed and used by the Church.
+सहभागी विशिष्ट पाय-यात लक्षणीय बदल असू शकतो अनुवाद प्रकल्प भाषा आणि संदर्भ अवलंबून. साधारणपणे, आम्ही भाषा समुदाय आणि भाषा समूह मध्ये चर्च यांच्या नेतृत्वाखाली ते आहे, जेणेकरून स्पीकर्स द्वारे पुनरावलोकन केले आहे की एक चांगले भाषांतर विचार:
 
-We also recommend that the translation work be:
+  - **अचूक साफ करा****, ****नैसर्गिक****,**** आणि समान**  - - मूळ हेतू अर्थ विश्वासू लोक गट आणि चर्च जागतिक आणि ऐतिहासिक, आणि यामुळे सह संरेखन चर्च निर्धारित:
+  - **चर्च दावा आहे की**, - मान्यताप्राप्त आणि चर्च वापरले जाते.
+आम्ही देखील अनुवाद काम शिफारस करतो:
 
-  - **[[mr:ta:vol2:translate:guidelines_collaborative|Collaborative]]** — Where possible, work together with other believers who speak your language to translate, check, and distribute the translated content, ensuring that it is of the highest quality and available to as many people as possible.
-  - **[[mr:ta:vol2:translate:guidelines_ongoing|Ongoing]]** — Translation work is never completely finished. Encourage those who are skilled with the language to suggest better ways to say things when they notice that improvements can be made. Any errors in the translation should also be corrected as soon as they are discovered. Also encourage the periodic review of translations to ascertain when revision or a new translation is needed. We recommend that each language community form a translation committee to oversee this ongoing work. Using the unfoldingWord online tools, these changes to the translation can be made quickly and easily.
+  - **सहायक**- शक्य आहे, आणि म्हणून अनेक लोक शक्य ते सर्वोच्च दर्जाची आहे हे सुनिश्चित उपलब्ध, अनुवाद, तपासा, आणि अनुवादित सामग्री वितरण आपल्या भाषा बोलणाऱ्या इतर बांधवांना एकत्र कार्य करतो.
+  - सध्या सुरू असलेल्या - भाषांतराचे काम पूर्णपणे पूर्ण नाही आहे. ते सुधारणा केल्या जाऊ शकते की लक्षात तेव्हा गोष्टी सांगतो चांगले उपाययोजनांसाठी भाषा कुशल आहेत जे प्रोत्साहित करतो. अनुवाद काही त्रुटी देखील ते लवकरात लवकर शोधले म्हणून दुरुस्त करावी. तसेच अनुवाद नियतकालिक आढावा अनुवाद साठी संशोधन आवश्यक आहे, तेव्हा पडताळणे प्रोत्साहित करतो. आम्ही प्रत्येक भाषा समुदाय या चालू असलेल्या कामावर देखरेख भाषांतर समिती तयार करणे शिफारसीय आहे. 'अन्फोल्डिंग वर्ड' ऑनलाइन साधनांचा वापर करून, हे भाषांतर जलद आणि सहज केले जाऊ शकते.
 
+पुढे आम्ही शिफारस करतो तुम्ही या विषयी शिका:
 
-
-Next we recommend you learn about:
-  * [[mr:ta:vol1:intro:open_license|Open License]]
-  * [[mr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
-  * [[mr:ta:vol1:checking:intro_checking|Introduction to Translation Checking]]
-
+  * खुला परवाना **(** [[:mr:ta:vol1:intro:open_license|Open License]])
+  * भाषांतर मॅन्युअल परिचय ([[:mr:ta:vol1:translate:translate_manual|Introduction to Translation Manual]])
+  * भाषांतर तपासणी परिचय ([[:mr:ta:vol1:checking:intro_checking|Introduction to Translation Checking]])
