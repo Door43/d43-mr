@@ -1,31 +1,21 @@
-//Translation for the unfoldingWord mobile app interface // 
+अन्फोल्डिंग वर्ड (unfoldingword) मोबाइल अनुप्रयोग संवाद भाषांतर// //
 
+भाषा निवडा:भाषा निवडा
 
-Select a language: Select a Language
+प्रकरण: प्रकरण
 
+अनेक भाषा : अनेक भाषा
 
-Chapters: Chapters
+पुढिल प्रकरण : पुढिल प्रकरण
 
+ठीक आहे : ठीक आहे
 
-Languages: Languages
+खोडणे : खोडणे
 
+तिथेच जतन करा : तिथेच जतन करा
 
-Next chapter: Next Chapter
+ही स्ट्रिंग जतन करा : ऑफलाइन वापरासाठी स्थानिक पातळीवर ही भाषा जतन करा.
 
+स्थानिक पातळीवर काढा : स्थानिक पातळीवर काढा
 
-OK: OK
-
-
-Cancel: Cancel
-
-
-Save locally: Save Locally
-
-
-Save this string: Save this language locally for offline use.
-
-
-Remove locally: Remove Locally
-
-
-Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
+ही स्ट्रिंग काढा : ऑफलाइन संचयातून ही भाषा काढा. भविष्यात पाहण्यासाठी इंटरनेट कनेक्शन आवश्यक आहे.
