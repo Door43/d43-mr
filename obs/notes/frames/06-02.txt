@@ -1,22 +1,26 @@
-===== Finding Rebekah [06-02] =====
+===== **रिबकेचा शोध** [06-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink}}
+एक अतिशय लांबचा प्रवास केल्यानंतर देवाने सेवकाला अब्राहामाचा नातेवाईक ज्या भूमित राहत होता तिकडे रिबकेकडे नेले. ती अब्राहामाच्या भावाची नात होती.
 
-After a very long journey to the land where **Abraham's** relatives lived, **God** led the **servant** to **Rebekah**. She was the **granddaughter of Abraham's brother**.
+===== **महत्वाचे शब्द **: =====
 
-===== Important Terms: =====
+  *
 
+**अब्राहामाच्या**
+**देव**
 
-  * **[[:mr:obe:other:abraham]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:other:rebekah]]**
+**सेवक**
 
+**रिबेका**
 
-===== Translation Notes: =====
+===== **भाषांतरीत टिपा**: =====
 
+  *
 
-  * **granddaughter of Abraham's brother** - Specifically, she was the daughter of Abraham's brother's son. Her grandfather was Abraham's brother.
+**अब्राहामा****च्या****भा****वची****नात** **
+- ** विशेषतः, ती अब्राहामाचा भावाच्या मुलाची मुलगी होती. तिचा आजोबा अब्राहामाचा भाऊ होता
+.
 
 **[[:mr:obs:notes:frames:06-01|<<]] | [[:mr:obs:notes:06|Up]] | [[:mr:obs:notes:frames:06-03|>>]]**
