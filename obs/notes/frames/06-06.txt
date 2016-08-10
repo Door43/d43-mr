@@ -1,25 +1,28 @@
-===== Two Nations [06-06] =====
+===== **दोन राष्ट्रे** [06-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?nolink}}
+देवाने रिबकेला सांगितले, " तुझ्या आत दोन मुलगे आहेत ती दोन राष्ट्रे येतील
+. ते एकमेकांशी संघर्ष करतील, आणि मोठा मुलगा धाकट्याची सेवा करील."
 
-**God** told **Rebekah**, “Two nations will come **from the two sons** inside of you. **They will struggle with each other** and **the older son** will **serve the younger one**.” 
+===== **महत्वाचे शब्द **: =====
 
+  *
 
-===== Important Terms: =====
+**देव**
+**रिबका**
 
+**मुलगा**
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:rebekah]]**
-  * **[[:mr:obe:kt:son]]**
+===== **भाषांतरीत टिपा**: =====
 
-
-===== Translation Notes: =====
-
-
-  * **from the two sons** - That is, "from the descendants of the two sons."
-  * **They will struggle with each other** - Both the two sons and the nations that will come from them will continually fight with each other. Compare to **[[:mr:obs:notes:frames:06-05|[06-05]]]**.
-  * **the older son** - Even though the babies were twins, the baby that came out first would be treated as the older son.
-  * **serve the younger one** – This could be translated as, "the older son will have to do what the younger one tells him to do."
-
+  * **दोन मुलांपासून**  -  म्हणजे,
+" दोन मुलांच्या संताना पासून
+"
+  * **ते एकमेकांशी संघर्ष करतील**
+-  दोन्ही मुले, आणि त्यांच्यापासुन येणारी राष्ट्रे एकमेकांशी सतत लढत राहतील.**[06-05]**. शी तुलना करा.
+  * **मोठा मुलगा
+– ** लेकरे जुळे असली तरी, पहिल्यांदा बाहेर येणा-या बळाला मोठा मुलगा म्हणून मानण्यात येईल
+.
+  * **धाकट्याची सेवा करेल**  – हे असेही भाषांतरित केले जाऊ शकते की, मोठा मुलगा धाकट्या च्या म्हणण्यानुसार चालेल.
 **[[:mr:obs:notes:frames:06-05|<<]] | [[:mr:obs:notes:06|Up]] | [[:mr:obs:notes:frames:06-07|>>]]**
