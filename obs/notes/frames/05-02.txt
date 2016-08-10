@@ -1,24 +1,21 @@
-===== Ishmael Was Born [05-02] =====
+===== **इश्माएलचा जन्म** [05-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink}}
+अशा रीतीने **अब्रामाने हागारेशी विवाह केला**. हागारेला मुलगा झला, अब्रामाने त्याचे नाव **इश्माएल ** ठेवले. परंतू **सारायला होगेराचा मत्सर वाटू लागला**. इश्माएल तेरा वर्षांचा असताना, देव पुन्हा अब्रामाशी बोलला.
+===== **महत्वाचे शब्द **: =====
 
-So** Abram married Hagar**. Hagar had a baby boy, and Abram named him **Ishmael**. But **Sarai became jealous of Hagar**. When Ishmael was thirteen years old, **God** again spoke to Abram. 
+  * **अब्राम**
+  * **हागार**
+  * **इश्माएल**
+  * **साराय**
+  * **देव**
+===== **भाषांतरीत टिपा**: =====
 
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:other:abraham]]**
-  * **[[:mr:obe:other:hagar]]**
-  * **[[:mr:obe:other:ishmael]]**
-  * **[[:mr:obe:other:sarah]]**
-  * **[[:mr:obe:kt:god]]**
-
-
-===== Translation Notes: =====
-
-
-  * **married** - Hagar became Abram's concubine–a "second wife" of lower status. Hagar was still Sarai's servant.
-  * **became jealous of Hagar** - Sarai was jealous of Hagar because Hagar could have children and Sarai could not.
-
+  * **लग्न केले**
+-  हागार अब्राहामाची रखेल
+" खालच्या दर्जाची दुसरी पत्नी
+" बनली
+. हागारे अजूनही सारायची दासी होती.
+  * **ह्गारेचा मत्सर करु लागली**– साराय होगारेचा मत्सर करु लागली कारण हागारेला मुले होती असे आणि सराईला नव्हती.
 **[[:mr:obs:notes:frames:05-01|<<]] | [[:mr:obs:notes:05|Up]] | [[:mr:obs:notes:frames:05-03|>>]]**
