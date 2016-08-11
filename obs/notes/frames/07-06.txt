@@ -1,25 +1,41 @@
-===== Isaac Sent Jacob Away [07-06] =====
+===== **इसहाक याकोबाला दूर घालवतो** [07-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-06.jpg?nolink}}
+परंतु रिबकाने एसावची योजना ऐकली
+. त्यामुळे तीने व इसहाकाने याकोबाला दूर तिच्या नातेवाईकाकडे पाठवले.
 
-But **Rebekah** heard of **Esau’s plan**. So **she and Isaac sent Jacob far away to live with her relatives**. 
+===== **महत्वाचे शब्द **: =====
 
-===== Important Terms: =====
+  *
 
+**रिबका**
+**एसावच्या**
 
-  * **[[:mr:obe:other:rebekah]]**
-  * **[[:mr:obe:other:esau]]**
-  * **[[:mr:obe:other:isaac]]**
-  * **[[:mr:obe:other:jacob]]**
+**इसहाक**
 
+**याकोब**
 
-===== Translation Notes: =====
+===== **भाषांतरीत टिपा**: =====
 
+  *
 
-  * **Esau's plan** - Esau's plan was to kill Jacob after his father died.
-  * **she and Isaac sent Jacob** – Rebekah wanted to protect Jacob from Esau so she talked to Isaac about sending Jacob away.
-  * **far away to live with her relatives** - This was the same place where Rebekah was living when Abraham's servant got her to be Isaac's wife. To make this clear, you could add, "relatives in the same land where she used to live." The land was to the east, several hundred miles away.
-  * **her relatives** - This could also be translated as, "their relatives." Since Abraham's brother was Rebekah's grandfather, her relatives were also Isaac's relatives.
+**एसावाची****योजना**
+-  आपल्या वडिलांच्या मृत्यूनंतर याकोबाला ठार मारण्याची एसावाची योजना होती
+.
+
+**ती****ने****आणि****इसहाकाने****याकोबाला****पाठविले**  - "रिबका याकोबाला एसावापासुन वाचवु पाहत होती, म्हणुन ती इसहाकाला बोलली की याकोबाला दूर पाठवावं .
+
+**खूप ****दूर****तिच्या****नातेवाईकाकडे रहाणे**
+-  हे तेच ठिकाणी होते जेथे रिबका राहत होती जेव्हा अब्राहामाचा सेवक तिला इसहाकाची बायको करण्यासाठी आला होता
+. हे स्पष्ट करण्यासाठी, तुम्ही असे ही म्हणू शकता, "जेथे ती राहत होती त्याच देशातील तीचे नातेवाईक
+." तो प्रदेश पूर्वेला, शेकडो मैल दूर होता
+.
+
+**तिचे****नातेवाईक** **
+– ** हे असे देखील अनुवादित केले जाऊ शकते
+" त्याचे नातेवाईक
+." पासून अब्राहामाचा भाऊ रिबका हिचा आजोबा होता, तिचे नातेवाईक हे इसहाकाचे देखील नातेवाईक होते
+.
 
 **[[:mr:obs:notes:frames:07-05|<<]] | [[:mr:obs:notes:07|Up]] | [[:mr:obs:notes:frames:07-07|>>]]**
