@@ -1,26 +1,28 @@
-===== Joseph in Prison [08-05] =====
+===== **योसेफाचा तुरुंगवास ** [08-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-05.jpg?nolink}}
+त्याच्या स्वामीची पत्नीने, योसेफा सोबत झोपण्याचा प्रयत्न केला, पण योसेफाने या प्रकारे देवा विरुद्ध पाप करण्यास नकार दिला. ती रागावली आणि योसेफावर खोटे आरोप केले, म्हणून त्याला अटक करून तुरुंगात पाठवले. जरी योसेफ तुरुंगात होता तरी तो **देवाशी विश्वासू राहिला**, आणि देवाने त्याला **आशीर्वाद** दिला.
+===== **महत्वाचे शब्द **: =====
 
-His master’s wife **tried to sleep with Joseph**, but Joseph refused to **sin against God** in this way. She became angry and falsely accused Joseph so that he was arrested and sent to prison. Even in prison, Joseph **remained faithful to God**, and God **blessed** him. 
+  *
 
-===== Important Terms: =====
+**योसेफ**
+**पाप**
 
+**देव**
 
-  * **[[:mr:obe:other:josephot]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:faithful]]**
-  * **[[:mr:obe:kt:bless]]**
+**विश्वासू**
 
+**आशिर्वादित**
 
-==== Translation Notes: ====
+==== **भाषांतरीत टिपा**: ====
 
+  *
 
-  * **tried to sleep with Joseph** – Another way to say this would be, "tried to seduce Joseph to have sex with her." To "sleep with" is a way of expressing this in order not to be crude or offensive.
-  * **sin against God** - It is against God's law for people to have sex if they are not married to each other. Joseph did not want to sin by disobeying God's law.
-  * **remained faithful to God** - Another way to say this would be, "continued to obey God."
+**योसेफाबरोबर झोपण्याचा प्रयत्न केला**, हे असे आणखी एका मार्गाने सांगती येईल,  त्याच्याशी लैंगिक संबंध ठेवून योसेफला फशी पाडण्याचा प्रयत्न केला".
+"सोबत झोपणे" हे व्यक्त करण्याचा एक मार्ग आहे, उद्धट किंवा आक्रमक असे नाही.
 
-
+  * **देवाच्या विरुद्ध पाप**  - एकमेकांशी लग्न न करता, जर लोक समागम करतात, तर ते देवाच्या नियमशास्त्राच्या विरुद्ध आहे. योसेफ देवाचे नियम मोडण्याद्वारे पाप करू इच्छित नाही.
+  * **"देवाची आज्ञा पाळत राहिला**.", हे असे आणखी एक मार्गाने म्हणता येईल - देवाशी विश्वासू राहिला."
 **[[:mr:obs:notes:frames:08-04|<<]] | [[:mr:obs:notes:08|Up]] | [[:mr:obs:notes:frames:08-06|>>]]**
