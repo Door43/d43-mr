@@ -1,34 +1,32 @@
-====== Story #31: Jesus Walks on Water ======
+====== कथा #31: येशू पाण्यावर चालतो ======
 
+===== आकलन प्रश्न आणि उत्तरे =====
 
-===== Comprehension Questions and Answers =====
+  - **येशूने लोकांना निरोप देत असताना शिष्यांना काय सांगितले?**
+      * येशू नावेत बसून सरोवराच्या दुस-या बाजूला जाण्यास सांगितले. // [31-01]//
+  - **शिष्यांना त्यांच्या नावेत बसविल्यानंतर येशूने काय केले?**
+      * तो प्रार्थना करण्यास डोंगरावर गेला. // [31-01]//
+  - **त्या रात्री शिष्यांना काय समस्या होती?**
+      * वारा त्यांच्या विरुद्ध दिशेचा होता, त्यामुळे ते फक्त अर्धेच सरोवर ओलांडू शकले. // [31-02]//
+  - **येशू त्यांच्या नावेत कसा पोहचला?**
+      * तो पाण्याच्या पृष्ठभागावर चालू लागला. //[31-03]//
+  - **त्यांनी प्रथम येशूला पाहिले तेव्हा शिष्यांची प्रतिक्रिया काय होती?**
+      * ते भयभीत झाले होते कारण त्यांना वाटले ते भूतच आहे. // [31-04]//
+  - **येशू त्यांची भीती शांत करण्यासाठी त्यांना काय म्हणाला?**
+      * "भिऊ नका. तो मी आहे" // [31-04]//
+  - **येशूने पेत्राला पाण्यावरुन येण्यास का सांगितले?**
+      * कारण पेत्राने येशूला तसे करण्यास सांगितले. // [31-05]//
+  - **पेत्राने येशू पासून आपली दृष्टी दूर केल्यानंतर त्याच्या काय लक्षात आले?**
+      * त्याला लाटां दिसू लागल्या जोराचा वारा जाणवु लागला. //[31-06]//
+  - **वारा आणि लाटा पाहून भयभीत झाल्यानंतर पेत्राबरोबर काय घडले?**
+      * तो पाण्यात बुडू लागला. // [31-07]//
+  - **पेत्राने मदतीसाठी पाचारण केले तेव्हा येशूने काय केले?**
+      * येशू आपला हात पुढे केला आणि त्याला धरले. // [31-07]//
+  - **येशू पेत्राला धमकावून काय म्हणला?**
+      * //"// हे अल्पविश्वासी, तू संशय का धरलास?" // [31-07]//
+  - **येशू नावेत बसल्या नंतर काय झाले?**
+      * वा-याचे वाहने लगेच थांबले आणि पाणी शांत झाले. //[31-08]//
+  - **हा चमत्कार पाहिल्यावर शिष्यांनी कसा प्रतिसाद दिला?**
+      * त्यांनी येशूती उपासना केली आणि म्हणाले, "तु खरोखर देवाचे पुत्र आहेस." // [31-08]//
 
-  - **What did Jesus tell the disciples to do while he dismissed the crowd?**
-    *//He told them to get into a boat and to sail to the other side of the lake. [31-01]//
-  - **What did Jesus do after he sent the disciples away in their boat?**
-    *//He went up on a mountainside to pray. [31-01]//
-  - **What problem did the disciples have during the night?**
-    *//The wind was against them, so they were only able to travel halfway across the lake. [31-02]//
-  - **How did Jesus get to their boat?**
-    *//He walked to it on top of the water. [31-03]//
-  - **How did the disciples react when they first saw Jesus?**
-    *//They were very afraid because they thought he was a ghost. [31-04]//
-  - **What did Jesus say to them to calm their fear?**
-    *//"Do not be afraid. It is I." [31-04]//
-  - **Why did Jesus tell Peter to come to him on the water?**
-    *//Because Peter asked him to do that. [31-05]//
-  - **What did Peter begin to notice when he turned his eyes away from Jesus?**
-    *//He began to look at the waves and to feel the strong wind. [31-06]//
-  - **What happened to Peter when he became afraid of the wind and the waves?**
-    *//He began to sink into the water. [31-07]//
-  - **What did Jesus do when Peter called out for help?**
-    *//Jesus reached out and grabbed Peter. [31-07]//
-  - **What did Jesus say as a rebuke to Peter?**
-    *//"You man of little faith, why did you doubt?" [31-07]//
-  - **What happened after Jesus got into the boat?**
-    *//The wind immediately stopped blowing and the water became calm. [31-08]//
-  - **How did the disciples respond to this miracle?**
-    *//They worshiped Jesus and said, “Truly, you are the Son of God.” [31-08]//
-
-
-**[[en/obs/notes/questions/30|<< ]] | [[en/obs/notes/questions/32| >>]]**
+**[[:en:obs:notes:questions:30|<< ]] | [[:en:obs:notes:questions:32| >>]]**
