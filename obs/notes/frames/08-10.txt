@@ -1,13 +1,18 @@
-===== The Famine [08-10] =====
+===== **दुष्काळ** [08-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?nolink&}}
 
-**The famine was severe** not only in **Egypt**, but also in **Canaan** where **Jacob** and his family lived.
-===== Important Terms: =====
+दुष्काळ फार तीव्र झाला होता फक्त इजिप्त मध्येच नाही, तर कनान देशात पन जेथे याकोब आणि त्याचे कुटुंब राहत होते.
 
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:other:canaan]]**
-  * **[[:mr:obe:other:jacob]]**
+===== **महत्वाचे शब्द **: =====
+
+  *
+
+**मिसर**
+**कनान**
+
+**याकोब**
+
 ==== Translation Notes: ====
 
   * **Egypt, but also Canaan**  – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
