@@ -1,24 +1,25 @@
-===== The Boys Grew Up [07-01] =====
+===== **मुले वाढली ** [07-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink}}
+जस जशी मुले वाढत होती, याकोब घरी राहणे आवडायचे, पण एसावाला शिकार करायला आवडायचे. **याकोब रिबकेचा आवडता होता, पण इसहाक एसाव प्रेम करी**.
+===== **महत्वाचे शब्द **: =====
 
-As the boys grew up, **Jacob loved to stay at home**, but **Esau loved to hunt**. **Rebekah loved Jacob**, **but Isaac loved Esau**. 
+  * **याकोब**
+  * **एसाव**
+  * **रिबका**
+  * **इसहाक**
+===== **भाषांतरीत टिपा**: =====
 
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:other:jacob]]**
-  * **[[:mr:obe:other:esau]]**
-  * **[[:mr:obe:other:rebekah]]**
-  * **[[:mr:obe:other:isaac]]**
-
-
-===== Translation Notes: =====
-
-
-  * **loved to stay at home … loved to hunt** - Some languages will use a word for "love" here that is different from the one used for, "Rebekah loved Jacob." For example, this could be translated as, "liked to stay at home … liked to hunt" or, "preferred to stay at home … preferred to hunt."
-  * **at home** - This expression refers to the area around the family dwellings. Jacob preferred to stay close to the tents where they lived. Some languages have a special expression for, "at home."
-  * **Rebekah loved Jacob, but Isaac loved Esau** - This could be translated as, "Rebekah was more fond of Jacob, and Isaac was more fond of Esau." This does not necessarily mean that Rebekah and Isaac did not love the other son, but that each parent had a favorite.
+  * **घरी राहण्याची आवड, शिकारीची आवड**
+-  काही भाषा
+" प्रेम” हा शब्द वापरतात, “रिबकाने याकोबावर प्रिती केली
+." येथे वेगळ्या अर्थाने वापरला आहे, उदाहरणार्थ, असे ही अनुवादित केले जाऊ शकते, घरी राहण्यास आवडे,  "शिकार करण्यास आवडे"
+  * **घरी**
+-  हे अभिव्यक्ती कुटुंब जेथे कोठे राहाल तेथे परिसर संदर्भित. याकोब जेथे राहत होता, तेथे घरी राहणे पसंत केले. काही भाषांमध्ये
+" घरी
+."  एक विशेष अभिव्यक्ती आहे."
+  * **याकोब रिबकेचा आवडता होता, पण इसहाक एसाव प्रेम करी -**   हे असे ही अनुवादित केले जाऊ शकते
+".  रिबका याकोबाशी अधिक प्रेमळ होती, आणि इसहाकाला एसाव अधिक प्रेमळ होता”.  याचा अर्थ असा नाही की रिबका व इसहाकने दुस-या मुलावर प्रेम केले नाही, पण प्रत्येक पालकाचा एक कोणतरी आवडता असतो.
 
 **[[:mr:obs:notes:frames:06-07|<<]] | [[:mr:obs:notes:07|Up]] | [[:mr:obs:notes:frames:07-02|>>]]**
