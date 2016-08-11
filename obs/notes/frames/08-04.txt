@@ -1,25 +1,33 @@
-===== Joseph in Egypt [08-04] =====
+===== **इजिप्त मध्ये योसेफ** [08-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-04.jpg?nolink}}
+गुलाम व्यापारी योसेफला मिसरला घेवून आले.  इजिप्त नाईल नदीच्या बाजूने स्थित एक मोठा, शक्तिशाली देश होता
+. गुलाम व्यापा-याने योसेफास एका श्रीमंत सरकारी अधिका
+- यास गुलाम म्हणून विकले
+. योसेफ आपला स्वामीची चांगली सेवा केली, आणि देवाने योसेफाला आशीर्वाद दिला.
 
-The **slave** traders took **Joseph** to **Egypt**. Egypt was a large, powerful country located along the **Nile River**. The slave traders sold Joseph as a slave to a wealthy **government official**. Joseph served his master well, and **God blessed** Joseph. 
+===== **महत्वाचे शब्द **: =====
 
-===== Important Terms: =====
+  *
 
+**गुलाम**
+**योसेफ**
 
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:other:josephot]]**
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:other:nileriver]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:bless]]**
+**इजिप्त**
 
+**नाईल नदी**
 
-==== Translation Notes: ====
+**देव**
 
+**आशिर्वादीत**
 
-  * **government official** - This was a person who was part of the Egyptian government. Another way to say this would be, "a leader in Egypt's government."
+==== **भाषांतरीत टिपा**: ====
 
+  *
+
+**सरकारी अधिकारी**– ही व्यक्ती इजिप्शियन सरकारचा भाग होती
+. आणखी एक मार्गाने असे म्हणता येईल, "इजिप्तच्या सरकारमध्ये अधिकारी
+."
 
 **[[:mr:obs:notes:frames:08-03|<<]] | [[:mr:obs:notes:08|Up]] | [[:mr:obs:notes:frames:08-05|>>]]**
