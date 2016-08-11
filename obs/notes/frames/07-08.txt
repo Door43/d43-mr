@@ -1,21 +1,27 @@
-===== Jacob Returned Home [07-08] =====
+===== याकोबाचे घरी परत येणे [07-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink}}
+वीस वर्षे आपल्या कनान येथील घरापासुन दुर राहिल्या नंतर, याकोब आपल्या कुटुंबासह, त्याचे चाकर, आणि त्याची गुरेढोरे सर्व तेथे परत आले.
 
-**After twenty years** away from his home in **Canaan**, **Jacob** returned there with his family, his **servants**, and all his herds of animals. 
+===== **महत्वाचे शब्द**: =====
 
-===== Important Terms: =====
+  *
 
+**कनान**
+**याकोब**
 
-  * **[[:mr:obe:other:canaan]]**
-  * **[[:mr:obe:other:jacob]]**
-  * **[[:mr:obe:other:servant]]**
+**चाकर**
 
+===== **भाषांतरीत टिपा**: =====
 
-===== Translation Notes: =====
+  *
 
-
-  * **after twenty years** - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, "After twenty years living in the land where his relatives were."
+**वीस****वर्षांनंतर**
+-  याकोब वीस वर्षे वास्तव्य होता ज्या देशात त्याची आई राहत होती.
+हे स्पष्ट होत नाही तर आपण असे म्हणू शकतो,
+"
+त्याचे नातेवाईक होते तेथे त्या देशात वीस वर्षे तो राहीला
+."
 
 **[[:mr:obs:notes:frames:07-07|<<]] | [[:mr:obs:notes:07|Up]] | [[:mr:obs:notes:frames:07-09|>>]]**
