@@ -1,40 +1,38 @@
-====== Story #39: Jesus Is Put on Trial ======
+====== कथा #39: महासभेपुढे येशूची परिक्षा ======
 
-===== Comprehension Questions and Answers =====
+===== आकलन प्रश्न आणि उत्तरे =====
 
+  - **तो यहूदी पुढारी येशूला प्रश्न विचारू लागले, तेव्हा दिवसाची कोणती वेळ होती?**
+      * ती मध्यरात्री होती. // [39-01]//
+  - **येशू हा अपराधी आहे असे यहूदी नेते का सिद्ध करू शकले नाही?**
+      * खोटे साक्षीदारांचे जबाब एकमेकांशी सहमत नव्हते. // [39-02]//
+  - **मुख्य याजक येशूला शेवटी कोणता प्रश्न विचारते?**
+      * "आम्हांला सांग, तू ख्रिस्त, जिवंत देवाचा पुत्र आहेस का?" // [39-03]//
+  - **येशूकडून मुख्य याजकाला काय उत्तर मिळाले?**
+      * "मी आहे, आणि तू मला स्वर्गातून येताना देवा बरोबर बसलेला असा पाहशील." //[39-04]//
+  - **येशूने कोणता गुन्हा केला आहे असे मुख्य याजक म्हणत होता?**
+      * येशू म्हणाला तो देवाचा पुत्र आहे. // [39-04]//
+  - **पेत्र येशूच्या चौकशी दरम्यान कोठे होता?**
+      * पेत्र मुख्य याजकाच्या घरा बाहेर वाट पाहत होता. // [39-06]//
+  - **पेत्र येशू बरोबर होता अले लोकांला का वाटले?**
+      * पेत्र व येशू दोघेही गालीलातील होते//. [39-06]//
+  - **तू येशूला ओळखतोस असे लोकांनी विचारले असता, पेत्र काय म्हणला?**
+      * येशूला ओळखतो हे पेत्राने तीन वेळा नाकारले. // [39-07]//
+  - **पेत्राने येशूला तिसऱ्या वेळी नाकारल्यानंतर लगेच काय झाले?**
+      * कोंबडा आरवला आणि येशूने मागे वळून पेत्राकडे पाहिले. //[39-07]//
+  - **यहूदी पुढा-यांनी येशूला दोषी ठरविले हे पाहिले तेव्हा यहूदाने काय केले?**
+      * यहूदा दु: खी झाला आणि दूर गेला आणि स्वत:ला ठार मारले. // [39-08]//
+  - **यहूदी पुढा-यांनी येशूला रोमन राज्यपाल पिलाताच्या कडे का नेले होते?**
+      * त्यांना वाटला पिलात येशूला दोषी ठरवील आणि त्याला ठार मारण्याची शिक्षा सुनावेल. // [39-09]//
+  - **पिलाताने येशूला पहिला प्रश्न काय विचारला होता?**
+      * "तू यहूद्यांचा राजा आहेस काय?" // [39-09]//
+  - **येशूने तो पृथ्वीवर का आला याचे कारण काय सांगितले?**
+      * देवा विषयीचे सत्य सांगण्यासाठी. // [39-10]//
+  - **येशू दोषी नाही हे पिलाताने जमलेल्या गर्दी सकिती वेळा सांगितले?**
+      * तीन वेळा.// [39-11]//
+  - **मग पिलाताने येशूला वधस्तंभावर खिळून मारावे अशी परवानगी का दिली?**
+      * पिलाताला वाटले गर्दीत दंगा सुरू होईल, म्हणुन तो भयभीत झाला होता. // [39-12]//
+  - **रोमन सैनिकांनी येशूशी कसा व्यवहार केला?**
+      * ते येशूला चाबकाचे फटके मारले, राज्याचा अंगरखा आणि त्याला काटेरी झाडाच्या फांद्यांचा एक मुकुट घातला, त्याची थट्टा केली. // [39-12]//
 
-  - **What time of the day was it when the Jewish leaders began to question Jesus?**
-    *//It was the middle of the night. [39-01]//
-  - **Why could the Jewish leaders not prove Jesus was guilty of anything?**
-    *//The statements of the false witnesses did not agree with each other. [39-02]//
-  - **What question did the high priest finally ask Jesus?**
-    *//“Tell us, are you the Messiah, the Son of the living God?” [39-03]//
-  - **What answer did Jesus give to the high priest?**
-    *//“I am, and you will see me seated with God and coming from heaven.” [39-04]//
-  - **What was the crime that the high priest said that Jesus had committed?**
-    *//Jesus said he was the Son of God. [39-04]//
-  - **Where was Peter during Jesus' trial?**
-    *//Peter was waiting outside the house of the high priest. [39-06]//
-  - **Why did the people think that Peter had been with Jesus?**
-    *//Peter and Jesus were both from Galilee. [39-06]//
-  - **What did Peter say when the people asked if he knew Jesus ?**
-    *//Peter denied three times that he knew Jesus. [39-07]//
-  - **What happened immediately after Peter denied Jesus the third time?**
-    *//A rooster crowed, and Jesus turned and looked at Peter. [39-07]//
-  - **What did Judas do when he saw that the Jewish leaders had condemned Jesus?**
-    *//Judas became full of sorrow and went away and killed himself. [39-08]//
-  - **Why did the Jewish leaders take Jesus to the Roman governor Pilate?**
-    *//They hoped Pilate would condemn Jesus and sentence him to be killed. [39-09]//
-  - **What was the first question that Pilate asked Jesus?**
-    *//“Are you the king of the Jews?” [39-09]//
-  - **What did Jesus say was the reason he came to earth?**
-    *//To tell the truth about God. [39-10]//
-  - **How many times did Pilate say to the crowd that Jesus was not guilty?**
-    *//Three times. [39-11]//
-  - **Why then did Pilate allow Jesus to be crucified?**
-    *//Pilate became afraid that the crowd would begin to riot. [39-12]//
-  - **How did the Roman soldiers treat Jesus?**
-    *//They whipped Jesus, put a royal robe and a crown of thorns on him, and mocked him. [39-12]//
-
-
-**[[en/obs/notes/questions/38|<< ]] | [[en/obs/notes/questions/40| >>]]**
+**[[:en:obs:notes:questions:38|<< ]] | [[:en:obs:notes:questions:40| >>]]**
