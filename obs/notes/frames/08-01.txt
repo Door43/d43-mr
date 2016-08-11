@@ -1,25 +1,25 @@
-===== Joseph, the Favorite Son [08-01] =====
+===== **योसेफ, आवडता पुत्र** [08-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?nolink}}
+अनेक वर्षांनी, जेव्हा याकोब, म्हातारा माणूस झाला, तेव्हा त्याने त्याच्या आवडत्या मुलाला योसेफला आपल्या भावांकडे जे गुरेढोरांची काळजी घेत होते ते पहाण्यासाठी पाठविले
+.
 
-Many years later, when **Jacob** was an old man, he **sent** his **favorite son**, **Joseph**, to **check on** his **brothers** who were **taking care of the herds**. 
+===== **महत्वाचे शब्द **: =====
 
-===== Important Terms: =====
+  * **याकोब**
+  * **योसेफ**
+==== **भाषांतरीत टिपा**: ====
 
-
-  * **[[:mr:obe:other:jacob]]**
-  * **[[:mr:obe:other:josephot]]**
-
-
-==== Translation Notes: ====
-
-
-  * **sent** – This word means that Jacob told Joseph to go and Joseph went.
-  * **favorite son** - This could be translated as, "the son he loved more than any of his other children."
-  * **check on** - This means that Joseph is to go and see if everything is all right with his brothers. Some languages might say something like, "to see his brothers' well-being."
-  * **brothers** - These were Joseph's older brothers.
-  * **taking care of the herds** – Since this was several days' journey away, it may be necessary to say, "who were far away taking care of."
-
+  * **पाठविले**   या शब्दाचा अर्थ असा की, याकोब योसेफाला जाण्यासाठी सांगितले व योसेफ गेला.
+  * **आवडता मुलगा**
+-  हे असेही अनुवादित केले जाऊ शकते
+"  इतर कोणत्याही मुलांपेक्षा ज्या मुलावर अधिक प्रेम होते तो
+. मुलगा."
+  * **तपासणे **– याचा अर्थ असा की योसेफाला जावून सर्व पहायचे होते त्याच्या भावांबरोबर सर्व ठीक आहेका नाही ते. काही भाषांमध्ये काही तरी असे म्हणता येईल, “त्याच्या भावाचे कल्यान“
+  * **भाऊ
+- ** या योसेफचे मोठे भाऊ होते.
+  * **गुराढोरांची काळजी घेत**, "हे दूर अनेक दिवसांच्या वाटेवर असल्याने, हे सांगणे आवश्यक असू शकते
+". दूर काळजी घेत होते."
 
 **[[:mr:obs:notes:frames:07-10|<<]] | [[:mr:obs:notes:08|Up]] | [[:mr:obs:notes:frames:08-02|>>]]**
