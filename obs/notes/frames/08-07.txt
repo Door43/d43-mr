@@ -1,18 +1,31 @@
-===== Joseph Interpreted the Dream [08-07] =====
+===== **योसेफ स्वप्नचा अर्थ सांगतो ** [08-07] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink&}}
 
-**God** had given **Joseph** the ability to **interpret dreams**, so **Pharaoh had Joseph brought to him** from the prison. Joseph interpreted the dreams for him and said, “**God is going to send** seven years of plentiful harvests, followed by seven years of **famine**.”
-===== Important Terms: =====
+**देव योसेफाला** **स्वप्नांचा अर्थ सांगण्याची** क्षमता दिली होती, त्यामुळे **फारोने योसेफाला तुरुंगातून आणले.** योसेफाने त्याला स्वप्नांचा अर्थ सांगीतला आणि म्हणाला, "देव सात वर्षे सुकाळ देणार आहे त्यानंतर, सात वर्षे दुष्काळ पाठवीत आहे."
+===== **महत्वाचे शब्द **: =====
 
-  * **[[:mr:obe:kt:god|God]]**
-  * **[[:mr:obe:other:josephot|Joseph (OT)]]**
-  * **[[:mr:obe:other:dream|dream]]**
-  * **[[:mr:obe:other:pharaoh|Pharaoh, king of Egypt]]**
-==== Translation Notes: ====
+  *
 
-  * **interpret dreams**  - To "interpret" is to tell what something means. So Joseph was able to tell people what their dreams meant.
-  * **had Joseph brought to him**  - Another way to say this would be, "ordered his servants to bring Joseph to him."
-  * **God is going to send**  - God will cause the crops to grow well for seven years, and after that He will cause them to produce very little food so that the people and animals will not have enough to eat.
-  * **famine**  - The gardens and fields would produce so little food that people and animals would not have enough to eat.
+**देव**
+**योसेफ**
+
+**स्वप्ने**
+
+**फारो**
+
+==== **भाषांतरीत टिपा**: ====
+
+  *
+
+स्वप्नांचा अर्थ - "अर्थ लावणे" म्हणजे हे सांगणे, काहीतरी दर्शविणे. म्हणून योसेफ लोकांना त्यांच्या स्वप्नांचा अर्थ सांगण्यास सक्षम होता.
+
+  *
+
+**योसेफाला त्याच्याकडे आणले**   - हे असे आणखी एक मार्गाने सांगता येईल, " योसेफला आणण्यासाठी आपल्या सेवकांना आज्ञा केली".
+  *
+
+**देव पाठवनार आहे**  - देव सात वर्षे भरपूर पिक देणार आहे, आणि त्यानंतर फार थोडे अन्न उत्पादन देईल, त्यामुळे लोकाना व प्राण्यांना पुरेसे खायला मिळणार नाही.
+**दुष्काळ**  - बागातून आणि शेतीतून थोडे अन्न निर्मिती होईल, त्यामुळे लोकांना व प्राण्यांना पुरेसे खायला मिळणार नाही.
+
 **[[:mr:obs:notes:frames:08-06|<<]] | [[:mr:obs:notes:08|Up]] | [[:mr:obs:notes:frames:08-08|>>]]**
