@@ -1,30 +1,32 @@
-===== The Twelve Sons [08-15] =====
+===== **बारा मुलगे** [08-15] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?nolink}}
+देवाने असे अभिवचन दिले होते की करार अब्राहामा नंतर इसहाकावर ,व नंतर याकोबाकडे, आणि नंतर याकोबाच्या बारा मुलांकडे आणि त्यांच्या कुटुंबियांकडे जाईल. बारा मुलांचे **संतान** **इस्राएलाच्या बारा वंश** झाले.
+===== **महत्वाचे शब्द **: =====
 
-The **covenant promises** that **God** gave to **Abraham** were **passed on to Isaac**, then to **Jacob**, and then to Jacob’s twelve sons and their families. The **descendants** of the twelve sons became the **twelve tribes of Israel**. 
+  *
 
-===== Important Terms: =====
+**करार**
+**वचने**
 
+**देव**
 
-  * **[[:mr:obe:kt:covenant]]**
-  * **[[:mr:obe:kt:promise]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:abraham]]**
-  * **[[:mr:obe:other:isaac]]**
-  * **[[:mr:obe:other:jacob]]**
-  * **[[:mr:obe:other:descendant]]**
-  * **[[:mr:obe:other:israel]]**
+**अब्राहाम**
 
+**इसहाक**
 
-==== Translation Notes: ====
+**याकोब**
 
+**संतान**
 
-  * **covenant promises** - Long ago God made an agreement with Abraham and promised him that he would give him many descendants; they would possess the land of Canaan and become a great nation. God also promised that all peoples would be blessed through Abraham's line. See also **[[:mr:obs:notes:frames:07-10|[07-10]]]**.
-  * **passed on to** - Another way to say this would be, "passed down to" or, "given to" or, "applied to." God's promise to Abraham was also for Abraham's children, grandchildren and all the rest of his descendants. See also **[[:mr:obs:notes:frames:06-04|[06-04]]]**.
-  * **twelve tribes of Israel** - God had promised Abraham, Isaac and Jacob that their descendants would become a great nation. God later changed Jacob's name to Israel. The descendants of Jacob's 12 sons became 12 great tribes. These 12 tribes made up the ancient nation called Israel, which was named by Jacob's new name.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
+**इस्राएल**
 
+==== **भाषांतरीत टिपा**: ====
+
+  * **कराराचे आभिवचन**  - खुप पूर्वी देवाने अब्राहामाशी करार केला होता, आणि त्याला अनेक संतान देईल असे वचन दिले होते; ते कनान देशात ताबा घेतील आणि एक मोठे राष्ट्र होईल. आणि देवाने असेही अभिवचन दिले होते की, अब्राहामाच्या ओळीने सर्व लोक आशीर्वादित होतील. **हे सुद्धा पहा [07-10].**
+  * **एखाद्याला मिळणे**  - हे असे आणखी एक मार्गाने सागता येईल ते असे, , "देण्यात आले" किंवा "खाली देणे " "लागू." देवाचे वचन अब्राहामाला तसेच अब्राहामाच्या संततिला , नातवंडांना आणि त्याचे वंशजाना होते. हे सुद्धा पहा **[06-04].**
+  * **इस्राएलाचे बारा वंश **- देवाने अब्राहाम, इसहाक व याकोब यांना अभिवचन दिले आहे की त्यांच्या संतानाचे एक मोठे राष्ट्र होईल. देवाने नंतर याकोबाचे नाव बदलून इस्राएल ठवले. याकोबाच्या 12 मुलांचे संतान 12 महान वंश झाले. या 12 वंशानी प्राचीन राष्ट्र बनले ज्याला इस्राएल म्हणत, याकोबाच्या नवीन नावावर हे नाव ठेवण्यात आले.
+  * बायबल कथा - या संदर्भ काही बायबल अनुवाद जरा वेगळी असू शकते.
 
 **[[:mr:obs:notes:frames:08-14|<<]] | [[:mr:obs:notes:08|Up]] | [[:mr:obs:notes:frames:09-01|>>]]**
