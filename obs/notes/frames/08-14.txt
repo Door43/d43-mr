@@ -1,23 +1,26 @@
-===== Jacob Went to Egypt [08-14] =====
+===== याकोब इजिप्त गेले होते  [08-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink}}
+जरी याकोब एक म्हातारा माणूस होता, तरी त्याने आपल्या सर्व परिवारला मिसरला  हलविले, आणि ते सर्व तेथे राहिले. याकोबाने मरण्यापूर्वी, त्याच्या प्रत्येक मुलाला आशीर्वाद दिला.
 
-**Even though Jacob was an old man, he moved to Egypt** with all of his family, and they all lived there. **Before Jacob died**, he **blessed** each of his sons. 
+===== **महत्वाचे शब्द **: =====
 
-===== Important Terms: =====
+  *
 
+**याकोब**
+**मिसर**
 
-  * **[[:mr:obe:other:jacob]]**
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:kt:bless]]**
+**आशिर्वाद**
 
+==== **भाषांतरीत टिपा**: ====
 
-==== Translation Notes: ====
+  *
 
+**जरी याकोब एक म्हातारा माणूस होता तरी तो मिसरला गेला**  - मिसर कनान पासुन  ब-याच अंतरावर होते, आणि एका वृद्ध माणूसाला चालणे, किंवा, गाडी घोडावर बसणे  कठीण होते.
+  *
 
-  * **Even though Jacob was an old man, he moved to Egypt** - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
-  * **Before Jacob died** - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
-
+**याकोब मरण्यापूर्वी**  - याकोब मिसर मध्ये मरण पावला. तो कनानात परत गेला नाही, देवाने जो प्रदेश त्याला व त्याच्या संतानाला देण्याचे वचन दिले होते.
+    .
 
 **[[:mr:obs:notes:frames:08-13|<<]] | [[:mr:obs:notes:08|Up]] | [[:mr:obs:notes:frames:08-15|>>]]**
