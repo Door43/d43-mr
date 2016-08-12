@@ -1,25 +1,33 @@
-===== Aaron Helped Moses [09-15] =====
+===== **अहरोन मोशेला मदत करतो** [09-15] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?nolink}}
+**मोशे भीती वाटत होती****, ****आणि तो फारोकडे जाऊन इच्छित नाही** कारण तो चांगला वक्ता नव्हता, म्हणून देवाने, मोशेचा भाऊ अहरोन यास त्याला मदत करण्यासाठी पाठविले. देव मोशे व अहरोन यांना इशारा दिला फारो फार कठीण होईल.
+===== **महत्वाचे शब्द **: =====
 
-**Moses was afraid and did not want to go to Pharaoh** because he thought he could not speak well, so **God** sent **Moses’ brother**, **Aaron**, to help him. God warned Moses and Aaron that Pharaoh would be **stubborn**.
-===== Important Terms: =====
+  *
 
+**मोशे**
+**फारो**
 
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:other:pharaoh]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:aaron]]**
+**देव**
 
+**अहरोन**
 
-==== Translation Notes: ====
+==== **भाषांतरीत टिपा**: ====
 
+  *
 
-  * **was afraid and did not want to go** - Moses knew that Pharaoh wanted to kill him, and he did not believe that he could do what God wanted him to do.
-  * **Moses' brother, Aaron** - Aaron was Moses's actual brother from his Israelite mother and father. Aaron would have been at least several years older than Moses.
-  * **stubborn** - This means the Pharaoh would refuse to obey God. You may also want to add, "stubborn and refuse to listen (or obey)."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
+**भीती वाटत होती आणि जाऊ इच्छित नव्हता**  - मोशेला माहित होते की फारोला त्याला ठार मारणार होता, , आणि देव त्याला जे करायला सांगत होता ते तो करेल असा विश्वास ठेवला नाही.
+  *
 
+**मोशेचा भाऊ अहरोन**  - अहरोन मोशेचा सख्खा भाऊ होता त्याच्या इस्राएली आई आणि वडीलां पासून झालेला. अहरोन मोशे पेक्षा अनेक वर्षांनी लहान होता.
+  *
+
+**हट्टी कठीण**  - याचा अर्थ फारो देवाच्या आज्ञांचे पालन करण्यास नकार देनार.तूम्ही असेही जोडू शकता, "हट्टी आणि ऐकण्यासाठी नकार."
+  *
+
+//बायबल कथा//
+- या संदर्भ काही बायबल अनुवाद जरा वेगळी असू शकते.
 
 **[[:mr:obs:notes:frames:09-14|<<]] | [[:mr:obs:notes:09|Up]] | [[:mr:obs:notes:frames:10-01|>>]]**
