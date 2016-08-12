@@ -1,27 +1,21 @@
-===== The Gnats and the Flies [10-05] =====
+===== **उवा आणि गोमाशा ** [10-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?nolink}}
+मग **देवाने उवाची पिडा पाठवली.** नंतर त्याने **गोमाशाची** पिडा पाठवली. फारोने मोशेला आणि अहरोनला बोलावीले आणि त्यांना सांगितले जर ते ह्या पिडा थांबवतील, तर इस्त्राएली **मिसर** सोडू शकतील. जेव्हा मोशेनी प्रार्थना केली, देवाने सर्व उवा आणि गोमाशा दूर केल्या. परंतू फारोने आपले ह्रदय अधिक कठोर केले आणि लोकांना जाऊ दिले नाही.
 
-So **God sent a plague of gnats**. Then he sent a plague of **flies**. **Pharaoh** called **Moses** and **Aaron** and told them that if they stopped the plague, the **Israelites** could leave Egypt. When Moses prayed, God removed all the flies from **Egypt**. But Pharaoh **hardened his heart** and would not let the people go free.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:pharaoh]]**
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:other:aaron]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:egypt]]**
-
-
+  * **[[:mr:obe:kt:god|God]]**
+  * **[[:mr:obe:other:pharaoh|Pharaoh, king of Egypt]]**
+  * **[[:mr:obe:other:moses|Moses]]**
+  * **[[:mr:obe:other:aaron|Aaron]]**
+  * **[[:mr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:mr:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
 
-
-  * **God sent a plague** – This could be translated as, "God caused there to be a plague" or, "God caused a plague (of gnats) to come over the land of Egypt."
-  * **gnats** - These were tiny, biting insects flying in large swarms, annoying and landing on all the people and animals of Egypt.
-  * **flies** - These were much bigger flying insects that were both annoying and destructive. There were so many of these flies that they covered everything, even filling the Egyptians' houses.
-  * **hardened his heart** - See note in **[[:mr:obs:notes:frames:10-04|[10-04]]]**.
-
-
+  * **God sent a plague**  – This could be translated as, "God caused there to be a plague" or, "God caused a plague (of gnats) to come over the land of Egypt."
+  * **gnats**  - These were tiny, biting insects flying in large swarms, annoying and landing on all the people and animals of Egypt.
+  * **flies**  - These were much bigger flying insects that were both annoying and destructive. There were so many of these flies that they covered everything, even filling the Egyptians' houses.
+  * **hardened his heart**  - See note in **[[:mr:obs:notes:frames:10-04|[10-04]]]**.
 **[[:mr:obs:notes:frames:10-04|<<]] | [[:mr:obs:notes:10|Up]] | [[:mr:obs:notes:frames:10-06|>>]]**
