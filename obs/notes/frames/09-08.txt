@@ -1,24 +1,29 @@
-===== An Egyptian Beat a Slave [09-08] =====
+===== **एक मिसरी गुलामाला मारत होता** [09-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink}}
+एक दिवस, जेव्हा मोशे मोठा झाला होता, तेव्हा त्याने पाहिले एक इस्राएली मिसरी गुलामाला मारत होता. मोशेने आपल्या इस्राएली बांधवाला वाचवण्याचा प्रयत्न केला.
 
-One day, when **Moses** had grown up, he saw an **Egyptian** beating an **Israelite slave**. Moses tried to **save** his **fellow Israelite**.
-===== Important Terms: =====
+===== **महत्वाचे शब्द **: =====
 
+  *
 
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:kt:save]]**
+**मोशे**
+**मिसरी**
 
+**इस्राएली**
 
-==== Translation Notes: ====
+**गुलाम**
 
+**वाचवणे**
 
-  * **grown up** - Another way to say this would be, "grown into a man."
-  * **fellow Israelite** - This phrase refers to the Israelite slave. The word "fellow" here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
+==== **भाषांतरीत टिपा**: ====
 
+  *
 
+वाढला - आणखी एक मार्गाने असे ही म्हणता येईल, "पुरुष झाला."
+
+  *
+
+**आपल्या इस्राएल बांधवाला**  - हा वाक्यांश इस्राएली गुलाम संदर्भित. शब्द "सहकारी" येथे असे दर्शवतो की मोशे सुद्धा एक इस्राएली होता. जरी इजिप्तच्या फारोच्या मुलीने मोशेला वाढविले असले, तरी मोशेला आठवण झाली तो खरोखर इस्राएली आहे.
 **[[:mr:obs:notes:frames:09-07|<<]] | [[:mr:obs:notes:09|Up]] | [[:mr:obs:notes:frames:09-09|>>]]**
