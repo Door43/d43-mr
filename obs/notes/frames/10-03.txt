@@ -1,22 +1,15 @@
-===== The Water Became Blood [10-03] =====
+===== **पाण्याचे रक्त झाले ** [10-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink}}
+**देवाने नाईल नदी रक्तात बदलली**, परंतू **फारो** तरी सुद्धा **इस्त्राएलांना** जाउ देईना.
+===== **महत्वाचे शब्दः **  =====
 
-**God turned the Nile River into blood**, but **Pharaoh** still would not let the **Israelites** go.
-===== Important Terms: =====
+  * **देव**
+  * **नाईल नदी**
+  * **फारो**
+  * **इस्त्राएली**
+==== **भाषांतरित टिपाः **  ====
 
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:nileriver]]**
-  * **[[:mr:obe:other:pharaoh]]**
-  * **[[:mr:obe:other:israel]]**
-
-
-==== Translation Notes: ====
-
-
-  * **turned the Nile River into blood** - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
-
-
+  * **नाईल नदीचे रक्तात बदलने – ** काही भाषामध्ये असे म्हणण्याची गरज आहे, नाईल नदीच्या पाण्याचे रक्तात रुपांतर झाले. नदीत पाण्याऐवजी रक्त होते, त्यामुळे मासे मेले आणि लोकांना पिण्यास पाणी नव्हते.
 **[[:mr:obs:notes:frames:10-02|<<]] | [[:mr:obs:notes:10|Up]] | [[:mr:obs:notes:frames:10-04|>>]]**
