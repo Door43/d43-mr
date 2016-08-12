@@ -1,24 +1,17 @@
-===== Pharaoh Refused to Obey [10-02] =====
+===== **फारोने आज्ञा पाळण्यास नकार दिला** [10-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?nolink}}
+**फारो** **लोकांना** जाऊ देण्यास सतत नकार देत राहिला, म्हणून **देवाने** **भयंकर दहा पिडा** **मिसरावर** पाठवल्या. ह्या दहा पीडेद्वारे, देवाने फारोला दाखवून दिले की तो फारोपेक्षा व सर्व मिसरी देवांपेक्षा सामर्थ्यवान आहे.
+===== **महत्वाचे शब्द:**  =====
 
-**Pharaoh** kept refusing to let **the people** go, so **God** sent **ten terrible plagues** on **Egypt**. Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and **all of Egypt's gods**.
-===== Important Terms: =====
+  * **फारो**
+  * **देव**
+  * **मिसर**
+  * **देवता**
+==== **भाषांतरीत**  **टीपा****:**  ====
 
-
-  * **[[:mr:obe:other:pharaoh]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:kt:falsegod]]**
-
-
-==== Translation Notes: ====
-
-
-  * **the people** - This refers to the people of Israel, also called, "the Israelites."
-  * **ten terrible plagues** - A plague is something very bad or terrible that happens to someone or something. A plague usually refers to something that affects many people or happens over a large geographic area. Another word for "plague" would be "disaster."
-  * **all of Egypt's gods** - It may be more clear to say, "all the gods that the Egyptian people worshiped." The people of Egypt worshiped many different false gods. These false gods were either spirit beings that the God of Israel created, or they did not actually exist.
-
-
+  * **लोक –** हे इस्राएल लोकंविषयी म्हटले आहे, ह्यांना” इस्राएली” सुद्धा  म्हणतात.
+  * **दहा भयंकर पीडा**  –पीडा म्हणजे एखाद्या व्यक्तीसाठी किंवा वस्तूसाठी अति भयानक असे काहीतरी घडणे. पीडा म्हणजे अशी एखादी गोष्ट की जी पुष्कळ लोकांना किंवा मोठ्या भौगोलीक विभागाला घडते. “पीडा” ह्या शब्दाला दुसरा शब्द ”मोठे संकट” असेही म्हणता येईल.
+  * **मिसरच्या सर्व देवता – ** अधिक स्पष्टपणे सांगायचे म्हणजे, ते सर्व देवता ज्यांची उपासना  मिसरी लोक करीत मिसरी लोक अनेक वेगवेगळ्या खेट्या देवदेवतांची पुजा करत. हे खोटे देवदेवता एकतर इस्त्राएलाच्या देवाने बनवलेले आत्मारुपी असावेत किंवा खरे तर ते अस्तित्वातच नसावेत.
 **[[:mr:obs:notes:frames:10-01|<<]] | [[:mr:obs:notes:10|Up]] | [[:mr:obs:notes:frames:10-03|>>]]**
