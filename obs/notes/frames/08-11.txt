@@ -1,23 +1,25 @@
-===== The Brothers Bought Food [08-11] =====
+===== **भाऊ अन्न खरेदी करतात** [08-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink}}
+मग **याकोबाने** अन्न विकत घेण्यासाठी **मिसरला** त्याच्या **मोठा मुलांना** पाठविले. ते अन्न खरेदी करण्यासाठी त्याच्या समोर उभे राहिले, तेव्हा त्यांनी योसेफाला ओळखले नाही. परंतु योसेफाने त्यांना ओळखले.
+===== **महत्वाचे शब्द **: =====
 
-So **Jacob** sent **his older sons** to **Egypt** to buy food. The brothers **did not recognize Joseph** when they stood before him to buy food. But Joseph recognized them. 
+  *
 
-===== Important Terms: =====
+**याकोब**
+**मिसर**
 
+**योसेफ**
 
-  * **[[:mr:obe:other:jacob]]**
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:other:josephot]]**
+==== **भाषांतरीत टिपा**: ====
 
+  *
 
-==== Translation Notes: ====
+**त्याची मोठी मुले**  - तेच योसेफाचे भाऊ ज्यांनी त्याला गुलाम म्हणून विकले होते.
+  *
 
-
-  * **his older sons** - These were Joseph's older brothers who had sold him into slavery.
-  * **did not recognize Joseph** - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
-
+**योसेफला ओळखले नाही**
+– त्यांना माहित नव्हते की हा माणुस योसेफ आहे, कारण आता योसेफ त्यांनी पाहिला होता त्या पेक्षा खुप मोठा झाला होता, आणि त्याच्या अंगावर मिसरी अधिका-याचे कपडे पाहीली होती.
 
 **[[:mr:obs:notes:frames:08-10|<<]] | [[:mr:obs:notes:08|Up]] | [[:mr:obs:notes:frames:08-12|>>]]**
