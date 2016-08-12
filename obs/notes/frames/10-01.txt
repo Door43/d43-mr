@@ -1,21 +1,21 @@
-===== **माझ्या** लोकांना जाऊ दे [10-01] =====
+===== माझ्या लोकांना जाऊ दे [10-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&}}
 
 **मोशे** आणि **अहरोन** **फारोकडे** गेले. ते म्हणाले, ” **इस्राएलाचा देव** म्हणतो **माझ्या लोकांना जाऊ दे**!” फारोने त्यांचे ऐकले नाही. **इस्राएल** लोकांना जाऊ देण्याऐवजी,त्यांना जास्त काम करण्यास भाग पाडले!
-===== **महत्वाच्या टीपाः**  =====
+===== महत्वाच्या टीपाः =====
 
   * **__मोशेः__ **
-  * **[[:mr:obe:other:aaron|Aaron]]**
-  * **[[:mr:obe:other:pharaoh|Pharaoh, king of Egypt]]**
-  * **[[:mr:obe:kt:god|God]]**
-  * **[[:mr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:mr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-==== Translation Notes: ====
+  * **__अहरोन__ **
+  * **__फारो__ **
+  * **__देव__ **
+  * **__इस्राएल __ **
+  * **__इस्राएली लोक__ **
+==== **भाषांतर टिपाः**  ====
 
-  * **to Pharaoh**  – It may be clearer to say, "to Pharaoh's palace to talk to him."
-  * **God of Israel**  - This could be translated as, "God, who chose the Israelites to be his people" or, "God, who rules the people of Israel" or, "the God whom the Israelites worship."
-  * **Let My people go**  – Another way to say this would be, "Allow My people to go free" or, "Free My people to leave Egypt."
-  * **my people**  - See "my people" in **[[:mr:obs:notes:frames:09-13|[09-13]]]**.
-  * **listen to**  – This could be translated as "heed" or, "obey."
+  * **फारोकडे**  “ असे म्हणणे ठीक होईल की, फारोच्या राजवाड्याकडे त्याच्याशी बोलण्यासाठी
+  * **इस्राएलाचा देव**  – हे असेही भाषांतर करता यईल की,”देव, ज्याने इस्राएली लोकांना स्वताःसाठी निवडले” “किंवा देव जो इस्त्राएल लोकंवर राज्य करतो”, किंवा “देव ज्याची उपासना इस्त्राएली लोक करतात.”
+  * **माझ्या लोकांना जाऊदे**  – दुस-या मार्गाने असेही म्हणता येईल, “माझ्या लोकांना स्वतंत्रपणे जाऊदे,” किंवा “माझ्या लोकांना मिसर सोडण्यास मोकळीकता दे.”
+  * **माझे लोक –**“माझे लोक “**__ [09-13]__**. मध्ये पहा
+  * **चे ऐका ** याचे भाषांतर असे होउ शकते, “लक्ष देणे” किंवा, “आज्ञा पाळणे.”
 **[[:mr:obs:notes:frames:09-15|<<]] | [[:mr:obs:notes:10|Up]] | [[:mr:obs:notes:frames:10-02|>>]]**
