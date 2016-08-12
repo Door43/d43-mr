@@ -1,27 +1,33 @@
-===== The Name of God [09-14] =====
+===== देव नाव  [09-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?nolink}}
+**मोशे** म्हणाला, "मला कोणी पाठवले हे **लोकांना** जाणून घेण्याची इच्छा झाली, तर मी काय बोलावे?" देव म्हणाला, "**मी आहे तो मी आहे****'**. त्यांना सांग, मी परमेश्वर याने मला तुमच्याकडे पाठवले आहे, त्यांना सां 'मी परमेश्वर तुझ्या पुर्वजांचा, अब्राहाम, इसहाक आणि याकोबाचा देव आहे.' हेच माझे सनातन नाव आहे. "
+===== **महत्वाचे शब्द **: =====
 
-**Moses** asked, “What if **the people** want to know who sent me, what should I say?” **God** said, “**I AM WHO I AM**. Tell them, ‘**I AM** has sent me to you.’ Also tell them, 'I am **Yahweh**, the God of your ancestors **Abraham**, **Isaac**, and **Jacob**.' This is **my name** forever.”
-===== Important Terms: =====
+  *
 
+**मोशे**
+**देव**
 
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:yahweh]]**
-  * **[[:mr:obe:other:abraham]]**
-  * **[[:mr:obe:other:isaac]]**
-  * **[[:mr:obe:other:jacob]]**
+**परमेश्वर**
 
+**अब्राहाम**
 
-==== Translation Notes: ====
+**इसहाक**
 
+**याकोब**
 
-  * **the people** - See "my people" in **[[:mr:obs:notes:frames:09-13|[09-13]]]**.
-  * **I AM WHO I AM** - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else.
-  * **I AM** - This name emphasizes that God is the only one who has always lived and always will live.
-  * **my name** - The name that God told Moses and all of Israel to use for him is "Yahweh," which is related to "I AM" and appears to mean, "HE IS."
+==== **भाषांतरीत टिपा**: ====
 
+  * **लोक **-  **[09-13]**  मध्ये 'माझ्या लोकांना "पहा.
+  *
 
+**मी आहे तो मी आहे**  - हे वर्णन देव फक्त स्वत: सीठीच परिभाषित केले जाऊ शकते, आम्हाला माहित आहे असे दुसरे काहीही नाही हे दर्शवते, आणि त्याची कोणाशीही तुलना केली जाऊ शकत नाही.
+  *
+
+**मी आहे**  - हे नाव नेहमी फक्त एकच देव आहे, आणि नेहमी जिवंत आहे व जिवंत असणार आहे हे दर्शविते.
+  *
+
+**माझे नाव**  - देवाने मोशेला व सर्व इस्राएलाला सांगितले की मला वापरण्यासाठी नाव "परमेश्वर,"जे "मी आहे" याच्याशी संबंधित आहे, आणि याचा अर्थ असा दिसतो, "तो आहे."
 **[[:mr:obs:notes:frames:09-13|<<]] | [[:mr:obs:notes:09|Up]] | [[:mr:obs:notes:frames:09-15|>>]]**
