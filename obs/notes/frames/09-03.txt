@@ -1,24 +1,26 @@
-===== Hard Labor [09-03] =====
+===== **कठोर परिश्रम** [09-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-03.jpg?nolink}}
+मिसरींनी इस्राएल लोकांना अनेक इमारती आणि अगदी संपूर्ण शहर तयार करण्यासाठी भाग पाडले. कठोर परिश्रमामुळे त्यांचे जीवन कष्टमय झाले, पण देवाने त्यांना आशीर्वाद दिला, आणि त्याना अगदी अधिक मुले होत गेली.
 
-The **Egyptians** forced the **Israelites** to build many buildings and even whole cities. The hard work made their lives **miserable**, but **God blessed them**, and they had even more children. 
+===== **महत्वाचे शब्द **: =====
 
-===== Important Terms: =====
+  *
 
+**मिसरी**
+**इस्राएली**
 
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:bless]]**
+**देव**
 
+**आशिर्वाद**
 
-==== Translation Notes: ====
+==== **भाषांतरीत टिपा**: ====
 
+  *
 
-  * **miserable** – This means that they suffered terribly because of how harshly they were treated and how hard they were forced to work. They also felt very discouraged.
-  * **God blessed them** - God took care of them, helping them endure the severe treatment and even caused them to become more numerous by giving them children.
+**कष्टमय**  - याचा अर्थ असा की ते अतिशय दु: ख सहन करीत होते, कारण ते फार निष्ठूरपणे त्यांना वागवत, आणि कठिणपणे काम करण्यास भाग पाडत. ते अतिशय निराश झाले होते.
+  *
 
-
+**देवाने त्यांना आशीर्वाद दिला**  - देवाने त्यांची काळजी घेतली, छळ सहन करणयाची ताकद व त्यांना अधिक मुले देऊन बहुगुणित केले.
 **[[:mr:obs:notes:frames:09-02|<<]] | [[:mr:obs:notes:09|Up]] | [[:mr:obs:notes:frames:09-04|>>]]**
