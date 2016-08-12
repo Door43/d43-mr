@@ -1,20 +1,13 @@
-===== The Birth of Moses [09-05] =====
+===== **मोशेचा जन्म** [09-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-05.jpg?nolink}}
+एका इस्राएल स्त्रीने एका मुलाला जन्म दिला. ती आणि तिच्या पतीने जोपर्यंत शक्य होते तोपर्यंत बाळ लपवून ठेवले.
 
-A certain **Israelite** woman gave birth to a baby boy. She and her husband hid the baby **for as long as they could**.
+===== **महत्वाचे शब्द **: =====
 
-===== Important Terms: =====
+  * **इस्राएली**
+==== **भाषांतरीत टिपा**: ====
 
-
-  * **[[:mr:obe:other:israel]]**
-
-
-==== Translation Notes: ====
-
-
-  * **as long as they could** - They hid the baby from the Egyptians until it became too difficult to keep him safely hidden in their home.
-
-
+  * **जो पर्यंत शक्य होते तो पर्यंत**  - त्यांनी त्याला मिसर्या पासून सुरक्षितपणे त्यांच्या घरी लपवने खूप कठीण होईपर्यंत लपवून ठेवले.
 **[[:mr:obs:notes:frames:09-04|<<]] | [[:mr:obs:notes:09|Up]] | [[:mr:obs:notes:frames:09-06|>>]]**
