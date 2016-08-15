@@ -1,34 +1,44 @@
-====== Story #47: Paul and Silas in Philippi ======
+====== गोष्ट #४७: पाऊल आणि सिलास फिलप्पैमध्ये ======
 
-===== Comprehension Questions and Answers =====
+===== आकलन प्रश्न आणि उत्तरे =====
 
+**1. शाऊलाने कोणते रोमी नाव वापरण्यास सुरवात केली? **
 
-  - **What was the Roman name that Saul began to use?**
-    *//Paul. [47-01]//
-  - **Where did Paul go in Philippi to proclaim the good news about Jesus?**
-    *//They went to a place by the river outside the city where people gathered to pray. [47-01]//
-  - **What made it possible for Lydia to believe in Jesus?**
-    *//God made it possible for Lydia to understand the message about Jesus. [47-02]//
-  - **What did Paul and Silas do to Lydia after she believed?**
-    *//They baptized Lydia and her family. [47-02]//
-  - **What did the demon-possessed slave girl keep yelling when she saw Paul and Silas?**
-    *//“These men are servants of the Most High God. They are telling you the way to be saved!” [47-04]//
-  - **How did Paul respond to the demon's testimony?**
-    *//Paul became annoyed and commanded the demon to leave the slave girl. [47-04], [47-05]//
-  - **Why were the owners of the slave girl angry that the demon was gone?**
-    *//They realized that people would no longer pay money for her to tell people the future. [47-06]//
-  - **What were Paul and Silas doing in the middle of the night in jail?**
-    *//They were singing songs of praise to God. [47-08]//
-  - **What happened while Paul and Silas were singing?**
-    *//There was a violent earthquake, the prison doors flew open, and the chains of the prisoners fell off. [47-09]//
-  - **Why was the jailer terrified?**
-    *//He thought all the prisoners had escaped, and that the Roman authorities would kill him. [47-10]//
-  - **What question did the jailer ask Paul?**
-    *//“What must I do to be saved?” [47-11]//
-  - **What did Paul say the jailer had to do in order to be saved?**
-    *//He had to believe in Jesus, the Master. [47-11]//
-  - **What happened to some of the letters Paul and other Christian leaders wrote to the believers in the churches?**
-    *//Some of these letters became books of the Bible. [47-14]//
+   * //पाऊल.////[47-01]//
+**2. पाऊल शुभ संदेश प्रचार करण्यास कोठे गेला?**
 
+  * //ते एका नदीच्या जागेवर गेले जे शहराच्या बाहेर होते व प्रार्थनेस एकत्र जमत.////[47-01]//
+**3. कोणती गोष्ट शक्य झाली की लुदियाने यीशुवर विश्वास केला?**
 
-**[[en/obs/notes/questions/46|<< ]] | [[en/obs/notes/questions/48| >>]]**
+  * //देवाने संदेश समजण्यास संभव केले की लुदियाने विश्वास केला.////[47-02]//
+**4. लुदियाने विश्वास केल्यानंतर पाऊल व सिलासने काय केले? **
+
+  * //त्यांनी लुदिया व तिच्या घराण्यास बाप्तिस्मा दिला.////[47-02]//
+**5. शाऊल आणि सिलासला पाहून भूतग्रस्त बंधक मुलगी का ओरडत होती?**
+
+  * //“////हे माणसे अति उच्च देवाचे दास आहेत आणि ते मुक्ती प्राप्तीची गोष्ट सांगतात!////”////[47-04]//
+**6. दुष्ट आत्माग्रस्तीच्या साक्षीला शाऊलने कसे प्रतिउत्तर दिलं? **
+
+  * //पाऊल अभिषेकाने आणि आज्ञा देऊन दुष्ट आत्मा ग्रस्त मुलीला आज्ञा देतो.////[47-04], [47-05]//
+**7. का दासी पुत्री क्रोधीत झाली, तर शैतान निघून गेला?**
+
+  * //त्यांनी हे जाणून घेतले की भविष्याची गोष्ट सांगण्यास ते लोक आता जास्त पैसे भरणार////नाही.////[47-06]//////
+**8. पाऊल आणि सिलास मध्यरात्री जेल मध्ये काय करत होते?**
+
+  * //ते गीते गाऊन देवाची स्तुती////[47-08]//
+**9. जेव्हा पाऊल आणि सिलास गीत गात होते तेव्हा काय झाले?**
+
+  * //तेथे मोठा धरतीकंप झाला व बंधिखानाचे दरवाजे उघडले आणि बंदिवान मुक्त झाले.////[47-09]//
+**10. जेलर का भयभीत झाला?**
+
+  * //सर्व बंदिवान पळून गेले असावे आणि रोमी अधिकारी मला मारून टाकणार असे वाटले////. [47-10]//
+**11. जेलरने शाऊलला कोणता प्रश्न विचारला?**
+
+  * //“////मला मुक्ती मिळावी म्हणून मी काय करावे?////”////[47-11]//
+**12. मुक्ती मिळवण्यासाठी पाऊलने जेलरला काय म्हटले? **
+
+  * //यीशुवर विश्वास करावे जो आमचा स्वामी आहे.////[47-11]//
+**13. शाऊलने लिहिलेल्या काही पत्रांचे व अन्य अगेवानांनी लिहिलेल्या मंडळीतील विश्वास्यांसाठी काय झाले? **
+
+  * //काही पत्र बायबलचे पुस्तक बनले.////[47-14]//
+**[[:en:obs:notes:questions:46|<< ]] | [[:en:obs:notes:questions:48| >>]]**
