@@ -1,28 +1,36 @@
-====== Story #44: Peter and John Heal a Beggar ======
+====== गोष्ट #४४: पेत्र व योहानाने भिकार्यास बे केले ======
 
-===== Comprehension Questions and Answers =====
+===== आकलन प्रश्न आणि उत्तरे =====
 
+**1. लंगडा मनुष्य पेत्रस आणि योहानाकडून काय अपेक्षा करत होता? **
 
-  - **What did the crippled man expect Peter and John to give him?**
-    *//Money. [44-01]//
-  - **What did Peter give to the crippled man instead?**
-    *//Peter healed him in the name of Jesus. [44-02]//
-  - **What did Peter say caused the crippled man to be healed?**
-    *//The power of Jesus and the faith that Jesus gives. [44-04]//
-  - **Who did Peter say killed Jesus?**
-    *//He said the people in the crowd asked the Roman governor to kill Jesus. [44-05]//
-  - **What prophecies did the people fulfill when they killed Jesus?**
-    *//The prophecies that the Messiah would suffer and die. [44-05]//
-  - **What did Peter tell the people that they should do?**
-    *//They should repent and turn to God, so that their sins would be washed away. [44-05]//
-  - **How many men believed in Jesus as a result of Peter’s message?**
-    *//About 5000. [44-06]//
-  - **What is the only way to be saved?**
-    *//The only way to be saved is through the power of Jesus. [44-08]//
-  - **Why were the Jewish leaders surprised at the preaching of Peter and John?**
-    *//Peter and John were ordinary, uneducated men. [44-09]//
-  - **What did the Jewish leaders finally decide to do with Peter and John?**
-    *//They threatened them and let them go. [44-09]//
+   * //पैसे//// [44-01]//
+**2. पैसे ऐवजी पेत्रसने लंगड्या माणसाला काय दिले?**
 
+  * //पेत्रसने त्याला यीशुच्या नावाने बरे केले.////[44-02]//
+**3. लंगड्या मनुष्याला बरे होण्यासाठी पेत्राने काय सांगितले?**
 
-**[[en/obs/notes/questions/43|<< ]] | [[en/obs/notes/questions/45| >>]]**
+  * //यीशुचे सामर्थ्य व विश्वास जो यीशु देतो.////[44-04]//
+**4. पेत्राने म्हटले, यीशुला कोणी मारले?**
+
+  * //त्याने लोकांच्या गर्दीत सांगितले, रोमी सरकारने यीशुला मारले.////[44-05]//
+**5. कोणती भविष्यवाणी लोकांनी पूर्ण केली जेव्हा त्यांनी यीशुला मारले?**
+
+  * //भविष्यवाणी हि की, मासिहाने दुख सोसावे व मरावे.////[44-05]//
+**6. पेत्राने काय म्हटले की लोकांनी केलं पाहिजे? **
+
+  * //त्यांनी पश्चाताप करावा व देवाकडे फिरावे. जेणेकरून त्यांचे पाप शुद्ध व्हावे.////[44-05]//
+**7. किती लोकांनी पेत्राच्या संदेशावर विश्वास केला परिणाम स्वरूप?**
+
+  * //कमीत कमी ५००० लोक.////[44-06]//
+**8. कोणता एकमात्र मार्ग आहे कि आपण वाचु शकू?**
+
+  * //वाचण्याचा एकमात्र मार्ग यीशु ख्रिस्ताचं सामर्थ्य.////[44-08]//
+**9. का यहुदी आगेवान योहान व पेत्राच्या प्रचारावर आश्चर्यचकीत झाले?  **
+
+  * //कारण योहान व पेत्र साधारण असुरक्षित होते.////[44-09]//
+**10. यहुदी आगेवानांनी योहान व पेत्राबद्दल काय निर्णय घेतला? **
+
+  * //त्यांनी त्यांचे अवहेलना केली व पडवून लावलं.////[44-09]//
+
+**[[:en:obs:notes:questions:43|<< ]] | [[:en:obs:notes:questions:45| >>]]**
