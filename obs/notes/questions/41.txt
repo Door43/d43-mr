@@ -1,30 +1,28 @@
-====== Story #41: God Raises Jesus from the Dead ======
+====== गोष्ट #४१: परमेश्वर यीशु ख्रिस्ताला मरणातून उठवितो ======
 
-===== Comprehension Questions and Answers =====
+===== आकलन प्रश्न आणि उत्तरे =====
 
+**1. ****यीशु ख्रिस्ताने त्याच्या मृत्युनंतर तीन दिवसानंतर काय होणार सांगितले?**
+   * //तो मरणातून पुनरुस्थित होणार ////[41-01]//
+**2. ****यहुदी आगेवान यीशु ख्रिस्ताचे मरण व पुनरुस्थानाबद्दल काय विचार करत होते?  **
+  * //त्यांना वाटत होते की तो फसविणारा आहे////[41-01]//
+**3. ****यहुदी आगेवानांना का भिती वाटली आणि शिष्य काय करणार?**
+  * //त्यांना वाटल शिष्य यीशुचे शरीर चोरून नेतील व म्हणतील तो मृत्यूंतून जिवंत झाला////आहे.////[41-01]//
+**4. यहुदी अगेवानांनी यीशुची कबर सुरक्षित असावी म्हणून काय केले?**
 
-  - **What had Jesus said would happen three days after his death?**
-    *//He would rise from the dead. [41-01]//
-  - **What did the Jewish leaders think of Jesus' prediction that he would rise again?**
-    *//They thought he was a liar. [41-01]//
-  - **What were the Jewish leaders afraid that the disciples would do?**
-    *//They thought the disciples would steal the body and claim Jesus had risen from the dead. [41-01]//
-  - **What did the Jewish leaders do to secure Jesus’ tomb?**
-    *//They placed soldiers to guard the tomb and put a seal on the stone at the entrance of the tomb. [41-02]//
-  - **When did the women go to Jesus’ tomb?**
-    *//Very early on the morning after the Sabbath day. [41-03]//
-  - **What miraculous events happened at the tomb before the women arrived there?**
-    *//There was an earthquake and an angel appeared, rolled away the stone, and sat on it. [41-04]//
-  - **What did the soldiers do when they saw that angel?**
-    *//They were terrified and fell to the ground like dead men. [41-04]//
-  - **What did the angel say to the women when they arrived at the tomb?**
-    *//Do not be afraid. Jesus has risen from the dead. Look in the tomb and see. [41-05]//
-  - **What did the angel tell the women to say to the disciples?**
-    *//He told them to tell the disciples that Jesus has risen from the dead, and that he would go to Galilee ahead of them. [41-06]//
-  - **Who appeared to the women as they were on their way to speak to the disciples?**
-    *//Jesus appeared to them. [41-08]//
-  - **What did the women do when they saw Jesus?**
-    *//They worshiped him. [41-08]//
-
-
-**[[en/obs/notes/questions/40|<< ]] | [[en/obs/notes/questions/42| >>]]**
+  * //त्यांनी शिपाई लोकांना पहारा देण्यास सांगितले व दगडाला बंद केले आणि कबरेवर////दगड ठेवून सील बंद केले.////[41-02]//
+**5. ****केव्हा स्त्रिया येशूच्या कबरेकडे गेल्या?**
+  * //शब्बाथ दिवसाच्या पहाटेस.////[41-03]//
+**6. ****स्त्रियांसमोर अशी कोणती चमत्कारिक घटना घडली? जेव्हा त्या तेथे पोहचल्या?**
+  * //तेव्हा तेथे भूमिकंप व स्वर्गदूत निर्देशनास आले आणि तो दगड दूर सरकवलेला व////त्यावर स्वर्गदूत बसलेले पहिले.////[41-04]//
+**7. ****सैनिकांनी काय केले जेव्हा त्यांनी स्वर्गदूतांना पहिले?**
+  * //ते भयभीत झाले व जमिनीवर मृतासारखे कोसळले.////[41-04]//
+**8. ****स्वर्गदूतांनी स्त्रियांना काय सांगितले जेव्हा त्या कबरेजवळ गेल्या?**
+  * //घाबरू नका, येशू मरणातून जिवंत झाला आहे या आणी कबरेत पहा.////[41-05]//
+**9. ****स्वर्गदूतांनी स्त्रीला शिष्यांना काय सांगण्यास सांगितले?**
+  * //त्यांनी शिष्यास सांगितले कि,येशू मरणातून जिवंत झाला आहे आणि यापुढे तो////गालील प्रांतात असेल.////[41-06]//
+**10. ****कोण स्त्रीला दिसले जेव्हा त्या शिष्यास बोलण्याच्या बेतात होती?**
+  * //येशू त्यांना दिसला ////[41-08]//
+**11. ****स्त्रीने काय केले त्यांनी येशुला पहिले?**
+  * //त्यांनी आराधना केली////[41-08]//
+**[[:en:obs:notes:questions:40|<< ]] | [[:en:obs:notes:questions:42| >>]]**
