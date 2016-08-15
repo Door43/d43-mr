@@ -1,36 +1,47 @@
-====== Story #43: The Church Begins ======
+====== गोष्ट #४३: मंडळीची सुरवात  ======
 
-===== Comprehension Questions and Answers =====
+===== आकलन प्रश्न आणि उत्तरे =====
 
+**1. शिष्य काय करत होते जेव्हा ते यरुशलेमला वाट पाहत होते?**
 
-  - **What were the disciples doing while they waited in Jerusalem?**
-    *//They gathered together constantly to pray. [43-01]//
-  - **When did the Jews celebrate Pentecost?**
-    *//They celebrated every year, 50 days after the Passover. [43-02]//
-  - **What happened to the believers during the Pentecost after Jesus rose from the dead?**
-    *//There was a sound like a strong wind, something like flames of fire appeared over their heads, and they were filled with the Holy Spirit and began to speak in other languages. [43-02]//
-  - **Why were the people in the crowd astonished?**
-    *//They heard the disciples speaking in the native languages of the people in the crowd. [43-04]//
-  - **What did some of the people think was the reason the disciples were talking this way?**
-    *//They accused the disciples of being drunk. [43-05]//
-  - **What did Peter say was causing them to speak these languages?**
-    *//Peter said God was pouring out his Spirit. [43-05]//
-  - **Who did Peter say was responsible for crucifying Jesus?**
-    *//The people in the crowd. [43-06], [43-09]//
-  - **How did Peter say Jesus became alive again?**
-    *//God raised him from the dead. [43-07]//
-  - **What caused the disciples to be able to speak in other languages?**
-    *//The Holy Spirit caused them to be able to speak in other languages. [43-08]//
-  - **What were the two things that Peter said God caused Jesus to become?**
-    *//Lord and Messiah. [43-09]//
-  - **How did the people respond to Peter's message?**
-    *//They were deeply moved and asked, “Brothers, what should we do?” [43-10]//
-  - **What did Peter tell the people to do?**
-    *//He told them to repent and be baptized in the name of Jesus Christ so that God will forgive their sins. [43-11]//
-  - **How many people believed and were baptized that day?**
-    *//About 3000. [43-12]//
-  - **What did the disciples spend their time doing?**
-    *//Listening to the teaching of the apostles, spending time together, eating together, praying with each other, praising God together, and sharing everything. [43-13]//
+   * //ते एकत्र येऊन सतत प्रार्थना करीत होते [43-01]//
+**2. यहुद्यांनी केव्हा पेंन्टीकॅास्ट साजरा केला? **
 
+  * //प्रत्येक वर्षी वल्हांडणाच्या पन्नास दिवसानंतर //// [43-02]//
+**3. विश्वासी लोकांमेध्ये काय झाले? पेंन्टीकॅास्टच्या नंतर यीशुच्या पुनरुस्थाना नंतर?**
 
-**[[en/obs/notes/questions/42|<< ]] | [[en/obs/notes/questions/44| >>]]**
+  * //तेथे मोठा आवाज व सुसाटयाचा वाराजणू काही अग्निज्वाला त्याच्या डोक्यावर चमकल्या आणि ते पवित्र आत्म्याने भरून अन्य भाषा बोलू लागले.//// [43-02]//
+**4. का तेथील लोक स्तब्ध झाले?**
+
+  * //शिष्यांना इतर भाषा बोलण्याचे //// [43-04]//
+**5. काही लोक काय विचार करत होते ते का अशा प्रकारे बोलत होते?**
+
+  * //ते शिष्यांना दोषी ठरवत होते की त्यांना नशा चढला असावा असे.//// [43-05]//
+**6. काय कारण होते की पेत्रस त्यांच्या भाषेत बोलला?**
+
+  * //पेत्रस ने म्हटले, देवाने त्याचा आत्मा ओतला.//// [43-05]//
+**7. कोण यीशुच्या वधस्तंभाचे जिम्मेदार आहे?**
+
+  * //या गर्दीत असलेले लोक.//// [43-06],  [43-09]//
+**8. कसं पेत्रसने यीशु जिवंत आहे असे सांगितलं?**
+
+  * //देवाने त्याला मरणातून उठवलं.//// [43-07]//
+**9. शिष्यांना इतर भाषा बोलण्याचे काय कारण होते?**
+
+  * //पवित्र आत्मा त्यांना इतर भाषा बोलण्याचे कारण होय.//// [43-08]//
+**10. कोणत्या दोन गोष्टी पेत्राने सांगितल्या की देवाचे काय कारण की यीशु व्हावा?**
+
+  * //प्रभू व मसीहा.//// [43-09]//
+**11. कोणत्या प्रकारे लोकांनी पेत्राच्या संदेशाचा प्रतिसाद दिला?**
+
+  * //ते सखोल जाऊन विचारू लागले, आम्ही काय करावे?//// [43-10]//
+**12. पेत्राने लोकांना काय करण्यास सांगितले?**
+
+  * //त्याने पश्चाताप करण्यास सांगितले व यीशु ख्रिस्ताच्या नावाने बाप्तिस्मा घ्यावा तर त्यांचे पापे देव माफ करेल.//// [43-11]//
+**13. किती लोकांनी त्या दिवशी विश्वास केला व बाप्तिस्मा घेतला?**
+
+  * //कमीत कमी ३००० लोक.//// [43-12]//
+**14. शिष्यांनी आपला वेळ कशांत गुंतवला?**
+
+  * //प्रेषिताचे शिक्षण एकून, भाकरी मोडून, प्राथना करून व परमेश्वराचे गुणगान करून तसेच विचारणा करून.//// [43-13]//
+**[[:en:obs:notes:questions:42|<< ]] | [[:en:obs:notes:questions:44| >>]]**
