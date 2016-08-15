@@ -1,36 +1,47 @@
-====== Story #50: Jesus Returns ======
+====== गोष्ट #५०: यीशु पुन्हा येणार  ======
 
-===== Comprehension Questions and Answers =====
+===== आकलन प्रश्न आणि उत्तरे =====
 
+**1. या दोन हजार वर्षात कित्येक विश्वासी लोकांचे काय झाले?**
 
-  - **During the last 2000 years, what has happened to the number of people who believe in Jesus?**
-    *//The number has been increasing. [50-01]//
-  - **How does God want us to live as we wait for Jesus to return?**
-    *//He wants us to live in a way that is holy and that honors him. [50-02]//
-  - **What did Jesus say would happen before the end of the world comes?**
-    *//His disciples would preach the good news of the kingdom of God to people everywhere in the world. [50-02]//
-  - **How will the world that hated Jesus treat his disciples?**
-    *//The world will cause his disciples to suffer also. [50-04]//
-  - **What is God’s promise to those who remain faithful to the end?**
-    *//He promises to save them. [50-04]//
-  - **In Jesus’ story about the end of the world, how did the weeds come to be among the wheat?**
-    *//An enemy planted them. [50-05], [50-06]//
-  - **Why didn't the servants pull out the weeds?**
-    *//They did not want to accidentally pull out the wheat. [50-07]//
-  - **What does the good seed represent?**
-    *//The good seed represents the people of God's kingdom. [50-08]//
-  - **What does the harvest represent?**
-    *//The harvest represents the end of the world, when God’s angels will gather up the people who belong to the devil. [50-09], [50-10]//
-  - **What will happen to the people who belong to the devil at the end of the world?**
-    *//They will be thrown into a raging fire, where they will suffer terribly. [50-10]//
-  - **In what form will Jesus return to the earth?**
-    *//He will return the way that he left, with a physical body and on the clouds of the sky. [50-11]//
-  - **What will happen to all Christians when Jesus returns?**
-    *//Those who are alive will rise to meet him, and those who are dead will also rise to meet him in the sky. [50-12]//
-  - **What will Jesus do to Satan when he returns?**
-    *//Jesus will throw Satan into hell where he will burn forever. [50-15]//
-  - **What will life be like in the new heaven and new earth?**
-    *//Jesus will reign forever with peace and justice, and there will be no more suffering. [50-17]//
+   * //ते संख्येत वाढतच जात आहेत.////[50-01]//
+**2. आपणास कसे जीवन जगण्यास देव अपेक्षा करत आहे, यीशु पुन्हा येण्यापर्यंत?**
 
+  * //तो आपल्याकडून पवित्र आणि आदर केले जाईल असे जीवन जगावे अशी अपेक्षा करतो.////[50-02]//
+**3. यीशुने काय म्हटले, जगाच्या शेवट काय होणार?**
 
-**[[en/obs/notes/questions/49|<< ]]**
+  * //यीशुचे शिष्य संपूर्ण जगात त्याच्या राज्याची सुवार्ता प्रसार करणार.////[50-02]//
+**4. जग कोणत्या प्रकारे यीशुच्या शिष्यांशी वर्तणूक करणार?**
+
+  * //जग शिष्यांना त्रास सुधा देईल.////[50-04]//
+**5. शेवट पर्यंत विश्वासू असेल त्यांसाठी देवाची कोणती प्रतिज्ञा आहे? **
+
+  * //त्यानी वाचविण्याची (तारणाची) प्रतिज्ञा दिली.////[50-04]//
+**6. जगाच्या शेवट कसं खोड गहू मध्ये येईल?**
+
+  * //जसं शत्रूंनी लावले असावे.////[50-05], [50-06]//
+**7. का दास खोड उपटू शकत नाही?**
+
+  * //ते आकस्मीतीने उपटू शकत नाही.////[50-07]//
+**8. ते चांगले बीज काय दर्शविते?**
+
+  * //चांगले बीज देवाच्या राज्याच्या लोकांना दर्शविते.////[50-08]//
+**9. धान्य काय दर्शविते?**
+
+  * //धान्य जगाचे अंत दर्शविते आणि स्वर्गदूत शैतानाच्या लोकांना एकत्र करणार.////[50-09], [50-10]//
+**10. जगाच्या शेवटी शैतानाच्या लोकांचे काय होईल?**
+
+  * //ते धगधगत्या अग्नीत टाकले जातील तेथे खूप त्रास भोगतील.////[50-10]//
+**11. यीशु कोणत्या रुपात पृथ्वीवर परतणार?**
+
+  * //जसे त्यांनी सोडले होते तसेच तो शरीरात मेघरूळ होऊन येईल.////[50-11]//
+**12. यीशु आल्यावर सगळ्या ख्रिस्ती लोकांचं काय होईल? **
+
+  * //जे मृत झाले आहेत ते उठविले जातील////. [50-12]//
+**13. यीशु परतल्यानंतर शैतानाचे काय करणार?**
+
+  * //यीशु शैतानाला अग्निकुंडात टाकणार तेथे सर्वदा जळत राहील.////[50-15]//
+**14. नव्या स्वर्गात व पृथ्वीवर कोणत्या प्रकारचे जीवन असेल?**
+
+  * //यीशु सर्वदा शासन करेल शांती व न्यायाने तिथे दुख नसणार.////[50-17]//
+**[[:en:obs:notes:questions:49|<< ]]**
