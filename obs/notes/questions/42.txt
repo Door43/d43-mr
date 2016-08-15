@@ -1,38 +1,35 @@
-====== Story #42: Jesus Returns to Heaven ======
+====== गोष्ट #४२: येशूचे स्वर्गारोहण  ======
 
-===== Comprehension Questions and Answers =====
+===== आकलन प्रश्न आणि उत्तरे =====
 
-
-  - **What were the two disciples talking about as they walked along the road?**
-    *//They were talking about what had happened to Jesus. [42-01]//
-  - **Who did the two disciples think Jesus was when he approached them on the road?**
-    *//They thought he was a visitor who did not know what had happened in Jerusalem. [42-02]//
-  - **What had the prophets said would happen to the Messiah?**
-    *//The Messiah would suffer and be killed, but would rise again on the third day. [42-03]//
-  - **What was Jesus doing when the two disciples recognized him?**
-    *//He was breaking a loaf of bread and thanking God for it. [42-04]//
-  - **What did the two disciples do after Jesus left them?**
-    *//They returned to Jerusalem and told the other disciples that Jesus was alive and that they had seen him. [42-05]//
-  - **How did Jesus prove to the disciples that he was not a ghost?**
-    *//He took a piece of cooked fish and ate it. [42-06]//
-  - **What enabled the disciples to understand God’s word?**
-    *//Jesus opened their minds. [42-07]//
-  - **What was the message that Jesus’ disciples were to proclaim?**
-    *//They would proclaim that everyone should repent in order to receive forgiveness for their sins. [42-08]//
-  - **Where were Jesus’ disciples to proclaim this message?**
-    *//They would proclaim it first in Jerusalem, and then go to all people groups everywhere. [42-08]//
-  - **How long did Jesus continue to appear to the disciples?**
-    *//He appeared to them for 40 days. [42-09]//
-  - **How big was the largest group of disciples that saw Jesus during this time?**
-    *//He appeared to more than 500 disciples at the same time. [42-09]//
-  - **What did Jesus command his disciples to go and do?**
-    *//He said to them, “Make disciples of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you.” [42-10]//
-  - **Why did Jesus tell the disciples to wait in Jerusalem?**
-    *//They were to wait until the Father gave them power when the Holy Spirit came on them. [42-11]//
-  - **Where did Jesus go forty days after his resurrection?**
-    *//He went up to heaven. [42-11]//
-  - **What is Jesus doing right now?**
-    *//He is seated at the right hand of God and ruling over all things. [42-11]//
-
-
-**[[en/obs/notes/questions/41|<< ]] | [[en/obs/notes/questions/43| >>]]**
+  - **येशू सोबत चालणारे दोन शिष्य कोणते?​**
+      * //ते येशुसोबत काय झालेलं त्याबद्दल ते बोलत होते.​[42-01]//
+  - **कोणते दोन शिष्य येशुबद्द्ल विचार करत होते जेव्हा येशू त्यांच्या मार्गावर पोहचण्यास होता?**
+      * //त्यांना वाटले एखादे भेट घेणारे व्यक्ती आहे आणि त्यांना येरुशलेमात काय झाल माहित नसावे . [42-02]//
+  - **भविष्यवक्तानी मसीहा बरोबर काय होणार सांगितले?**
+      * //मसिहाला ताडना होईल व त्याला मारून टाकण्यास येईल परंतु तिस-या दिवसी पुन्हा: जिवंत होईल.// //[42-03]//
+  - **यीशू ने काय केले जेव्हा दोन शिष्यांनी त्याला ओळखुन घेतले? **
+      * //त्यांने भाकरीचा तुकडा घेतला व परमेश्वराला धन्यवाद दिले. [42-04]//
+  - **दोन शिष्यांनी नंतर काय केले जेव्हा यीशु त्यांना सोडून निघून गेला?**
+      * //ते यरुशलेमात परत जावून इतर शिष्यांना सांगितले की यीशु जिवंत झाला आहे आणि आह्मी त्याला पहिले [42-05]//
+  - **कोणत्या प्रकारे यीशुने शिष्यांना प्रमाणित केले की तो भुत नाही?**
+      * //यीशुने शिजलेल्या माश्याचा तुकडा घेतला व खाल्ला [42-06]//
+  - **शिष्यांना देवाचे वचन समजण्यास काय अशक्य झाल?**
+      * //यीशुने त्यांचे मन उघडिले  [42-07]//
+  - **कोणता संदेश आहे की शिष्यांनी घोषणा केली पाहिजे?**
+      * //त्यांनी क्षमा प्राप्तीसाठी प्रत्येक व्यक्तीने पश्चाताप करावा हा संदेश द्यावा    [42-08]//
+  - **कोठे यीशुने व शिष्यांनी हा संदेश दिला?**
+      * //त्यांनी सर्वप्रथम यरुशलेमत, आणि पृथ्वीच्या सर्व भूतलावरील लोकांत जाणे. // //[42-08]//
+  - **किती वेळ यीशु निरंतर दिसत राहिला?**
+      * //तो चाळीस दिवस पर्यंत दिसत राहिला [42-09]//
+  - **कोणत्या मोठ्या समुदायाने यीशुला या वेळेस पहिले?**
+      * //तो एकाच वेळेस ५०० हून अधिक शिष्यांना दिसला [42-09]//
+  - **यीशुने शिष्यांस कोणती आज्ञा दिली व करण्यास सांगितले? **
+      * //त्याने सांगितले, “शिष्य बनवा, पिता, पुत्र, आत्माच्या नावाने बाप्तिस्मा द्या आणि जे काही मी आज्ञापिले ते पालन करण्यास शिकवा.” [42-10]//
+  - **का यीशु शिष्यांना यरुशलेमात थांबण्यास सांगतो?**
+      * //त्यांना पिताकडून पवित्र आत्म्याचे सामर्थ्य येईल तो पर्यंत ते थांबतील [42-11]//
+  - **यीशु पुनरुस्थानानंतर चाळीस दिवस कोठे राहिला?**
+      * //तो स्वर्गात (सुखलोकात) गेला. [42-11]//
+  - **यीशु आता काय करीत आहे?**
+      * //तो पित्याच्या उजव्या बाजूला बसून सगळ्या गोष्टींवर राज्य करीत आहे  [42-11]//
+**[[:en:obs:notes:questions:41|<< ]] | [[:en:obs:notes:questions:43| >>]]**
