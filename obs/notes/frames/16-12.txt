@@ -1,21 +1,22 @@
-===== Gideon's Army [16-12] =====
+===== **गिदोनाचे सैनिक** [16-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-12.jpg?nolink}}
+मग **गिदोन** आपल्या सैनिकाकडे आला आणि त्यांने प्रत्येकाला एक **रणशिंग**, एक मातीची घागर, आणि एक **मशाल** दिली. त्यांनी सर्वांनी **मिद्यानी** सैनिक जेथे झोपले होते तेथे छावणीला वेढा घातला. ते गिदोनाच्या 300 सैनिकांच्या घागरी मध्ये मशाल होत्या त्यामुळे मिद्यानी त्या दिव्याचा प्रकाश पाहू शकत नव्हते.
+===== **महत्वाचे शब्द **: =====
 
-Then **Gideon** returned to his soldiers and gave each of them a **horn**, a clay pot, and **a torch**. They surrounded the camp where the **Midianite** soldiers were sleeping. Gideon's 300 soldiers had the torches in the pots so the Midianites could not see the light of the torches.
-===== Important Terms: =====
+  *
 
+**गिदोन**
+  *
 
-  * **[[:mr:obe:other:gideon]]**
-  * **[[:mr:obe:other:midian]]**
+**मिद्दानी लोक**
+==== **भाषांतरित टिपा **: ====
 
+  *
 
-==== Translation Notes: ====
+**शिंग**  - याचे भाषांतर असे केले आहे, "रणशिंग", "मेंढाच्या शिंगाची तुतारी." ही शिंगे मेंढ्याची असतात आणि अनेकदा लढाई साठी माणसांना बोलवण्यासाठी वापरत.
+  *
 
-
-  * **horn** - This could be translated as, "trumpet" or, "ram's horn trumpet." These horns came from a male sheep and were often used to call men for battle.
-  * **a torch** - This was probably a piece of wood wrapped with cloth and soaked in oil so that it could burn well. (This was not the modern torch that runs on batteries.)
-
-
+**मशाल**  - हे कदाचित लाकडाच्या काठीला कापडे गुंडाळून आणि ते तेलात बुडवायचे जेणे करुन ते चांगले जळू शकते. (ही काही आधुनिक मशाल नाही की जी बैटरीवर चालते.)
 **[[:mr:obs:notes:frames:16-11|<<]] | [[:mr:obs:notes:16|Up]] | [[:mr:obs:notes:frames:16-13|>>]]**
