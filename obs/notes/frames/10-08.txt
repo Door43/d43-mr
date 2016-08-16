@@ -1,28 +1,30 @@
-===== The Hail [10-08] =====
+===== **गारा ** [10-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink}}
+**त्या नंतर देवाने गारांचा वर्षाव केला**, की ज्यामुळे **मिसरातील** भरपूर प्रमाणात पिकाची नासाडी झाली आणि जो कोणी बाहेर होता तो मारला गेला.** फारोने मोशेला ** आणि **अहरोनला** बोलविले आणि त्यांना म्हणाला, ”मी **पाप** केले आहे.** तुम्ही जाऊ शकता.****”** म्हणून मोशेनी **प्रार्थना** केली, आणि आकाशातून गारा पडण्याच्या थांबल्या.
 
-**After that**, **God sent hail** that destroyed most of the crops in **Egypt** and killed anybody who went outside. **Pharaoh** called **Moses** and **Aaron** and told them, “I have **sinned**. **You may go**.” So Moses **prayed**, and the hail stopped falling from the sky.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  * **देव**
+  * **मिसर**
+  * **फारो**
+  * **मोशे**
+  * **अहरोन**
+  * **पाप केले**
+  * **प्रार्थना केली**  \\
+**भाषांतरित टिपाः **
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:other:pharaoh]]**
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:other:aaron]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:other:pray]]**
+  *
 
+**त्या नंतर**  – याचा अर्थ, देवाने मिसर्यांच्या कातडीवर त्रासदायक गळवा आणल्या नंतर.
+  *
 
-==== Translation Notes: ====
+**देवाने गारांचा वर्षाव केला**  – देवाने आकाशातून गारांचा वर्षाव केला
+  *
 
+**गारा**  – गारा ह्या बर्फाच्या तुकड्या सारख्या असतात ज्या पावसासारख्या ढगातून पडतात. हे तुकडे खुप लहान किंवा खुप मोठे असू शकतात. सर्वात मोठी ज्या वरती पडेल तो जायबंदी होईल किंवा मरेल.
+  *
 
-  * **After that** - This means, after God caused the painful sores to appear on the Egyptians' skin.
-  * **God sent hail** - God caused hail to fall from the sky.
-  * **hail** - Hail is like chunks of ice that fall down from the clouds as rain does. These chunks can be very small or very large. The larger ones will hurt or kill whatever they fall on.
-  * **You may go** - The word "you" refers to Moses, Aaron, and the Israelites.
-
-
+**तुम्ही जाऊ शकता**  – “तू” हा शब्द मोशे, अहरोन, आणि इस्त्राएला संदर्भात आहे.
 **[[:mr:obs:notes:frames:10-07|<<]] | [[:mr:obs:notes:10|Up]] | [[:mr:obs:notes:frames:10-09|>>]]**
