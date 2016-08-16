@@ -1,27 +1,35 @@
-===== The Sheep Skin [16-09] =====
+===== **ओले कापड** [16-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-09.jpg?nolink}}
+पहिल्या चिन्हा साठी, गिदोनाने जमिनीवर कापड ठेवले आणि देवाला विनंती केली की सकाळी दव फक्त कापड्यावर पडू दे आणि जमिनीवर नको. **देवाने तसे केले**. पुढील रात्री, त्याने विनंती केली की जमिन फक्त भिजू दे पण कापड कोरडे राहू दे. देवाने ते सुद्धा केले. ह्या दोन्ही चमत्कारींनी गिदोनची खात्री पटली की, देव त्याला मिद्यानी लोकांपासून **इस्राएल लोकांना वाचविण्यासाठी** उपयोग करेल.
 
-For the first **sign**, **Gideon** laid a **sheep skin** on the ground and asked **God** to **let the morning dew fall** only on the sheep skin and not on the ground. **God did that**. The next night, he asked that the ground be wet but that the sheep skin be dry. God did that too. These two signs convinced Gideon that God would use him to **save Israel** from the **Midianites**.
-===== Important Terms: =====
+.
 
+===== **महत्वाचे शब्द **: =====
 
-  * **[[:mr:obe:other:gideon]]**
-  * **[[:mr:obe:other:sheep]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:save]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:midian]]**
+  * **गिदोन**
+  *
 
+**देव**
+  *
 
-==== Translation Notes: ====
+**बचाव**
+  *
 
+**इस्त्राएल**
+  *
 
-  * **sign** - This could be translated as, "miracle" or, "impossible thing."
-  * **sheep skin** - This is the skin of a sheep that has all of the wool on it. Wool is a very thick and curly hair that would hold a lot of water. Translate this so that it is clear that this skin is covered with thick, soft hair.
-  * **let the morning dew fall** - This can be translated as, "make the morning dew appear" or, "make the morning dew come up." "Dew" refers to the drops of water that appear on the ground in the morning. Dew naturally covers everything equally.
-  * **God did that** - This could be translated as, "God did what Gideon asked him to do."
+**मिद्दानी लोक**
+==== **भाषांतरित टिपा **: ====
 
+  *
 
+**चिन्ह**  - हे असे भाषांतरित केला जाईल, "चमत्कार" किंवा, "अशक्य गोष्ट."
+  *
+
+**सकाळी दव पडू दे**  - 'हे असे अनुवादित केले जाऊ शकते "सकाळी दव पडलेले दिसू दे, किंवा," उद्या सकाळी दव येईल से कर" "दहिंवर" सकाळी जमिनीवर दिसणा-या पाण्याच्या थेंबा संदर्भात. साधारणपणे दव सर्वत्र सारखेपणे पडते.
+  *
+
+**देवाने ते केले**  - ही असे अनुवादित केले जाईल,"गिदोमाने जे करायला सांगितले ते देवाने केले."
 **[[:mr:obs:notes:frames:16-08|<<]] | [[:mr:obs:notes:16|Up]] | [[:mr:obs:notes:frames:16-10|>>]]**
