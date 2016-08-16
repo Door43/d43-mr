@@ -1,22 +1,26 @@
-===== The Darkness [10-11] =====
+===== **अंधार** [10-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-11.jpg?nolink}}
+नंतर **देवाने अंधार पाठविला जो तीन दीवस होता.** तो इतका काळोख होता की **मिसरी** घराच्या बाहेर पडू शकले नाही. पण जेथे **इस्त्राएल** राहत होते तेथे प्रकाश होता.
 
-Then **God sent darkness that lasted for three days**. It was so dark that the **Egyptians** could not leave their houses. But there was light where the **Israelites** lived.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  *
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:other:israel]]**
+**देव**
+  *
 
+**मिसरी**
+  *
 
-==== Translation Notes: ====
+**इस्त्राएली**
+**भाषांतरित टिपाः**
 
+  *
 
-  * **God sent darkness** - God caused darkness to cover or spread over most of Egypt. In other words, God took away the light from this part of Egypt.
-  * **darkness that lasted for three days** - This darkness was darker than ordinary nighttime darkness, and it continued to be totally dark for three whole days.
+**देवाने अंधार पाठवला**  – देवाने सर्व मिसर झाकण्यासाठी किंवा पांगण्यासाठी अंधार पाठवला. दुसर्या शब्दात, देवाने मिसरच्या त्या भागातून प्रकाश काढून घेतला.
+  *
 
-
+**अंधार तीन दिवस होता**  – हा अंधार रात्रीच्या नेहमीच्या अंधारापेक्षा वेगळा होता, आणि सतत तीन दिवस होता.
 **[[:mr:obs:notes:frames:10-10|<<]] | [[:mr:obs:notes:10|Up]] | [[:mr:obs:notes:frames:10-12|>>]]**
