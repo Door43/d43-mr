@@ -1,25 +1,26 @@
-===== Go Away! [11-08] =====
+===== **दूर जा!** [11-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink}}
+त्याच रात्री, **फारोने मोशे आणि अहरोनला बोलावून** म्हटले, “**इस्त्राएलांना** घे आणि ताबडतोब **मिसर** सोडा.!” ताबडतोब जाण्यासाठी **मिसरी** लोक सुद्धा इस्त्राएलांशी वाद घालू लागले.
+===== **महत्वाचे शब्दः **  =====
 
-That same night, **Pharaoh called for Moses** and **Aaron and said**, “Take the **Israelites** and leave **Egypt** immediately!” The **Egyptian** people also urged the Israelites to leave immediately.
-===== Important Terms: =====
+  * **फारो**
+  * **मोशे**
+  * **अहरोन**
+  * **इस्त्राएली**
+  * **मिसर**  \\
+**भाषांतरित टिपाः **
 
+  *
 
-  * **[[:mr:obe:other:pharaoh]]**
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:other:aaron]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:egypt]]**
+**बोलाविले **– म्हणजे असे की फारोने आपल्या सेवकांस सांगितले की मोशे आणि अहरोनला सांगा की माझ्याकडे या.
+  *
 
+**आणि म्हणाला**  – ते त्याच्याकडे आल्यावर खालील शब्द फारो मोशेला आणि अहरोनला म्हणाला.
+काही भाषामध्ये असे भाषांतर करता याईल जसे, “आणि त्यांना म्हणाला,” किंवा, “ते आल्या नंतर फारो त्यांना म्हणाला.”
 
-==== Translation Notes: ====
+  *
 
-
-  * **called for** – This means that Pharaoh told his servants to tell Moses and Aaron to come to him.
-  * **and said** – Pharaoh said the following words to Moses and Aaron after they came to him. In some languages this would be translated as, "and said to them," or, "After they came, Pharaoh said to them."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+**पवित्र शास्त्रातील गोष्ट**  – हे संदर्भ पवित्र शास्त्रातील इतर भाषांतरात थोडेसे वेगळे असण्याची शक्यता आहे.
 **[[:mr:obs:notes:frames:11-07|<<]] | [[:mr:obs:notes:11|Up]] | [[:mr:obs:notes:frames:12-01|>>]]**
