@@ -1,25 +1,38 @@
-===== An Angel Spoke to Gideon [16-05] =====
+===== **देवदूत गिदोनशी बोलला** [16-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-05.jpg?nolink}}
+एक दिवस, **गिदोन** नावाचा इस्राएली मनुष्य **मिद्यानी** लोकांनी धान्य चोरुन नेवु नये म्हणुन **गुप्तपणे धान्याची मळणी ** करित होता. **यहोवाचा दूत** गिदोनाकडे आला आणि म्हणाला, गेला आणि म्हणाला, "हे लढवय्या **देव तुझ्यात बरोबर आहे.** जा आणि मिद्यानी लोकांपासून **इस्राएल** लोकांचे रक्षण कर.”
+===== **महत्वाचे शब्द**: =====
 
-One day, a man of Israel named **Gideon** was **threshing grain secretly** so the **Midianites** would not steal it. The **angel** of **Yahweh** came to Gideon and said, “**God is with you**, mighty warrior. Go and save **Israel** from the Midianites.”
-===== Important Terms: =====
+  *
 
-  * **[[:mr:obe:other:gideon]]**
-  * **[[:mr:obe:other:midian]]**
-  * **[[:mr:obe:kt:angel]]**
-  * **[[:mr:obe:kt:yahweh]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:israel]]**
+**गिदोन**
+  *
 
-==== Translation Notes: ====
+**मिद्दानी लोक**
+  *
 
+**देवदूत**
+  *
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **threshing grain** - The grain was wheat, which has a head of many small grains, or seeds, on the top of a thin stalk. "Threshing" is separating the seeds of the plant from the stalks by beating the heads of grain. The seeds are food, but the stalks are not.
-  * **secretly** - Gideon was threshing the grain in a hidden location, so the Midianites would not see him.
-  * **God is with you** – This means, "God is present with you in a special way" or, "God has plans to use you in a special way."
+**यहोवा**
+  *
 
+**देव**
+  *
+
+**इस्त्राएल**
+==== **भाषांतरित टिपा **: ====
+
+  *
+
+**एक दिवस**  - हा वाक्यांश भूतकाळात काय घटना घडली या विषयी सांगते, पण एक विशिष्ट वेळ दर्शवित नाही अनेक भाषामध्ये  एक सत्य कथा सांगताना एक समान मार्ग आहे.
+**धान्याची मळणी**  – धान्या हे गहू होते, एका पातळ कांडीवर ज्याच्या शेंड्याला  अनेक लहान धान्य, किंवा बिया असतात. "धान्याची मळणी" म्हणजे धान्याच्या देठाच्या शेंड्याला बडवून त्यापासून वनस्पतीच्या बिया विभक्त करणे. बियाणे हे अन्न आहे, पण देठ नाहीत.
+
+**गुप्तपणे**  - गिदोन,गुप्तस्थानी धान्याची मळणी करत होता, आणि म्हणुन मिद्यानी लोक त्याला पाहू शकत न्हवते.
+
+**देव तुझ्याबरोबर आहे**
+ -"याचा अर्थ असा," देव एक विशेष प्रकारे तुझ्याबरोबर उपस्थित आहे "किंवा," देवाची योजना आहे की त्याने तुझा विशेष प्रकारे तुझा वापर करावा."
 
 **[[:mr:obs:notes:frames:16-04|<<]] | [[:mr:obs:notes:16|Up]] | [[:mr:obs:notes:frames:16-06|>>]]**
