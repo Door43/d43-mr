@@ -1,23 +1,21 @@
-===== The Animals Died [10-06] =====
+===== **प्राणी मेले ** [10-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink}}
+नंतर, **देवाने मिस-यांचे** होते ते सर्व ग्रामपशू आजारी पाडले आणि मारले. परंतू **फारोचे ह्रदय कठोरच होते**, आणि त्याने इस्त्राएली लोकांना जाऊ दिले नाही.
 
-Next, **God** caused all the farm animals that belonged to the **Egyptians** to get sick and die. But **Pharaoh’s heart was hardened**, and he would not let the **Israelites** go.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  * **देव**
+  * **मिसरी**
+  * **फारोचे**
+  * **इस्त्राएली**
+**भाषांतरित टिपाः **
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:other:pharaoh]]**
-  * **[[:mr:obe:other:israel]]**
+  *
 
+**ग्रामपशू **– मोठे पशू जे मिसरी लोक त्यांचा आपल्या कामामध्ये उपयोग करुन घेत असत या सेदर्भात, जसे की गाढवे, उंट, गुरेढोरे, मेंढ्या, आणि शेळ्या.
+  *
 
-==== Translation Notes: ====
-
-
-  * **farm animals** - This refers to large animals that the Egyptians used to help them in their work, such as horses, donkeys, camels, cattle, sheep, and goats.
-  * **heart was hardened** - See note in **[[:mr:obs:notes:frames:10-04|[10-04]]]**.
-
-
+**ह्रदय कठोर केले**  – टिप  **[10-04]**. पहा.
 **[[:mr:obs:notes:frames:10-05|<<]] | [[:mr:obs:notes:10|Up]] | [[:mr:obs:notes:frames:10-07|>>]]**
