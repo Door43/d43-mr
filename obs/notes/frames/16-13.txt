@@ -1,19 +1,25 @@
-===== The Attack [16-13] =====
+===== **हल्ला** [16-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-13.jpg?nolink}}
+मग **गिदोनच्या** सर्व सैनिकांनी त्यांच्या धागरी फोडल्या त्याच क्षणी प्रकाश अचानक मशालीचा प्रकाश दिसू लागला. त्यांनी त्यांची रणशिंगे फुंकली आणि **मोठ्याने ओरडले****,**** "यहोवाची तलवार आणि गिदोनाची तलवार!"**
+===== **महत्वाचे शब्द **: =====
 
-Then, all of **Gideon's** soldiers broke their pots at the same moment, suddenly revealing the fire of the torches. They blew their horns and **shouted**, “**A sword for Yahweh and for Gideon**!”
-===== Important Terms: =====
+  *
 
+**गिदोनच्या**
+  *
 
-  * **[[:mr:obe:other:gideon]]**
-  * **[[:mr:obe:kt:yahweh]]**
+**देव**
+==== **भाषांतरित टिपा **: ====
 
+  *
 
-==== Translation Notes: ====
+**मोठ्याने ओरडले**  - हे असे भाषांतरित केला जाईल, "मोठ्याने आरोळी" किंवा "अतिशय मोठ्या आवाजात म्हणाले."
+  *
 
-  * **shouted**  - This could be translated as, "yelled loudly" or, "said with a very loud voice."
-  * **sword**  - A sword is a weapon that has a long sharp blade and a handle at one end. People hold the handle and hit or stab the enemy with the sharp blade. If your people don't have a weapon just like this, you could translate it as a "long knife," "machete" or, "bush knife."
-  * **A sword for Yahweh and for Gideon**  - This means, "We fight for Yahweh and for Gideon!"
+**तलवार**  - तलवार एक लांब धारदार पाते आणि एका बाजूला शेनटी मुठ असते. लोक मुठ दाबून धरत आणि तीक्ष्ण पात्याने शत्रूवर वार करत किंवा भोसकत. जर आपल्या लोकांकडे अशा प्रकारचे शस्त्र नसेल तर, आपण एक "लांब चाकू," "एक प्रकारची कु-हाड" किंवा "खंजीर" असे भाषांतर करु.
+  *
+
+**देवाची आणि गिदोनाची तलवार**  - याचा अर्थ, "आम्ही देवासाठी आणि गिदोनासाठी लढत आहे!"
 **[[:mr:obs:notes:frames:16-12|<<]] | [[:mr:obs:notes:16|Up]] | [[:mr:obs:notes:frames:16-14|>>]]**
