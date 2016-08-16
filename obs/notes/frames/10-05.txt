@@ -6,16 +6,23 @@
 
 **महत्वाचे शब्दः **
 
-  * **[[:mr:obe:kt:god|God]]**
-  * **[[:mr:obe:other:pharaoh|Pharaoh, king of Egypt]]**
-  * **[[:mr:obe:other:moses|Moses]]**
-  * **[[:mr:obe:other:aaron|Aaron]]**
-  * **[[:mr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:mr:obe:other:egypt|Egypt, Egyptian]]**
-==== Translation Notes: ====
+   * **देव**
+  * **फारो**
+  * **मोशे**
+  * **अहरोन**
+  * **इस्त्राएली**
+  * **मिसरी**
+**भाषांतरित टिपाः **
+  *
 
-  * **God sent a plague**  – This could be translated as, "God caused there to be a plague" or, "God caused a plague (of gnats) to come over the land of Egypt."
-  * **gnats**  - These were tiny, biting insects flying in large swarms, annoying and landing on all the people and animals of Egypt.
-  * **flies**  - These were much bigger flying insects that were both annoying and destructive. There were so many of these flies that they covered everything, even filling the Egyptians' houses.
-  * **hardened his heart**  - See note in **[[:mr:obs:notes:frames:10-04|[10-04]]]**.
+**देवाने पीडा पाठविली**- हे असेही भाषांतरीत करता येवू शकते, “तेथे पिडा असावी हा देवाचा हेतू होता” किंवा, “देवाने (उवाची) पिडा सा-या मिसरवर आणली.”
+  *
+
+**उवा**  – ह्या अतिशय लहान असतात, चावणारे किटक झुंडीने उडणारे, मिसरातील सर्व प्राण्यांवर आणि माणसांवर त्या पसरल्या आणि त्रासदायक झाल्या.
+  *
+
+**गोमाशा**- ह्या चांगले मोठे उडणारे किटक जे त्रासदायक तसेच नाश नासाडी करणारे होते. त्या इतक्या प्रमाणात होत्या की त्या गोमाशांनी तर्व व्यापून टाकले होते, एवढेच काय तर मिसर्यांची घरे सुद्धा.
+  *
+
+**ह्रदय कठोर केले**  – टिप **__\[10-04]__**. पहा.
 **[[:mr:obs:notes:frames:10-04|<<]] | [[:mr:obs:notes:10|Up]] | [[:mr:obs:notes:frames:10-06|>>]]**
