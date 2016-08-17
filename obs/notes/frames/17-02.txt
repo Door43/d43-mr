@@ -1,30 +1,47 @@
-===== David the Shepherd [17-02] =====
+===== **मेंढपाळ दाविद** [17-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?nolink}}
+**देवाने ** दावीद नावाच्या एका तरुण **इस्राएलीची** **शौल राजाच्या ** नंतर निवड केली. दावीद **बेथलहेमला** च्या गावातील एक **मेंढपाळ** होता. तो आपल्या बापाची **मेंढरे** **राखत** होता, तेव्हा वेगवेगळ्या वेळी, दावीदाने सिंहाला आणि अस्वलाला मेंढरांवर हल्ला केला म्हणुन ठार केले होते. दावीद **नम्र** आणि **नितीमान** मनुष्य **विश्वसनीय** आणि देवाच्या **आज्ञेत राहणारा** होता.
+===== **महत्वाचे शब्द **: =====
 
-**God** chose a young **Israelite** named David to be **king** after **Saul**. David was a **shepherd** from the town of **Bethlehem**. At different times while he was **watching** his father's **sheep**, David had killed both a lion and a bear that had attacked the sheep. David was a **humble** and **righteous** man who **trusted** and **obeyed** God.
-===== Important Terms: =====
+  *
 
+**देव**
+  *
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:david]]**
-  * **[[:mr:obe:other:king]]**
-  * **[[:mr:obe:other:saul]]**
-  * **[[:mr:obe:other:shepherd]]**
-  * **[[:mr:obe:other:bethlehem]]**
-  * **[[:mr:obe:other:sheep]]**
-  * **[[:mr:obe:other:humble]]**
-  * **[[:mr:obe:kt:righteous]]**
-  * **[[:mr:obe:kt:trust]]**
-  * **[[:mr:obe:other:obey]]**
+**इस्त्राएली लोक**
+  *
 
+**दाविद**
+  *
 
-==== Translation Notes: ====
+**राजा**
+  *
 
+**शौल**
+  *
 
-  * **watching** - That is, "caring for" or, "protecting" or, "taking care of."
+**मेंढपाळ**
+  *
 
+**बेथलेहेम**
+  *
 
+**मेंढरु**
+  *
+
+**नम्र**
+  *
+
+**नितिमान**
+  *
+
+**विश्वसनिय**
+  *
+
+**आज्ञापालन करणे**
+==== **भाषांतरित टिपा **: ====
+
+  * **राखणे**  - म्हणजे, "काळजी करणे" किंवा, "संरक्षण करणे" किंवा, "काळजी घेणे."
 **[[:mr:obs:notes:frames:17-01|<<]] | [[:mr:obs:notes:17|Up]] | [[:mr:obs:notes:frames:17-03|>>]]**
