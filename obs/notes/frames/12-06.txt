@@ -1,22 +1,15 @@
-===== Darkness over the Egyptians [12-06] =====
+===== **मिस-यांवरती अंधार ** [12-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?nolink}}
+देवाने इस्त्राएल आणि मिसरी यांच्यामध्ये मेघस्तंभ आणला ज्यामुळे मिसरी इस्त्राएलांना पाहू शकत नव्हती.
 
-Then **God** moved the **pillar of cloud** and placed it between the **Israelites** and the **Egyptians** so the Egyptians **could not see** the Israelites.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
-
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:egypt]]**
-
-
-==== Translation Notes: ====
-
-
-  * **pillar of cloud** – See how you translated this phrase in **[[:mr:obs:notes:frames:12-02|[12-02]]]**
-  * **could not see** - The cloud pillar was so large and thick that the Egyptians could no longer see any of the Israelites.
-
-
+  * **देव**
+  * **इस्त्राएली**
+  * **मिसरी**
+**भाषांतरित टिपाः **
+  * **मेघस्तंभ** **[12-02__]__** कसे भाषांतर केले ते पहा.
+  * **काही दिसत नव्हते**  – ढगाचा खांब इतका मोठा आणि जाड होता की मिसरी इस्त्राएलांना आणखी पाहू शकत नव्हते.
 **[[:mr:obs:notes:frames:12-05|<<]] | [[:mr:obs:notes:12|Up]] | [[:mr:obs:notes:frames:12-07|>>]]**
