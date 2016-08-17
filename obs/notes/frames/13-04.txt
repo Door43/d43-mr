@@ -1,28 +1,32 @@
-===== I Am Your God [13-04] =====
+===== **मी तुमचा देव आहे** [13-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink}}
+**नंतर देवाने त्यांना करार दिला आणि म्हणाला**, “**मी यहोवा आहे, तुमचा देव, ज्याने तुम्हाला मिस-यांच्या गुलामगिरीतुन वाचवले.** दुस-या देवांची सेवा करु नका.”
 
-**Then God gave them the covenant and said**, “I am **Yahweh**, **your God**, **who saved you from slavery** in **Egypt**. Do not **worship** other **gods**.”
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  * **देव**
+  * **करार**
+  * **यहोवा**
+  * **वाचविले**
+  * **गुलामी**
+  * **मिसर**
+  * **उपासना**
+  * **देवता**
+**भाषांतरित टिपाः **
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:covenant]]**
-  * **[[:mr:obe:kt:yahweh]]**
-  * **[[:mr:obe:kt:save]]**
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:kt:worship]]**
-  * **[[:mr:obe:kt:falsegod]]**
+  *
 
+**नंतर देवाने त्यांना करार देवून म्हटले**, देवाने पुढे काय म्हटले हे करारात सामाविष्ट  आहे, , ते हे की तो जे काय लाकोंना सांगेल त्यानी त्याचे पालन करायचेच.
+हे असेही भाषांतरित करता येईल, “नंतर देवाने त्यांला त्यांचा करार सांगितला.” तो म्हणाला, किंवा, “नंतर देवाने त्यांच्याशी करार केला.”
 
-==== Translation Notes: ====
+  *
 
+**यहोवा तुमचा देव**  – काही भषामध्ये, थेडासा क्रम बदलून अधिक नैसर्गिकपणे महणू शकतो "तुमचा देव योहावा."
+खात्री करुन घ्या की याचे म्हणने असे होत नाही की इस्त्राएलाला एका पेक्षा अधिक देव आहेत. हे स्पष्ट आहे की यहोवाच फक्त देव आहे. दुस-या मार्गाने असे सांगता येइल, यहेवा, “जो तुमचा देव आहे, किंवा, देव ज्याचे नाव यहोवा आहे.”
 
-  * **Then God gave them the covenant and said** - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, "Then God told them His covenant. He said" or, "Then God made this covenant with them:"
-  * **Yahweh your God** - In some languages it might be more natural to change the order and say "your God Yahweh." Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, "Yahweh, who is your God" or, "your God, whose name is Yahweh."
-  * **who saved you from slavery** - This could be translated as, "I freed you from slavery."
+  *
 
-
+**ज्याने तुम्हला गुलामी पासून वाचविले - ** हे असे भाषांतरित करता येईल, “मी तुम्हाला गुलामगिरीतून मोकळे केले.”
 **[[:mr:obs:notes:frames:13-03|<<]] | [[:mr:obs:notes:13|Up]] | [[:mr:obs:notes:frames:13-05|>>]]**
