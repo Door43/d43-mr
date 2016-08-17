@@ -1,28 +1,45 @@
-===== David Became King [17-05] =====
+===== **दाविद राजा बनला** [17-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?nolink}}
+अखेरीस, **शौल ** लढाईत मरण पावला, आणि **दावीद इस्राएलचा राजा ** झाला. तो एक चांगला राजा होता, आणि लोक त्याच्यावर **प्रेम** करित. **देवाने ** दाविदाला **आशीर्वाद ** दिला आणि **त्याला यशस्वी केले**. दाविद अनेक लढाया लढला आणि देवाने त्याला इस्राएलाच्या शत्रूंना पराभव करण्यास मदत केली. दावीदाने **//यरुशलेम//** जिंकली आणि तीला **राजधानीचे शहर केले**. **दावीदाच्या राज्याच्या काळात** इस्राएल शक्तिशाली आणि श्रीमंत झाले.
+===== **महत्वाचे शब्द **: =====
 
-Eventually, **Saul** died in battle, and **David** became **king** of **Israel**. He was a good king, and the people **loved** him. **God blessed** David and **made him successful**. David fought many battles and God helped him defeat Israel's enemies. David conquered **Jerusalem** and made it **his capital city**. **During David’s reign**, Israel became powerful and wealthy.
-===== Important Terms: =====
+  *
 
+**शौल**
+  *
 
-  * **[[:mr:obe:other:saul]]**
-  * **[[:mr:obe:other:david]]**
-  * **[[:mr:obe:other:king]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:kt:love]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:bless]]**
-  * **[[:mr:obe:other:jerusalem]]**
+**दाविद**
+  *
 
+**राजा**
+  *
 
-==== Translation Notes: ====
+**इस्त्राएल**
+  *
 
+**प्रेम करित**
+  *
 
-  * **made him successful** - That is, "helped him accomplish the good things he wanted to do."
-  * **his capital city** - That is, "the capital city of his kingdom." David lived in Jerusalem and ruled from there.
-  * **During David's reign** - That is, "During the time when David was king over Israel" or, "During the time when David was ruling as king over Israel."
+**देव**
+  *
 
+**आशिर्वाद दिला**
+  *
+
+**यरुशलेम**
+==== **भाषांतरित टिपा**: ====
+
+  *
+
+**त्याला यशस्वी केले**  - म्हणजे असे, त्याच्या चांगल्या गोष्टी साध्य करण्यास मदत केली."
+  *
+
+**त्याच्या राजधानीचे शहर**  - म्हणजे, "त्याच्या राज्याच्या राजधानीचे शहर." दावीद यरुशलेमेत राहिला आणि तेथून राज्य केले.
+  *
+
+**दावीदाच्या राज्याच्या काळात**  – म्हणजे, दाविदाने इस्राएलचा राजा म्हणून राज्य केले त्या वेळी", किंवा, "दावीद इस्राएलाचा राजा होता त्या दरम्यान
+."
 
 **[[:mr:obs:notes:frames:17-04|<<]] | [[:mr:obs:notes:17|Up]] | [[:mr:obs:notes:frames:17-06|>>]]**
