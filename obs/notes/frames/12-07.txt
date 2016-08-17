@@ -1,20 +1,16 @@
-===== Moses Divided the Sea [12-07] =====
+===== **मोशे समुद्र दुभांगतो** [12-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?nolink}}
+**देव** **मोशेला** बोलला **तुझा हात समुद्रावर धर** आणि पाण्याचे दोन भाग कर. नंतर देवाने वा-याद्वारे पाणी उजवीकडे व डावीकडे ढकलले,यासाठी की समुद्रातून मार्ग निघावा.
 
-**God** told **Moses** to **raise his hand over the sea** and divide the waters. Then God caused wind to push the water in the sea to the left and the right, so that a path formed through the sea.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  * **देव**
+  * **मोशे**
+==== **भाषांतरित टिपाः**  ====
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:moses]]**
+  *
 
-
-==== Translation Notes: ====
-
-
-  * **raise his hand over the sea** - This could be translated as, "held out his hand over the sea". This was a gesture to show that God was doing this miracle through Moses.
-
-
+**तुझा हात समुद्रावर धर – ** याचे भाषांतर असे करु शकता, समुद्रावर त्याने हात धरला. ही एक कृती होती हे दाखविण्यासाठी की देव मोशे द्वारा हा चमत्कार करीत आहे.
 **[[:mr:obs:notes:frames:12-06|<<]] | [[:mr:obs:notes:12|Up]] | [[:mr:obs:notes:frames:12-08|>>]]**
