@@ -1,26 +1,28 @@
-===== David Wanted to Build a Temple [17-06] =====
+===== **दावीदाची मंदिर बांधण्याची ईच्छा** [17-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink}}
+**दावीदाची** ईच्छा होती की सर्व **इस्राएल** लोकांना **देवाची** **उपासना** आणि त्याला** अर्पणां करता** येईल असे **मंदिर बांधावे**. सुमारे 400 वर्षांपासून, लोक देवाची उपासना व अर्पणे **मोशेने** बांधलेल्या **दर्शनमंडपात** करत होती.
+===== **महत्वाचे शब्द**: =====
 
-**David** wanted to **build a temple** where all the **Israelites** could **worship God** and offer him **sacrifices**. For about 400 years, the people had been worshiping God and offering sacrifices to him at the **Tent of Meeting** that **Moses** had built.
-===== Important Terms: =====
+  *
 
+**दाविद**
+**मंदीर**
 
-  * **[[:mr:obe:other:david]]**
-  * **[[:mr:obe:kt:temple]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:kt:worship]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:sacrifice]]**
-  * **[[:mr:obe:other:tentofmeeting]]**
-  * **[[:mr:obe:other:moses]]**
+**इस्राएल लोक**
 
+**उपासना**
 
-==== Translation Notes: ====
+**देव**
 
+**अर्पणे**
 
-  * **build a temple** - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
+**दर्शन मंडप**
 
+**मोशे**
 
+==== **भाषांतरित टिपा **: ====
+
+  * **एक मंदिर बांधण्याची**  - देवाची उपासना करण्यासाठी कायम स्वरुपाची इमारत बांधायची दाविदाची ईच्छा होती, ज्यामुळे देव दर्शन मंडपाऐवजी तेथे राहिल.
 **[[:mr:obs:notes:frames:17-05|<<]] | [[:mr:obs:notes:17|Up]] | [[:mr:obs:notes:frames:17-07|>>]]**
