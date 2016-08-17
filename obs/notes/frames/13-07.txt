@@ -1,30 +1,32 @@
-===== The Stone Tablets [13-07] =====
+===== **दगडी पाट्या ** [13-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink}}
+त्यानंतर **देवाने** दोन **दगडी पाट्यावर दहा आज्ञा ** लिहिल्या आणि **मोशेला** दिल्या,** सोबत देवाने** **अनुसरायला** खुप सारे कायदे आणि नियम दिले. जर लोकांनी माझे नियम पाळले, तर देवाने त्यांना वचन दिले की तो त्यांना आशिर्वाद देईल आणि त्यांचे रक्षण करेल. जर त्यांनी नियम पाळले नाहीत तर, देव त्यांना शिक्षा करेल.
 
-Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave them to **Moses**. **God also gave** many other laws and rules **to follow**. If the people **obeyed** these laws, God **promised** that he would **bless** and protect them. If they **disobeyed** them, God would **punish them**.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  * **देव**
+  * **दहा आज्ञा**
+  * **Moses**
+  * **नियम**
+  * **आज्ञापालन**
+  * **वचन**
+  * **आशिर्वाद**
+  * **आज्ञा न मानणे**
+  * **शिक्षा**
+**भाषांतरित टिपाः **
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:tencommandments]]**
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:kt:lawofmoses]]**
-  * **[[:mr:obe:other:obey]]**
-  * **[[:mr:obe:kt:promise]]**
-  * **[[:mr:obe:kt:bless]]**
-  * **[[:mr:obe:other:disobey]]**
-  * **[[:mr:obe:other:punish]]**
+  *
 
+**ह्या दहा आज्ञा**  – याच संदर्भ त्या आज्ञांशी हे ज्या देवाने इस्त्राएलाला पाळण्यासाठी मोशेला दिल्या होत्या. याची यादी  **[13-05]**  आणि  **[13-06]**. मध्ये दिली आहे.
+  *
 
-==== Translation Notes: ====
+**दगडी पाट्या**- ते म्हणजे दगडाचे सपाट तुकडे.
+  *
 
+**देवाने हेही सोबत दिले**  – याचे भाषांतर असे करता येईल, “देव त्यांच्याशी बोलला सुद्धा.”
+  *
 
-  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:mr:obs:notes:frames:13-05|[13-05]]]** and **[[:mr:obs:notes:frames:13-06|[13-06]]]**.
-  * **stone tablets** - These were flat pieces of stone.
-  * **God also gave** - This can be translated as, "God also told them."
-  * **to follow** - This can be translated as, "that they must obey" or, "that they must keep."
-
-
+**पाळण्यासाठी**  - याचे भाषांतर असे करता येईल, “त्यांना पाळाव्याच लागतील,” किंवा, “त्यानी त्या जपायच्याच.”
 **[[:mr:obs:notes:frames:13-06|<<]] | [[:mr:obs:notes:13|Up]] | [[:mr:obs:notes:frames:13-08|>>]]**
