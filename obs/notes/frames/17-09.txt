@@ -1,26 +1,35 @@
-===== God Blessed David [17-09] =====
+===== **देवाने दाविदाला आशिर्वाद दीला** [17-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-09.jpg?nolink}}
+**दावीदाने अनेक वर्षे न्यायाने आणि विश्वासाने राज्य केले, आणि देव त्याला आशीर्वाद दिला.** तथापि, **त्याच्या जीवनाच्या शेवटी त्याने देवाच्या विरुध्द आतिशय मोठे पाप केले.**
+===== **महत्वाचे शब्द **: =====
 
-**David ruled with justice and faithfulness for many years**, and **God blessed** him. However, **toward the end of his life he sinned terribly** against God.
-===== Important Terms: =====
+  *
 
+**दावीद**
+  *
 
-  * **[[:mr:obe:other:david]]**
-  * **[[:mr:obe:kt:justice]]**
-  * **[[:mr:obe:kt:faithful]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:bless]]**
-  * **[[:mr:obe:kt:sin]]**
+**न्याय**
+  *
 
+**विश्वासुपणे**
+  *
 
-==== Translation Notes: ====
+**देव**
+  *
 
+**आशीर्वाद दिला**
+  *
 
-  * **David ruled with justice and faithfulness for many years** - This could be translated as, "When David ruled the people, for many years he did what was right and fair, and he was faithful to God."
-  * **toward the end of his life** - This may be translated as, "when David was older" or "later on in David's life."
-  * **sinned terribly** - That is, "sinned in a very evil way." David's sin was especially evil.
+**पाप केले**
+==== **भाषांतरित टिपा **: ====
 
+  *
+
+**दावीदाने अनेक वर्षे न्यायाने आणि विश्वासाने राज्य केले**  – हे असे अनुवादित केले जाऊ शकते " जेव्हा दावीदाने अनेक वर्षे राज्य केले, तेव्हा तो जे योग्य व जे न्याय्य आहे काय आहे ते, आणि तो देवाशी विश्वासू राहिला."
+**आपल्या आयुष्याच्या शेवटा पर्यंत**  – हे असे अनुवादित केले जाऊ शकते "जेव्हा दावीद तरुण होता तेव्हा", किंवा, "दावीदाच्या जीवना नंतर."
+
+**आतिशय****महा पाप**  - म्हणजे "एक अतिशय वाईट मार्गाने पाप केले." दावीदाच्या पाप विशेषत: वाईट होते.
 
 **[[:mr:obs:notes:frames:17-08|<<]] | [[:mr:obs:notes:17|Up]] | [[:mr:obs:notes:frames:17-10|>>]]**
