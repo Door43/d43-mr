@@ -1,22 +1,36 @@
-===== The Commandments [13-05] =====
+===== **ईश्वरी आज्ञा** [13-05] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?nolink&}}
 
-“Do not make **idols** and do not **worship** them, because **I**, **Yahweh**, **am a jealous God**. **Do not use my name in a disrespectful way**. Be sure to keep the **Sabbath day holy**. In other words, do all your work in six days, for the **seventh day** is a day for you to rest and **to remember me**.”
-===== Important Terms: =====
+**“****मुर्ती ** बनवू नका आणि तीची **उपासना ** करू नका, **कारण मी, यहोवा, ईर्षावान देव आहे**.** माझे नाव व्यर्थ मार्गाने घेऊ नको.**** शब्बाथ दिवसाची** आठवण ठेवून ते **पवित्र** पणे पाळ.
 
-  * **[[:mr:obe:other:idol]]**
-  * **[[:mr:obe:kt:worship]]**
-  * **[[:mr:obe:kt:yahweh]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:sabbath]]**
-  * **[[:mr:obe:kt:holy]]**
+म्हणजे तू तुझी सर्व कामे सहा दिवत कर, पण **सातवा दिवस** तुला विश्रांतीसाठी आणि **मला आठविण्यासाठी ** दिला आहे.”
 
-==== Translation Notes: ====
+**महत्वाचे शब्दः **
 
-  * (God continues speaking to Moses.)
-  * **I, Yahweh, am a jealous God**  - This could be translated as, "I, Yahweh, will be angry if you worship or honor anything besides me." God strongly desires that his people love, serve, and obey Him more than anything or anyone else. He must be the only master of their lives.
-  * **Do not use my name in a disrespectful way**  - This could be translated as, "Do not talk about me in a way that does not show respect and honor" or, "Talk about me in a way that gives me proper respect and honor."
-  * **seventh day**  - To translate this, it is best to use the number ("seventh") rather than give the name of a specific day of the week.
-  * **to remember me**  - This could be translated as, "to keep me in mind" or, "to honor me."
+  * **मुर्ती**
+  * **उपासना**
+  * **यहोवा**
+  * **देव**
+  * **शब्बाथ दिवस**
+  * **पवित्र**
+==== **भाषांतरित टिपाः **  ====
+
+  *
+
+**( देवाने मोशेशी बोलणे चालू ठेवले.)**
+  *
+
+**मी, यहोवा, ईर्षावान देव आहे - ** हे असे भाषांतरित करता येईल, जर तू माझ्याशिवाय कोणाची उपासना केली किवा कोणाला स्न्मान दिला, तर मी, यहोवा, रागावेल
+देवाची तीव्र ईच्छा आहे की इतर कोणापेक्षा किंवा कशापेक्षा ही अधिक त्याच्या लोकांनी प्रेम, सेवा, आणि त्याचे आज्ञापालन करावे. त्यांच्या जिवनाचा फक्त तोच एक स्वामी असावा.
+
+  *
+
+**माझे नाव व्यर्थ मार्गाने घेऊ नको. - ** हे असे भाषांतरित करता येईल, जेव्हा स्नमान किंवा आदर नसेल तेव्हा माझ्याविषयी बोलू नकोस, किंवा, अशा प्रकारे माझ्या विषयी बोल की जेथे मला खरा सन्मान व आदर मिळेल.
+  *
+
+**सातवा दिवस –**  भाषांतर करण्यासाठी (सात) ही संख्या दाखविण्याऐवजी त्या दिवसाला विशेष असे नाव द्या.
+  *
+
+**मला आठविण्यासाठी - ** हे असे भाषांतरित करता येईल, “मला तुमच्या लक्षात ठेवा” किंवा, “माझा स्नमान करा.”
 **[[:mr:obs:notes:frames:13-04|<<]] | [[:mr:obs:notes:13|Up]] | [[:mr:obs:notes:frames:13-06|>>]]**
