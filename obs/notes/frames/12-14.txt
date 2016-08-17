@@ -1,29 +1,35 @@
-===== An Annual Feast [12-14] =====
+===== **वार्षिक सण ** [12-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink}}
+**देवाने** **इस्त्राएलाला** आज्ञा केली की **वल्हांडणाचा सण ** प्रत्येक वर्षी साजरा करत जा, यासाठी की **देवाने तुम्हाला मिस-यावर कसा विजय दिला ** हे आठवण्यासाठी आणि **गुलामी ** पासून सोडवणूक.
 
-**God** commanded the **Israelites** to celebrate **the Passover** every year in order to **remember how God gave them victory over** the **Egyptians** and rescued them from being **slaves**. They celebrated by killing a **perfect lamb**, eating it with **bread that was made without yeast**, and telling about how God had **saved** them.
-===== Important Terms: =====
+**निर्दोष कोकरु** मारुन ते साजरा करत, **बेखमिर भाकरी ** सोबत खात, आणि सांगत देवाने आमचे **तारण** केले.
+===== **महत्वाचे शब्दः**  =====
 
+  * **देव**
+  * **इस्त्राएली**
+  * **वल्हांडण**** सण**
+  * **मिसरी**
+  * **गुलाम**
+  * **कोकरु**
+**भाषांतरित टिपाः **
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:kt:passover]]**
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:kt:lamb]]**
+  *
 
+**वल्हांडणाचा सण- ** हे असे भाषांतरीत करता येईल, “वल्हांडणाची कार्यक्रम,” किंवा, “वल्हांडण उत्सव,” किंवा, “वल्हांडणाचे भोजन.”
+  *
 
-==== Translation Notes: ====
+**देवाने तुम्हाला मिस-यावर कसा विजय दिला**  - हे असे भाषांतरीत करता येईल, “त्यांनी स्वःता हे नेहमी लक्षात ठेवावे की देवाने कसे पराजित केले.”
+येथे लक्षात हा शब्द फक्त विसरु नका यासाठी नाही,तर याचा असाही अर्थ आहे, अनौपचारीकपणे काहीतरी स्मरण करणे.
 
+  *
 
-  * **the Passover** - This could be translated as, "the Passover activities" or, "the Passover celebration" or, "the Passover meal."
-  * **remember how God gave them victory over** – This could be translated as, "regularly remind themselves of how God defeated." The word "remember" here doesn't just mean to not forget; it also means to formally commemorate something.
-  * **perfect lamb** - The word "perfect" here refers to a lamb with no disease or anything else wrong with it. Another way to say this might be, "a completely healthy and well-formed lamb."
-  * **bread that was made without yeast** - Another way to say this is, "unleavened bread." See how you translated this in **[[:mr:obs:notes:frames:11-03|[11-03]]]**.
+**निर्दोष कोकरु**- निर्दोष हा शब्द येथे कोकराशी संबंधीत आहे जे निरोगी, किंवा, त्याच्यात काही त्रूटी नसाव्यात.
+दुस-या मार्गाने असेही म्हणता येईल, “पुर्णपणे तंदुरुस्त आणि निरोगी कोकरु.”
 
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
+  *
 
-
+**बेखमिर भाकर - ** दुस-या मार्गाने असेही म्हणता येईल, खमिराशिवाय बनवलेली भाकर.
+  * **पवित्र शास्त्रातील गोष्ट –**  हे संदर्भ पवित्र शास्त्रातील इतर भाषांतरात थोडेसे वेगळे असण्याची शक्यता आहे.
 **[[:mr:obs:notes:frames:12-13|<<]] | [[:mr:obs:notes:12|Up]] | [[:mr:obs:notes:frames:13-01|>>]]**
