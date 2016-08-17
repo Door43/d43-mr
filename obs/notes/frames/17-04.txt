@@ -1,17 +1,33 @@
-===== Saul Chased David [17-04] =====
+===== **शौल दाविदाचा पाठलाग करतो** [17-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-04.jpg?nolink&}}
 
-**Saul** became jealous of the people's **love** for **David**. Saul tried many times to kill him, so David hid from Saul. **One day**, Saul was looking for David so he could kill him. Saul went into the same cave where David was hiding from Saul, but Saul did not see him. David was now very close to Saul and could have killed him, but he did not. Instead, David cut off a piece of Saul's clothes **to prove to Saul** that he would not kill him in order to become **king**.
-===== Important Terms: =====
+लोकांचे दावीदावरचे प्रेम पाहून शौल त्याचा हेवा करू लागला. शौलाने त्याला ठार मारण्याचा अनेक वेळा प्रयत्न केला, त्यामुळे दावीद शौलला पासून लपून राहिला. **एक दिवस**, शौल दावीदाला शोधत होता जेणेकरुन त्याला मारणे शक्य होईल. शौल त्याच गुहेत गेला जेथे शौलापासून दाविद लपला होता, परंतू शौलाला तो दिसला नाही. दाविद आता शौलाच्या अत्यंत जवळच होता आणि त्याला ठार मारणे शक्य होते, पण त्यानी तसे केले नाही. त्याऐवजी, दावीदाने शौलाला सिद्ध करण्यासाठी त्याच्या कपड्याचा एक तुकडा कापला शोलाला सिद्ध करण्यासाठी, की राजा होण्यासाठी त्याला तो जिवे मारणार नाही.
+===== **महत्वाचे शब्द **: =====
 
-  * **[[:mr:obe:other:saul|Saul (OT)]]**
-  * **[[:mr:obe:kt:love|love]]**
-  * **[[:mr:obe:other:david|David]]**
-  * **[[:mr:obe:other:king|king]]**
-==== Translation Notes: ====
+  *
 
-  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **to prove to Saul**  - That is, "to convince Saul" or, "to show Saul."
-  * **to become king**  – David would not dishonor God by killing the man that God placed as king over Israel.
+**शौल**
+  *
+
+**प्रेम**
+  *
+
+**दाविद**
+  *
+
+**राजा**
+==== **भाषांतरित टिपा **: ====
+
+  *
+
+**एक दिवस **- हा वाक्यांश भूतकाळात काय घडले याची ओळख करुन देते, पण विशिष्ट वेळ दाखवत नाही. अनेक भाषामध्ये सत्य कथा सांगतण्यासाठी एक समान मार्ग आहे.
+  *
+
+**शौलाला सिद्ध करण्यासाठी**  – म्हणजे "शौलाला पटवून दिले" किंवा, "शौलाला दर्शविण्यासाठी."
+  *
+
+**राजा बनन्यासाठी**
+ - " देवाने इस्राएलावर राजा म्हणून ठेवलेल्या माणसाची हत्या करुन दावीद देवाचा अपमान करणार नव्हता.
+
 **[[:mr:obs:notes:frames:17-03|<<]] | [[:mr:obs:notes:17|Up]] | [[:mr:obs:notes:frames:17-05|>>]]**
