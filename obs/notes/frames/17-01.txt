@@ -1,25 +1,36 @@
-===== Wicked King Saul [17-01] =====
+===== **दुष्ट राजा शौल** [17-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-01.jpg?nolink}}
+शौल इस्राएलचा पहिला राजा होता. जसा लोकांना हवा तसा तो उंच आणि देखणा होता. शौल पहिली काही वर्षे चांगला राजा होता आणि त्याने इस्राएलावर राज्य केले. पण नंतर तो दुष्ट मनुष्य बनला **देवाच्या आज्ञा** पाळत नव्हता, म्हणून देवाने एक वेगळा  माणूस निवडला जो **एक दिवस त्याच्या जागी राजा होईल**.
+===== **महत्वाचे शब्द **: =====
 
-**Saul** was the **first king of Israel**. He was tall and handsome, just like the people wanted. Saul was a good king for the first few years that he ruled over Israel. But then he became a wicked man who did not **obey God**, so God chose a different man who would **one day be king in his place**.
-===== Important Terms: =====
+  *
 
+**शौल**
+  *
 
-  * **[[:mr:obe:other:saul]]**
-  * **[[:mr:obe:other:king]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:obey]]**
-  * **[[:mr:obe:kt:god]]**
+**राजा**
+  *
 
+**इस्त्राएल**
+  *
 
-==== Translation Notes: ====
+**आज्ञा पालन**
+  *
 
+**देव**
+==== **भाषांतरित टिपा **: ====
 
-  * **first king of Israel** – This could be translated as, "first king to rule over Israel."
-  * **one day** – This could be translated as, "some time in the future" or "years later."
-  * **be king in his place** – Another way to say this would be, "take his place as king over Israel" or, "rule as king instead of him."
+  *
 
+**इस्राएलचा पहिला राजा **- हे असे अनुवादित केले जाऊ शकते, "इस्राएलावर राज्य करणारा पहिला राजा."
+  *
 
+**एक दिवस**
+ - हे असे अनुवादित केले जाऊ शकते, “भविष्यात केव्हा तरी”, "किंवा" वर्षांनंतर”
+
+  *
+
+**त्याच्या जागी राजा -** दुस-या मार्गाने असे म्हणू शकतो, “राजा म्हणून इस्राएलवर राज्य करण्यासाठी त्याची जागा घेईल”,किंवा “त्याच्या ऐवजी तो राज्य करेल.”
 **[[:mr:obs:notes:frames:16-18|<<]] | [[:mr:obs:notes:17|Up]] | [[:mr:obs:notes:frames:17-02|>>]]**
