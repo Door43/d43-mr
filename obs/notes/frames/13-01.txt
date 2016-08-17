@@ -1,25 +1,32 @@
-===== The Mountain at Sinai [13-01] =====
+===== **सिनाय येथील पर्वत** [13-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink}}
+**देवाने इस्त्राएलाला** **लाल समुद्रातून** मार्ग दाखनिल्यानंतर, त्याने त्यांना वाळवंटातून **सिनाय** म्हटलेल्या पर्वताकडे नेले. हा तोच डोंगर जिथे **मोशेने** **जळणारे झुडूप** पाहिले होते. लोकांनी **पर्वताच्या पायथ्याला** **तंबू ठोकून तळदिला**.
 
-After **God** led the **Israelites** through the **Red Sea**, he led them through the wilderness to a mountain called **Sinai**. This was the same mountain where **Moses** had seen the **burning bush**. The people **set up their tents** at the **base of the mountain**.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  * **देव**
+  * **इस्त्राएली**
+  * **लाल समुद्र**
+  * **सिनाय**
+  * **मोशे**
+==== **भाषांतरित टिपाः **  ====
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:redsea]]**
-  * **[[:mr:obe:kt:sinai]]**
-  * **[[:mr:obe:other:moses]]**
+  *
 
+**जळणारे झुडूप –**  मिसरला परत येण्याच्या अगोदर, देव त्याच्याशी झुडूपातून बोलला जे अग्निने जळत होते, पण ते त्या आगी मुळे जळाले नव्हते.
+पहा  **[09-12]**
+  *
 
-==== Translation Notes: ====
+**तंबू ठोकून तळदिला – ** इस्त्राएलाला मिसर पासून वचनदत्त देशा पर्यंतचा खूप लांबचा प्रवास करायचा होता.
+म्हणून त्यांनी त्यांच्या सोबत तंबू घेतले होते यासाठी की ते त्याचा उपयोग प्रवासात निवारा आणि झोपण्यासाठी वापरत.
 
+काही भाषांमध्ये असेही भाषांतर होईल, “तंबू टांगले.”
 
-  * **burning bush** - Before Moses returned to Egypt, God had spoken to him from a shrub that was on fire, but that was not burned up by the fire. See **[[:mr:obs:notes:frames:09-12|[09-12]]]**.
-  * **set up their tents** - The Israelites had to travel a great distance from Egypt to the Promised Land. So they took tents with them so that they could set them up as shelters and sleep in them along the way. Some languages could translate this as, "hung their tents."
-  * **base of the mountain** – This could be translated as, "bottom of the mountain." This refers to the area of land that is located next to the place where the ground starts to slant upward to form a mountain.
+  *
 
+**पर्वताच्या पायथ्याला - ** हे असे भाषांतरीत करता येईल, “पर्वताच्या तळाला.”
+हा जमीनीचा तो भाग जो डोंगराच्या उतारानंतर जेथून मैदानाची सूरवात होते तो प्रदेश दर्शवितो.
 
 **[[:mr:obs:notes:frames:12-14|<<]] | [[:mr:obs:notes:13|Up]] | [[:mr:obs:notes:frames:13-02|>>]]**
