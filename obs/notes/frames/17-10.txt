@@ -1,22 +1,25 @@
-===== David and Bathsheba [17-10] =====
+===== दावीद आणि बथशेबा [17-10] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-10.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-10.jpg?nolink}}
+**एक दिवस****, ****दावीदाचे** सर्व सैनिक घरापासून दूर युद्ध लढत होते, तेव्हा त्याने त्याच्या राजवाड्यातून बाहेर **पाहीले**, आणि एक सुंदर बाईला **स्नान करताना** पाहिले. तिचे नाव **बथशेबा** होते.
+===== **महत्वाचे शब्द **: =====
 
-**One day**, when all of **David's** soldiers were away from home fighting battles, he looked out from his palace and **saw** a beautiful woman **bathing**. Her name was **Bathsheba**.
-===== Important Terms: =====
+  *
 
+**दावीदाचे**
+  *
 
-  * **[[:mr:obe:other:david]]**
-  * **[[:mr:obe:other:bathsheba]]**
+**बथशेबा**
+==== **भाषांतरित टिपा **: ====
 
+  *
 
-==== Translation Notes: ====
+**एक दिवस **- हा वाक्यांश भूतकाळात काय घटना घडली याची माहीती देतो, पण एक विशिष्ट वेळ देत नाही. अनेक भाषामध्ये सत्य कथा सांगताना सुरू करण्यासाठी एक समान मार्ग आहे.
+  *
 
+**पाहिले**  - बथशेबा तिच्या स्वत: च्या घरी स्नान करीत असेल, पण दावीद राजवाड्यात खूप उंच होता आणि तो भिंतीवरुन खाली पाहु शकत होता.
+  *
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **saw** - Bathsheba may have been bathing at her own house, but David's palace was very high and he was able to see over walls that were lower.
-  * **bathing** - This may be translated as, "taking a bath" or, "washing herself."
-
-
+**आंघोळ**  - हे असे अनुवादित केले जाऊ शकते, " आंघोळ करीत होती " किंवा "स्वत: ला धूवत होती."
 **[[:mr:obs:notes:frames:17-09|<<]] | [[:mr:obs:notes:17|Up]] | [[:mr:obs:notes:frames:17-11|>>]]**
