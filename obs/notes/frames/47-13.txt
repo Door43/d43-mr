@@ -1,23 +1,20 @@
-===== The Good News Spreads [47-13] =====
+===== शुभ संदेश वाटणे [47-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink&}}
 
-The next day **the leaders of the city** released **Paul** and **Silas** from prison and asked them to leave **Philippi**. Paul and Silas visited **Lydia** and some other friends and then left the city. **The good news about Jesus kept spreading**, and **the Church kept growing**.
-===== Important Terms: =====
+दुसऱ्या दिवशी नेत्यांनी त्यांना बंदिखानातून मुक्त केले आणि त्यांना फिलीप्पी सोडण्यास सांगितले. पाऊल आणि सिलास लुदियाला भेटले आणि तसेच इतर मित्रांना व नंतर शहर सोडले. यीशुबद्दल शुब संदेश वाटतच आहे आणि मंडळीची उन्नति होतच आहे.
 
-  * **[[:mr:obe:other:paul]]**
-  * **[[:mr:obe:other:silas]]**
-  * **[[:mr:obe:other:philippi]]**
-  * **[[:mr:obe:kt:goodnews]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:church]]**
+===== महत्वाचा भाग: =====
 
+  * **पाऊल****, ****शाऊल**
+  * **सिलास****, ****सिलवानस**
+  * **फिलीप्पी**
+  * **शुभ****संदेश****, ****सुवार्ता**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **मंडळी****, ****मंडळी**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **the leaders of the city** - This refers to, "the officials of the city" or, "the authorities of the city."
-  * **The good news about Jesus kept spreading** - That is, "People in more and more places were hearing the good news about Jesus."
-  * **the Church kept growing** - That is, "more and more people were becoming part of the Church" or, "more and more people were believing in Jesus."
-
-
+  * **शहराचे नेते **– ह्याला संधर्भ, “शहराचे अधिकारी” किंवा “शहराचे अधिकरी.”
+  * **यीशुचा शुभ संदेश वाटप सतत होत आहे**  – लोक अधिकच आणि अधिकच जागेत यीशुचे शुभ संदेश ऐकत आहे.
+  * **मंडळी निरंतर वाढत जात आहे –**  “अधिक लोक मंडळीचे भाग होत आहे” किंवा “अधिक लोक यीशुवर विश्वास करत आहे.”
 **[[:mr:obs:notes:frames:47-12|<<]] | [[:mr:obs:notes:47|Up]] | [[:mr:obs:notes:frames:47-14|>>]]**
