@@ -1,25 +1,22 @@
-===== What Must I Do? [47-11] =====
+===== मला काय केले पाहिजे? [47-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?nolink&}}
 
-The jailer trembled as he came to **Paul** and **Silas** and asked, “What must I do **to be saved**?” **Paul** answered, “**Believe in Jesus**, **the Master**, and **you and your family will be saved**.” Then the jailer took Paul and Silas into his home and washed their wounds. Paul **preached** the **good news** about Jesus to everyone in his house.
-===== Important Terms: =====
+जेलरने पाऊल व सिलास जवळ येऊन कापत विचारले, “मला वाचण्यासाठी काय केले पाहिजे?” पाऊल ने उत्तर दिले, “यीशु जो स्वामी आहे त्यावर विश्वास कर आणि तेव्हा तु व तुझ्या परिवाराचे तारण होईल.” तेव्हा जेलारने पाऊल आणि सिलास यांना त्यांच्या घरी नेले. त्याच्या घरी पाऊल ने शुभ संदेश प्रचार केला.
 
-  * **[[:mr:obe:other:paul]]**
-  * **[[:mr:obe:other:silas]]**
-  * **[[:mr:obe:kt:save]]**
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:other:preach]]**
-  * **[[:mr:obe:kt:goodnews]]**
+===== महत्वाचा भाग: =====
 
+  * **पाऊल****, ****शाऊल**
+  * **सिलास****, ****सिलवानस**
+  * **तारण****, ****सुरक्षित**
+  * **विश्वास****, ****विश्वासात****, ****विश्वास**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **प्रभू****, ****स्वामी****, ****गुरुजी**
+  * **प्रचार**
+  * **शुभ****संदेश****, ****सुवार्ता**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **to be saved** - This could also be translated as, "in order to be saved from my sins" or "so that God will save me from my sins." The question refers to salvation from being punished by the God who caused the earthquake.
-  * **Believe in Jesus, the Master** - This is addressed to both the jailer and his family, who all then believed and were baptized. Some languages may use a form to indicate that Paul is speaking to the group.
-  * **you and your family will be saved** - This can also be translated as, "God will save you and your family from eternal punishment for your sins." Make sure it is clear that the salvation referred to here is spiritual, not physical.
-
-
+  * **वाचवले जाणे **– “माझ्या पापापासून तारले जाणे” किंवा “त्यामुळे देव आपल्या पापांपासून वाचवणार” असं पण अनुवाद केले जाते.” य प्रश्नांचा संधर्भ तारणाशी आहे देवाकडून शिक्षा होणे ज्याने हा भूकंप केला.
+  * **यीशुवर विश्वास करणे **– जो स्वामी आहे हे जेलर व त्यांच्या परिवर दोघांशी संबंधित होय, सगळ्यांनी विश्वास केला व बाप्तिस्मा घेतला. काही भाषांमध्ये असे निर्दशन असते की पाऊल लोक समुदायाशी बोलतो.
+  * **तु आणि तुझा परिवार तारला जाईल **– “तुम्ही व तुमचे परिवार त्या अनंतकालीन दंडापासून वाचला जाईल जे तुमच्या पापाची शिक्षा आहे.”हे निश्चित आहे की उद्धार व संधर्भ आत्मिक्तेशी आहे, शारीरिक नाही.
 **[[:mr:obs:notes:frames:47-10|<<]] | [[:mr:obs:notes:47|Up]] | [[:mr:obs:notes:frames:47-12|>>]]**
