@@ -1,23 +1,21 @@
-===== The Miracles [49-02] =====
+===== चमत्कार [49-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink&}}
 
-**Jesus** did many **miracles** that prove he is **God**. He walked on water, calmed storms, **healed** many sick people, **drove out demons**, **raised the dead to life**, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
-===== Important Terms: =====
+यीशुने अनेक चमत्कार केले आणि त्याने देव आहे हे प्रमाणित केले. तो पाण्यावर चालला, त्याने वादळ शांत केले, त्याने अनेक रोग्यांना बरेकेले, दुष्ट आत्मांना बाहेर काढले, मृतांनाजिवंत केले आणि ५००० लोकांसाठी दोन मासे व पाच भाकरीने तृप्त केले.
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:miracle]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:heal]]**
-  * **[[:mr:obe:kt:demon]]**
-  * **[[:mr:obe:kt:raise]]**
-  * **[[:mr:obe:kt:death]]**
+===== महत्वाचा भाग: =====
 
+  * **यीशु, ख्रिस्त यीशु, ख्रिस्त यीशु**
+  * **चमत्कार, अद्भुत, चिन्ह**
+  * **देव**
+  * **बरे करणे, पूर्णपणे बरा होणे**
+  * **शैतान, दुष्ट आत्मा, अशुद्ध आत्मा**
+  * **उठविणे, उठणे, उठविले जाणे, उठणे, उठविला गेला**
+  * **मृत्यू, मरण, मृत**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **drove out demons** - That is, "made demons come out of people."
-  * **raised the dead to life** - This could also be translated as, "caused dead people to become alive again."
-
+  * **शैतानांना काढले –**  “लोकांमधून शैतानाला काढण्यात आले.”
+  * **मृतांना जिवंत केले**  – “मृत लोकांना पुन्हा जिवंत करणे” असे पण अनुवाद केले जाऊ शकते.
 
 **[[:mr:obs:notes:frames:49-01|<<]] | [[:mr:obs:notes:49|Up]] | [[:mr:obs:notes:frames:49-03|>>]]**
