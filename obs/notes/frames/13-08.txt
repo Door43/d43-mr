@@ -1,25 +1,31 @@
-===== The Tent of Meeting [13-08] =====
+===== **निवास मंडप ** [13-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?nolink}}
+**देवाने इस्त्राएलाने एक मंडप बनविण्यासाठी सविस्तर** अशी माहिती दिली जी त्याची ईच्छा होती.** याला निवास मंडप म्हटले गेले**, आणि त्याला दोन खोल्या हेत्या, ज्यांना का मोठ्या पडद्याद्वारे वेगळे केले होते. फक्त **महायाजक** यालाच **पडदयाच्या आतील खोलीत** जाण्याची परवानगी होती, कारण **देव तेथे निवास करी. **
 
-**God** also gave the **Israelites a detailed description** of a tent he wanted them to make. **It was called** the **Tent of Meeting**, and it had two rooms, separated by a large curtain. Only the **high priest** was allowed to go into **the room behind the curtain**, because **God lived there**.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  * **देव**
+  * **इस्त्राएल**
+  * **निवास मंडप**
+  * **महायाजक**
+**भाषांतरित टिपाः **
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:tentofmeeting]]**
-  * **[[:mr:obe:kt:highpriest]]**
+  *
 
+**सविस्तर वर्णन**  - याचे भाषांतर असे करता येईल, “देवाने त्याची सविस्तर माहिती दिली,” किंवा, “देवाने त्यांना जे काही बनवायचे त्याची अचूक माहिती दिली.”
+  *
 
-==== Translation Notes: ====
+**त्याला म्हणत**  - याचे भाषांतर असे करता येईल, “ते त्याला म्हणाले,” किंवा, “मोशेने त्याला म्हटले.”
+  *
 
+**पडद्यचा मागील खोली**  – ही खोली पडद्यामुळे झाकली होती.
+काही भाषांमध्ये या खोलीस असे म्हणता येईल, “पडद्याचाया समोरील खोली.”
 
-  * **a detailed description** - This could be translated as, "God described it in detail" or, "God told them exactly how He wanted them to make it."
-  * **It was called** - This could be translated as, "They called it" or, "Moses called it."
-  * **the room behind the curtain** - This room was hidden by the curtain. Some languages would call this room, "the room in front of the curtain."
-  * **God lived there** - If this phrase would lead people to think that God was limited to living in the tent, here are some ways of translating it: "God was there" or, "God revealed Himself to humans there."
+  *
 
+**देव तेथे निवास करी – ** हा वाक्यांश लोकांना विचार करा.ला लावेल की देव एवढा मर्यादित होता की तो तंबूत राहत, येथे काही भाषांतरे पाहू या,
+“देव तेथे होता,” किंवा, “देवाने स्वःताला मानवासाठी तेथे प्रकट केले.”
 
 **[[:mr:obs:notes:frames:13-07|<<]] | [[:mr:obs:notes:13|Up]] | [[:mr:obs:notes:frames:13-09|>>]]**
