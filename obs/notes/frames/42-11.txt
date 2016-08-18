@@ -1,27 +1,24 @@
-===== Jesus Went to Heaven [42-11] =====
+===== यीशु स्वर्गात गेला [42-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink&}}
 
-Forty days after **Jesus** rose from the dead, he told his **disciples**, “Stay in **Jerusalem** until my **Father** gives you **power** when the **Holy Spirit comes on you**.” Then Jesus went up to **heaven**, and **a cloud hid him from their sight**. Jesus sat down **at the right hand of God** to rule **over all things**.
-===== Important Terms: =====
+चाळीस दिवसानंतर यीशु मरणातून जिवंत झाला, त्याने त्यांच्या शिष्यांना म्हटले, “येरूशलेमात थांबा जो पर्यंत पिता सामर्थ्य देत नाही पवित्र आत्मा जेव्हा तुमच्यावर येईल.”तेव्हा यीशु स्वर्गात गेला आणि वादळाने त्याला लपवून टाकलं. यीशु पिताच्या उजव्या बाजुला बसुन सगळ्या गोष्टींचा शासन करत आहे.
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:other:jerusalem]]**
-  * **[[:mr:obe:kt:godthefather]]**
-  * **[[:mr:obe:kt:power]]**
-  * **[[:mr:obe:kt:holyspirit]]**
-  * **[[:mr:obe:kt:heaven]]**
-  * **[[:mr:obe:kt:god]]**
+===== महत्वाचा भाग =====
 
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **शिष्य**
+  * **येरूशलेम**
+  * **पिता****परमेश्वर****, ****स्वर्गीय****पिता****, ****पिता**
+  * **सामर्थ्य****, ****सामर्थी**
+  * **पवित्र****आत्मा****, ****देवाचा****आत्मा****, ****प्रभुचा****आत्मा**
+  * **स्वर्ग****, ****आकाश****, ****स्वर्ग****, ****स्वर्गीय**
+  * **देव**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **comes on you** - That is, "comes down upon you" or, "comes onto you."
-  * **a cloud hid him from their sight** - This could also be translated as, "he disappeared into a cloud."
-  * **at the right hand of God** - This could also be translated as, "at the right side of God."
-  * **over all things** - That is, "over everything."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **तुम्हांवर येईल-**  “तुम्हांवर येईल” किंवा “तुम्हांजवळ येईल.”
+  * **ढगांनी त्याला दृस्तीआड केले-**  हे असं पण म्हटले जाते, “तो वादळात अदृश्य झाला.”
+  * **पिताच्या उजव्या बाजुला**- “पिताच्या हाताच्या उजव्या बाजुला” असं पण म्हटले जाते.
+  * **सगळ्या गोष्टींवर-**  हे “साऱ्या गोष्टींवर“ असं पण म्हटलं जातं.”
+  * **बायबलची कथा-**  हा संदर्भ काही इतर भाषांतर बायबल मध्ये थोडे वेगळे असते.
 **[[:mr:obs:notes:frames:42-10|<<]] | [[:mr:obs:notes:42|Up]] | [[:mr:obs:notes:frames:43-01|>>]]**
