@@ -1,19 +1,17 @@
-===== The Virgin Birth [49-01] =====
+===== कुवारी पासून जन्म [49-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink&}}
 
-An angel told a **virgin** named **Mary** that she would give birth to **God's Son**. So while she was still a virgin, she gave birth to a son and named him **Jesus**. Therefore, Jesus is both God and human.
-===== Important Terms: =====
+स्वर्गदूताने म्हटले कुवारी पासून देवाचा पुत्र जन्मेल तिचे नाव मरिया होते. जेव्हा ती कुवारी होती, तिने यीशुला जन्म दिला. म्हणून यीशु हा देव आणि मनुष्य दोघे आहेत.
 
-  * **[[:mr:obe:other:virgin]]**
-  * **[[:mr:obe:other:mary]]**
-  * **[[:mr:obe:kt:sonofgod]]**
-  * **[[:mr:obe:kt:jesus]]**
+===== भाषांतर भाग: =====
 
+  * **कुवारी**
+  * **मरिया, यीशुची माता**
+  * **देवाचा पुत्र, पुत्र, पुत्र**
+  * **यीशु, ख्रिस्त यीशु, ख्रिस्त यीशु**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (ह्या फ्रेमसाठी कोणताही संधर्भ नाही)
 
 **[[:mr:obs:notes:frames:48-14|<<]] | [[:mr:obs:notes:49|Up]] | [[:mr:obs:notes:frames:49-02|>>]]**
