@@ -1,21 +1,17 @@
-===== Tell the Disciples [41-06] =====
+===== शिष्यांना सांगा [41-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink&}}
 
-Then the **angel** told the women, “Go and tell the **disciples**, '**Jesus** has **risen** from the dead and **he will go to Galilee ahead of you**.'”
-===== Important Terms: =====
+**स्वर्गदुताने** स्त्रियांना सांगीतले, “जा आणि **शिष्यांना** सांगा की यीशु **मरणातून** **उठला** आहे आणि तो** गालील ** येथे जात आहे.”
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:kt:angel]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:raise]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:other:galilee]]**
+  * **दूत, प्रमुख दूत**
+  * **शिष्य**
+  * **यीशु, यीशु ख्रिस्त ख्रिस्त यीशु**
+  * **उठविणे, जिवंत करणे, उठविला जाणे**
+  * **मृत्यू, मरण, मृत**
+  * **गालीली, गालीलातले**
+===== भाषांतर नोटस =====
 
-
-===== Translation Notes: =====
-
-  * **he will go to Galilee ahead of you **- That is, "he will meet you in Galilee" or, "he will be in Galilee when you get there." "You" here is plural, including the apostles and other disciples.
-
-
+  * **तो तुमच्या अगोदर गालीलात जाणार आहे **–“म्हणजे, “तो तुम्हांला गालीलात भेटणार” किंवा “तो गालीलात असणार तेव्हा तो तुम्हांला भेटणार.” “तू” येथे अनेकवचनी आहे, शिष्य व प्रेषित मिळून.
 **[[:mr:obs:notes:frames:41-05|<<]] | [[:mr:obs:notes:41|Up]] | [[:mr:obs:notes:frames:41-07|>>]]**
