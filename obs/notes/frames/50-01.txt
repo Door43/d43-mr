@@ -1,21 +1,18 @@
-===== The Church Is Growing [50-01] =====
+===== मंडळी वाढत आहे [50-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink&}}
 
-For almost 2,000 years, more and more people around the world have been hearing the **good news** about **Jesus** the **Messiah**. **The Church has been growing**. Jesus **promised** he would return **at the end of the world**. Though he has not yet come back, he will keep his promise.
-===== Important Terms: =====
+२००० हजार वर्षापासून लोक यीशुचा शुभ संदेश ऐकत आलेले आहेत की यीशु हा मसीह (उद्धारक) आहे. मंडळ्या वाढत आहे. यीशुने प्रतिज्ञा केली की जगाच्या शेवटी तो येणार आहे. तरी तो आता पर्यत नाही आला, तो त्यांची प्रतिज्ञा पाळतो.
 
-  * **[[:mr:obe:kt:goodnews]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:christ]]**
-  * **[[:mr:obe:kt:church]]**
-  * **[[:mr:obe:kt:promise]]**
+===== महत्वाचा भाग: =====
 
+  * **शुभ संदेश, सुवार्ता**
+  * **यीशु, यीशु ख्रिस्त, ख्रिस्त यीशु**
+  * **ख्रिस्त, मसीहा**
+  * **मंडळी, मंडळी**
+  * **प्रतिज्ञा**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **The Church has been growing** - This could also be translated as, "The number of people in the Church around the world has been increasing" or, "The number of believers in Jesus has been increasing."
-  * **at the end of the world** - This phrase means, "right before the present world comes to an end" or, "in the final days of this world."
-
-
+  * **मंडळी वाढतच जात आहे **–“लोकांची संख्या ह्या संपुर्ण जगात वाढतच जात आहे” किंवा “विश्वाश्यांची संख्या वाढतच जात आहे” असे पण अनुवाद केले जाते.
+  * **जगाच्या शेवटी **– “सध्याच्या जगाचे अंत होण्याच्या थोडे पाहिले” किंवा “जगाच्या शेवटच्या दिवशी.”
 **[[:mr:obs:notes:frames:49-18|<<]] | [[:mr:obs:notes:50|Up]] | [[:mr:obs:notes:frames:50-02|>>]]**
