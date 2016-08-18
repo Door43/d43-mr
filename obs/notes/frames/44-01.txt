@@ -1,20 +1,17 @@
-===== The Crippled Man [44-01] =====
+===== लंगडा माणूस [44-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink&}}
 
-**One day**, **Peter** and **John** were going to the **Temple**. As they approached the Temple gate, they saw **a crippled man** who was **begging** for money.
-===== Important Terms: =====
+एके दिवशी **पेत्र** व **योहान** **मंदिरात** जात होते. जसे ते मंदिराच्या फाटकाजवळ पोहचले, त्यांनी एका **भिकाऱ्यास** भिकमागताना पाहिले.
+====== महत्वाचा भाग ======
 
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:other:johntheapostle]]**
-  * **[[:mr:obe:kt:temple]]**
-  * **[[:mr:obe:other:beg]]**
+  * **पेत्र****, ****शिमोन****पेत्र****, ****कैफा**
+  * **योहान**** (****प्रेषित****)**
+  * **मंदिर**
+  * **भिक****, ****भिकारी**
+====== भाषांतर नोटस ======
 
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **a crippled man** - This could also be translated as, "a lame man." This refers to a man who did not have full use of his legs, and could not stand or walk.
-
+  * **एक दिवस-**  हे वाक्य एखादी घटना भूतकाळात घडली पण वेळ निश्चित सांगितलेला नाही. अनेक भाषेत गोष्ट सांगण्याची पद्धत सारखीच असते.
+  * **एक लंगडा माणूस**- हे असं पण म्हटलं जातं, “लंगडा माणूस.” ह्याला हा संधर्भ असतो की त्याला पाय नसावे व त्याला चालता किंवा उभे राहता येत नाही.
 
 **[[:mr:obs:notes:frames:43-13|<<]] | [[:mr:obs:notes:44|Up]] | [[:mr:obs:notes:frames:44-02|>>]]**
