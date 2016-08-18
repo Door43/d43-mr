@@ -1,25 +1,23 @@
-===== Repent and Be Baptized [43-11] =====
+===== पश्चाताप करा व बाप्तिस्मा घ्या [43-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink&}}
 
-**Peter** answered them, “Every one of you should **repent** and be **baptized in the name of Jesus Christ** so that **God** will **forgive** your **sins**. Then he will also give you the **gift of the Holy Spirit**.”
-===== Important Terms: =====
+पेत्राने उत्तर दिले, “प्रत्येकाने पश्चाताप करावा आणि यीशुच्या नावाने बाप्तिस्मा घ्या तेव्हा देव त्यांची पापे क्षमा करील. तेव्हा तो तुम्हांला पवित्र आत्माचे वरदान सुद्धा देईल.”
 
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:kt:repent]]**
-  * **[[:mr:obe:kt:baptize]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:forgive]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:holyspirit]]**
+===== महत्वाचा भाग: =====
 
+  * **पेत्र****, ****शिमोन****पेत्र****, ****कैफा**
+  * **पश्चाताप****, ****पश्चतावा**
+  * **बाप्तिस्मा****देणे****, ****बाप्तिस्मा**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **देव**
+  * **क्षमा****, ****क्षमा****मिळणे**
+  * **पाप****, ****पापरूपी****, ****पापी****, ****पाप****करत****राहणे**
+  * **पवित्र****आत्मा****, ****देवाचा****आत्मा****, ****प्रभूचा****आत्मा**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **in the name of** - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language.
-  * **Christ** - This is the same meaning as "Messiah." It could be translated as "Anointed One" or, "Chosen One." Instead of translating the meaning, some translators may choose to keep the word "Christ" and spell it using the sounds in their own language.
-  * **Jesus Christ** - Since "Christ" is a title here, some translators may choose to change the order and say, "Christ Jesus." Both orders are used in the Bible.
-
+  * **च्या****नावामध्ये****- “** त्याच्या अधिकाराद्वारे” आणि “त्या अधिकाराखाली” असं पण होते.   समजा भाषांतर शब्द “नाव” त्याच्या स्वतःच्या भाषेत समजण्याचा मार्ग.
+  * **ख्रिस्त****-**  याचा सारखाच अर्थ “मसिह” होते. याचा असं अनुवाद केलं जातं “अभिषिक्त” किंवा “निवडलेला” इतर भाषांतर मध्ये याचा अर्थ, “ख्रिस्त” असा उच्चार करून त्यांच्या स्वतःच्या भाषेत बोलतात.
+  * **यीशु****ख्रिस्त****-**  “ख्रिस्त” हे शीर्षक काही अनुवादकांनी बदलून करून “ख्रिस्त यीशु” असे केले आहे. दोघी रचना बायबलात वापरलेली आहेत.
 
 **[[:mr:obs:notes:frames:43-10|<<]] | [[:mr:obs:notes:43|Up]] | [[:mr:obs:notes:frames:43-12|>>]]**
