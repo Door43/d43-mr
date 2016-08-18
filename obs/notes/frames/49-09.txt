@@ -1,25 +1,22 @@
-===== God Gave His Son [49-09] =====
+===== देवाने त्याचा पुत्र दिला [49-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-09.jpg?nolink&}}
 
-But **God loved** everyone in the world so much that he **gave his only Son** so that **whoever believes in Jesus will not be punished for his sins**, **but will live with God foreve**r.
-===== Important Terms: =====
+परंतु देवाने जगावर खूप प्रेम केले म्हणून त्याने आपला एकुलता एक पुत्र दिला जेणे करून जो कोणी त्यावर विश्वास ठेवतो त्याच्या पापाची क्षमा करेल, परंतु विश्वासणारे सर्वदा यीशुवर बरोबर असणार.
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:love]]**
-  * **[[:mr:obe:kt:sonofgod]]**
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:punish]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:life]]**
+===== भाषांतराचा भाग: =====
 
+  * **देव**
+  * **प्रेम**
+  * **देवाचा पुत्र, पुत्र, पुत्र**
+  * **विश्वास, विश्वासात, विश्वास**
+  * **यीशु, यीशु ख्रिस्त, ख्रिस्त यीशु**
+  * **शिक्षा, शिक्षा देणे**
+  * **पाप, पापरूपी, पापी, पाप करत राहणे**
+  * **जीवन, जगणे, जीवन, व्यतीत करणे, जिवंत**
+===== भाषांतराचा नोटस: =====
 
-===== Translation Notes: =====
-
-  * **gave his only Son** - This could also be translated as, "offered his only Son to the world as a sacrifice for sins" or, "gave us his only Son to be a sacrifice for our sins."
-  * **whoever believes** - This could also be translated as, "anyone who believes."
-  * **whoever believes in Jesus will not be punished for his sins, but will live with God forever** - This could also be translated as, "When anyone believes in Jesus, God will not punish that person for his sins, but will allow him to live with God forever."
-
-
+  * **त्याचा एकुलता एक पुत्र दिला **– “जगाच्या पापासाठी त्याने जगाला बलिदानासाठी दिले” किंवा “आमच्या पातकांची माफी मिळावी म्हणून बलिदान होण्यास दिले” हे असे पण अनुवाद केल जाऊ शकते.
+  * **जो कोणी विश्वासणार **– “जो कोणी विश्वासणार’ असे पण म्हटले जाते.
+  * **जो कोणी विश्वासणार त्याच्या पापाची शिक्षा नाही आणि ते सर्वदा देवा बरोबर निवास करणार**  – “जो कोणी यीशुवर विश्वास करतो त्याला देव शिक्षा करणार नाही, परतू देवावर प्रेम करण्यास परवानगी देतो” असे पण अनुवाद केले जाते.
 **[[:mr:obs:notes:frames:49-08|<<]] | [[:mr:obs:notes:49|Up]] | [[:mr:obs:notes:frames:49-10|>>]]**
