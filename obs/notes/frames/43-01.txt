@@ -1,22 +1,18 @@
-===== The Disciples in Jerusalem [43-01] =====
+===== येरूशलेमातील शिष्य [43-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink&}}
 
-After **Jesus returned to heaven**, the **disciples stayed in Jerusalem** as Jesus had commanded them to do. The **believers** there constantly gathered together to **pray**.
-===== Important Terms: =====
+नंतर **यीशु** **स्वर्गारोहण** झाला, **शिष्य** **येरूशलेमात** थांबले जसे यीशुने आज्ञा दिली होती. **विश्वासी** निरंतर **प्रार्थनेस** एकत्र जमा होत असे.
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:heaven]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:other:jerusalem]]**
-  * **[[:mr:obe:kt:believer]]**
-  * **[[:mr:obe:other:pray]]**
+  * **यीशु****, ****यीशु****ख्रिस्त**** , ****ख्रिस्त****यीशु**
+  * **स्वर्ग****, ****आकाश****, ****स्वर्ग****, ****खस्वर्गीय**
+  * **शिष्य**
+  * **येरूशलेम**
+  * **विश्वासी**
+  * **प्रार्थना****, ****प्रार्थना****करणे**
+===== भाषांतर नोटस: =====
 
-
-===== Translation Notes: =====
-
-  * **returned to heaven** - That is, "went back to heaven."
-  * **stayed in Jerusalem** - That is, "stayed in Jerusalem for awhile." They didn't stay there permanently.
-
-
+  * **स्वर्गात****परतणे**  – म्हणजे, “स्वर्गात पुन्हा जाणार”
+  * **यरूशलेमात****थांबून****राहणे**  – म्हणजे, “काही वेळ यरूशलेमात थांबून राहणे.” ते तेथे कायमचे थांबले नाही.
 **[[:mr:obs:notes:frames:42-11|<<]] | [[:mr:obs:notes:43|Up]] | [[:mr:obs:notes:frames:43-02|>>]]**
