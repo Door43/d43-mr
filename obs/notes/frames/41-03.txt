@@ -1,21 +1,16 @@
-===== The Women [41-03] =====
+===== स्त्री [41-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&}}
 
-The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were not permitted** to go to a **tomb** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **tomb** to put more **burial spices** on his body.
-===== Important Terms: =====
+**यीशुला** दफनावयाच्या पुढचा दिवस **शब्बाथ** होता, आणि **यहुद्यांनी** त्यांना कबरेत जाण्याची परवानगी दिली नसली. म्हणून **शब्बाथाच्या** पहाटेस काही स्त्रिया **यीशुच्या** शवाला मसाले लावण्यासाठी तयारी करीत होत्या.
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:sabbath]]**
-  * **[[:mr:obe:other:jew]]**
-  * **[[:mr:obe:other:tomb]]**
+  * **यीशु, यीशु ख्रिस्त, ख्रिस्त यीशु**
+  * **शब्बाथ**
+  * **यहुदी, यहुदी लोक, यहुदी धर्मातील लोकांस ज्यू असे म्हणतात**
+  * **कबर, गुहा, दफन क्रियेचे ठिकाण**
+===== भाषांतर नोटस: =====
 
-
-
-===== Translation Notes: =====
-
-  * **the Jews were not permitted** - The Sabbath day rules did not permit a Jew to walk very far or to do any other kind of work.
-  * **burial spices** - This refers to sweet-smelling spices that were placed on a dead body to cover the bad smell. This can also be translated as, "sweet-smelling spices" or, "sweet-smelling oils" or, "sweet-smelling plants."
-
-
+  * **यहुद्यांनी परवानगी दिली नसती**  – म्हणजे शब्बाथाच्या नियमानुसार कोणालाही दूरवर चालायची किंवा कोणते ही काम करण्याची परवानगी नव्हती.
+  * **दफनाचे मसाले **– सुगंधित मसाले मृतशरीराच्या खराब वासाच्या झाकण्यासाठी होतो. हे वाक्य हे सुद्धा अनुवाद करू शकतो, “सुगंधित मसाले” किंवा “सुगंधित तेल” किंवा “सुगंधित वनस्पती.”
 **[[:mr:obs:notes:frames:41-02|<<]] | [[:mr:obs:notes:41|Up]] | [[:mr:obs:notes:frames:41-04|>>]]**
