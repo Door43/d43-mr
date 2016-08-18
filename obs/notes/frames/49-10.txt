@@ -1,26 +1,23 @@
-===== Jesus Died in Our Place [49-10] =====
+===== यीशु आपल्या जागेवर मरण पावला [49-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-10.jpg?nolink&}}
 
-**Because of your sin**, you are **guilty** and deserve to **die**. **God should be angry** with you, but **he poured out his anger on Jesus** instead of on you. When Jesus died on the **cross**, he **received your punishment**.
-===== Important Terms: =====
+तुमच्या पापांमुळे,तुम्ही मरणे अवश्य होते. देव तुमच्यावर क्रोधीत होईल, परंतु देवाने तो क्रोध यीशुवर ओतला. जेव्हा यीशु क्रुसावर मरण पावला, तेव्हा त्याने तुमची शिक्षा घेतली.
 
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:guilt]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:cross]]**
-  * **[[:mr:obe:kt:receive]]**
-  * **[[:mr:obe:other:punish]]**
+===== महत्वाचा भाग: =====
 
+  * **पाप, पापरूपी, पापी, पाप करत राहणे**
+  * **पाप, पापी (दोषी)**
+  * **मृत्यू, मरण, मृत**
+  * **देव**
+  * **यीशु, यीशु ख्रिस्त, ख्रिस्त यीशु**
+  * **वधस्तंभ**
+  * **ग्रहण करणे, प्राप्त करणे**
+  * **दंड, शिक्षा**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **Because of your sin** - This can also be translated as, "Because you have sinned." To make it clear that this is talking about all people, for some languages it may be more clear to translate this as, "Because all people have sinned, they are guilty. They deserve death."
-  * **God should be angry** - This can also be translated as, "It would be right for God to be angry."
-  * **poured out his anger on** - That is, "directed his anger at" or, "placed all of his anger upon" or, "was angry only with."
-  * **received your punishment** - This could also be translated as, "was punished instead of you" or, "was punished for your sin." To make it clear that this applies to everyone, it could also be translated as, "was punished for everyone's sin."
-
-
+  * **तुमच्या पापांमुळे **– “कारण तुम्ही पापे केली” असे पण अनुवाद केले जाते. हे स्पष्ट करण्यासाठी हे सांगितले गेल की हे सगळ्या लोकांविषयी म्हटले जाते, काही भाषेत खूप स्पष्ट केले आहे, “कारण सगळ्या लोकांनी पाप केले आणि ते अपराधी होय.” ते मृत्युच्या ताब्यात होते.”
+  * **देवाला क्रोध झाले पाहिजे**  – “हे खरे की देवाने क्रोधीत व्हावे” हे असे पण अनुवाद केले जाते.
+  * **त्याचा आत्मा त्यावर ओतला **– “त्यावर सगळा राग ओतला” किंवा “त्याचा राग प्रदर्शित करावा.” किंवा “फक्त रागावला”
+  * **तुमचा दंड त्याने घेतला**  – “तुम्हां एवजी त्याने तो दंड घेतला” किंवा “तो तुमच्या साठी दंडीत झाला” हे असे पण अनुवाद केले जाते. हे सगळ्या साठी लागू होते हे स्पष्ट होते, हे असे पण अनुवाद केले जाते, “तो आपल्या पापांमुळे दंडीत झाला.”
 **[[:mr:obs:notes:frames:49-09|<<]] | [[:mr:obs:notes:49|Up]] | [[:mr:obs:notes:frames:49-11|>>]]**
