@@ -1,22 +1,18 @@
-===== Jesus Appeared to the Disciples [42-06] =====
+===== यीशु शिष्यांना दिसला [42-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-06.jpg?nolink&}}
 
-As the **disciples** were talking, **Jesus** suddenly appeared in the room with them and said, “**Peace to you**!” The **disciples** thought he was a ghost, but Jesus said, “Why are you afraid and **doubting**? Look at my hands and feet. Ghosts do not have bodies like I do.” **To prove** that he was not a ghost, he asked for something to eat. They gave him a piece of cooked fish, and he ate it.
-===== Important Terms: =====
+जसे ते **शिष्य** बोलत होते, **यीशु ** त्यांना एका खोलीत दिसला व म्हणाला “तुम्हांला **शांती** असो!” शिष्यांना वाटले की तो भुत आहे, पण यीशुने म्हंटले, का तुम्ही भयभीत झालात का संदेह करतात? माझ्या हात व पायांना पाहा. भूताना असे शरीर नसते जसे माझे आहे. हे प्रमाणित करण्यासाठी त्यांनी काही खाण्यास मागितले. त्यानि एक माशाचा शिजलेला तुकडा  दिला व खाल्ला.
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:peace]]**
-  * **[[:mr:obe:kt:disciple]]**
+  * **शिष्य**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **शांती****, ****शांतीमय**
+===== भाषांतर नोटस; =====
 
-
-===== Translation Notes: =====
-
-  * **Peace to you** - This may also be translated as, "May you have peace" or, "Be at peace."
-  * **ghost** - This refers to the spirit of a dead person.
-  * **doubting** - That is, "doubting that I am alive and here with you."
-  * **To prove** - That is, "to demonstrate to them."
-
+  * शांती असो – “तुम्हांला शांती असो” असे पण अनुवाद केले जाते, किंवा “शांती मध्ये राहा”
+  * भूत – मृत व्यक्तीचा आत्मा असा संधर्भ आहे.
+  * संदेश करणे – “संदेह हा की मी जिवंत व तुम्हां बरोबर आहेत.
+  * प्रमाणित करण्यासाठी – “त्यांना कृती करून दाखवली”
 
 **[[:mr:obs:notes:frames:42-05|<<]] | [[:mr:obs:notes:42|Up]] | [[:mr:obs:notes:frames:42-07|>>]]**
