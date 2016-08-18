@@ -1,19 +1,16 @@
-===== The Weeds [50-06] =====
+===== जंगली बीज [50-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink&}}
 
-“When the plants sprouted, the **servants** of the man said, ‘**Master**, you planted **good** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
-===== Important Terms: =====
+“जेव्हा रोप वाढते, तेव्हा दास म्हणतो, ‘स्वामीला, तुम्ही समान भूमित चांगले बीज टोप रोप लावले आहे. मग ते जंगली बीज कसे तेथे?’ स्वामीने उत्तर दिले, ‘त्या शत्रूने ते लावले असावे.”
 
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:kt:good]]**
+===== महत्वाचा भाग: =====
 
+  * **दास, गुलाम, गुलामगिरी**
+  * **प्रभू, स्वामी, गुरुजी**
+  * **चांगले, चांगुलपणे**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **An enemy must have planted them** - If possible, translate this in a way that indicates that the speaker did not see this happen.
-
-
+  * (यीशु निरंतर कथा सांगत होता.)
+  * **शत्रूंनी ते बीज लावले असावे**  –शत्रूने ते बीज तेव्हा लावले जेव्हा स्वामी तेथे नव्हता.
 **[[:mr:obs:notes:frames:50-05|<<]] | [[:mr:obs:notes:50|Up]] | [[:mr:obs:notes:frames:50-07|>>]]**
