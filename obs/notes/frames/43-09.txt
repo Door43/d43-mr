@@ -1,21 +1,17 @@
-===== Jesus Is the Messiah [43-09] =====
+===== यीशु हा मसिहा आहे [43-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink&}}
 
-“You **crucified** this man, **Jesus**. **But know for certain that God** has caused Jesus to become both **Lord** and **Messiah**!”
-===== Important Terms: =====
+“तुम्ही त्या मनुष्याला **वधस्तंभावर** खिळले, **यीशु****.** पण हे निश्चित की **देवाने** यीशुला **प्रभू** व **उद्धारक** दोघे होण्यास कारणीभूत होय.”
+===== महत्वाचा भाग =====
 
-  * **[[:mr:obe:kt:crucify]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:kt:christ]]**
+  * **वधस्तंभावर****खिळला****जाणे**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **देव**
+  * **प्रभु****, ****स्वामी****, ****गुरुजी**
+  * **ख्रिस्त****, ****उद्धारक**
+===== भाषांतर नोटस =====
 
-
-===== Translation Notes: =====
-
-  * (Peter continues preaching to the crowd.)
-  * **But know for certain that** - This could also be translated as, "But you can know that it is true that" or, "But you can be sure that."
-
-
+  * (पेत्र निरंतर गर्दीत प्रचार करत करतो.)
+  * **पण****वास्तवतेला****जाणणे****म्हणजे****-**  “पण तुम्ही त्या सत्याला जाणू शकता” किंवा “पण तुम्हांला निश्चिंत असावे लागेल.”
 **[[:mr:obs:notes:frames:43-08|<<]] | [[:mr:obs:notes:43|Up]] | [[:mr:obs:notes:frames:43-10|>>]]**
