@@ -1,19 +1,16 @@
-===== Jesus Walked with the Disciples [42-02] =====
+===== यीशु शिष्यां बरोबर चालला [42-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?nolink&}}
 
-**Jesus** approached them and started walking with them, but they **did not recognize him**. He asked what they were talking about, and they told him about **all the remarkable things that had happened** concerning Jesus during the previous few days. They thought they were talking to a visitor who did not know what had happened in **Jerusalem**.
-===== Important Terms: =====
+**यीशु** त्यांना दिसला व त्या संगती चालला पण त्यांना ओळखीला गेला नाही. त्यांनी विचारले ते कशा विषयी बोलत आहे, त्यांनी त्यांना सगळ्या गोष्टी सांगितल्या यीशुच्या पाच दिवसा पूर्वीच्या.
 
+त्यांनी असा विचार केला की ते अनोळखी व्यक्तीशी बोलत आहे आणि त्यांनी **यरूशलेम** विशायी काही माहित नाही असे.
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:jerusalem]]**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **यरूशलेम**
+===== भाषांतर नोटस: =====
 
-
-===== Translation Notes: =====
-
-  * **did not recognize him** - That is, "did not know that it was Jesus."
-  * **all the remarkable things that had happened** - This refers to the teaching and miracles of Jesus, his death, and the reports of his resurrection.
-
-
+  * **त्यांनी****ओळखिले****नाही**  – म्हणजे, “त्यांना माहित नव्हते की तो यीशु होता”
+  * **ज्या****लक्ष****वेधी****गोष्टी****त्या****सांगितल्या**  – हे त्याचे शिक्षण, चमत्कार, यीशुचे मरण, तसेच पुनरुस्थनाचे संधर्भ होय.
 **[[:mr:obs:notes:frames:42-01|<<]] | [[:mr:obs:notes:42|Up]] | [[:mr:obs:notes:frames:42-03|>>]]**
