@@ -1,33 +1,59 @@
-===== The Altar [13-09] =====
+===== **वेदि** [13-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?nolink}}
+कोणीही जो **देवाची आज्ञाभंग करेल ** त्याने **निवास मंडपाच्या समोरिल वेदीवर** **देवासाठी अर्पण** आणावे.** याजक** तो पशू मारेल आणि **वेदिवर** जाळेल.** पशूचे रक्त जे अर्पण केले ते माणसाचे पाप झाकेल** आणि **देवाच्या बाजूने माणूस शूद्ध** केला जाईल. देवाने मोशेचा भाऊ, अहरोन आणि अहरोनाचे घराणे त्याचे याजक होतील.
 
-Anyone who **disobeyed God's law** could bring an animal **to the altar in front of the Tent of Meeting** as a **sacrifice** to **God**. A **priest** would kill the animal and burn it on the **altar**. The **blood of the animal that was sacrificed covered the person’s sin** and made that person **clean in God's sight**. God chose **Moses**' brother, **Aaron**, and Aaron's **descendants** to be his priests.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  *
 
-  * **[[:mr:obe:other:disobey]]**
-  * **[[:mr:obe:kt:lawofmoses]]**
-  * **[[:mr:obe:other:tentofmeeting]]**
-  * **[[:mr:obe:other:sacrifice]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:priest]]**
-  * **[[:mr:obe:other:altar]]**
-  * **[[:mr:obe:kt:blood]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:other:aaron]]**
-  * **[[:mr:obe:other:descendant]]**
+**आज्ञाभंग**
+  *
 
+**देवाचे नियम**
+  *
 
-==== Translation Notes: ====
+**निवास मंडप**
+  *
 
+**अर्पण**
+  *
 
-  * **God's law** - This refers to all the commandments and instructions that God had told the Israelites to obey.
-  * **to the Tent of Meeting** - They did not bring the animal inside the Tent of Meeting, but to the altar in front of the Tent of Meeting. Be sure not to use an expression that means that they brought it inside.
-  * **covered the person's sin** - When people brought animals to sacrifice, God chose to see the blood of the animals as a covering over their sin. This is like hiding something that is ugly or dirty by covering it.
-  * **clean in God's sight** - This could be translated as, "as if he did not have the sin according to God" or, "free of the punishment for breaking God's law."
+**देव**
+  *
 
+**याजक**
+  *
 
+**वेदी**
+  *
+
+**रक्त**
+  *
+
+**पाप**
+  *
+
+**मोशेचा**
+  *
+
+**अहरोन**
+  *
+
+**संतान**
+**भाषांतरित टिपाः **
+
+  *
+
+**देवाचे नियम**  – हे सर्व देवाच्या आज्ञा आणि देवाच्या सूचना ज्या देवाने इस्त्राएलाला पाळण्यास सांगितल्या होत्या.
+  *
+
+**निवास मंडप**  – ते प्राण्यांना निवास मंडपाच्या आत आणत नव्हते, परंतू निवास मंडपाच्या समोरील वेदीवर आणत होते. याचा अर्थ् असा घेवू नका की ते आतही आणत होते.
+  *
+
+**मनुष्याचे पाप झाकत**  – जेव्हा लोक प्राणी अर्पणासाठी आणत, देवाने पाप झाकण्यासाठी प्राण्याच् रक्त पाहणे निवडले याच अर्थ काहीतरी कुरुप किंवा ओंगळ झाकून लपवने.
+  *
+
+**देवाच्या दृष्टिने शुद्ध**  - याचे भाषांतर असे करता येईल, “देवाचया दृष्टीने त्याच्यात आता काही पाप नाही,” किंवा, “देवाचे नियम मोडल्यामुळे होणा-या शिक्षेपासून सुटका.”
 **[[:mr:obs:notes:frames:13-08|<<]] | [[:mr:obs:notes:13|Up]] | [[:mr:obs:notes:frames:13-10|>>]]**
