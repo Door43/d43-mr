@@ -1,22 +1,23 @@
-===== Moses Was Angry [13-13] =====
+===== **मोशे रागे भरला ** [13-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink}}
+जेव्हा मोशे पर्वतावरुन खाली आला आणि त्याने **मुर्ती** पाहिली, तो इतके रागे भरला की त्याने **देवाने ** लिहिलेल्या **दहा आज्ञाच्या दगडी पाट्याचे तुकडे तुकडे ** केले.
+===== **महत्वाचे शब्द**: =====
 
-When **Moses** came down the mountain and saw the **idol**, he was so angry that he **smashed the stones** on which **God** had written the **Ten Commandments**.
-===== Important Terms: =====
+  *
 
+**मोशे**
+  *
 
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:other:idol]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:tencommandments]]**
+**मुर्ती**
+  *
 
+**देव**
+  *
 
-==== Translation Notes: ====
+**दहा आज्ञा**
+==== **भाषांतरित टिपा **: ====
 
-
-  * **smashed the stones** - He threw the stones down on the ground and they broke up into little pieces.
-
-
+  * **दगडी पाट्याचे तुकडे तुकडे केले – ** त्याने त्या पाट्या खेला जमिनीवर फेकल्या त्याचे लहान लहान तुकडे झाले.
 **[[:mr:obs:notes:frames:13-12|<<]] | [[:mr:obs:notes:13|Up]] | [[:mr:obs:notes:frames:13-14|>>]]**
