@@ -1,18 +1,14 @@
-===== What Should We Do? [43-10] =====
+===== आम्हांला काय केले पाहिजे? [43-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?nolink&}}
 
-The people listening to **Peter** were **deeply moved by** the things that he said. So they asked Peter and the **disciples**, “**Brothers**, what should we do?”
-===== Important Terms: =====
+जे लोक **पेत्राचे** भाषण ऐकत होते ते त्या गोष्टी कडे वळले. त्यांनी **शिष्यांस** व पेत्रास विचारले, “भाऊ, आम्ही काय केले पाहिजे?”
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:kt:disciple]]**
+  * **पेत्र****, ****शिमोन****पेत्र****, ****कैफा**
+  * **शिष्य**
+===== भाषांतर नोटस =====
 
-
-===== Translation Notes: =====
-
-  * **deeply moved by** - That is, "very troubled by" or, "felt very sad when they heard." To be "moved" is to feel strong emotions.
-  * **Brothers** - This was a normal way for a Jew to address fellow Jews. It could also be translated as, "Friends."
-
-
+  * **खोल****मध्ये****उतरले****-**  “खूप त्रस्त झाले” किंवा “त्यांना खूप वाईट वाटले जेव्हा त्यांनी एकले” असे म्हटले जाते. त्यांनी “मजबुतीच्या” भावना अनुभवल्या.
+  * **भाऊ****-**  यहुद्यासाठी हा साधारण मार्ग होता यीशुला संबोधायला. हे असं पण अनुवाद करतात की, “मित्र.”
 **[[:mr:obs:notes:frames:43-09|<<]] | [[:mr:obs:notes:43|Up]] | [[:mr:obs:notes:frames:43-11|>>]]**
