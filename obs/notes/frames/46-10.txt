@@ -1,31 +1,27 @@
-===== Barnabas and Saul [46-10] =====
+===== बरनबास आणि शाऊल [46-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-10.jpg?nolink&}}
 
-**One day**, while the Christians at Antioch were **fasting** and **praying**, the **Holy Spirit** said to them, “**Set apart for me Barnabas and Saul to do the work I have called them to do**.” So **the church** in Antioch **prayed** for **Barnabas** and **Saul** and **placed their hands on them**. Then they **sent them out** to **preach** the **good news** about **Jesus** in many other places. Barnabas and Saul taught people from different people groups, and many people **believed** in Jesus.
-===== Important Terms: =====
+एक दिवशी जेव्हा अन्तुकीयाच्या मंडळीने उपास व प्रार्थनेत होते, आत्माने त्यांना म्हटले की, “तुम्ही पाऊल व सिलास ह्यांना वेगळे करा कारण मी त्यांना माझ्या कार्यासाठी वेगळे केले आहे. म्हणुन अन्तुकीयातील मंडळीने त्यांच्या वर हात ठेवले व प्रार्थना केली. नंतर त्यांनी यीशुचा शुभ संदेश प्रचार करण्यास अन्य ठिकाणी पाठविले. बरनबास व शाऊल लोकसमुदायाला यीशुचे शिक्षण देत व अनेक लोकांनी यीशुवर विश्वास केला.
 
-  * **[[:mr:obe:other:fast]]**
-  * **[[:mr:obe:other:pray]]**
-  * **[[:mr:obe:kt:holyspirit]]**
-  * **[[:mr:obe:kt:church]]**
-  * **[[:mr:obe:other:pray]]**
-  * **[[:mr:obe:other:barnabas]]**
-  * **[[:mr:obe:other:paul]]**
-  * **[[:mr:obe:other:preach]]**
-  * **[[:mr:obe:kt:goodnews]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:believe]]**
+===== महत्वाचा भाग: =====
 
+  * **उपास**
+  * **प्रार्थना, प्रार्थना**
+  * **पवित्र आत्मा, देवाचा आत्मा, प्रभूचा आत्मा**
+  * **मंडळी, मंडळी**
+  * **बरनबास**
+  * **पाऊल, शाऊल**
+  * **प्रचार**
+  * **शुभ संदेश, सुवार्ता**
+  * **यीशु, यीशु ख्रिस्त, ख्रिस्त यीशु**
+  * **en:obe:kt:jesus**
+  * **विश्वास, विश्वासात, विश्वास करणे**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Set apart for me …** - This sentence could also be translated as, "Appoint Paul and Barnabas to do the special work I have chosen them to do."
-  * **the church** - This could also be translated as, "the believers" or, "the Christians."
-  * **placed their hands on them** - This could also be translated as, "blessed them with the power and authority of the Holy Spirit by putting their hands on them" or, "put their hands on them as a sign of their unity in the Spirit." Some languages may have to say where they placed their hands. If so, you could say they placed their hands on their head, shoulder or back.
-  * **sent them out ** - That is, "sent them away" or, "sent them on their journey."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **एके दिवशी**  – ही वाक्य एखादी घटना भुतकाळात घडलेली आहे पण विशेष संधर्भ दिलेला नाही. अनेक भाषेत कथा सांगण्याची शैली सारखीच असते.
+  * **आम्हापासून दूर करणे –**  “विशेष कार्यासाठी पाऊल व बरनबासची नियुक्ती करा मी त्यांना निवडले आहे.” असे पण हे वाक्य अनुवाद केलं जातं.
+  * **मंडळी **– “मसीही” किंवा “विश्वासणारे” असं पण अनुवाद होते.
+  * **त्यांच्यावर त्यांचे हात ठेवले –**  “त्यांचे हात ठेऊन पवित्र आत्माच्या अधिकाराने त्यांना आशिर्वाद देत होते” किंवा “त्यांचे त्यांच्यावर हात ठेवणे म्हणजे ऐकता दर्शवते.” काही भाषेत त्यांनी त्याचे हात ठेवले. जर, होऊ शकले तर त्यांनी त्याचे हात त्यांच्या डोक्यावर, खांद्यावर किंवा पाठीवर ठेवावे. त्यांनी त्याला बाहेर पाठविले- “दूर पाठविले” किंवा “त्यांना त्यांच्या प्रवाशात पाठवले.”
+  * **बायबलची कथा- ** हे संदर्भ बायबलच्या काही भागात थोडासा फरक असतो.
 **[[:mr:obs:notes:frames:46-09|<<]] | [[:mr:obs:notes:46|Up]] | [[:mr:obs:notes:frames:47-01|>>]]**
