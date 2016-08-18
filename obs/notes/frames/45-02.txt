@@ -1,23 +1,20 @@
-===== Stephen's Arrest [45-02] =====
+===== स्तेपनला कैद केलं जातं [45-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink&}}
 
-**One day**, when Stephen was teaching about **Jesus**, some **Jews** who did not believe in Jesus began to argue with Stephen. They became very angry and lied about Stephen to the **religious leaders**. They said, “We heard him speak **evil** things about **Moses** and **God**!” So the religious leaders arrested Stephen and brought him to the **high priest** and the other leaders of the Jews, where more false **witnesses** lied about Stephen.
-===== Important Terms: =====
+एके दिवशी- स्तेपन यीशुची शिकवण देत होता तेव्हा काही यहुदी जे यीशुवर विश्वास करत नव्हते ते वादविवाद करत होते. ते क्रोधित झाले व धार्मिक नेत्यापुढे स्तेपनला खोटे ठरवतात. त्यांनी म्हटले, “मोशेच्या व देवा विरुद्ध वाईट बोलतांना ऐकले.” म्हणून धार्मिक नेत्यांनी स्तेपनला अटक करून मुख्य याजकापुढे नेले आणि काही याहुद्यांनी काही ;खोटी साक्ष स्तेपन विरुद्ध दिली
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:jew]]**
-  * **[[:mr:obe:other:jewishleaders]]**
-  * **[[:mr:obe:kt:evil]]**
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:highpriest]]**
-  * **[[:mr:obe:kt:witness]]**
+===== महत्वाचा भाग: =====
 
+  * **यीशु****, ****यीशु****ख्रिस्त****यीशु****, ****ख्रिस्त****यीहू**
+  * **यहुदी****, ****यहुदी****लोक****, ****यहुदी****धर्मातील****लोकांस****ज्यू****असे****म्हणतात**
+  * **यहुदी****नेते****, ****यहुदी****अधिकारी****, ****धार्मिक****नेते**
+  * **वाईट****, ****दुष्ट****दुष्टता**
+  * **मोशे**
+  * **देव**
+  * **मुख्य****याजक**
+  * **साक्ष****, ****डोळ्यांनी****पाहिलेले****ते****साक्षीदार**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-
-
+  * **एक दिवशी-**  ही घटना भूतकाळात घडलेली आहेत असं अनुभव होतं पण काही विशिष्ट वेळ दर्शवत नाही. काही भाषामध्ये कथा सांगण्याची पद्दत सारखीच असते.
 **[[:mr:obs:notes:frames:45-01|<<]] | [[:mr:obs:notes:45|Up]] | [[:mr:obs:notes:frames:45-03|>>]]**
