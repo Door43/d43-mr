@@ -1,21 +1,18 @@
-===== Jesus Is Risen [41-05] =====
+===== यीशु उठला आहे [41-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink&}}
 
-When the women arrived at the tomb, the **angel** told them, “**Do not be afraid**. **Jesus** is not here. **He has risen from the dead**, just like he said he would! Look in the **tomb** and see.” The women looked into the tomb and saw where Jesus' body had been laid. His body was not there!
-===== Important Terms: =====
+जेव्हा स्त्रिया कबरेजवळ पोहचल्या स्वर्गदुताने त्यांना म्हटले, “घाबरु नका. यीशु येथे नाही. तो मरणातून उठला आहे, जसे त्याने सांगतिले की तो उठणार! कबरेत पाहा.” स्त्रियांनी कबरेत पाहिले आणि यीशुचे शरीर पडलेले आहे. त्याचे शरीर तिथे नव्हते!
 
-  * **[[:mr:obe:kt:angel]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:raise]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:other:tomb]]**
+===== महत्वाचा भाग: =====
 
+  * **दूत****, ****प्रमुख****दूत**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **उठविणे****, ****जिवंत****करणे****, ****उठविला****जाणे**
+  * **मृत्यू****, ****मरण****, ****मृत**
+  * **कबर****, ****गुहा****, ****दफन****क्रियेचे****ठिकाण**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **Do not be afraid** - That is, "Stop being afraid." An angel shining like lightning was a frightening sight!
-  * **He has risen from the dead** - This could be translated as, "He has come back to life."
-
-
+  * **भिऊ****नका**  – म्हणजे, “घाबरायचे बंद करा. स्वर्गदूत प्रकाशा सारखा शुभ्र चमकत होता!
+  * **तो****मरणातून****उठला**  – “हे वाक्य अशा प्रकारे सुद्धा अनुवाद होऊ शकते, “तो जीवनात परत आला.”
 **[[:mr:obs:notes:frames:41-04|<<]] | [[:mr:obs:notes:41|Up]] | [[:mr:obs:notes:frames:41-06|>>]]**
