@@ -1,18 +1,15 @@
-===== The People Were Angry [47-06] =====
+===== ते लोक क्रोधित झाले [47-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?nolink&}}
 
-The men who owned the **slave girl** became very angry! They realized that **without the demon**, the slave girl could not tell people **the future**. **This meant that** people would no longer pay her owners money so that she would tell them what would happen to them.
-===== Important Terms: =====
+ज्या मनुष्याने तिला गुलाम बनवले त्याला खूप राग आला! त्यांनी हे जाणून की शैताना विना, ती गुलाम मुलगी भविष्य सांगत नसे. याचा अर्थ असा की लोक आता अधिक काळ पैसा तिच्या मालकाला देणार नाही कारण ती त्यांचे काय होणार ते सांगणार नाही.
 
-  * **[[:mr:obe:other:servant]]**
+===== महत्वाचा भाग: =====
 
+  * **दास****, ****गुलाम****, ****गुलामगिरी**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **without the demon** - That is, "without the power from the demon" or, "now that she did not have the demon."
-  * **the future** - That is, "what would happen to them in the future."
-  * **This meant that** - This could also be translated as, "Because of this" or, "Therefore."
-
-
+  * **शैताना विना**  – “शैतानाच्या शक्ति विना आता तिच्यात दुष्ट किंवा शैतान नाही.”
+  * **भविष्य**  – “भविष्यात त्याच्या सोबत काय होईल ते.”
+  * **याचा अर्थ **– “ह्या कारणाने” किंवा “कारण की.”
 **[[:mr:obs:notes:frames:47-05|<<]] | [[:mr:obs:notes:47|Up]] | [[:mr:obs:notes:frames:47-07|>>]]**
