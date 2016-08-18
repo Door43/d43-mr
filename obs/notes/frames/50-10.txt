@@ -1,20 +1,21 @@
-===== Evil People Will Be Judged [50-10] =====
+===== दुष्ट लोकांचे न्याय केले जाईल [50-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-10.jpg?nolink&}}
 
-“When the world ends, the **angels** will gather together all the people **who belong to the devil** and throw them into **a raging fire**, where they will cry and grind their teeth in terrible **suffering**. Then **the righteous ones** will **shine like the sun** in the **kingdom** of **God their Father**.”
-===== Important Terms: =====
+“जेव्हा जगाचा अंत होईल तेव्हा स्वर्गदूत शैतानाच्या लोकांना एकत्र करतील आणि त्यांना अग्नीत टाकणार, जेथे रडणे व दात पिसणे अशी वेदना होईल. देवाच्या राज्यात धर्मी लोक सूर्यासारखे चमकतील.
 
-  * **[[:mr:obe:kt:angel]]**
-  * **[[:mr:obe:kt:satan]]**
-  * **[[:mr:obe:kt:suffer]]**
-  * **[[:mr:obe:kt:righteous]]**
-  * **[[:mr:obe:kt:kingdomofgod]]**
-  * **[[:mr:obe:kt:godthefather]]**
-===== Translation Notes: =====
+===== महत्वाचा भाग: =====
 
-  * **who belong to the devil**  - This could also be translated as, "who obey the devil" or, "who are ruled by the devil." This refers to those who do not believe in Jesus but follow the evil ways of the devil.
-  * **a raging fire**  - That is, "a very hot, burning fire" or, "a large, very hot fire."
-  * **the righteous ones**  - This refers to the people who belong to the Messiah. See **[[:mr:obs:notes:frames:50-08|[50-08]]]**.
-  * **shine like the sun**  - This could also be translated as, "be glorious like the sun" or, "show pure goodness as the sun shows bright light."
+  * **स्वर्गदूत, प्रमुख स्वर्गदूत**
+  * **शैतान, शैतान, दुष्टजन**
+  * **वेदना, वेदना सहन करणे**
+  * **धर्मिजन, धार्मिकता**
+  * **देवाचे राज्य, स्वर्गाचे राज्य**
+  * **पिता परमेश्वर, स्वर्गीय पिता, पिता**
+===== भाषांतर नोटस: =====
+
+  * **जे शैतानाच्या अधिनतेने आहे ते**  – हे असे पण अनुवाद केल जाऊ शकते, “जे शैतानाचे एकेतात ते” किंवा “जे शैतानाच्या द्वारे शासन केले जातात.” हे त्या लोकांना दर्शविते जे यीशुवर विश्वास ठेवीत नाहीत शैतानाच्या मार्गात चालतात.
+  * **धगधगती अग्नी **– म्हणजे, “खूप उष्ण” किंवा “धगधगती अग्नी.”
+  * **धर्मिजन **– हे मसिहाच्या लोकांना दर्शविते. पहा [50-08]
+  * **सूर्यासारखे चमकतील**  – हे असे पण अनुवाद केले जाऊ शकते, “महिमावंत जसे सूर्या सारखे” किंवा ‘संपुर्ण चांगुलपणा जसे सूर्य प्रखर प्रकाश देतो.”
 **[[:mr:obs:notes:frames:50-09|<<]] | [[:mr:obs:notes:50|Up]] | [[:mr:obs:notes:frames:50-11|>>]]**
