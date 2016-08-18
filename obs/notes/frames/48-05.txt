@@ -1,20 +1,17 @@
-===== A Way of Salvation [48-05] =====
+===== उद्धाराचा मार्ग [48-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink&}}
 
-When **God** destroyed the whole earth by the flood, he provided the boat to **save** the people who **believed** in him. In the same way, everyone deserves to be **destroyed because of their sins**, but God provided **Jesus** to save everyone who believes in him.
-===== Important Terms: =====
+देवाने संपुर्ण पृथ्वी जलप्रलयाने नष्ट केली, आणि एका तारुची उपाय योजना केली जे विश्वासणारे होते त्यासाठी. याचा अर्थ आपल्या पापामुळे प्रत्येक जन नाश होईल, परंतु देवाने यीशुचा प्रबंध केला की जो कोणी त्याच्यावर विश्वास करणार तो तारेल.
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:save]]**
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:jesus]]**
+===== महत्वाचा भाग: =====
 
+  * **देव**
+  * **तारण****, ****सुरक्षित**
+  * **विश्वास****, ****विश्वासात****, ****विश्वास**
+  * **पाप****, ****पापरूपी****, ****पापी****, ****पाप****करत****राहणे**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **destroyed because of their sins** - This could also be translated as, "everyone should be punished eternally by God because they have sinned."
-
-
+  * **ज्यांच्या पापामुळे त्यांचा नाश झाला**  – “प्रत्येक व्यक्तीला देवाच्या अनंतेची शिक्षा व्हावी कारण त्यांनी पाप केले होते.” हे असे पण अनुवाद केले जाते.
 **[[:mr:obs:notes:frames:48-04|<<]] | [[:mr:obs:notes:48|Up]] | [[:mr:obs:notes:frames:48-06|>>]]**
