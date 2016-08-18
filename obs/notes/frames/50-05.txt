@@ -1,20 +1,17 @@
-===== The Enemy [50-05] =====
+===== शत्रू [50-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink&}}
 
-**Jesus** told his **disciples** a story to explain what will happen to people when the world ends. He said, “A man planted **good seed** in his field. While he was sleeping, his enemy came and planted **weed seeds** along with the **wheat**, and then he went away.”
-===== Important Terms: =====
+यीशुने शिष्यांस म्हटले युगाच्या शेवटी काय घटना होणार या जगात. त्याने म्हटले, “एका मनुष्याने त्याच्या जमिनीत चांगले बीज पेरले. जेव्हा तो झोपलेला होता, शत्रू येऊन जंगली बीज पेरून गेला, नंतर तो तेथून निघून गेला.”
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:good]]**
+===== महत्वाचा भाग; =====
 
+  * **यीशु, यीशु ख्रिस्त, ख्रिस्त यीशु**
+  * **शिष्य**
+  * **चांगले, चांगुलपणा**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **good seed** - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for "seed." If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, "good seed like rice."
-  * **weed seeds** - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
-  * **wheat** - That is, "wheat seeds." Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
-
-
+  * **चांगले बीज **– हे बीज गहूचे धान्य होय. जर हे बीज एक प्रकार होय आणि हे उत्तम आहे की “बीज” हा शब्द साधारणतः वापरणे. जर तेथे साधारण भागनसेल, पण एखाद्या प्रकारचे बीज किंवा धान्य जे ओळखीचे व बोलेले, उदा. “चांगले बीज भात सारखे.”
+  * **जंगली बीज **– हे बीज एखाद्या रोप्यासारखे वाढत जाते परंतु ते खाल्ले जात नाही. ते व्यर्थ आहेत.
+  * **गहू **– म्हणजे, “गहूचे बीज.” गहू हे एक प्रकारचे धान्य होय की ते गवता सारखे वाढते. हे जे बीज आहे ते मानव जेवताना उपयोग करतात.
 **[[:mr:obs:notes:frames:50-04|<<]] | [[:mr:obs:notes:50|Up]] | [[:mr:obs:notes:frames:50-06|>>]]**
