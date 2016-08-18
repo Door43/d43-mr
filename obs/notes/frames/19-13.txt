@@ -1,24 +1,32 @@
-===== A Storm Ended the Drought [19-13] =====
+===== **एका वादळाने दुष्काळ समाप्त झाला** [19-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-13.jpg?nolink}}
+मग **एलीया** **अहाब** **राजाला** म्हणाला, “शहरात ताबडतोब परत जा ,कारण पाऊस येत आहे. लवकरच **आकाशत काळे ढग वाढले**, आणि मुसळधार पाऊस सुरू झाला. यहोवाने दुष्काळ संपवला आणि तो खरा देव आहे हे सिद्ध केले.
+===== **महत्वाचे शब्द **: =====
 
-Then **Elijah** said to **King Ahab**, “Return immediately to the city, because the rain is coming.” Soon **the sky grew black**, and a heavy rain began. **Yahweh** had ended the **drought** and proved that he is the true **God**.
-===== Important Terms: =====
+  *
 
+**एलीया**
+  *
 
-  * **[[:mr:obe:other:elijah]]**
-  * **[[:mr:obe:other:king]]**
-  * **[[:mr:obe:other:ahab]]**
-  * **[[:mr:obe:kt:yahweh]]**
-  * **[[:mr:obe:kt:god]]**
+**राजा**
+  *
 
+**अहाब**
+  *
 
-==== Translation Notes: ====
+**यहोवा**
+  *
 
+**देव**
+==== **भाषांतरित टिपा **: ====
 
-  * **the sky grew black** - That is, "the sky became very dark." Heavy rainclouds covered the sky, making it look dark grey or black.
-  * **drought** – That is, "long dry time with no rain."
+  *
 
+**आकाश काळे ढग वाढू लागले**  - म्हणजे "आकाश अतिशय गडद झाले."
+मुसळधार पाऊसाच्या ढगाने आकाश झाकून टाकले गडद राखाडी किंवा काळा बनवण्या साठी,
+
+**दुष्काळ**  याचा अर्थ “पाऊस नसलेला लांब कोरडा समय.”
 
 **[[:mr:obs:notes:frames:19-12|<<]] | [[:mr:obs:notes:19|Up]] | [[:mr:obs:notes:frames:19-14|>>]]**
