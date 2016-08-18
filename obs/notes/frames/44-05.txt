@@ -1,31 +1,27 @@
-===== Peter Preached [44-05] =====
+===== पेत्राने प्रचार केला [44-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink&}}
 
-“You are the ones who told the **Roman** governor to kill **Jesus**. You killed the **author of life**, but **God raised** him from the **dead**. Although you did not understand what you were doing, God used **your actions** to **fulfill** the prophecies that the **Messiah** would **suffer** and die. So now, **repent** and **turn to God** so that **your sins will be washed away**.”
-===== Important Terms: =====
+तूच एक आहे जो **रोमी** सरकारने **यीशुला** ठार मारले. तो **जीवनाच्या** लेखकाला ठार मारलं पण **देवाने** पुन्हा **मृत्यूतून** **जिवंत** **केले****. ** तुम्ही जे करिता ते माहित नाही देवाने तुमची कार्य ती **भविष्यवाणी** जि मसिहाने **दुख** सोसावे हि **पूर्ण** व्हावे नाही . म्हणून आता पश्चताप करा व देवाकडे या, म्हणजे तुमची **पापे** धुतली.
+===== महत्वाचा भाग =====
 
-  * **[[:mr:obe:other:rome]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:life]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:raise]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:kt:fulfill]]**
-  * **[[:mr:obe:kt:prophet]]**
-  * **[[:mr:obe:kt:christ]]**
-  * **[[:mr:obe:kt:suffer]]**
-  * **[[:mr:obe:kt:repent]]**
-  * **[[:mr:obe:kt:sin]]**
+  * **रोम****, ****रोमी****निवासी**
+  * **यीशु****, ****यीशु****ख्रिस्त****,****ख्रिस्त****यीशु**
+  * **जीवन****जगावे****, ****जिवंत****असणे****, ****जिवंत**
+  * **देव**
+  * **उठणे****,****उठविला****जाने****,****जिवंत****होणे**
+  * **मृत्यू****,****मृत****,****मरण**
+  * **पूर्ण**
+  * **भविष्यवक्ता****(****संदेष्टा****) ****भविष्यवाणी****, ****भविष्य****करणारी**
+  * **ख्रिस्त****,****मसीह**
+  * **ख्रिस्त**
+  * **दुख****,****वेदना**
+  * **पाप****,****पापरुपी****,****पापी****,****पाप****करत****राहणे**
+===== भाषांतर नोटस्‌ =====
 
-
-===== Translation Notes: =====
-
-  * (Peter continues to preach to the crowd.)
-  * **author of life** - That is, "the one who created life" or, "the one who gives us life" or, "the one who causes people to live." This refers to Jesus.
-  * **your actions ** - This can also be translated as, "the things you did." This refers to their asking Pilate to kill Jesus.
-  * **turn to God** - That is, "decide to obey God."
-  * **your sin will be washed away** - This could be translated as, "God will wash away your sins" or, "God will take away your sins and make you clean." This is talking about God purifying people in their spirit by completely removing their sins. It does not mean physical washing.
-
-
+  * (गर्दीत पेत्राने निरंतर प्रचार केला.)
+  * **जीवनाचा लेखक ज्यांनी**-“ज्यांनी हे जीवन निर्माण केले” किंवा “ जो कोणीएक जीवन देतो” किंवा, “जो लोकांचे जीवन जागण्याच कारण ठरतो”. हा संधर्भ यीशुला दर्शवितो.
+  * **तुमची कार्ये-**  हे असे पण भाषांतर केलं जाऊ शकते, “ जी गोष्ट तुम्ही करता.” हे वाक्य पिलात यीशुला ठार मारताना विचारतात.
+  * **देवाकडे वळा-**  हे, “देवाचे आज्ञा पाळण्यास निर्णय घ्या.”
+  * **तुमचे पाप धुतले जातील-**  हे असे पण भाषांतर केलं जाऊ शकतं, “देव तुमचे पाप धुऊन टाकील” किंवा “देव तुमचे पाप धुऊन घेईल व तुम्हाला शुद्ध करेल.” हे देवाचे पवित्रकरण लोकांच्या आत्मात पूर्णतः दूर करून पाप माफ करेल.  हे शारीरिक शुद्धीकरण नाही.
 **[[:mr:obs:notes:frames:44-04|<<]] | [[:mr:obs:notes:44|Up]] | [[:mr:obs:notes:frames:44-06|>>]]**
