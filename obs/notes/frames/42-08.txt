@@ -1,26 +1,21 @@
-===== You Are Witnesses [42-08] =====
+===== तुम्ही माझे साक्ष व्हाल [42-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink&}}
 
-“It was also written in the **scriptures** that my **disciples** will **proclaim** that everyone should **repent** in order to **receive forgiveness** for their **sins**. T**hey will do this starting in Jerusalem**, and then go to all **people groups** everywhere. **You are witnesses of these things**.”
-===== Important Terms: =====
+“हे **वचनात** लिहिलेलं आहे, ते माझे **शिष्य** घोषित करणे की पापापासून मुक्त होण्यासाठी प्रत्येकाने **पश्चाताप** केला पाहिजे. ते प्रथम येरूशलेमात सुरुवात करतील व साऱ्या जगात आणि सगळ्या **लोकांमध्ये**. तुम्ही ह्या गोष्टीचे **साक्षी** आहेत.”
+===== महत्वाचा भाग =====
 
-  * **[[:mr:obe:kt:wordofgod]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:repent]]**
-  * **[[:mr:obe:kt:receive]]**
-  * **[[:mr:obe:kt:forgive]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:other:jerusalem]]**
-  * **[[:mr:obe:other:peoplegroup]]**
-  * **[[:mr:obe:kt:witness]]**
+  * **देवाचे****वचन****, ****योह्वाचे****वचन****, ****प्रभूचे****वचन****. ****वचन**
+  * **शिष्य**
+  * **पश्चतावा****, ****पश्चताप**
+  * **ग्रहण****करणे****, ****प्राप्त****करणे**
+  * **क्षमा****, ****क्षमा****मिळविणे**
+  * **पाप****, ****पापरूपी****. ****पापी****, ****पाप****करणे**
+  * **येरूशलेम**
+  * **लोकांचे****झुंड****, ****लोक**
+  * **साक्षी****, ****डोळ्यांस****दिसण्या****योग्य****साक्ष**
+===== भाषांतर नोटस =====
 
-
-===== Translation Notes: =====
-
-  * **proclaim** - That is, "announce" or, "preach."
-  * **They will do this starting in Jerusalem** - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
-  * **You are witnesses of these things** - That is, "You have seen these things happen" or, "You will tell other people the things that you have seen happen."
-
-
+  * **घोषणा-**  “हा शब्द घोषित करणे किंवा प्रचार करणे असा होता.”ते येरूशलेमेत प्रारंभ करतील.
+  * **तुम्ही या गोष्टीचे साक्षी व्हाल**- “तुम्ही ह्या गोष्टी पाहिलेल्या आहेत” किंवा “ज्या गोष्टी तुम्ही पाहिल्या आहे ते इतरांना सांगा.”
 **[[:mr:obs:notes:frames:42-07|<<]] | [[:mr:obs:notes:42|Up]] | [[:mr:obs:notes:frames:42-09|>>]]**
