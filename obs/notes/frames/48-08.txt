@@ -1,27 +1,23 @@
-===== The Lamb of God [48-08] =====
+===== देवाचा कोकरा [48-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?nolink&}}
 
-When **God** told **Abraham** to offer his **son**, **Isaac**, as a **sacrifice**, God provided a **lamb** for the sacrifice **instead of his son**, **Isaac**. We all **deserve to die** for our **sins**! But God provided **Jesus**, the **Lamb of God**, as a sacrifice **to die in our place**.
-===== Important Terms: =====
+जेव्हा देवाने अब्राहामाला त्यांच्या पुत्राला, ईसाक, बलिदान करण्यास सांगितले तेव्हा देवाने त्याच्या पुत्र, ईसाक ऐवजी मेम्नाचा प्रबंध केला जो बलिदान करतो. आपण सर्व पापामुळे मरणारच होते! परंतु देवाने यीशुला देवाचा कोकर म्हणुन आपल्या जागेवर मरावे म्हणुन दिले.
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:abraham]]**
-  * **[[:mr:obe:kt:son]]**
-  * **[[:mr:obe:other:isaac]]**
-  * **[[:mr:obe:other:sacrifice]]**
-  * **[[:mr:obe:kt:lamb]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:jesus]]**
+===== महत्वाचा भाग =====
 
+  * **देव**
+  * **अब्राहाम****, ****अब्राम**
+  * **पुत्र****, ****चा****पुत्र**
+  * **ईसाक**
+  * **बलिदान****, ****भेट**
+  * **देवाचा****कोकरा**** (****मेम्ना****)**
+  * **मृत्यू****, ****मरण****, ****मृत**
+  * **पाप****, ****पापरूपी****, ****पापी****, ****पाप****करत****राहणे**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+===== भाषांतर नोटस: =====
 
-
-===== Translation Notes: =====
-
-  * **instead of his son, Isaac** - This can also be translated as, "in the place of his son, Isaac" or, "in his son Isaac's place" or, "so that he would not have to offer his son Isaac as a sacrifice."
-  * **deserve to die** - That is, "should die."
-  * **to die in our place** - This can also be translated as, "to die in the place of each of us" or, "so that he would not have to kill us."
-
-
+  * **त्याच्या पुत्राऐवजी, ईसाक**  – “त्याच्या पुत्रा ऐवजी, ईसाक” किंवा, “त्याचा पुत्र ईसाक ऐवजी” किंवा, “त्याला बलिदान करण्याची आवश्यकता नाही.” हे असे पण अनुवाद केले जाते.
+  * **मरावे लागणार **– “मरावे लागेल.”
+  * **आपल्या जागी मरणे **– “हे असे पण अनुवाद केले जाते की, “प्रत्येकाच्यासाठी” किंवा, “म्हणुन आपल्याला मारणार नाही.”
 **[[:mr:obs:notes:frames:48-07|<<]] | [[:mr:obs:notes:48|Up]] | [[:mr:obs:notes:frames:48-09|>>]]**
