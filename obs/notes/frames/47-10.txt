@@ -1,18 +1,15 @@
-===== The Jailer [47-10] =====
+===== जैलर [47-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink&}}
 
-**The jailer** woke up, and when he saw that the prison doors were open, he was terrified! He thought all the prisoners had escaped, so he planned to kill himself. (He knew the **Roman authorities** would kill him if he allowed the prisoners to escape.) But **Paul** saw him and yelled, “Stop! Do not hurt yourself. **We** are all here.”
-===== Important Terms: =====
+जैलर उठला, जेव्हा त्याने बंदिखानाचे दरवाजे उघडे पाहिले तेव्हा तो भयभीत झाला! त्याला वाटले सर्व कैदी पळून गेले असावे म्हणुन त्याने स्वतः ठार होण्याचे ठरवले. (त्याला माहित होते की जर कैदी येथून बाहेर पडले की रोमी अधिकारी त्याला ठार मारणार.) परंतु पाऊल ने मोठया आवाजात आरोळी मारून “थांबण्यास” सांगितले. स्वतःला इजा करू नकोस. आम्ही सगळे येथेच आहेत.”
 
-  * **[[:mr:obe:other:rome]]**
-  * **[[:mr:obe:other:paul]]**
+===== महत्वाचा भाग: =====
 
+  * **रोम****, ****रोमी****नागरिक**
+  * **पाऊल, ****शाऊल**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **The jailer** - That is, "the official in charge of the jail."
-  * **We** - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
-
-
+  * **जैलर **– “जैलचा अधिकारी असलेला”
+  * **आम्ही –**  काही भाषेत “आम्ही” ह्या शब्दासाठी विशेषता असते हे त्या व्यक्तीला संबोधित करून बोलणे. “आम्ही” येथे जेलरला संबोधित नाही, फक्त पाऊल व अन्य आरोपी होय.
 **[[:mr:obs:notes:frames:47-09|<<]] | [[:mr:obs:notes:47|Up]] | [[:mr:obs:notes:frames:47-11|>>]]**
