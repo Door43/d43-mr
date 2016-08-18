@@ -1,20 +1,17 @@
-===== Peter and John Were Arrested [44-06] =====
+===== पेत्र आणि योहानाला बंदिवान बनवले [44-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink&}}
 
-The leaders of the **Temple** were very upset by what **Peter** and **John** were saying. So they arrested them and put them into prison. But many of the people **believed Peter's message**, and the **number of men** who believed in Jesus grew to about 5,000.
-===== Important Terms: =====
+मंदिराचे नेतृत्व करणारे खुपच निराश होते जे पेत्र व योहान सांगत होते त्यामुळे. त्यांना बंदी घालून जेलखान्यात टाकले. पण, अनेकांनी पेत्राच्या संदेशावर विश्वास केला आणि विश्वासणाऱ्यांची संख्या पाच हजार झाली.
 
-  * **[[:mr:obe:kt:temple]]**
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:other:johntheapostle]]**
-  * **[[:mr:obe:kt:believe]]**
+===== महत्वाचा भाग: =====
 
+  * **मंदिर**
+  * **पेत्र, शिमोन पेत्र, कैफा**
+  * **योहान (प्रेषित)**
+  * **विश्वास, विश्वासात विश्वास**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **Peter's message** - That is, "the message that Peter had preached to them."
-  * **number of men** - This was in addition to the woman and children who believed.
-
-
+  * **पेत्राचा संदेश-**  “जो संदेश पेत्राने त्यांना प्रचार केला.”
+  * **मनुष्यांची संख्या- ** ही संख्या स्त्रिया व बालके मिळून झालेली आहे जे विश्वासी बनले.
 **[[:mr:obs:notes:frames:44-05|<<]] | [[:mr:obs:notes:44|Up]] | [[:mr:obs:notes:frames:44-07|>>]]**
