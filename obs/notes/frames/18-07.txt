@@ -1,25 +1,34 @@
-===== Israel Rebelled against Judah [18-07] =====
+===== **यहूदाच्या विरोधात इस्राएलची बंडखोरी** [18-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?nolink}}
+**इस्राएल राष्ट्रातील** दहा **वंशानी रहबाम याच्या विरुद्ध बंड केले**. फक्त दोन वंशच **त्याच्याशी विश्वासू राहिले.** हे दोन वंश **यहूदाचे राज्य** झाले.
+===== **महत्वाचे शब्द **: =====
 
-Ten of the **tribes of the nation of Israel rebelled against Rehoboam**. Only two tribes **remained faithful to him**. These two tribes became the **kingdom of Judah**.
-===== Important Terms: =====
+  *
 
+**इस्राएल राष्ट्र**
+  *
 
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:rebel]]**
-  * **[[:mr:obe:other:rehoboam]]**
-  * **[[:mr:obe:kt:faithful]]**
-  * **[[:mr:obe:other:kingdomofjudah]]**
+**बंडखोरी**
+  *
 
+**रहबाम**
+  *
 
-==== Translation Notes: ====
+**विश्वासू**
+  *
 
+**यहूदाचे राज्य**
+==== **भाषांतरित टिपा **: ====
 
-  * **tribes of the nation of Israel** - The descendants of each of Jacob's twelve sons had become a "tribe" or very large family group in the nation of Israel. Everyone in Israel belonged to one of the twelve tribes.
-  * **rebelled against Rehoboam** – That is, "refused to follow Rehoboam as their king." It might help to start this sentence with, "So" or, "Because of that" or, "Because of what Rehoboam said."
-  * **remained faithful to him** – That is, "stayed loyal to him" or, "continued to support him as king."
+  *
 
+**इस्राएल राष्ट्रातील वंश**  - याकोबाच्या बारा मुलांचे प्रत्येक वंश म्हमजे एक "जमात" किंवा इस्राएल राष्ट्र फार मोठे कुटुंब होते. इस्राएल प्रत्येकजण बारा वंशांपैकी एक होता.
+  *
 
+**रहबाम याच्या विरुद्ध बंड**  – म्हणजे, “राजा म्हणून त्यांनी रहबामाला अनुसरण्यास नकार दिला." "मग" या शब्दाने वीक्याची सुरूवात करण्यासाठी मदत होईल, किंवा, "किंवा त्यामुळे" किंवा, "कारण की रहबाम जे म्हणाला."
+  *
+
+**त्याच्याशी विश्वासू राहिले**  "म्हणजे, "त्याच्याशी एकनिष्ठ राहिले" किंवा, " राजाला समर्थन देत राहिले."
 **[[:mr:obs:notes:frames:18-06|<<]] | [[:mr:obs:notes:18|Up]] | [[:mr:obs:notes:frames:18-08|>>]]**
