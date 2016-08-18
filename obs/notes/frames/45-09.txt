@@ -1,16 +1,13 @@
-===== Philip Met the Ethiopian [45-09] =====
+===== फिलीप इथिपियनला भेटतो [45-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink&}}
 
-Philip asked the Ethiopian, “Do you understand what you are reading?” The Ethiopian replied, “No. I cannot understand it unless someone explains it to me. Please come and sit next to me. **Was Isaiah writing about** himself or someone else?”
-===== Important Terms: =====
+फिलीप ने त्यांस विचारले, “जे तुम्ही वाचता ते तुम्हांला कळतं का?” त्या इथिपीयन ने म्हटले, “नाही.” मी समजू शकत नाही जो पर्यंत कोणी मला सांगत नाही. कृपया ये आणि माझ्या बाजुला बस. काय यशया स्वतः बद्दल लिहीत होता की इतरांबद्दल?”
 
-  * **[[:mr:obe:other:isaiah]]**
+===== महत्वाचा भाग: =====
 
+  * **यशया**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **Was Isaiah writing about** - This can also be translated as, "Was Isaiah referring to."
-
-
+  * **काय यशया त्या विषयी लिहीत होता – ** हे असं पण म्हटलं जातं, “काय यशया त्या संधर्भ देत होता.”
 **[[:mr:obs:notes:frames:45-08|<<]] | [[:mr:obs:notes:45|Up]] | [[:mr:obs:notes:frames:45-10|>>]]**
