@@ -1,25 +1,22 @@
-===== The Fields Are Ripe [50-03] =====
+===== शेत पिकून कापणीसाठी तयार आहेत [50-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?nolink&}}
 
-Many **people groups** still have not heard about **Jesus**. Before he returned to **heaven**, Jesus told **Christians** to proclaim the **good news** to people who have never heard it. He said, “Go and **make disciples** of all people groups!” and, “**The fields are ripe for harvest**!”
-===== Important Terms: =====
+अनेक लोकसमुदायाने अजून पर्यंत यीशु विषयी एकले नाही. त्याचे स्वर्गात जाण्यापूर्वी यीशुने म्हटले, ख्रिस्ती शुभ संदेश घोषित करतील आणि अनेक लोक ज्यांनी एकले नाही ते ऐकतील. त्याने म्हटले, “जा आणि लोकांना शिष्य बनवा!” आणि, जे शेत कापणीसाठी तयार आहेत ते कापणी करा.
 
-  * **[[:mr:obe:other:peoplegroup]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:heaven]]**
-  * **[[:mr:obe:kt:christian]]**
-  * **[[:mr:obe:kt:goodnews]]**
-  * **[[:mr:obe:kt:disciple]]**
+===== महत्वाचा भाग: =====
 
+  * **लोकसमुदाय, लोक**
+  * **यीशु, यीशु ख्रिस्त, ख्रिस्त यीशु**
+  * **स्वर्ग, आकाश, स्वर्ग, स्वर्गीय**
+  * **मसीही**
+  * **शुभ संदेश, सुवार्ता**
+  * **शिष्य**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **make disciples** - This has the meaning, "help people to become my disciples."
-  * **The fields are ripe for harvest** - This could also be translated as, "They are ready to be brought to God like fields that are ripe for harvest" or, "They are ready to be gathered and brought to God like fields whose crops are ripe and ready to be gathered."
-  * **The fields** - In this expression, "The fields" represents the people in the world.
-  * **ripe** - "Ripe" here represents being ready to believe in Jesus.
-  * **harvest** - "Harvest" here represents the work of bringing people to God by teaching them about Jesus.
-
-
+  * **शिष्य बनवा:**  याचा अर्थ “लोकांना माझे शिष्य होण्यास मदत करा.”
+  * **शेत कापणीसाठी तयार आहे**  – हे असे पण अनुवाद केले जाते, “ते देवाजवळ यायला तयार आहेत जसे शेतातील धन्य कापणीसाठी असते” किंवा “ते एकता होण्यात देवाजवळ यायला तयार आहेत जसे शेतातील धन्य कापणीसाठी तयार असते.”
+  * **जमीन –**  या प्रस्तुतीकारणात, ”शेत” हे लोकसमुदायाला प्रतिनिधित्व करते.
+  * **कापणे –**  “कापणे” ते यीशुवर विश्वास होण्यास तयार आहेत.
+  * **धान्य (कणसे) **– “कणसे” लोकांच्या कामाला दर्शिविते की ते देवाचे शिक्षण देऊन त्याकडे आणतील.
 **[[:mr:obs:notes:frames:50-02|<<]] | [[:mr:obs:notes:50|Up]] | [[:mr:obs:notes:frames:50-04|>>]]**
