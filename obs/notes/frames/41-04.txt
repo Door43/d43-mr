@@ -1,21 +1,17 @@
-===== The Angel Appeared [41-04] =====
+===== स्वर्गदुताचे दर्शन [41-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink&}}
 
-Suddenly, there was a **great earthquake**. An **angel that shone as bright as lightning** appeared from **heaven**. He rolled away the stone that was covering the entrance to the **tomb** and sat on it. The soldiers guarding the tomb were terrified and **fell to the ground like dead men**.
-===== Important Terms: =====
+अचानक, **तेथे** भूकंप झाला आणि कबरे भोवती असलेला दगड त्याने बाजूला सरकवून तो त्यावर बसला.  जे शिपाई **कबरेची** रखवाली करत होते घाबरले आणि **मृतासारखे** खाली जमिनीवर पडले.
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:kt:angel]]**
-  * **[[:mr:obe:kt:heaven]]**
-  * **[[:mr:obe:other:tomb]]**
-  * **[[:mr:obe:kt:death]]**
+  * **दूत****, ****प्रमुख****दूत**
+  * **स्वर्ग****, ****आकाश****, ****स्वर्ग****, ****स्वर्गीय**
+  * **कबर****, ****गुहा****, ****दफन****क्रियेचे****ठिकाण**
+  * **मृत्यू****, ****मरण****, ****मृत**
+===== भाषांतर नोटस =====
 
-
-===== Translation Notes: =====
-
-  * **great earthquake** - This could also be translated as, "violent earthquake" or, "forceful shaking of the ground." Some languages may prefer to reword this as, "the ground began to shake violently."
-  * **that shone as bright as lightning** - That is, "whose appearance was as bright as lightning."
-  * **fell to the ground like dead men** - They were not dead, but they did not move, just like dead men do not move. They probably had fainted from fright. To make this clear, this could be translated as, "suddenly fell to the ground and did not move."
-
-
+  * **मोठा****भूकंप**  – “ह्याचे भाषांतर ह्या प्रकारे शुद्धा होऊ शकते, “जोराचा भूकंप” किंवा “जमिनीला हलविणारा बल.” काही भाषांतरामध्ये ह्याचा वेगळा शब्द आढळतो, “जमिनीला बल जबरीने हालवायला सुरुवात केली.”
+  * **प्रकाश****सारखा****चमकणारा**  – “म्हणजे त्याचे स्वरूप प्रकाशा सारखे शुभ्र होते”
+  * **मृतासारखे****जमिनीत****पडणे**  – ते मेले नव्हते, परंतु हालचाल करत नव्हते, जसे मेलेला माणूस हालचाल करीत नाही त्याप्रमाणे. कदाचित ते घाबरून कमजोर झाले असावे. हे स्पष्ट करण्यासाठी, हे वाक्य आपण अशा प्रकारे अनुवाद करू शकतो, “अचानक जमिनीवर पडणे व हालचाल न करणे.”
 **[[:mr:obs:notes:frames:41-03|<<]] | [[:mr:obs:notes:41|Up]] | [[:mr:obs:notes:frames:41-05|>>]]**
