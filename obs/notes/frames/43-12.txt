@@ -1,22 +1,20 @@
-===== 3000 Believe [43-12] =====
+===== तीन हजार विश्वास [43-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink&}}
 
-About 3,000 people **believed** what **Peter** said and became **disciples** of **Jesus**. They were **baptized** and became part of the **church** at **Jerusalem**.
-===== Important Terms: =====
+लगभग तीन हजार विश्वासी आणि यीशुचे शिष्य झाले. त्यांनी बाप्तिस्मा घेतला व येरूशलेममध्ये मंडळीचे भाग बनले.
 
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:baptize]]**
-  * **[[:mr:obe:kt:church]]**
-  * **[[:mr:obe:other:jerusalem]]**
+===== महत्वाचा भाग =====
 
+  * **विश्वास****, ****विश्वासात****, ****विश्वासामध्ये**
+  * **पेत्र****, ****शिमोन****पेत्र****, ****कैफा**
+  * **शिष्य**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **बाप्तिस्मा****घेणे****, ****बाप्तिस्मा**
+  * **मंडळी****, ****मंडळी**
+  * **येरूशलेम**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * ह्याकरिता कोणत्याही नोट्स नाही
 
 **[[:mr:obs:notes:frames:43-11|<<]] | [[:mr:obs:notes:43|Up]] | [[:mr:obs:notes:frames:43-13|>>]]**
