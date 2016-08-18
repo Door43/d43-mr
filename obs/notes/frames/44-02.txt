@@ -1,19 +1,15 @@
-===== Get Up and Walk [44-02] =====
+===== ऊठ आणि चाल फिर [44-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink&}}
 
-**Peter** looked at the lame man and said, “I do not have any money to give you. But I will give you what I do have. **In the name of Jesus**, **get up** and walk!”
-===== Important Terms: =====
+**पेत्राने** लंगडयास पाहिले आणि म्हटले, “माझ्याकडे पैसे नाही द्यायला. पण माझ्याकडे जे आहे ते मी देतो. **यीशुच्या** नावाने ऊठ व चाल फिरू लाग.”
+===== महत्वाचा भाग =====
 
+  * **पेत्र****, ****शिमोन****पेत्र****, ****कैफा**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+===== भाषांतर नोटस =====
 
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:kt:jesus]]**
-
-
-===== Translation Notes: =====
-
-  * **In the name of Jesus** - "Name" here stands for the authority and power of the person. Therefore, this expression here means, "by the authority of Jesus."
-  * **get up** - That is, "stand up."
-
+  * **यीशुच्या नावाने- “** नाव” इथे व्यक्तीच्या अधिकार व सामर्थ्यास दर्शवते. त्यासाठी, प्रसुतीकरण म्हणजे, “यीशुच्या अधिकाराने.”
+  * ऊठ- म्हणजे “उभे राहणे.”
 
 **[[:mr:obs:notes:frames:44-01|<<]] | [[:mr:obs:notes:44|Up]] | [[:mr:obs:notes:frames:44-03|>>]]**
