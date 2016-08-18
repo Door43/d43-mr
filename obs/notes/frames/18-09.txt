@@ -1,27 +1,42 @@
-===== Jeroboam Made an Idol [18-09] =====
+===== **यराबाम एक मूर्ती केली** [18-09] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-09.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-09.jpg?nolink}}
+**यराबामाने देवाविरुद्ध बंड** केले आणि **लोकांना पाप करायला लावले**. त्याने आपल्या लोकांसाठी **यहूदाच्या राज्यातील मंदिरातील देवाची उपासना करण्याऐवजी** उपासना करण्यासाठी दोन **मूर्ती** तयार केल्या.
+===== **महत्वाचे शब्द **: =====
 
-**Jeroboam rebelled** against **God** and **caused the people to sin**. He built two **idols** for his people to **worship instead of worshiping God at the Temple in the kingdom of Judah**.
-===== Important Terms: =====
+  *
 
+**यराबाम**
+  *
 
-  * **[[:mr:obe:other:jeroboam]]**
-  * **[[:mr:obe:other:rebel]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:other:idol]]**
-  * **[[:mr:obe:kt:worship]]**
-  * **[[:mr:obe:kt:temple]]**
-  * **[[:mr:obe:other:kingdomofjudah]]**
+**बंड****केले**
+  *
 
+**देव**
+  *
 
-==== Translation Notes: ====
+**पाप**
+  *
 
+**मूर्ती**
+  *
 
-  * **caused the people to sin** - This could be translated as, "led the people to sin" or, "motivated the people to sin." Rehoboam led the people into sin by making idols for them to worship.
-  * **instead of worshiping God at…Judah** - This can be translated as, "so that they would not worship God at" or, "instead of going to the kingdom of Judah to worship God at the Temple."
+**उपासना**
+  *
 
+**मंदिर**
+  *
+
+**यहूदाचे राज्य**
+==== **भाषांतरित टिपा **: ====
+
+  *
+
+**लोकांना पाप करायला लावले**  - हे असे अनुवादित केले जाऊ शकते, किंवा, "पाप करण्याचा मार्ग दाखविला" किंवा " लोकांना पाप करण्यास प्रवृत्त केले." रहबामाने उपासना करण्यासाठी त्यांना मूर्ती करून लोकांना पाप करायला लावले.
+  *
+
+**यहूदाच्या राज्यातील मंदिरातील देवाची उपासना करण्याऐवजी**  हे असे अनुवादित केले जाऊ शकते "म्हणुन ता आता तेथे ते देवाची उपासना करीत नव्हते" किंवा, यहूदाच्या राज्यातील जावून मंदिरातील देवाची उपासना करण्याऐवजी
+."
 
 **[[:mr:obs:notes:frames:18-08|<<]] | [[:mr:obs:notes:18|Up]] | [[:mr:obs:notes:frames:18-10|>>]]**
