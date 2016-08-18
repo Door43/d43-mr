@@ -1,19 +1,16 @@
-===== The Crippled Man Was Healed [44-03] =====
+===== लंगडा माणूस बरा झाला [44-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink&}}
 
-Immediately, **God healed** the lame man, and he began to walk and jump around, and to **praise** God. The people in the **courtyard of the Temple** were amazed.
-===== Important Terms: =====
+त्वरित देवाने **बरे** **केले** आणि लंगडा माणुस **देवाची** **स्तुति** करत चालू व कुदू लागला. **मंदिराच्या** परिसरात असलेले लोक चकित झाले.
+===== महत्वाचा भाग. =====
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:heal]]**
-  * **[[:mr:obe:other:praise]]**
-  * **[[:mr:obe:kt:temple]]**
+  * **देव**
+  * **बरा****होणे**
+  * **स्तुति**
+  * **मंदिर**
+===== भाषांतर नोटस =====
 
-
-===== Translation Notes: =====
-
-  * **courtyard of the Temple** - Only priests could enter the Temple, but ordinary Jews were allowed to come into this area that surrounded the Temple.
-
+  * मंदिराचा परिसर-फक्त याजकच मंदिरात प्रवेश करीत असे पण अन्य साधारण यहुदी ह्या भागात जाऊ शकत असे.
 
 **[[:mr:obs:notes:frames:44-02|<<]] | [[:mr:obs:notes:44|Up]] | [[:mr:obs:notes:frames:44-04|>>]]**
