@@ -1,25 +1,22 @@
-===== The Passover [48-09] =====
+===== वल्हांडणाचा सण [48-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink&}}
 
-When **God sent the last plague on Egypt**, he told each **Israelite** family to kill **a perfect lamb** and spread **its blood** on the tops and sides of their **door frames**. When God saw the blood, he **passed over** their houses and did not kill their firstborn sons. This event is called the **Passover**.
-===== Important Terms: =====
+देवाने जेव्हा इजिप्त मध्ये अंतिम रोग पाठविला, तेव्हा प्रत्येक ईस्राएलच्या कुटुंबियांनी एक मेम्नाचा वध करावा आणि त्यांचा रक्त त्यांच्या दारावर शिंपडला जावा. देवाने रक्त पाहिले, त्याने ते पाहून आपल्या मधुन प्रथम जन्मलेल्यांना मारणार नाही. ही घटना म्हणजे वल्हांडण.
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:egypt]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:kt:lamb]]**
-  * **[[:mr:obe:kt:blood]]**
-  * **[[:mr:obe:kt:passover]]**
+===== महत्वाचा भाग: =====
 
+  * **देव**
+  * **मिश्र****, ****मिश्री****नागरिक**
+  * **ईस्राएल****, ****ईस्राएली****लोक****, ****ईस्राएलचे****राष्ट्र**
+  * **मेम्ना****, ****देवाचा****मेम्ना**
+  * **रक्त**
+  * **वल्हांडण**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **sent the last plague on Egypt** - That is, "caused the final disaster to come on Egypt." This was the tenth plague when God caused the firstborn sons of the Egyptians to die.
-  * **a perfect lamb** - That is, "a lamb without any defect."
-  * **its blood** - That is, "the lamb's blood."
-  * **door frames** - If door frames are not known, this could be translated as, "doors."
-  * **passed over** - This could also be translated as, "passed by" or, "went by." You may want to connect how this is translated with how "Passover" is translated.
-
-
+  * **इजिप्त मध्ये अंतिम रोग पाठविला **– “शेवटचे नुकसानचे कारण आले.” ही दहावी महामारी होती जेव्हा देवाने ठरवले की मिश्रमध्ये प्रथम जन्मीत पुत्रचे वध.
+  * **परिपूर्ण मेम्ना (कोकरा)**  –“मेम्ना विना अशुद्ध.”
+  * **त्याचे रक्त –**  “मेम्नाचे रक्त.”
+  * **द्वारा भोवती**  – जर दरवाजाचे फ्रेम माहित नाही, तर हे असे पण अनुवाद केले जाते की, “दरवाजे.”
+  * **त्याहून निघून जाणे **– “तेथून पसार होणे” किंवा, “निघुन जाणे” हे असे पण अनुवाद केले जाऊ शकते. तुम्ही कसे संलग्नित कराल “वल्हांडण” हे अनुवाद.
 **[[:mr:obs:notes:frames:48-08|<<]] | [[:mr:obs:notes:48|Up]] | [[:mr:obs:notes:frames:48-10|>>]]**
