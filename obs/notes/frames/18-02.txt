@@ -1,27 +1,35 @@
-===== Solomon Built the Temple [18-02] =====
+===== **शलमोन मंदिर बांधतो** [18-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-02.jpg?nolink}}
+**यरुशलेमेत, शलमोनाने ** जे **मंदिर** बांधले ते त्याचे वडील **दावीदाने** नियोजित केले होते आणि साहित्य गोळा केले होते. लोकांनी आता **दर्शन मंडपाऐवजी** मंदिरात **देवाची उपासना केली** आणि **अर्पणे वाहिली**. देव आला आणि **मंदिरात हजर राहीला**, आणि **त्याच्या लोकांबरोबर** तो तेथे राहिला.
+===== **महत्वाचे शब्द **: =====
 
-In **Jerusalem**, **Solomon** built the **Temple** for which his father **David** had planned and gathered materials. People now **worshiped God** and offered **sacrifices** to him at the Temple instead of at the **Tent of Meeting**. God came and **was present in the Temple**, and he lived there **with his people**.
-===== Important Terms: =====
+  *
 
+**यरुशलेम**
+**शलमोन**
 
-  * **[[:mr:obe:other:jerusalem]]**
-  * **[[:mr:obe:other:solomon]]**
-  * **[[:mr:obe:kt:temple]]**
-  * **[[:mr:obe:other:david]]**
-  * **[[:mr:obe:kt:worship]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:sacrifice]]**
-  * **[[:mr:obe:other:tentofmeeting]]**
+**मंदिर**
 
+**दावीद**
 
-==== Translation Notes: ====
+**उपासना केली**
 
+**देव**
 
-  * **was present in the Temple** – That is, "was present in the Temple in a special way." Even though God was also present everywhere else at the same time, he made himself especially available to the people at the Temple.
-  * **with his people** - This could be translated as, "in the midst of his people" or, "among his people."
+**अर्पणे**
 
+**दर्शन मंडप**
+
+==== **भाषांतरित टिपा **: ====
+
+  *
+
+**मंदिरात हजर राहीला**  म्हणजे एक विशेष प्रकारे मंदिरात हजर होता.” जरी देव एकाच वेळी सर्वत्र उपस्थित आसला तरी तो स्वत: विशेषत: मंदिरात लोकांना उपलब्ध होतो.
+  *
+
+**त्याच्या लोकांबरोबर**
+  - हे असे अनुवादित जाऊ शकते,  "आपल्या लोकांतून" किंवा, "आपल्या लोकांत".
 
 **[[:mr:obs:notes:frames:18-01|<<]] | [[:mr:obs:notes:18|Up]] | [[:mr:obs:notes:frames:18-03|>>]]**
