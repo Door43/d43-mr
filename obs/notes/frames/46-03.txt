@@ -1,16 +1,14 @@
-===== Saul Became Blind [46-03] =====
+===== शाऊल आंधळा झाला [46-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink&}}
 
-When **Saul** got up, he could not see. His friends had to lead him into Damascus. Saul did not eat or drink anything for three days.
-===== Important Terms: =====
+जेव्हा तो उठला, त्याला काही दिसेना. त्याच्या मित्रांनी त्याला दिमिस्कात नेले. शाऊल ने तीन दिवस व रात्र काही खाल्ले नाही व पिल्ले नाही.
 
-  * **[[:mr:obe:other:paul]]**
+===== महत्वाचा भाग: =====
 
+  * **पाऊल, शाऊल**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * ह्याकरिता कोणत्याही नोट्स नाही
 
 **[[:mr:obs:notes:frames:46-02|<<]] | [[:mr:obs:notes:46|Up]] | [[:mr:obs:notes:frames:46-04|>>]]**
