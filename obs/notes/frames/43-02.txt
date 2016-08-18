@@ -1,22 +1,18 @@
-===== The Feast of Pentecost [43-02] =====
+===== पन्नासवा दिवसाचा पर्व [43-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink&}}
 
-Every year, 50 days after the **Passover**, the **Jews** celebrated an important day called **Pentecost**. Pentecost was a time when the Jews **celebrated the wheat harvest**. Jews came from all over the world to **Jerusalem** to celebrate Pentecost together. **This year**, the time for Pentecost came about a week after **Jesus** had gone back to **heaven**.
-===== Important Terms: =====
+प्रत्येक दिवशी ५० दिवसानंतर वल्हांडनाचा सण **यहुदी** लोक महत्वाचा दिवस म्हणून पन्नासवा दिवस साजरा करीत असे. पन्नासवा दिवस ह्या वेळी **यीशुने** गव्हाच्या **कापणीचा** पर्व म्हणून साजरा केला. यहुदी लोक जगातून **यरूशलेमात** हा पर्व साजरा करण्यासाठी येत होते. यावर्षी, पन्नासव्या दिवसाचं वेळस एका आठवड्यानंतर यीशु **स्वर्गात** पुन्हा गेला.
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:kt:passover]]**
-  * **[[:mr:obe:other:jew]]**
-  * **[[:mr:obe:other:jerusalem]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:heaven]]**
+  * **कापणी**
+  * **यहुदी****, ****यहुदी****लोक****, ****यहुदी**
+  * **यरूशलेम**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **स्वर्ग****, ****आकाश****, ****स्वर्ग****, ****स्वर्गीय**
+===== भाषांतर नोटस: =====
 
-
-===== Translation Notes: =====
-
-  * **Pentecost** - "Pentecost" means "fiftieth (day)." You could use the word "Pentecost" in your translation and let the text explain the meaning. Or you could use a term that means, "50th day."
-  * **celebrated the wheat harvest** - The Jews would thank God for the wheat harvest by bringing offerings and celebrate by having special meals. Wheat is a grain crop; if you have no word that means "wheat," you can use a more general word for grain. This happened in May; other crops were harvested at other times of the year.
-  * **This year** - That is, "In the year that Jesus died."
-
-
+  * **पेंटीकॉस्ट**  – “पेंटीकॉस्ट” याचा अर्थ “पन्नासवा (दिवस}.” “पेंटीकॉस्ट” ह्या शब्दाचा अनुद्वाद तुम्ही तुमच्या भाषेत वितरीतपणे करू शकता. जे काही संधर्भ तुम्ही वापरता, “पन्नास वा दिवस.”
+  * **गहू****कापणीला****उगवणी****-**  यहुदी लोक देवाचा आभार मानून विशेष भेट देऊन व व विशेष भोजन बनवून हा सन साजरा करत. गहू हा धान्य, “गहू” हा शब्द धान्या ऐवजी जास्त साधारण वापरला जातो. हे मे महिन्यात होत असते; काही धान्य इतर वेळेस घेतले जाते.
+  * **हे****वर्ष****-**  “ज्यात यीशुचे मरण झाले.”
 **[[:mr:obs:notes:frames:43-01|<<]] | [[:mr:obs:notes:43|Up]] | [[:mr:obs:notes:frames:43-03|>>]]**
