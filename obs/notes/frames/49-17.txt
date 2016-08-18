@@ -1,28 +1,25 @@
-===== Follow Jesus' Teachings [49-17] =====
+===== यीशुच्या शिक्षणाचे अनुकरण करणे [49-17] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-17.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-17.jpg?nolink&}}
 
-If you are a friend of **God** and a **servant** of **Jesus** the **Master**, you will want to **obey** what Jesus teaches you. Even though you are a **Christian**, you will still **be tempted to sin**. But God **is faithful** and says that if you **confess your sins**, he will **forgive** you. **He will give you strength to fight against sin**.
-===== Important Terms: =====
+जर तुम्ही देवाचे मित्र व यीशुचे दास जो स्वामी, तो तुम्ही यीशुच्या शिक्षणावर आज्ञा पालन करावे. जर तुम्ही मसीही असाल, तर तुम्ही पापात पडू शकाल. परंतु देव विश्वासू आहे आणि तुम्ही पाप कबूल केले तर तो त्यांना माफ करेल. तो तुम्हांला पाप विरुद्ध लढण्यास शक्ति देईल.
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:other:obey]]**
-  * **[[:mr:obe:kt:christian]]**
-  * **[[:mr:obe:kt:tempt]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:faithful]]**
-  * **[[:mr:obe:kt:forgive]]**
+===== महत्वाचा भाग: =====
 
+  * **देव**
+  * **दास, गुलाम, गुलामगिरी**
+  * ****यीशु, यीशु ख्रिस्त, ख्रिस्त यीशु** **
+  * **आज्ञा, आज्ञाकारी राहणे, आज्ञाकारी**
+  * **मसीही**
+  * **प्रलोभन, प्रलोभन**
+  * **पाप, पापरूपी, पापी, पाप करत राहणे**
+  * **विश्वासू, विश्वासयोग्यता**
+  * **क्षमा, क्षमा करणे**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **be tempted to sin** - That is, ""be tempted to sin even though you know sin is wrong."
-  * **is faithful** - In this context this means that God, "keeps his promises."
-  * **confess your sins** - This could be translated as, "admit to God what you have done wrong."
-  * **He will give you strength to fight against sin** - That is, "He will give you spiritual strength to refuse to sin."
-
+  * **पापमध्ये प्रलोभीत होणे**  – “तुम्हांला जरी माहित आहे पाप हे वाईट आहे तरी प्रलोभीत होणार.”
+  * **विश्वासू**  – याचा अर्थ असा की देव “त्याची प्रतिज्ञा पुर्ण करतो.”
+  * **तुमचे पाप अंगीकार करा**  – “जे काही वाईट केले ते मान्य करावे” असे पण अनुवाद केले जाते.
+  * **तो तुम्हांला पाप विरुद्ध लढायला शक्ति देईल**  – “तो तुम्हांला आत्मिक शक्ति देईल व पाप टाळण्यास सहाय्य करील.”
 
 **[[:mr:obs:notes:frames:49-16|<<]] | [[:mr:obs:notes:49|Up]] | [[:mr:obs:notes:frames:49-18|>>]]**
