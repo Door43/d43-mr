@@ -1,20 +1,18 @@
-===== Before the Jewish Leaders [44-07] =====
+===== यहुदी नेतृत्वगारां पहिले [44-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink&}}
 
-The next day, the **Jewish leaders** brought **Peter** and **John** to the **high priest** and the other religious leaders. They asked Peter and John, “By what **power** did you heal this crippled man?”
-===== Important Terms: =====
+दुसऱ्या दिवशी, यहुदी नेत्यांनी पेत्राला व योह्नाला आणले आणि मुख्य याजक ही, तसेच अन्य धार्मिक नेत्यांना ही आणले. त्यांनी पेत्राला विचारले, “कोणत्या अधिकारणे लंगड्या माणसाला बरे केले?”
 
-  * **[[:mr:obe:other:jewishleaders]]**
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:other:johntheapostle]]**
-  * **[[:mr:obe:kt:highpriest]]**
-  * **[[:mr:obe:kt:power]]**
+===== महत्वाचा भाग: =====
 
+  * **यहुदी नेते, यहुदी अधिकारी, धार्मिक नेते**
+  * **पेत्र, शिमोन पेत्र, कैफा**
+  * **योहान (प्रेषित)**
+  * **मुख्य याजक**
+  * **शक्ति सामर्थी**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (कोणत्या ही भाषांतराचा संधर्भ नाही.)
 
 **[[:mr:obs:notes:frames:44-06|<<]] | [[:mr:obs:notes:44|Up]] | [[:mr:obs:notes:frames:44-08|>>]]**
