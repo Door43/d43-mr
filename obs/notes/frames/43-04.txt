@@ -1,20 +1,16 @@
-===== The Crowd Gathered [43-04] =====
+===== गर्दी जमा होत [43-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?nolink&}}
 
+जेव्हा **येरूशलेमातील** लोकांनी हा आवाज ऐकला, गर्दीतील लोक ते काय झालं बघण्यासाठी आले. लोकांनी **विश्वासी** यांना केलेली घोषणा जे **देवाचे** सुंदर कृत्ये वर्णन केले, ते स्थानिक भाषेत बोलतांना पहिले व ते चकित झाले,
+===== महत्वाचा भाग: =====
 
-When the people in **Jerusalem** heard the noise, **a crowd** came to see what was happening. When the people heard the **believers** proclaiming **the wonderful works of God**, they were astonished that they were hearing these things in their own native languages.
-===== Important Terms: =====
+  * **येरूशलेम**
+  * **विश्वासू**
+  * **देव**
+===== भाषांतर नोटस =====
 
-  * **[[:mr:obe:other:jerusalem]]**
-  * **[[:mr:obe:kt:believer]]**
-  * **[[:mr:obe:kt:god]]**
-
-
-===== Translation Notes: =====
-
-  * **a crowd** - This could be translated as, "a crowd of people" or, "a large group of people."
-  * **the wonderful works of God** - This could be translated as, "the amazing things that God had done."
-
+  * **गर्दी****-**  “लोकंची गर्दी” किंवा, “मोठा लोक समुदाय” असं पण भाषांतर केलं जातं.
+  * **देवाचे****अद्भूत****कार्य****-**  हे असे पण भाषांतर केलं जातं, “चकित करणारी देवाची कृत्ये.”
 
 **[[:mr:obs:notes:frames:43-03|<<]] | [[:mr:obs:notes:43|Up]] | [[:mr:obs:notes:frames:43-05|>>]]**
