@@ -1,20 +1,17 @@
-===== The Field Is the World [50-08] =====
+===== ही जमीन संसार होय [50-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink&}}
 
-The **disciples** did not understand the meaning of the story, so they asked **Jesus** to explain it to them. Jesus said, “The man who planted the **good** seed represents the **Messiah**. The field represents the world. The good seed represents **the people of God’s kingdom**.”
-===== Important Terms: =====
+शिष्य हा कथेचा अर्थ त्यांना कळला नाही, म्हणन त्यांनी यीशुला ते वर्णन करण्यास सांगितले. यीशुने म्हटले, “जे चांगले बीज आहे ते मासिहाला प्रतिनिधित्व करते. ती शेती संसाराला प्रतिनिधित्व करते. चांगले बीज हे देवाच्या राज्याचे लोकांना प्रतिनिधित्व करते.
 
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:good]]**
-  * **[[:mr:obe:kt:christ]]**
-  * **[[:mr:obe:kt:kingdomofgod]]**
+===== महत्वाचा भाग: =====
 
+  * **शिष्य**
+  * **यीशु, यीशु ख्रिस्त, ख्रिस्त यीशु**
+  * **चांगले, चांगुलपणा**
+  * **ख्रिस्त, मसीहा**
+  * **देवाचे राज्य, स्वर्गाचे राज्य**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **the people of God's kingdom** - This can also be translated as, "the people who live under God's authority" or, "the people who have submitted to God's rule" or, "the people who will live with God in his Kingdom."
-
-
+  * **देवाच्या राज्याचे लोक**  – “जे लोक देवाच्या अधिकाराखाली जगणार” किंवा “लोक ज्यांनी देवाचे नियम पाळले” किंवा “असे लोक त्यांच्या राज्यात निवास करतील.” हे असे पण अनुवाद केले जाते.
 **[[:mr:obs:notes:frames:50-07|<<]] | [[:mr:obs:notes:50|Up]] | [[:mr:obs:notes:frames:50-09|>>]]**
