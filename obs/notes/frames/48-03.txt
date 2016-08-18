@@ -1,19 +1,16 @@
-===== Enemies of God [48-03] =====
+===== देवाचे शत्रू [48-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?nolink&}}
 
-Because **Adam** and **Eve sinned**, something **even more terrible** happened. They became enemies of **God**. As a result, every person since then has been born with a sinful nature and is also an enemy of God. The relationship between God and people was broken by sin. But God had a plan to restore that relationship.
-===== Important Terms: =====
+कारण आदम आणि हवाने पाप केले, काही अधिक भयानक झाले. ते देवाचे शत्रू झाले. याचा हा परिणाम झाला की, जो कोणी जन्म घेतो तो पाप स्वरुपात व देवाचा शत्रू होतो. पापामुळे मनुष्य व देवा मधील सबंध तुटला. परंतु देवाजवळ योजना होती की ते सबंध पुन्हा प्रस्थापित हो.
 
-  * **[[:mr:obe:other:adam]]**
-  * **[[:mr:obe:other:eve]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:god]]**
+===== महत्वाचा भाग: =====
 
+  * **आदम**
+  * **हवा**
+  * **पाप****, ****पापरूपी****, ****पापी****, ****पाप****करत****राहणे**
+  * **देव**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **even more terrible** - That is, "much worse" or, "worse yet."
-
-
+  * **हा पेक्षा ही भयानक**  – “अधिक वाईट” किंवा, “अजून ही वाईट.”
 **[[:mr:obs:notes:frames:48-02|<<]] | [[:mr:obs:notes:48|Up]] | [[:mr:obs:notes:frames:48-04|>>]]**
