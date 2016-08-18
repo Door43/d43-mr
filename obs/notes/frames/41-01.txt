@@ -1,25 +1,22 @@
-===== Guards for the Tomb [41-01] =====
+===== कबरेची रखवाली [41-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?nolink&}}
 
-After the soldiers **crucified Jesus**, **the unbelieving Jewish leaders** said to **Pilate**, “**That liar**, **Jesus**, **said** he would **rise from the dead** after three days. Someone must guard the **tomb** to make sure that his **disciples** do not steal the body and then say he has risen from the dead.”
-===== Important Terms: =====
+यीशुच्या वधस्तंभानंतर शिपाई, अविश्वाशी यहुदी प्रमुख पिलातंस म्हटले, “हा फसवत आहे, यीशुन म्हटले, तो मरणानंतर तो तिसऱ्या दिवसानंतर उठेल. कोणीतरी कबरेची रखवाली केली पाहिजे अन्यथा कोणी शिष्य येऊन त्याचे शव चोरेल आणि म्हणेल, तो तर मरणातून उठला आहे ह्याची खात्री करा.
 
-  * **[[:mr:obe:kt:crucify]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:jewishleaders]]**
-  * **[[:mr:obe:other:pilate]]**
-  * **[[:mr:obe:kt:raise]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:other:tomb]]**
-  * **[[:mr:obe:kt:disciple]]**
+===== महत्वाचा भाग: =====
 
+  * **वधस्तंभावर****खिळणे**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **यहुदी****नेते****, ****यहुदी****अधिकारी****, ****धार्मिक****नेते**
+  * **पिलात**
+  * **उठविणे****, ****जिवंत****करणे****, ****उठविला****जाणे**
+  * **मृत्यू****, ****मरण****, ****मृत**
+  * **कबर****, ****गुहा****, ****दफन****क्रियेचे****ठिकाण**
+  * **शिष्य**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **the unbelieving Jewish leaders** - That is, "the Jewish leaders who did not believe in Jesus."
-  * **That liar, Jesus, said** - This could also be translated as, "That man, Jesus, lied and said." They refused to believe that Jesus told the truth about being the Son of God.
-  * **rise from the dead** - That is, "come back to life" or, "become alive again."
-
-
+  * **अविश्वाशी****यहुदी****नेते**  – “म्हणजे यहुदी नेते जे यीशुवर विश्वास ठेवत नसत.”
+  * **खोटे****बोलणे****, ****यीशुने****म्हटले****,**  - हे अशा प्रकारे अनुवाद करू शकतो, “तो माणूस, यीशु खोटे बोलत आहे.” त्यांनी यीशुच्या सत्यतेवर अविश्वास केला की तो देवाचा पुत्र नाही.
+  * **मरणातून****उठला**  – “परंतु जीवन प्राप्त करणे” किंवा “पुन्हा जगणे”
 **[[:mr:obs:notes:frames:40-09|<<]] | [[:mr:obs:notes:41|Up]] | [[:mr:obs:notes:frames:41-02|>>]]**
