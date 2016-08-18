@@ -1,21 +1,18 @@
-===== The Two Disciples [42-01] =====
+===== दोन शिष्य [42-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
-On the day that **Jesus** was **raised** from the dead, two of his **disciples** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **Messiah**, but then he was killed. Now the women said he was **alive** again. They did not know what to **believe**.
-===== Important Terms: =====
+**यीशु** मरणातून **उठला** त्या दिवशी, त्याच्या **शिष्यांतले** दोन जवळच्या शहरात जात होते. चाल असताना, यीशुचे काय होईल याबद्दल बोलत जात होते. त्यांना विश्वास होता की तोच **मसीहा** आहे, परंतु त्याला मारण्यात आले. आता स्त्री बोलली तो पुन्हा **जिवंत** झाला आहे. ते जाणत नव्हते कशा वर **विश्वास** ठेवावे.
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:raise]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:christ]]**
-  * **[[:mr:obe:kt:life]]**
-  * **[[:mr:obe:kt:believe]]**
+  * **यीशु****, ****यीशु****ख्रिस्त****ख्रिस्त****यीशु**
+  * **उठविणे****, ****जिवंत****करणे****, ****उठविला****जाणे**
+  * **शिष्य**
+  * **ख्रिस्त****, ****मसिहा**
+  * **जीवन****, ****जगणे****, ****जीवन****व्यतीत****करणे****, ****जिवंत**
+  * **विश्वास****, ****विश्वासात****, ****विश्वासामध्ये**
+===== भाषांतर नोटस =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (ह्यासाठी कोणताही संदर्भ नाही)
 
 **[[:mr:obs:notes:frames:41-08|<<]] | [[:mr:obs:notes:42|Up]] | [[:mr:obs:notes:frames:42-02|>>]]**
