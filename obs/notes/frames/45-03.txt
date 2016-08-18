@@ -1,27 +1,24 @@
-===== You Killed the Messiah [45-03] =====
+===== तुम्ही मासिहाला ठार मारले [45-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink&}}
 
-The **high priest** asked Stephen, “**Are these things true**?” Stephen replied by reminding them of many of the great things **God** had done from the time of **Abraham** to the time of **Jesus**, and how God's people continually **disobeyed** him. Then he said, “You stubborn and **rebellious** people **always reject the Holy Spirit**, just as **your ancestors** always rejected God and killed his **prophets**. But you did something worse than they did! You killed the **Messiah**!”
-===== Important Terms: =====
+मुख्य याजकाने स्तेपनला विचारले, “ह्या गोष्टी खऱ्या आहेत का?” स्तेपन ने उत्तर देऊन म्हटले देवाने अब्राहामापासून यीशुच्या वेळे पर्यंत अनेक महान कार्ये केली तरी कोणत्या प्रकारे लोक देवाचे अनाज्ञाकारी राहिले? तेव्हा त्याने म्हटले. “तुम्ही बलवा करणारे लोक सदैव पवित्र आत्माचे तिरस्कार करतात, जसे त्यांच्या पुर्वजांनी देवाच्या संदेष्टयांना ठार केले.  परंतु तुम्ही काय काही वाईट केले त्याच्या सारखं! तुम्ही मसिहाला ठार मारलं.”
 
-  * **[[:mr:obe:kt:highpriest]]**
-  * **[[:mr:obe:kt:true]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:abraham]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:disobey]]**
-  * **[[:mr:obe:other:rebel]]**
-  * **[[:mr:obe:kt:holyspirit]]**
-  * **[[:mr:obe:kt:prophet]]**
-  * **[[:mr:obe:kt:christ]]**
+===== महत्वाचा भाग =====
 
+  * **मुख्य****याजक**
+  * **सत्य****, ****सत्यता**
+  * **देव**
+  * **अब्राहाम****, ****अब्राम**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **अनाज्ञाकारी****, ****अनाज्ञाकारी****होणे****, ****अनाज्ञाकारी**
+  * **बलवा****, ****बलवा****करणारे**
+  * **पवित्र****आत्मा****, ****देवाचा****आत्मा****, ****प्रभुचा****आत्मा**
+  * **संदेष्टा****, ****भविष्यवाणी****, ****भविष्यवाणी****करणारी****स्त्री**
+  * **ख्रिस्त****, ****मसिहा**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **Are these things true?** - That is, "Are these accusations against you true?" or, "Are the things these people are saying about you true?" or, "Is it true that you said evil things about Moses and God?"
-  * **always reject the Holy Spirit** - That is, "never obey the Holy Spirit" or, "always refuse to listen to the Holy Spirit."
-  * **your ancestors** - This could be translated as, "your ancestors, the Israelites."
-
-
+  * **काय ह्या गोष्टी खऱ्या आहे-**  तुझ्या विरुद्ध आरोप खरे आहे?” किंवा “जे तुझ्या बद्दल सांगता आहे ते खरे आहे का?” किंवा “मोशे आणि देवा विरुद्ध वाईट गोष्टी बोलला का?”
+  * **सदैव त्यांनी पवित्र आत्माचा तिरस्कार केला**- “त्यांनी आत्माचे कधी ऐकलं नाही” किंवा “सदैव पैवित्र आत्माचे ऐकण्यास नकार दिला.”
+  * **तुमच्या पूर्वजांनी**  – हे असे पण अनुवाद केले जाते, “तुमच्या पूर्वजांनी, इस्राएल लोकांनी.”
 **[[:mr:obs:notes:frames:45-02|<<]] | [[:mr:obs:notes:45|Up]] | [[:mr:obs:notes:frames:45-04|>>]]**
