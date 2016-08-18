@@ -1,22 +1,22 @@
-===== The Disciples Met Together [43-13] =====
+===== शिष्य आपसात भेटतात [43-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink&}}
 
-The **disciples** continually listened to the teaching of the **apostles**, spent time together, ate together, and **prayed** with each other. They enjoyed **praising God** together and they shared everything they had with each other. Everyone **thought well of them**. Every day, more people became **believers**.
-===== Important Terms: =====
+शिष्य नंतर प्रेषितांचे शिक्षण ऐकत असत, एकत्र येतात, भाकरी मोडतात व प्रार्थना करतात.
 
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:apostle]]**
-  * **[[:mr:obe:other:pray]]**
-  * **[[:mr:obe:other:praise]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:believer]]**
+ते देवाच्या स्तुतीमध्ये आनंदात असतात व ते आपले विचार इतरांना सांगतात. प्रत्येक व्यक्ती त्यांच्या बद्दल चांगले म्हणतात. प्रतिदिन खूप लोक विश्वासू होत असे.
 
+===== महत्वाचा भाग. =====
 
-===== Translation Notes: =====
+  * **शिष्य**
+  * **प्रेषित****, ****प्रेषितांचे****कार्य**
+  * **प्रार्थना****, ****प्रार्थना**
+  * **स्तुति**
+  * **देव**
+  * **विश्वासू**
+===== भाषांतर नोटस =====
 
-  * **thought well of them** - That is, "had a positive opinion of them."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * त्यांच्याविषयी चांगले बोलणे म्हणजे “सकारात्मक विचार होय.”
+  * इतर भाषांतरामध्ये बायबलची गोष्ट हा संदर्भ थोडासा वेगळा आहे.
 
 **[[:mr:obs:notes:frames:43-12|<<]] | [[:mr:obs:notes:43|Up]] | [[:mr:obs:notes:frames:44-01|>>]]**
