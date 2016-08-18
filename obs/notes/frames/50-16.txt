@@ -1,24 +1,21 @@
-===== The New Heaven and Earth [50-16] =====
+===== नवीन स्वर्ग आणि पृथ्वी [50-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink&}}
 
-Because **Adam** and **Eve disobeyed God** and **brought sin into** this world, God **cursed** it and decided to destroy it. But some day God will create **a new heaven** and **a new earth** that will be perfect.
-===== Important Terms: =====
+कारण आदम आणि हवाने देवाचे आज्ञा पालन केले नाही म्हणून त्यांनी जगात पाप आणले आणि देवाने श्राप दिला व नाश करण्याचा निर्णय घेतला. परंतु देव नवीन स्वर्ग आणि पृथ्वी बनविणार ते संपुर्ण असेल.
 
-  * **[[:mr:obe:other:adam]]**
-  * **[[:mr:obe:other:eve]]**
-  * **[[:mr:obe:other:disobey]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:curse]]**
-  * **[[:mr:obe:kt:heaven]]**
+===== महत्वाचा भाग: =====
 
+  * **आदम**
+  * **हवा**
+  * **अनाआज्ञाकारी, आज्ञेचे पालन न करणारे, आज्ञेचे उल्लंघन**
+  * **देव**
+  * **पाप, पापरूपी, पापी, पाप करत राहणे**
+  * **श्राप, श्राप देणे**
+  * **स्वर्ग, आकाश, स्वर्ग, स्वर्गीय**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **brought sin into** - This could be translated as, "caused sin to enter."
-  * **a new heaven** - This could also be translated as, "a new sky" or, "a new universe". It refers to a new set of stars and everything else in the sky.
-  * **a new earth** - This current earth on which we live will be replaced by a new and improved one.
-
-
+  * **पाप त्याच्यात आले**  – हे असे पण अनुवाद केले जाऊ शकते, ‘पापाला प्रवेशाचे कारण ठरणे.”
+  * **नवे स्वर्ग **– हे असे पण अनुवाद केले जाऊ शकते, “नवीन आकाश’ किंवा ‘नवीन ब्रम्हांड.”ह्याचा संधर्भ असा की आकाशातील सर्व तारे स्थापित करणार.
+  * **नवीन पृथ्वी **– जी पृथ्वी वर राहते त्या ऐवजी नवीन आकार दिलेल्या पृथ्वीवर आपण राहू.
 **[[:mr:obs:notes:frames:50-15|<<]] | [[:mr:obs:notes:50|Up]] | [[:mr:obs:notes:frames:50-17|>>]]**
