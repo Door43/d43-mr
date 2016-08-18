@@ -1,27 +1,24 @@
-===== The Disciples Were Released [44-09] =====
+===== शिष्यांना मुक्त करणे [44-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink&}}
 
-The **leaders were shocked** that **Peter** and **John** spoke so boldly because they could see that these men were **ordinary** men **who were uneducated**. But **then they remembered** that these men **had been with Jesus**. **After they threatened** Peter and John, they **let them go**.
+नेते चकित झाले हे पाहून पेत्र व योहान साहसाने बोलतात जरी ते असुरक्षित व साधारण मनुष्य होते. परंतु नंतर त्यांना वाटलं की ते यीशु सोबत राहत होते. नंतर त्यांनी पेत्र आणि योहानाला जाऊ दिले \.
 
-===== Important Terms: =====
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:other:jewishleaders]]**
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:other:johntheapostle]]**
-  * **[[:mr:obe:kt:jesus]]**
+  * **यहुदी****नेते****, ****यहुदी****अधिकारी****, ****धार्मिक****नेते**
+  * **पेत्र****, ****शिमोन****पेत्र****, ****कैफा**
+  * **योहान**** (****बाप्तिस्मा****)**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+===== भाषांतर नोटस =====
 
-
-===== Translation Notes: =====
-
-  * **were shocked** - That is, "were very surprised" or, "were amazed."
-  * **ordinary** - That is, "common" or, "lower-class." Peter and John were simple fishermen.
-  * **who were uneducated** - That is, "who did not have a formal education." This could also be translated as, "who had not gone to religious school."
-  * **then they remembered** - This could also be translated as, "But then they thought about the fact that."
-  * **had been with Jesus** - This could also be translated as, "had spend time with Jesus" or, "had been taught by Jesus."
-  * **After they threatened** - The leaders said that they would punish Peter and John if they continued to teach people about Jesus.
-  * **let them go** - That is, "allowed them to leave."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **कापले (थरथरले)-**  “खूप चकित झाले” किंवा “चकित झाले” असे होते.
+  * **साधारण-**  “साधारण” किंवा “निम्न-वर्ग”. पेत्र आणि योहान साधारण मासेमारी करणारे होते.
+  * **कोण असुरक्षित होते**- “कोण जवळ शिक्षण नव्हते.” असे पण अनुवाद केले जाते, “कोण धार्मिक शाळेत गेले नाही.”
+  * **तेव्हा त्यांनी स्मरण केलं**- असं पण अनुवाद केले जाते- “परंतु तेव्हा त्यांनी वास्तविकतेचा विचार केला.”
+  * **यीशुच्या बरोबर होते-**  “त्यांनी यीशु सोबत वळ व्यतीत केला ते यीशुद्वारे शिक्षण दिले गेले” असं पण अनुवाद केलं जातं.
+  * **धमकल्या नंतर-**  नेत्यांनी म्हटले जर त्यांनी यीशुचा प्रचार निरंतर केलं तर त्यांना शिक्षा करावी.
+  * **त्यांना जाऊ द्या**- “सोडण्यास परवानगी द्या.”
+  * **बायबलची गोष्ट-**  काही बायबल भाषांतरात थोडासा फरक केलं जातो.
 
 **[[:mr:obs:notes:frames:44-08|<<]] | [[:mr:obs:notes:44|Up]] | [[:mr:obs:notes:frames:45-01|>>]]**
