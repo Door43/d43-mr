@@ -1,23 +1,22 @@
-===== The Slave Girl [47-03] =====
+===== दासी मुलगी [47-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink&}}
 
-**Paul** and **Silas** often met with people at the place of **prayer**. Every day as they walked there, a **slave girl possessed by a demon** followed them. By means of this **demon** she predicted the future for people, so she made a lot of money for **her masters as a fortuneteller**.
-===== Important Terms: =====
+पाऊल आणि सिलास सर्वदा त्या प्रार्थनास्थळी भेटत असे. प्रत्येक दिवशी जसे ते चालत असे, तसे ती दुष्ट आत्माने ग्रसीत मुलगी त्यांच्या मागे जात असे. य दुष्ट आत्माच अर्थ की लोकांचे भविष्य बनवत, तिने खूप पैसे तिच्या स्वामीला दिले होते.
 
-  * **[[:mr:obe:other:paul]]**
-  * **[[:mr:obe:other:silas]]**
-  * **[[:mr:obe:other:pray]]**
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:kt:demonpossessed]]**
-  * **[[:mr:obe:kt:demon]]**
-  * **[[:mr:obe:kt:lord]]**
+===== महत्वाचा भाग: =====
 
+  * **पाऊल****, ****शाऊल**
+  * **सिलास****, ****सिलवानस**
+  * **प्रार्थना****, ****प्रार्थना**
+  * **दास****, ****गुलाम****, ****गुलामगिरी**
+  * **दुष्ट****-****आत्माने****ग्रसीत**
+  * **शैतान****, ****दुष्ट****आत्मा****, ****अशुद्ध****आत्मा**
+  * **प्रभु****, ****स्वामी****, ****गुरुजी**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **her masters** - In this case, this could also be translated as, "her owners."
-  * **as a fortuneteller** - That is, "as someone who told people what would happen to them in the future."
-
+  * **तिचा स्वामी**  – असं पण अनुवाद केलं जातं की “तिचा मालक.”
+  * **जसं सौभाग्यता**  – “त्यांना कोणा ऐकाला सांगितले भविष्यात काय होणार.”
+  *
 
 **[[:mr:obs:notes:frames:47-02|<<]] | [[:mr:obs:notes:47|Up]] | [[:mr:obs:notes:frames:47-04|>>]]**
