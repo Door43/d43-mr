@@ -1,23 +1,20 @@
-===== The Great High Priest [48-06] =====
+===== महान उच्च याजक [48-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?nolink&}}
 
-For hundreds of years, **priests** continually offered **sacrifices** to **God** for people to show the punishment that they deserved for their **sins**. But those sacrifices could not take away their sin. **Jesus** is the **Great High Priest**. Unlike other priests, **he offered himself** as the only sacrifice that could take away the sin of all the people in the world. Jesus was the perfect high priest because he **took the punishment** for every sin that anyone has ever committed.
-===== Important Terms: =====
+हजारो वर्षे, याजकांनी देवाला बलिदान चढवले ज्या लोकांनी त्यांच्या पापांची शिक्षापासून दंड माफ व्हावा. परंतु हे बलिदान लोकांचे पापहरण करू शकत नव्हते. यीशु हा उच्च महायाजक आहे. इतर याजका सारखे, त्याने त्याचे बलिदान दिले हाच एक बलिदान होय की जगाचे पापहरण करू शकते. यीशु हा उत्तम मुख्य याजक आहे कारण त्याने त्यांचे दंड त्याच्यावर घेतले जे काही पापे त्यांनी केले होते.
 
-  * **[[:mr:obe:kt:priest]]**
-  * **[[:mr:obe:other:sacrifice]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:highpriest]]**
-  * **[[:mr:obe:other:punish]]**
+===== महत्वाचा भाग: =====
 
+  * **याजक****, ****याजकीय**
+  * **बलिदान****, ****भेट**
+  * **देव**
+  * **पाप****, ****पापरूपी****, ****पापी****, ****पाप****करत****राहणे****.**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **मुख्य****याजक**
+  * **दंड****, ****दंड****देणे**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **he offered himself** - This could also be translated as, "Jesus allowed himself to be killed."
-  * **took the punishment** - That is, "received the punishment in his own body."
-
-
+  * **त्याने स्वतःला भेट दिले**  – असे पण अनुवाद केले जाते की, “यीशु ने स्वतःला भेट दिले की तो ठार मारला जावा.”
+  * **त्याने ती शिक्षा घेतली**  – “त्याच्या शरीरावर ती शिक्षा घेतली.”
 **[[:mr:obs:notes:frames:48-05|<<]] | [[:mr:obs:notes:48|Up]] | [[:mr:obs:notes:frames:48-07|>>]]**
