@@ -1,23 +1,20 @@
-===== Stephen's Prayer [45-05] =====
+===== स्तेपनची प्रार्थना [45-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink&}}
 
-**As Stephen was dying**, he **cried out**, “**Jesus**, **receive** my **spirit**.” Then he fell to his knees and cried out again, “**Master**, **do not count this sin against them**.” Then he **died**.
-===== Important Terms: =====
+जसं स्तेपन मरणार होता, त्याने जोराने आरोळी केली की “यीशु माझा आत्मा तू घे.” नंतर तो गुडघ्यावर येऊन मोठयाने ओरडून म्हणाला, “स्वामी, हे पाप त्यांच्याशी मोजू नको.”  नंतर तो मेला.
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:receive]]**
-  * **[[:mr:obe:kt:spirit]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:death]]**
+===== महत्वाचा भाग: =====
 
+  * **यीशु****, ****यीशु****ख्रिस्त****. ****ख्रिस्त****यीशु**
+  * **प्राप्त****करणे**
+  * **आत्मा****, ****आत्मिक**
+  * **प्रभु****, ****स्वामी****, ****गुरुजी**
+  * **पाप****, ****पापरूप****, ****पापी****, ****पाप****करत****राहणे**
+  * **मृत्यू****, ****मरण****, ****मृत**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **As Stephen was dying** - That is, "Just before Stephen died."
-  * **cried out** - That is, "called out in a loud voice" or, "said very loudly."
-  * **do no count this sin against them** - That is, "do not consider them guilty of the sin of killing me."
-
-
+  * **जसे स्तेपन मारला जाणार**- “काही वेळेपूर्वी स्तेपन मारला गेला.”
+  * **ओरडणे –**  “खूप जोरात ओरडणे” किंवा “खूप मोठयाने म्हणाला.”
+  * **त्यांच्या विरुद्ध पाप मोजू नको **– “मला ठार केल्यामुळे त्यांना वाईट समजून घेऊ नको.”
 **[[:mr:obs:notes:frames:45-04|<<]] | [[:mr:obs:notes:45|Up]] | [[:mr:obs:notes:frames:45-06|>>]]**
