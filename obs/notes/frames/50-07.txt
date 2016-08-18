@@ -1,23 +1,17 @@
-===== Wait for the Harvest [50-07] =====
+===== कापणीसाठी वाट पाहा [50-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
-“The **servants** responded to their **master**, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** into my **barn**.’”
+“दास आपल्या धन्यास म्हणतो, ‘काय त्या जंगली कापणीसाठी बीजांना काढून टाकू?’ स्वामी म्हणतो, ‘नाही. जर तुम्ही ते कराल, तर तुम्ही काही गहू पण काढून टाकल. कापणीसाठी वाट पाहा नंतर ते जाळून टाका व गहू हे माझ्या कडे न्या.
 
+===== महत्वाचा भाग: =====
 
-===== Important Terms: =====
+  * **दास, गुलाम, गुलामगिरी**
+  * **प्रभू, स्वामी, गुरुजी**
+===== भाषांतर नोटस: =====
 
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:kt:lord]]**
-
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **you will pull out some of the wheat as well** - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds, and to pull the weeds without uprooting the wheat.
-  * **until the harvest** - That is, "until the time when the wheat is ready to harvest" or, "until the wheat has grown enough to be harvested."
-  * **the wheat** - That is, "the harvested wheat grains."
-  * **barn** - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a "storehouse."
-
-
+  * (यीशु निरंतर कथा सांगत होता.)
+  * **तुम्ही काही गहू सुद्धा काढून टाकणार **–“तुम्ही आकस्मात गह् पण काढून टाकाल.” ते खूप कठीण आहे की मोठ्या झालेलेल्या गहुला त्या जंगली बीजांपासून वेगळे करणे आणि विना गहुला काढल्यास ते बीज निघणे कठीण होय.
+  * **कापणी पर्यत**  –“गहू निघण्याच्या वेळे पर्यंत” किंवा “गहू कापणीसाठी पर्याप्त होई पर्यंत.’
+  * **गहू – **“गहुच्या धान्याची कापणी.” हे त्याला दर्शिविते की अशी इमारत तिच्यात धान्य वाचवून साठविणे हे असे पण म्हटले जाते, “कोठी गृह”
 **[[:mr:obs:notes:frames:50-06|<<]] | [[:mr:obs:notes:50|Up]] | [[:mr:obs:notes:frames:50-08|>>]]**
