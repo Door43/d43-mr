@@ -1,20 +1,16 @@
-===== Saul Escaped Damascus [46-07] =====
+===== शाऊलला दिमिस्कातून सुटका [46-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-07.jpg?nolink&}}
 
-After many days, the **Jews** made a plan to kill **Saul**. They sent people to watch for him at **the city gates** in order to kill him. But Saul heard about the plan, and his friends helped him escape. One night they **lowered him over the city wall in a basket**. After Saul escaped from Damascus, he continued to **preach** about **Jesus**.
-===== Important Terms: =====
+अनेक दिवसांनी याहुद्यानी शाऊलला ठार मारण्याचे ठरवले. त्यांनी लोकांना शहराच्या फाटकाजवळ पाहायला पाठवले जेणे करून त्याला ठार मारू. शाऊल योजना आखत होता, पण त्यांच्या मित्रांनी त्याला पळून जाण्यास मदत केली. एक रात्री त्याला शहरातून शहराच्या भिंतीत ठेवले. शाऊल नंतर दिमिस्कातून निसटतो, त्याने यीशुचा प्रचार निरंतर केला.
 
-  * **[[:mr:obe:other:jew]]**
-  * **[[:mr:obe:other:paul]]**
-  * **[[:mr:obe:other:preach]]**
-  * **[[:mr:obe:kt:jesus]]**
+===== महत्वाचा भाग: =====
 
+  * **यहुदी****, ****यहुदी****, ****यहुदी****रहिवाशी**
+  * **पाऊल****, ****शाऊल**
+  * **प्रचार**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **the city gates** - The gates were the only normal way into or out of the walled cities.
-  * **lowered him over the city wall in a basket** - Another way to say this would be, "helped him get into a large basket and lowered the basket with him in it over the city wall."
-
-
+  * **शहराचे द्वार **– ते प्रवेश द्वार साधारणतः बाहेरून होते. त्याला मोठ्या बास्केट मध्ये घेऊन शहराच्या भिंतीवर केले, “त्याला त्या मोठया पात्रात घेऊन शहरा बाहेर काढण्यास मदत केली.”
 **[[:mr:obs:notes:frames:46-06|<<]] | [[:mr:obs:notes:46|Up]] | [[:mr:obs:notes:frames:46-08|>>]]**
