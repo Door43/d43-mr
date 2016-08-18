@@ -1,28 +1,43 @@
-===== Elijah Challenged Ahab [19-05] =====
+===== **एलीयाचे अहाब राजाला आव्हान** [19-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg?nolink}}
+साडेतीन वर्षांनंतर, **देवाने एलीयाला इस्राएलच्या राज्यात** परत जाण्यास सांगितले आणि **अहाबाशी बोल कारण तो पुन्हा पाऊस पाठवणार आहे.** अहाबने एलीयाला पाहिले तेव्हा तो म्हणाला, "तु तेथे आहेस का, **तू अडचणी निर्माण करणारा.****"** एलीयाने त्याला उत्तर दिले, " तू अडचणी निर्माण करणारा आहेस."! तू खरा देव** यहोवाला पुर्णपणे सोडून**, **बालाची पूजा केलीस**. इस्राएल राज्यातील सर्व लोकांना **कर्मेल पर्वतावर** आण."
+===== **महत्वाचे शब्द **: =====
 
-After three and a half years, **God** told **Elijah** to return to the **kingdom of Israel** and **speak with Ahab because he was going to send** rain again. When Ahab saw Elijah he said, “There you are, **you troublemaker**!” Elijah replied to him, “You are the troublemaker! **You have abandoned Yahweh**, the true God, and **worshiped Baal**. Bring all the people of the kingdom of Israel to **Mount Carmel**.”
-===== Important Terms: =====
+  *
 
+**देव**
+  *
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:elijah]]**
-  * **[[:mr:obe:other:kingdomofisrael]]**
-  * **[[:mr:obe:other:ahab]]**
-  * **[[:mr:obe:kt:yahweh]]**
-  * **[[:mr:obe:kt:worship]]**
-  * **[[:mr:obe:other:baal]]**
+**एलीया**
+  *
 
+**इस्राएलचे राज्य**
+  *
 
-==== Translation Notes: ====
+**अहाब**
+  *
 
+**यहोवा**
+  *
 
-  * **speak with Ahab because he was going to send** – This could be translated as, "tell Ahab that God was going to send."
-  * **you troublemaker** - This means, "You are a troublemaker!" Ahab was accusing Elijah of causing trouble by telling the king that he was doing wrong and also by stopping the rain.
-  * **You have abandoned Yahweh** - That is, Ahab had led Israel to stop worshiping and obeying Yahweh.
-  * **Mount Carmel** - Mount Carmel is the name of a mountain located in northern Israel. It is over 500 meters high.
+**पूजा केलीस**
+  *
 
+**बाल**
+==== **भाषांतरित टिपा **: ====
 
+  *
+
+**अहाबाशी बोल कारण तो पाठणार आहे**, "हे असे अनुवादित केले जाऊ शकते," अहाबाला सांग की देव पाठवाणार आहे. "
+  *
+
+**तू अडचणी निर्माण करणारा **- याचा अर्थ, " तू अडचणी निर्माण करणारा आहेस!" अहाब एलीया वरती आरोप करत हे की तू राजा चूक करत आहेस आणि पाऊस थांबवून तू समस्या निर्माण करीत आहेस.
+  *
+
+**तू यहोवाला पुर्णपणे सोडे आहेस**  - म्हणजे, अहाबाने सर्व इस्राएलला यहोवाची उपासना करायचे व आज्ञा पाळण्यास थांबविले.
+  *
+
+**कार्मेल****इस्राएल**  - माउंट कार्मेल उत्तर इस्राएल मधील स्थित डोंगराचे नाव आहे. तो 500 मीटर उंच आहे.
 **[[:mr:obs:notes:frames:19-04|<<]] | [[:mr:obs:notes:19|Up]] | [[:mr:obs:notes:frames:19-06|>>]]**
