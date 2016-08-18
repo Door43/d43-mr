@@ -1,24 +1,21 @@
-===== The Christians in Antioch [46-09] =====
+===== अन्तुकियातीला विश्वासी [46-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-09.jpg?nolink&}}
 
-Some believers who fled from the **persecution** in **Jerusalem** went far away to the **city of Antioch** and preached about **Jesus**. Most of the people in Antioch were not **Jews**, but for the first time, very many of them also became believers. **Barnabas** and **Saul** went there to teach these new believers more about Jesus and to **strengthen the church**. It was at Antioch that believers in Jesus were first called “**Christians**.”
-===== Important Terms: =====
+जे विश्वासी यरुशलेमातील सतावामुळे पळून गेले होते त्यांनी अन्तुकीयाला जाऊन यीशुचा प्रचार केला. अन्तुकीयातील लोक अधिकतर यहुदी नव्हते, परंतु पहिल्यांदा इतक्या लोकांनी विश्वास केला. बरनबास व शाऊल तेथे जाऊन मंडळीला मजबुत करण्यास व यीशुचे शिक्षण प्रचार करण्यासाठी गेले. येथील अन्तुकीयाच्या मंडळीला यीशुने “मसीही” म्हटले आहे.
 
-  * **[[:mr:obe:other:persecute]]**
-  * **[[:mr:obe:other:jerusalem]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:jew]]**
-  * **[[:mr:obe:other:barnabas]]**
-  * **[[:mr:obe:other:paul]]**
-  * **[[:mr:obe:kt:church]]**
-  * **[[:mr:obe:kt:christian]]**
+===== महत्वाचा भाग: =====
 
+  * **सताव****, ****सतावणे**
+  * **यरुशलेम**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **यहुदी****, ****यहुदी****, ****यहुदी****रहिवासी**
+  * **बरनबास**
+  * **पाऊल****, ****शाऊल**
+  * **मंडळी****, ****मंडळी**
+  * **मसीही****लोक**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **city of Antioch** - This was an ancient city located in what is now the southernmost tip of the modern country of Turkey, near its border with Syria and close to the Mediterranean Sea. It was about 450 miles northwest of Jerusalem.
-  * **strengthen the church** - This could also be translated as, "help the church to grow strong spiritually" or, "help the believers in Jesus to grow strong in their faith" or, "help the people to believe more firmly in Jesus."
-
-
+  * **अन्तुकीयाचे शहर **– हे एक पूर्वजांचे शहर होते ते नवीनतेने तुर्की या देशाच्या दक्षिणेस स्थित आहे. आणि हे अंतर लगभग ४५० मील यरुशलेमाच्या उत्तरेस आहे.
+  * **मंडळीना स्थिर करणे **– “आत्मिक्ते मध्ये मंडळीला वृच्दीगत होण्यास मदत करणे” किंवा “यीशुच्या विश्वासात विश्वासियांना मजबुत करणे” किंवा “विश्वासियांना अधिक मजबुतीने विश्वासात स्थिर करण्यासाठी.”
 **[[:mr:obs:notes:frames:46-08|<<]] | [[:mr:obs:notes:46|Up]] | [[:mr:obs:notes:frames:46-10|>>]]**
