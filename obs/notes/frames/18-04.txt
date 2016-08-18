@@ -1,24 +1,29 @@
-===== The Kingdom Would Divide [18-04] =====
+===== **राज्याचे विभाजन** [18-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-04.jpg?nolink}}
+**देव** **शलोमोनावर** रागावला आणि **शलमोनाच्या ****अविश्वासुपणाची ****शिक्षा ** म्हणून देवाने वचन दिले की शलमोनाच्या मृत्यूनंतर **इस्राएल राष्ट्र****ाची** दोन **राज्यात** विभागणी केली जाईल.
+===== **महत्वाचे शब्द **: =====
 
-**God** was angry with **Solomon** and, **as a punishment for Solomon’s unfaithfulness**, **he promised to divide** the nation of **Israel** into two **kingdoms** after Solomon’s death.
-===== Important Terms: =====
+  *
 
+**देव**
+  *
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:solomon]]**
-  * **[[:mr:obe:other:punish]]**
-  * **[[:mr:obe:kt:promise]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:kingdom]]**
+**शलमोन**
+  *
 
+**शिक्षा**
+  *
 
-==== Translation Notes: ====
+**वचन दिले**
+  *
 
+**इस्राएल**
+  *
 
-  * **as a punishment for Solomon's unfaithfulness, he promised to divide** – This could be translated as, "to punish Solomon for being unfaithful to him, God solemnly said that he would divide."
+**राज्ये**
+==== **भाषांतरित टिपा **: ====
 
-
+  * **as a punishment for Solomon's unfaithfulness, he promised to divide**  – This could be translated as, "to punish Solomon for being unfaithful to him, God solemnly said that he would divide."
 **[[:mr:obs:notes:frames:18-03|<<]] | [[:mr:obs:notes:18|Up]] | [[:mr:obs:notes:frames:18-05|>>]]**
