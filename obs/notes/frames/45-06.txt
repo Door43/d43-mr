@@ -1,22 +1,19 @@
-===== The People Attacked the Believers [45-06] =====
+===== लोकांनी विश्वाशीयांवर आक्रमण केले [45-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?nolink&}}
 
-A young man named **Saul** agreed with the people who killed Stephen and **guarded their robes** while they threw stones at him. That day, many people in **Jerusalem** started **persecuting** the followers of Jesus, so the **believers** fled to other places. **But in spite of this**, they **preached** about Jesus everywhere they went.
-===== Important Terms: =====
+तरुण माणुस ज्याचे नाव शाऊल होते तो त्या लोकांबरोर सहमत होता ज्यांनी स्तेपनला मारले आणि त्यांनी त्याला दगड मार करत होते तेव्हा वाचवले. त्या दिवशी, अनेक लोकांनी येरूशलेमात त्रास दिला जेणे करून ते विश्वासी दुसऱ्या ठिकाणी निघून गेले. परंतु त्या ऐवजी, त्यांनी जेथे होते तेथे यीशुचा प्रचार केला.
 
-  * **[[:mr:obe:other:paul]]**
-  * **[[:mr:obe:other:jerusalem]]**
-  * **[[:mr:obe:other:persecute]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:believer]]**
-  * **[[:mr:obe:other:preach]]**
+===== महत्वाचा भाग: =====
 
+  * **पाऊल****, ****शाऊल**
+  * **येरूशलेम**
+  * **त्रास****दिला****, ****सतावणे**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **विश्वासी**
+  * **प्रचार****करणे**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **guarded their robes** - This could be translated as, "watched over their coats." He was probably making sure they didn't get stolen or damaged.
-  * **But in spite of this** - The Jewish leaders thought they could stop the spread of Jesus' teaching by persecuting his followers. Instead, this caused them to scatter and spread the message even more widely.
-
-
+  * **त्यांच्या कोटचे सुरक्षा-**  हे असं पण अनुवाद केले जाते, “ त्यांच्या कोटची पाहिणी केली.” तो हे निश्चित करणार होता की त्यांनी चोरी केली किंवा नुकसान.
+  * **त्या ऐवजी –**  यहुदी नेत्यांनी हा विचार केला की त्यांनी यीशुचा किंवा त्याचे शिक्षण देणे बंद करावे. त्या ऐवजी, त्यांनी यीशुचा संदेश अधिक विस्तारीत केला.
 **[[:mr:obs:notes:frames:45-05|<<]] | [[:mr:obs:notes:45|Up]] | [[:mr:obs:notes:frames:45-07|>>]]**
