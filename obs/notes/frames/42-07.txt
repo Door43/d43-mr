@@ -1,24 +1,20 @@
-===== Jesus Opened their Minds [42-07] =====
+===== यीशुने त्यांचे मन उघडले [42-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-07.jpg?nolink&}}
 
-**Jesus** said, “I told you that everything written about me in **God’s word** must be **fulfilled**.” Then he **opened their minds so that they could understand** God’s word. He said, “It was written long ago that the **Messiah** would **suffer**, **die**, and **rise** from the dead **on the third day**.”
-===== Important Terms: =====
+**यीशुने** म्हटले, “मी त्यांना म्हटले जे काही माझ्या विषयी **देवाच्या** वचनात लिहिले आहेत ते **परिपूर्ण** होईल” त्यांनी त्यांचे मन उघडले जेणे करून ते त्याचे मन समजू शकतील. त्याने म्हटले, “हे काही वर्षापूर्वीच म्हटले आहे की, **मसीह** **वेदना** भोगेल,**मरण** पावेल व तिसऱ्या दिवशी पुन्हा **उठेल****.**
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:wordofgod]]**
-  * **[[:mr:obe:kt:fulfill]]**
-  * **[[:mr:obe:kt:christ]]**
-  * **[[:mr:obe:kt:suffer]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:kt:raise]]**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **देवाचे****वचन****, ****योह्वाचे****वचन****, ****प्रभूचे****वचन****, ****वचन**
+  * **परिपूर्ण**** (****पूर्ण****)**
+  * **ख्रिस्त****, ****मसिहा**
+  * **दुःख****, ****दुःखित**
+  * **मृत्यू****, ****मरण****, ****मृत**
+  * **उठविणे****, ****जिवंत****करणे****, ****उठविला****जाणे**
+===== भाषांतर नोटस =====
 
-
-===== Translation Notes: =====
-
-  * **must be fulfilled** - This can be translated as, "must happen."
-  * **opened their minds so that they could understand** - This could also be translated as, "caused them to be able to understand" or, "made them able to comprehend."
-  * **on the third day** - That is, "after three days" or, "three days later."
-
-
+  * **पुर्ण करावेच**- हे झालंच पाहिजे, “असं भाषांतर होणे.”
+  * **त्यांचे मन उघड जेणेकरून ते समजतील**- हे असे पण भाषांतर केलं जातं, “त्यांना समजण्या सक्षम बनविणे” किंवा “त्यांना वार्तालाभ करण्यास सक्षम बनविणे.”
+  * **तिसऱ्या दिवशी**- हे तिसऱ्या दिवसानंतर” किंवा “तिसऱ्या दिवसानंतर.”
 **[[:mr:obs:notes:frames:42-06|<<]] | [[:mr:obs:notes:42|Up]] | [[:mr:obs:notes:frames:42-08|>>]]**
