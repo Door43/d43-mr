@@ -1,23 +1,20 @@
-===== Saul Preached about Jesus [46-06] =====
+===== शाऊल ने यीशुविषयी प्रचार केला [46-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink&}}
 
-**Right away**, **Saul** began **preaching** to the **Jews** in Damascus, saying, “**Jesus** is the **Son of God**!” The Jews were amazed that the man who had tried to destroy the **believers** now also believed in Jesus! Saul **reasoned with the Jews**, proving that Jesus was the **Messiah**.
-===== Important Terms: =====
+योग्य मार्गात – दिमिस्कात यहुद्यांना शाऊल उपदेश देत होता, म्हणाला, “यीशु हा देवाचा पुत्र आहे!” ते यहुदी चकित झाले की हा मनुष्य विश्वासियांचा नाश करत होता तो यीशुवर विश्वास करून उपदेश देत आहे! शाऊल यहुद्यांसाठी कारण ठरला, यीशु हा मसिह आहे असे प्रमाणित करण्यास.
 
-  * **[[:mr:obe:other:paul]]**
-  * **[[:mr:obe:other:preach]]**
-  * **[[:mr:obe:other:jew]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:sonofgod]]**
-  * **[[:mr:obe:kt:believer]]**
-  * **[[:mr:obe:kt:christ]]**
+===== महत्वाचा भाग: =====
 
+  * **पाऊल****, ****शाऊल**
+  * **प्रचार**
+  * **यहुदी****, ****यहुदी****, ****यहुदी****नागरिक**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **देवाचा****पुत्र****, ****चा****पुत्र****, ****पुत्र**
+  * **विश्वासी**
+  * **ख्रिस्त****, ****मसिह**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **Right away** - This can also be translated as, "Immediately" or, "Then."
-  * **reasoned with the Jews** - This could also be translated as, "gave the Jews good reasons for believing in Jesus" or, "spoke persuasively with the Jews."
-
-
+  * **योग्य मार्ग **– याचा असा पण अनुवाद होतो, “त्वरित” किंवा “नंतर.”
+  * **यहुदिया बरोबर कारण**  – हे असे पण अनुवाद केले जाते, “याहुदियाना चांगले कारण दिले यीशुवर विश्वास करण्यास” किंवा “
 **[[:mr:obs:notes:frames:46-05|<<]] | [[:mr:obs:notes:46|Up]] | [[:mr:obs:notes:frames:46-07|>>]]**
