@@ -1,23 +1,20 @@
-===== Lydia Was Baptized [47-02] =====
+===== लुदियाने बाप्तिस्मा घेतला [47-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink&}}
 
-**God opened Lydia's heart** to **believe** the message about **Jesus**, and **she and her family were baptized**. She invited **Paul** and **Silas** to stay at her house, **so they stayed with her and her family**.
-===== Important Terms: =====
+देवाने लुदियाचे हृदय उघडले तिने यीशुच्या संदेशवर विश्वास केला व तिने आणि तिच्या कुटुंबियांनी बाप्तिस्मा घेतला. तिने पाऊल व सिलास यांना घरी आमंत्रण केले व ते तिथे तिच्या कुटुंबासह राहिले.
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:baptize]]**
-  * **[[:mr:obe:other:paul]]**
-  * **[[:mr:obe:other:silas]]**
+===== महत्वाचा भाग =====
 
+  * **देव**
+  * **विश्वास****, ****विश्वासामध्ये****, ****विश्वास**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **बाप्तिस्मा****घेणे****, ****बाप्तिस्मा**
+  * **पाऊल****, ****शाऊल**
+  * **सिलास****, ****सिलवानस**
+===== भाषांतराचा भाग: =====
 
-===== Translation Notes: =====
-
-  * **opened Lydia's heart** - That is, "enabled Lydia."
-  * **she and her family were baptized** - This can also be translated as, "they baptized Lydia and her family."
-  * **so they stayed with her and her family** - This was the normal custom of the day for people to provide hospitality to visitors in their homes. There were no immoral motives in this arrangement.
-
-
+  * **लुदियाचे हृदय उघडले**-  हे “अयोग्य लुदिया.”
+  * **ती आणि तिच्या परिवाराने बाप्तिस्मा घेतला**- “असे पण म्हटले जाते, “तिने व तिच्या कुटुंबीयाने बाप्तिस्मा घेतला.”
+  * **म्हणुन ते व तिचे कुटुंब तेथे थांबले-**  ही साधारण रिती होती की एका दिवसासाठी त्यांची पाहुणाई होत असे ज्या भेटीला. तेथे कोणतीही अनैतिक वादविवाद नाही.
 **[[:mr:obs:notes:frames:47-01|<<]] | [[:mr:obs:notes:47|Up]] | [[:mr:obs:notes:frames:47-03|>>]]**
