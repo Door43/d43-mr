@@ -1,28 +1,21 @@
 ===== The Golden Calf [13-12] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?nolink&}}
 
 **Aaron made a golden idol** in the shape of a calf. The people began to **wildly worship** the idol and make **sacrifices** to it! **God** was very angry with them because of their **sin** and planned to destroy them. But **Moses prayed** for them, and God **listened to his prayer** and did not destroy them.
 ===== Important Terms: =====
 
-
-  * **[[:mr:obe:other:aaron]]**
-  * **[[:mr:obe:other:idol]]**
-  * **[[:mr:obe:kt:worship]]**
-  * **[[:mr:obe:other:sacrifice]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:other:pray]]**
-
-
+  * **[[:mr:obe:other:aaron|Aaron]]**
+  * **[[:mr:obe:other:idol|idol, idolatrous]]**
+  * **[[:mr:obe:kt:worship|worship]]**
+  * **[[:mr:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:mr:obe:kt:god|God]]**
+  * **[[:mr:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:mr:obe:other:moses|Moses]]**
+  * **[[:mr:obe:other:pray|pray, prayer]]**
 ==== Translation Notes: ====
 
-
-  * **made a golden idol** - Aaron took the things made of gold that the people had brought to him, melted them, combined them, and formed them into the shape of a calf.
-  * **wildly worship** - The people were sinning by worshiping the idol and also by doing sinful things as they worshiped it.
-  * **listened to his prayer** - God always hears prayer. In this situation, "listened" means that God agreed to do what Moses asked.
-
-
+  * **made a golden idol**  - Aaron took the things made of gold that the people had brought to him, melted them, combined them, and formed them into the shape of a calf.
+  * **wildly worship**  - The people were sinning by worshiping the idol and also by doing sinful things as they worshiped it.
+  * **listened to his prayer**  - God always hears prayer. In this situation, "listened" means that God agreed to do what Moses asked.
 **[[:mr:obs:notes:frames:13-11|<<]] | [[:mr:obs:notes:13|Up]] | [[:mr:obs:notes:frames:13-13|>>]]**
