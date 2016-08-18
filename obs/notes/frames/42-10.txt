@@ -1,27 +1,22 @@
-===== Make Disciples [42-10] =====
+===== शिष्य बनवा [42-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?nolink&}}
 
-Jesus said to his **disciples**, “**All authority in heaven and on earth has been given to me**. So go, **make disciples of all people groups** by **baptizing** them **in the name of** the **Father**, the **Son**, and the **Holy Spirit**, and by teaching them to **obey** everything I have commanded you. Remember, I will be with you always.”
+**यीशु** ने **शिष्यांस** म्हटले, “पृथ्वी व **स्वर्गात** सर्व अधिकार मला दिला आहे. म्हणून जा, **लोकांना** शिष्य बनवा, **पिता****, ****पुत्र****, ****पवित्र** **आत्माच्या** नावाने **बाप्तिस्मा** घ्या. तुम्हांस जे काही **पाळावयास** सांगितले ते त्यांना मानण्यास सांगा. स्मरण राखा, मी सदैव तुम्हां बरोबर आहे.”
+===== महत्वाचा भाग: =====
 
-===== Important Terms: =====
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **शिष्य**
+  * **स्वर्ग****, ****आकाश****, ****स्वर्ग****, ****स्वर्गीय**
+  * **लोकांचा****समूह****, ****लोक**
+  * **बाप्तिस्मा****द्या****, ****बाप्तिस्मा**
+  * **पिता****पिता****परमेश्वर****, ****स्वर्गीय****पिता****, ****पिता**
+  * **देवाचा****पुत्र****, ****पुत्र****, ****पुत्र**
+  * **पवित्र****आत्मा****, ****देवाचा****आत्मा****, ****प्रभुचा****आत्मा**
+  * **आज्ञा****पालन****, ****आज्ञाकारी****, ****आज्ञा****पालन**
+===== भाषांतर नोटस =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:heaven]]**
-  * **[[:mr:obe:other:peoplegroup]]**
-  * **[[:mr:obe:kt:baptize]]**
-  * **[[:mr:obe:kt:godthefather]]**
-  * **[[:mr:obe:kt:sonofgod]]**
-  * **[[:mr:obe:kt:holyspirit]]**
-  * **[[:mr:obe:other:obey]]**
-
-
-===== Translation Notes: =====
-
-  * **All authority in heaven and on earth has been given to me** - This can also be translated as, "God has given me all authority in heaven and on earth" or, "God has given me complete authority over everyone in heaven and on earth" or, "I have all authority in heaven an on earth."
-  * **make disciples of all people groups** - That is, "help people from every people group become my disciples."
-  * **in the name of** - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language. This phrase can also be repeated as in, "in the name of the Father, in the name of the Son, and in the name of the Holy Spirit."
-
-
+  * **स्वर्ग आणि पृथ्वीवर सर्व अधिकार मला दिला आहे**- “देवाने स्वर्ग व पृथ्वीवरील सर्व अधिकार मला दिला आहे” किंवा “देवाने स्वर्गाचा आणि पृथ्वीवरील संपुर्ण अधिकार मला दिला आहे” किंवा “मला स्वर्गात आणि पृथ्वीवर सर्व अधिकार आहे.”
+  * **संपुर्ण लोकसमूहाला शिष्य बनवा-**  “ह्या लोकांना लोकांपासुन मदत करून शिष्य बनवा.”
+  * **च्या नावाने-**  हे वाक्य दोन्ही म्हणजे, “त्यांचा अधिकार” किंवा “त्यांच्या अधिकाराखाली.” भाषांतर केलेला शब्द समजा. “नाव’ जसेच्या तसे तुमच्या भाषेत समजला जाईल. हे वाक्य असं पण भाषांतर केलं जातं, “पिताच्या नावामध्ये, पुत्राच्या नावामध्ये आणि पवित्र आत्माच्या नावामध्ये” असं.
 **[[:mr:obs:notes:frames:42-09|<<]] | [[:mr:obs:notes:42|Up]] | [[:mr:obs:notes:frames:42-11|>>]]**
