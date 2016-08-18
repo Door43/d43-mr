@@ -1,22 +1,19 @@
-===== The Good News [50-02] =====
+===== शुभ संदेश [50-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink&}}
 
-As we wait for **Jesus** to return, **God** wants us to live in a way that is **holy** and that honors him. He also wants us to tell others about his **kingdom**. When Jesus was living on earth he said, “My **disciples** will **preach** the **good news** about the kingdom of God to people everywhere in the world, and then **the end will come**.”
-===== Important Terms: =====
+जसे आम्ही यीशुच्या येण्याची वाट पाहत आहे तसे देव पण पवित्र आहे म्हणून आम्ही पवित्रतेने जगाचे असे तो अपेक्षा करतो. त्याची ईच्छा आहे की आम्ही पण त्याच्या राज्या विषयी इतरांना सांगावे. जेव्हा यीशुने पृथ्वी सोडली तेव्हा म्हटले, “माझे शिष्य शुभ संदेश सांगतील त्याच्या राज्या विषयी नंतर जगाचा अंत होईल.”
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:holy]]**
-  * **[[:mr:obe:kt:kingdomofgod]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:other:preach]]**
-  * **[[:mr:obe:kt:goodnews]]**
+===== महत्वाचा भाग: =====
 
+  * यी**शु, यीशु ख्रिस्त, ख्रिस्त यीशु**
+  * **देव**
+  * **पवित्र, पवित्रता**
+  * **देवाचे राज्य, स्वर्गाचे राज्य**
+  * **शिष्य**
+  * **प्रचार**
+  * **शुभ संदेश, सुवार्ता**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **the end will come** - This could be translated as, "the end of this world will come" or, "the end of this world will happen" or, "this present world will end."
-
-
+  * **नंतर शेवट होईल**  - :या जगाचा अंत होईल” किंवा “या जगाचा शेवट होणार” किंवा “वर्तमान संसाराचा अंत होईल” हे असे पण अनुवाद केले जाते.
 **[[:mr:obs:notes:frames:50-01|<<]] | [[:mr:obs:notes:50|Up]] | [[:mr:obs:notes:frames:50-03|>>]]**
