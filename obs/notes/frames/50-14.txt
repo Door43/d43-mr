@@ -1,20 +1,18 @@
-===== The Fire of Hell [50-14] =====
+===== नरकाची आग [50-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?nolink&}}
 
-But **God** will **judge** everyone who does not **believe** in **Jesus**. He will throw them into **hell**, where they will **weep and grind their teeth in anguish** forever. A fire that never goes out will continually burn them, and worms will never stop eating them.
-===== Important Terms: =====
+परंतु देव त्या सगळ्यांचे न्याय करेल जे यीशुवर विश्वास करत नाही. तो त्यांना नरकात टाकून देईल व तेथे ते सर्वदा रडतील व त्यांचे दात करकर करतील त्या संकटात. तेथून आग बाहेर जाणार नाही, निरंतर त्या अग्नीत जळत राहतील आणि किडे त्यांना खायला थांबणार नाही.
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:judge]]**
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:hell]]**
+===== महत्वाचा भाग: =====
 
+  * **देव**
+  * **न्याय, न्याय देणे**
+  * **विश्वास, विश्वासात, विश्वास**
+  * **यीशु, यीशु ख्रिस्त, ख्रिस्त यीशु**
+  * **नरक, अग्नीचा कुंड**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **weep and grind their teeth in anguish** - See note on **[[:mr:obs:notes:frames:50-10|[50-10]]]**.
-
+  * रडतील व दात करकर करतील वेदानामुळे [50-10]
 
 **[[:mr:obs:notes:frames:50-13|<<]] | [[:mr:obs:notes:50|Up]] | [[:mr:obs:notes:frames:50-15|>>]]**
