@@ -1,20 +1,15 @@
-===== Speaking Other Languages [43-03] =====
+===== अन्य भाषा बोलत [43-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?nolink&}}
 
+जेव्हा **विश्वासी** एकत्र जमत, अचानक ते घर आवाजाने भरून गेले जाणू काही जोराचा वारा असावा. सगळ्या विश्वासुंच्या डोक्यावर अग्निज्वाला सारख्या काही तरी दिसल्या. ते **पवित्र** आत्माने परीपूर्ण झाले आणि त्यांनी अन्य भाषा बोलण्यास प्रारंभ केले.
+===== महत्वाचा भाग: =====
 
-While the **believers** were all together, suddenly the house where they were was filled with **a sound like a strong wind**. Then something that looked like flames of fire appeared over the heads of all the believers. They were all **filled with the Holy Spirit** and they began to speak **in other languages**.
-===== Important Terms: =====
+  * **विश्वासी**
+  * **पवित्र****, ****देवाचा****आत्मा****, ****प्रभुचा****आत्मा**
+===== भाषांतर नोटस =====
 
-  * **[[:mr:obe:kt:believer]]**
-  * **[[:mr:obe:kt:holyspirit]]**
-
-
-===== Translation Notes: =====
-
-  * **a sound like a strong wind** - That is, "a noise that a strong wind makes" or, "the sound that the wind makes when it blows hard."
-  * **filled with the Holy Spirit** - That is, "given ability by the Holy Spirit" or, "given power by the Holy Spirit."
-  * **in other languages** - This could be translated as, "in languages other than their own language" or, "in foreign languages" or, "as people from other places speak." The believers did not know these languages until the Holy Spirit gave them the power to speak them. Make sure the word used to translate "languages" refers to languages people actually speak and understand.
-
-
+  * **असा****आवाज****की****जोराचा****वारा**- जसं की, “हा आवाज वारा सारखा” किंवा “असा आवाज की वारा वाहतांना होतो असे म्हटले जाते.”
+  * **पवित्र****आत्माने****भरले**- “पवित्र आत्माची क्षमता” किंवा “पवित्र आत्माच्या द्वारे दिले गेलेले सामर्थ्य.”
+  * **अन्य****भाषामध्ये****-**  “त्या भाषेमध्ये की त्यांच्या स्वतःची भाषेपेक्षा ही” किंवा “विदेशी भाषा” किंवा “जसे ते लोक बोलत होते” असं भाषांतर केले जातं. विश्वासी अन्य भाषा बोलूच शकत नाही जो पर्यंत पवित्र आत्मा सांगत नाही. “भाषा” हा संदर्भ लोक अनेक भाषा वास्तवात बोलायचे व समजत होते.
 **[[:mr:obs:notes:frames:43-02|<<]] | [[:mr:obs:notes:43|Up]] | [[:mr:obs:notes:frames:43-04|>>]]**
