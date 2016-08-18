@@ -1,24 +1,21 @@
-===== God Sent Ananias to Saul [46-04] =====
+===== देवाने हनन्यास शाऊलकडे पाठविले [46-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-04.jpg?nolink&}}
 
-There was a **disciple** in Damascus named Ananias. **God** said to him, “Go to the house where **Saul** is staying. Place your hands on him so that he can see again.” **But Ananias said**, “**Master**, I have heard how this man has **persecuted** the believers.” **God answered him**, “Go! I have chosen him **to declare my name** to the Jews and to people from other people groups. He will **suffer** many things **for my name**.”
-===== Important Terms: =====
+दिमिस्कात एक शिष्य होता त्याचे नवा हनन्या होते. देवाने त्याला म्हटले, “शाऊल ज्या घरात आहे त्या घरात जा. तुझा हात त्यावर ठेव म्हणजे पुन्हा तिला दिसेल.” परंतु हनन्याने म्हटले, “स्वामी मी ऐकले आहे की हा मनुष्य विश्वासियांचा छळ करत होता.” देवाने उत्तर दिले, “जा!” मी त्याला निवडले आहे की तो यहुदी तसेच अन्य समूहाच्या लोकांना यीशुची घोषणा करण्यास. तो माझ्या नावाने अनेक दुःख सहन करील.”
 
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:paul]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:other:persecute]]**
-  * **[[:mr:obe:kt:suffer]]**
+===== महत्वाचा भाग: =====
 
+  * **शिष्य**
+  * **देव**
+  * **पाऊल, शाऊल**
+  * **प्रभू, स्वामी, गुरुजी**
+  * **सतावणे, सताव**
+  * **दुःख, दुःख सहन करणे**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **But Ananias said** - If it is not clear why the word "But" is used here, this could be translated as, "But Ananias was afraid, so he said."
-  * **God answered him** - This could be translated as, "To reassure Ananias, God said" to make clear why God said this.
-  * **to declare my name** - That is, "to teach about me" or, "to make me known."
-  * **for my name** - That is, "for me" or, "because of me" or, "because he serves me" or, "because he teaches others about me."
-
-
+  * **परंतु हनन्याने म्हटले **– जर येथे “परंतु” शब्द साफ नाही तर का उपयोग केला, हे असे पण अनुवाद केला जाते, “परंतु हनन्या घाबरलेला होता, म्हणुन म्हणाला.”
+  * **देवाने त्याला उत्तर दिले**  – असे पण भाषांतर केले जाते, “देवाने हनन्यास म्हटले” का देवाने असं सांगितले ते स्पष्ट करा.
+  * **माझे नाव घोषित करणे –**  “माझ्यासाठी” किंवा “माझ्यामुळे.”
+  * **माझ्या नावासाठी **– “माझ्यासाठी” किंवा, “माझ्यामुळे” किंवा, “माझ्यामुळे तो माझे कार्य करतो” किंवा, “त्यामुळे माझ्या बद्दल इतरांना शिकवितो.”
 **[[:mr:obs:notes:frames:46-03|<<]] | [[:mr:obs:notes:46|Up]] | [[:mr:obs:notes:frames:46-05|>>]]**
