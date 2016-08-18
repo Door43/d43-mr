@@ -1,28 +1,25 @@
-===== No Other Way but Jesus [44-08] =====
+===== कोणता ही मार्ग नाही परंतु यीशु [44-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&}}
 
-**Peter** answered them, “This man stands before you **healed** by the **power** of **Jesus** the **Messiah**. You **crucified** Jesus, but **God raised** him to life again! You **rejected him**, **but there is no other way to be saved except through the power of Jesus**!”
-===== Important Terms: =====
+पेत्राने त्यांना उत्तर दिले, “हा मनुष्य तुमच्या पुढे उभा आहे जो यीशुच्या सामर्थ्याने बरा झाला जो मसिहा आहे. तुम्ही यीशुला वधस्तंभावर खिळले, परंतु देवाने त्याला जिवंत केले! तुम्ही त्याचा नकार केला, परंतु सामर्थ्यावाचून कोणता ही मार्ग नाही जेणे करून आपण तारले जाऊ!”
 
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:other:heal]]**
-  * **[[:mr:obe:kt:power]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:christ]]**
-  * **[[:mr:obe:kt:crucify]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:raise]]**
-  * **[[:mr:obe:kt:life]]**
-  * **[[:mr:obe:kt:save]]**
+===== महत्वाचा भाग: =====
 
+  * **पेत्र****, ****शिमोन****पेत्र****, ****कैफा**
+  * **बरे****होणे**
+  * **शक्ति****, ****सामर्थी**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **ख्रिस्त****, ****अभिषिक्त**
+  * **वधस्तंभावर****खिळला****जाणे**
+  * **देव**
+  * **उठविला****जाणे****, ****जिवंत****करणे****, ****जिवंत****होणे****, ****जिवंत****झाला**
+  * **जीवन****, ****जगणे****, ****जीवन****व्यतीत****करणे****, ****जिवंत**
+  * **तारण****, ****सुरक्षित**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **healed** - That is, "well" or, "whole" or, "strong."
-  * **rejected him** - That is, "refused to accept him" or, "refused to believe in Jesus" or, "refused to believe that Jesus is the Savior."
-  * **but there is no other way to be saved except through the power of Jesus** - This could also be translated as, "but the only way to be saved is through the power of Jesus" or, "but only Jesus can save us, by his power."
-  * **to be saved** - This can also be translated as, "to be saved from our sins" or, "that we can be saved from our sins."
-
-
+  * **बरा करणे- **“चांगला”, “पुर्ण” किंवा “मजबूत” असं पण म्हटले जाते.
+  * **त्याचा नकार काणे- **“ग्रहण करण्यापासून नकारणे” किंवा “यीशुवर विश्वास करण्याचे टाळणे” किंवा “यीशु उद्धारक आहे हे स्वीकारणे टाळणे.”
+  * **परंतु तेथे कोणता ही इतर मार्ग नाही यीशुच्या सामर्थ्या शिवाय- **“परंतु तोच एक तारणाचा एक मार्ग आहे”  किंवा “पंरतु यीशु ही त्याच्या सामर्थ्याने वाचवू शकतो.”
+  * **तारले जावे-**  हे असं पण अनुवाद होतं, “पापापासून तारले जाणे” किंवा “आम्हा पापापासून वाचू शकतो.”
 **[[:mr:obs:notes:frames:44-07|<<]] | [[:mr:obs:notes:44|Up]] | [[:mr:obs:notes:frames:44-09|>>]]**
