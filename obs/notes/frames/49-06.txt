@@ -1,22 +1,19 @@
-===== Not All Will Be Saved [49-06] =====
+===== सगळे वाचविले जाणार नाहीत [49-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-06.jpg?nolink&}}
 
-**Jesus** taught that some people will **receive** him and be **saved**, but **others will not**. He said that some people are like good soil. They receive the **good news** of Jesus and are saved. Other people are like the hard soil of a path, where the **seed of God's word** does not enter and does not produce any harvest. Those people reject the message about Jesus and will not enter into **his kingdom**.
-===== Important Terms: =====
+यीशुने विचार केला की काही त्याला ग्रहण करतील आणि वाचविले जातील, व इतर ग्रहण करणार नाही. त्याने म्हटले काही लोक चांगल्या जमिनीची पसंदी करतात. त्यांनी शुभ संदेश ग्रहण केला व वाचले गेले. इतर लोक जसे कडक मार्गाच्या भागात असतात, तेथे देवाचे वचन पडते पण कोणते धन्य येत नाही. जे लोक देवाच्या संदेशाचा नकार करतात त्यांचा देवाच्या राज्यात प्रवेश होणार नाही.
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:receive]]**
-  * **[[:mr:obe:kt:save]]**
-  * **[[:mr:obe:kt:goodnews]]**
-  * **[[:mr:obe:kt:wordofgod]]**
-  * **[[:mr:obe:kt:kingdomofgod]]**
+===== महत्वाचा भाग: =====
 
+  * **यीशु, यीशु ख्रिस्त, ख्रिस्त यीशु**
+  * **प्राप्त करणे**
+  * **तारण, सुरक्षित**
+  * **शुभ संदेश, सुवार्ता**
+  * **देवाचे वचन, योहवाचे वचन, प्रभूचे वचन, वचन**
+  * **देवाचे राज्य, स्वर्गाचे राज्य**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **others will not** - That is, "other people will not receive him and therefore will not be saved."
-  * **seed of God's word** - This can be translated as, "seed, which can be compared to God's word." This phrase makes a comparison between seed and God's word.
-
-
+  * **इतर नाही**  – “अन्य लोक त्याला ग्रहण करणार नाही म्हणून त्यांचे तारण होणार नाही.”
+  * **देवाचे वचनरूपी बीज**  – “बीज, जे परमेश्वराच्या वचनाशी तुलना केली जाते” असे पण  अनुवाद केले जाते. हे वाक्य बीज आणि देवाच्या वचनाशी तुलना केली जाते.
 **[[:mr:obs:notes:frames:49-05|<<]] | [[:mr:obs:notes:49|Up]] | [[:mr:obs:notes:frames:49-07|>>]]**
