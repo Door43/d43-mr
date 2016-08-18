@@ -1,23 +1,20 @@
-===== You Crucified Jesus [43-06] =====
+===== तुम्ही यीशुला क्रुसावर खिळले [43-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink&}}
 
-“Men of **Israel**, **Jesus** was a man who did many mighty **signs and wonders** by the **power** of **God**, as you have seen and already know. But **you crucified him**!”
-===== Important Terms: =====
+“इस्राएलाचा मनुष्य, यीशुने अनेक अद्भूत कार्ये देवाच्या सामर्थ्याने केले जे तुम्ही पाहिले आणि माहित आहे. पण तुम्ही यीशुला वधस्तंभावर खिळले.”
 
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:miracle]]**
-  * **[[:mr:obe:kt:power]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:crucify]]**
+===== महत्वाचा भाग: =====
 
+  * **इस्राएल****, ****इस्राएलांत****निवास****करणारे****, ****इस्राएल****राष्ट्र**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **चमत्कार****, ****अद्भूत****, ****चिन्ह**
+  * **सामर्थ्य****, ****सामर्थी**
+  * **देव**
+  * **वधस्तंभावर****खिळणे**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * (Peter continues preaching to the crowd.)
-  * **Men of Israel** - For some languages it is better to say, "People of Israel" for it to be clear that this included men and women. This could also be translated as, "My fellow people of Israel" or, "My fellow Jews" to make it clear that Peter was also a Jew and belonged to the "people of Israel."
-  * **you crucified him!** - This could also be translated as, "you caused him to be crucified" or, "because of you, he was crucified." The Jews did not actually nail Jesus to the cross. However, the Jewish leaders caused him to be condemned and many of the people in the crowd had shouted for him to be crucified.
-
-
+  * (पेत्र निरंतर गर्दीत प्रचार करतो.)
+  * **इस्राएलाचा****मनुष्य****-**  “इस्राएली लोक” हे स्पष्ट आहे की स्त्री व पुरुष असं पण भाषांतर दुसऱ्या भाषेत केले जाते.  हे असे पण म्हटले जाते, “माझे स्वतःचे इस्राएली लोक” किंवा “माझे संगी यहुदी” हे स्पष्ट करण्यासाठी की पेत्र पण यहुदी व इस्राएली होत.
+  * **त्याला****वधस्तंभी****खिळले****-**  “तुम्ही त्याल खिळण्याचे करणा ठरले” किंवा “तुमच्याकडे त्याला खिळण्यात आले” असे पण म्हटले जाते. यहुद्यांनी वास्तवात यीशुला वधस्तंभावर खिळले नाही. कसंपण असो, यहुदी नेतृत्व करण्यासाठी व त्या गर्दीतील लोकांनी ओरडून यीशुला क्रुसावर खिळले.
 **[[:mr:obs:notes:frames:43-05|<<]] | [[:mr:obs:notes:43|Up]] | [[:mr:obs:notes:frames:43-07|>>]]**
