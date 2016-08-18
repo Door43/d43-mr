@@ -1,18 +1,14 @@
-===== The Joyful News [41-07] =====
+===== आनंदाची बातमी [41-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink&}}
 
-The women were **full of fear and great joy**. They ran to tell the **disciples** the **good news**.
-===== Important Terms: =====
+त्या स्त्रिया पूर्णपणे घाबरलेल्या होत्या व मोठ्या **आनंदात** होत्या. त्या **शिष्यांना** आनंदाची बातमी सांगण्यास धावल्या.
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:kt:joy]]**
-  * **[[:mr:obe:kt:disciple]]**
+  * **आनंद****, ****आनंदित**
+  * **शिष्य**
+===== भाषांतर नोटस =====
 
-
-===== Translation Notes: =====
-
-  * **full of fear and great joy** - That is, "experiencing emotions of fear and also great joy."
-  * **good news** - This can also be translated as, "the good news that Jesus was alive again." This good news refers to the fact that Jesus had risen from the dead.
-
-
+  * **पुर्ण****घाबरलेले****व****मोठा****आनंद**  – “म्हणजे, “भितीच्या भानेचा अनुभव व मोठा आनंद सुद्धा असणे.”
+  * **चांगली****बातमी**  – याचे अनुवाद अशा प्रकारे सुद्धा होऊ शकते, “चांगली बातमी ही की यीशु पुन्हा जिवंत झाला.”ही चांगली बातमी यीशुच्या मरणातून जिवंत होण्याच्या सत्याच्या संदर्भात आहे.
 **[[:mr:obs:notes:frames:41-06|<<]] | [[:mr:obs:notes:41|Up]] | [[:mr:obs:notes:frames:41-08|>>]]**
