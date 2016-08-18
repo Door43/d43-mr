@@ -1,24 +1,20 @@
-===== A Descendent of David [48-13] =====
+===== दाविदाची वंशज [48-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-13.jpg?nolink&}}
 
-**God promised King David** that one of his **descendants** would rule as **king** over God’s people forever. Because **Jesus** is the **Son of God** and the **Messiah**, is that special descendant of David who can rule forever.
+देवाने दावीद राजाला प्रतिज्ञा दिली की मसीह हा देवाचे विशेष वंशज जो सर्वदा शासन करेल. कारण यीशु देवाचा पुत्र व मसीह हा दाविदाचा विशेष वंशज जो शासन करेल.
 
+===== महत्वाचा भाग: =====
 
-===== Important Terms: =====
+  * **देव**
+  * **प्रतिज्ञा**
+  * **दाविद**
+  * **देवाचा****पुत्र****, ****पुत्र****, ****पुत्र**
+  * **ख्रिस्त****, ****मसीह**
+  * **वंशज**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+===== भाषांतर नोटस: =====
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:promise]]**
-  * **[[:mr:obe:other:david]]**
-  * **[[:mr:obe:kt:sonofgod]]**
-  * **[[:mr:obe:kt:christ]]**
-  * **[[:mr:obe:other:descendant]]**
-  * **[[:mr:obe:kt:jesus]]**
-
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (ह्या फ्रेमसाठी कोणताही संधर्भ नाही)
 
 **[[:mr:obs:notes:frames:48-12|<<]] | [[:mr:obs:notes:48|Up]] | [[:mr:obs:notes:frames:48-14|>>]]**
