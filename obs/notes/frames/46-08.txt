@@ -1,22 +1,20 @@
-===== Saul Went to Jerusalem [46-08] =====
+===== शाऊल यरूशलेमात गेला [46-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink&}}
 
-**Saul went to Jerusalem** to meet with the **disciples**, but they were afraid of him. Then a **believer** named **Barnabas** took Saul to the **apostles** and told them how Saul had **preached** boldly in Damascus. After that, the disciples **accepted Saul**.
-===== Important Terms: =====
+शाऊल यरूशलेमात गेला की तो शिष्यांस भेटू शकेल परंतु ते त्याला पाहून भयभीत झाले होते.  तेव्हा एक विश्वासी त्याचे नाव बरनबास होते त्याने शाऊलला त्या प्रेरिता जवळ नेले व म्हटल की तसा धेर्याने दिमिस्कात प्रचार करतो. त्यानंतर शिष्यांनी शाऊलला ग्रहण केले.
 
-  * **[[:mr:obe:other:paul]]**
-  * **[[:mr:obe:other:jerusalem]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:believer]]**
-  * **[[:mr:obe:other:barnabas]]**
-  * **[[:mr:obe:kt:apostle]]**
-  * **[[:mr:obe:other:preach]]**
+===== महत्वाचा भाग: =====
 
+  * **पाऊल****, ****शाऊल**
+  * **यरुशलेम**
+  * **शिष्य**
+  * **विश्वासी**
+  * **बरनबास**
+  * **प्रेषित****, ****प्रेषितांची****सेवा**
+  * **प्रचार**
+===== भाषांतर नोटस: =====
 
-===== Translation Notes: =====
-
-  * **accepted Saul** - That is, "believed that Saul also was a believer in Jesus."
-
+  * शाऊलला ग्रहण की शाऊल पण यीशुवर विश्वासणारा आहे.
 
 **[[:mr:obs:notes:frames:46-07|<<]] | [[:mr:obs:notes:46|Up]] | [[:mr:obs:notes:frames:46-09|>>]]**
