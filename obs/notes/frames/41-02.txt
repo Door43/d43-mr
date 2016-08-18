@@ -1,18 +1,15 @@
-===== The Tomb Was Sealed [41-02] =====
+===== कबरेला शिक्कामोर्तब केले [41-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink&}}
 
-**Pilate** said, “Take some soldiers and make the **tomb** as secure as you can.” So **they placed a seal on the stone** at the entrance of the tomb and put the soldiers there to make sure no one could steal the body.
-===== Important Terms: =====
+पिलात म्हणाला, “काही शिपाई द्या व होईल तितके सुरक्षित ठेवा.” आणि त्यांनी कबरेच्या समोरच्या दगडावर मोहर लाव्लीव कोणी त्याचा; ;शव चोरून घेवू नये ह्याकरिता सैनिक ही ठेवले.
 
-  * **[[:mr:obe:other:pilate]]**
-  * **[[:mr:obe:other:tomb]]**
+===== महत्वाचा भाग: =====
 
+  * **पिलात**
+  * **कबर****, ****गुहा****, ****दफन****क्रियेचे****ठिकाण**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **they placed** - That is, "the religious leaders and the soldiers placed."
-  * **a seal on the stone** - They put a soft material like clay or wax between the stone and the tomb and marked it with an official seal. If anyone moved the stone, the material would break and show that someone had entered the tomb. This could also be translated as, "a mark on the stone to forbid people from moving it."
-
-
+  * **त्यांनी****ठेवले**  – “म्हणजे धर्मगुरू व सैनिक ठेवले.”
+  * **दगडावर****मोहर**  – म्हणजे त्यांनी माती सारखा मऊ पदार्थ ठेऊन दगड व कबरेच्या मध्ये अधिकृत मोहर लावली. म्हणजे जर कोणी दगड सरकवला तर दगड व कबरेच्या मधली वस्तू तुटेल आणि दिसेल की कोणी तरी आत गेले आहे. हे वाक्य अशा प्रकारे सुद्धा अनुवादित करता येते, “दगडावरच्या निशाणीने लोकांना दगड सरकवण्याचे निषिद्ध करणे.”
 **[[:mr:obs:notes:frames:41-01|<<]] | [[:mr:obs:notes:41|Up]] | [[:mr:obs:notes:frames:41-03|>>]]**
