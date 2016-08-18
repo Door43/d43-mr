@@ -1,21 +1,20 @@
-===== The Ethiopian Read Isaiah [45-08] =====
+===== इथिपियाचा नागरिक यशयाचे पुस्तक वाचत होता [45-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
-When Philip **approached the chariot**, he heard the **Ethiopian** reading from what the **prophet Isaiah** wrote. The man read, “They led him like a **lamb** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his life away from him**.”
-===== Important Terms: =====
+जेव्हा फिलीप त्या घोडेस्वाराकडे गेला, त्याने इथिपीयनला वाचतांना ऐकलं जे यशया भविष्यवक्ताने म्हटले होते. मनुष्याने वाचले, “ते मेम्ना सारखा त्याला ठार करण्यास घेऊन जात होते, जसं मेम्ना शांत असतो, तसा तो शब्द पण काढत नसतो, त्यांनी त्याचा अनादर केला व त्यांच्याशी अयोग्य वर्तन केले. त्यांनी त्याचे जीवन त्या पासून घेतले.”
 
-  * **[[:mr:obe:other:chariot]]**
-  * **[[:mr:obe:other:isaiah]]**
-  * **[[:mr:obe:kt:lamb]]**
-  * **[[:mr:obe:kt:life]]**
+===== महत्वाचा भाग: =====
 
+  * **घोडेस्वार**
+  * **यशया**
+  * **कोकरा, परमेश्वराचा कोकरा**
+  * **जीवन, जगणे, जीवन व्यतीत करणे, जिवंत**
+===== भाषांतर नोटस =====
 
-===== Translation Notes: =====
-
-  * **Ethiopian** - That is, a person from the country of Ethiopia. See note on **[[:mr:obs:notes:frames:45-07|[45-07]]]**.
-  * **approached the chariot** - That is, "got close to the chariot" or, "came near to the chariot."
-  * **as a lamb is silent** - This could also be translated as, "like a lamb that is silent even when it is about to be killed."
-
+  * **इथिपियन –**  याचा अर्थ तो व्यक्ती इथिपिया देशाचा होता. नोट पाहा [45-07]
+  * **ते खच्चर त्या जवळ पोहचले**  – “खच्चराजवळ पोहचणे” किंवा “इतक्या जवळ की ठार मारण्या इतके.”
+  * **जसं मेम्ना शांत असतो **– “हे असं पण अनुवाद केलं जातं, “मेम्ना सारखे जे ठार करताना पण शांत असते.”
+  *
 
 **[[:mr:obs:notes:frames:45-07|<<]] | [[:mr:obs:notes:45|Up]] | [[:mr:obs:notes:frames:45-09|>>]]**
