@@ -1,28 +1,25 @@
-===== God Raised Jesus [43-07] =====
+===== देवाने ख्रिस्ताला जिवंत केले [43-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-07.jpg?nolink&}}
 
-“Although **Jesus** died, **God raised** him from the **dead**. **This fulfills the prophecy which says**, ‘**You will not let your Holy One rot in the grave**.’ We are **witnesses** to the fact that God **raised Jesus to life again**.”
-===== Important Terms: =====
+** “****यीशु** मेला, **देवाने** त्याला **मृत्यूंतून** **जिवंत** **केले**. हि **भविष्यवाणी** **पुर्ण** झाली, ‘तुम्ही त्या कब्रेत पवित्र जनाला पाहू शकणार नाही.’ आम्ही त्या वास्तविकतेचे **साक्ष** आहोत जे देवाने यीशुला पुन्हा **जिवंत** केले.”
+===== महत्वाचा भाग: =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:raise]]**
-  * **[[:mr:obe:kt:death]]**
-  * **[[:mr:obe:kt:fulfill]]**
-  * **[[:mr:obe:kt:prophet]]**
-  * **[[:mr:obe:kt:christ]]**
-  * **[[:mr:obe:kt:witness]]**
-  * **[[:mr:obe:kt:life]]**
+  * **यीशु****, ****यीशु****ख्रिस्त****, ****ख्रिस्त****यीशु**
+  * **देव**
+  * **उठविणे****, ****जिवंत****करणे****, ****जिवंत****होणे****, ****मरणातून****उठणे****.**
+  * **मृत्यू****, ****मरण****, ****मृत**
+  * **परिपूर्ण**
+  * **संदेष्टा****, ****भविष्यवाणी****, ****भविष्यवाणी****करणे****, ****भविष्य****सांगणारी**
+  * **ख्रिस्त****, ****मसिहा**
+  * **साक्ष**
+  * **जीवन****, ****जिवंत****, ****जीवन****जगणे****, ****जिवंत**
+===== भाषांतर नोटस =====
 
-
-===== Translation Notes: =====
-
-  * (Peter continues preaching to the crowd.)
-  * **This fulfills the prophecy which says** - Another way to translate this would be, "This caused to come true what one of the prophets said long ago."
-  * **You will not let your** - "You" and "your" refer to God the Father. To make that clear, this could be translated as, "You, God, will not let your." Some languages may have a special way of addressing someone, such as, "You, O God."
-  * **rot in the grave** - That is, "decay in the tomb" or, "decompose in the grave." This refers to the fact that Jesus did not remain in the tomb very long and is another way of saying that he did not stay dead, but rather came back to life again.
-  * **raised Jesus to life again** - That is, "made Jesus alive again."
-
+  * (पेत्र गर्दीत निरंतर प्रचार करत आहे.)
+  * **ही****भविष्यवाणी****पुर्णतः****असे****सांगते**- की “काही वर्षापूर्वी भाविष्यावक्तांनी सांगितलेले सत्य ठरले असं.”
+  * **तुम्ही****त्याला****जाऊ****देणार****नाही**- “तुम्ही” हा संधर्भ पिता परमेश्वर होतो. हे स्पष्ट करण्यासठी असे भाषांतर केले जाऊ शकते, “तुम्ही देव, तुम्हाला जाऊ देणार नाही,” काही भाषांमध्ये विशेष मार्ग आहे, की एखादी गोष्ट सांगण्यासाठी, “तुम्ही हो परमेश्वरा.”
+  * **कब्रेत****राहू****न****देणे****-**  “कब्रेत नाहीसे न होणे” किंवा “नाहीसे होणेसाठी कबरेत नसणे.”  वास्तवात ह्याचा संधर्भ यीशु जास्त वेळ कबरेत राहिला नाही आणि दुसऱ्या शब्दात सांगायचे तर तो कबरेत मृत राहिला नाही, परुंतु ते जीवन पुन्हा प्राप्त केले.
+  * **पुन्हा****यीशुचे****जीवन**- यीशुला पुन्हा जिवंत केले.
 
 **[[:mr:obs:notes:frames:43-06|<<]] | [[:mr:obs:notes:43|Up]] | [[:mr:obs:notes:frames:43-08|>>]]**
