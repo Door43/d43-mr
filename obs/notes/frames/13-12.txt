@@ -1,21 +1,27 @@
-===== The Golden Calf [13-12] =====
+===== **सोन्याचे वासरु ** [13-12] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?nolink&}}
 
-**Aaron made a golden idol** in the shape of a calf. The people began to **wildly worship** the idol and make **sacrifices** to it! **God** was very angry with them because of their **sin** and planned to destroy them. But **Moses prayed** for them, and God **listened to his prayer** and did not destroy them.
-===== Important Terms: =====
+**अहरोनाने ** वासराच्या आकाराची** सोन्याची मुर्ती बनविली.** लोक त्या मुर्तीची **रानटी उपासना** करु लागले आणि त्याला **अर्पणे** देवू लागले.** देव** त्यांच्या **पापामुळे** त्याच्यावर भयंकर रागवला आणि त्याने त्यांना नष्ट करण्याचा मनसुबा बनविला. परंतू **मोशेने** त्यांच्यासाठी **प्रार्थना केली**, आणि **देवाने त्याची प्रार्थना ऐकली** आणि त्याने त्यांचा नाश केला नाही.
+===== **महत्वाचे शब्द **: =====
 
-  * **[[:mr:obe:other:aaron|Aaron]]**
-  * **[[:mr:obe:other:idol|idol, idolatrous]]**
-  * **[[:mr:obe:kt:worship|worship]]**
-  * **[[:mr:obe:other:sacrifice|sacrifice, offering]]**
-  * **[[:mr:obe:kt:god|God]]**
-  * **[[:mr:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:mr:obe:other:moses|Moses]]**
-  * **[[:mr:obe:other:pray|pray, prayer]]**
-==== Translation Notes: ====
+  * **अहरोन**
+  * **मुर्ती**
+  * **उपासना**
+  * **अर्पणे**
+  * **देव**
+  * **पाप**
+  * **मोशे**
+  * **प्रार्थना केली**  \\
+==== **भाषांतरित टिपा **: ====
 
-  * **made a golden idol**  - Aaron took the things made of gold that the people had brought to him, melted them, combined them, and formed them into the shape of a calf.
-  * **wildly worship**  - The people were sinning by worshiping the idol and also by doing sinful things as they worshiped it.
-  * **listened to his prayer**  - God always hears prayer. In this situation, "listened" means that God agreed to do what Moses asked.
+  *
+
+**सोन्याची मुर्ती बनविली – ** अहरोनाने सोन्याच्या वस्तू घेतल्या ज्या लोकांनी त्याच्याकडे आणल्या होत्या, त्या वितळवल्या, आणि एकत्र केल्या, आणि त्याला वासराचा आकार दिला.
+  *
+
+**रानटी उपासना**  - लोक मुर्तीची उपासना करुन पापकरत होतेच आणि शिवाय उपासना करताना पापमय गोष्टी करत होते.
+  *
+
+**त्याची प्रार्थना ऐकली**  – देव नेहमी प्रार्थना ऐकतो. या परिस्थितित “ऐकणे” म्हणजे मोशे मागेल ते देव करण्यास तयार आहे.
 **[[:mr:obs:notes:frames:13-11|<<]] | [[:mr:obs:notes:13|Up]] | [[:mr:obs:notes:frames:13-13|>>]]**
