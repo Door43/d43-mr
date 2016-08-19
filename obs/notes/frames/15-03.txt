@@ -1,26 +1,26 @@
-===== Marching around Jericho [15-03] =====
+===== **यरीहो सभोवती फेरे ** [15-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-03.jpg?nolink}}
+**लोक यार्देन नदीच्या पार गेल्यानंतर**, **देवाने यहोशवाला सांगितले शक्तिशाली यरिहो नगरावर हल्ला कसा करावा.** लोकांनी देवाची **आज्ञा पाळली.** जसे देवाने त्यांना करण्यास सांगितले, तसे सैनिक आणि **याजक** यांनी यरिहो शहरास फेरा घालावा, **दिवसीतून फक्त एकदा****, असे सहा दिवस. **
 
-**After the people crossed the Jordan River**, **God** told **Joshua how to attack** the powerful city of **Jericho**. The people **obeyed** God. Just as God told them to do, the soldiers and **priests** marched around the city of Jericho **once a day for six days**.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  * **यार्देन नदी**
+  * **देव**
+  * **यहोशवा**
+  * **यरिहो**
+  * **आज्ञा पालन**
+  * **याजक**
+**भाषांतरित टिपाः **
 
-  * **[[:mr:obe:other:jordanriver]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:joshua]]**
-  * **[[:mr:obe:other:jericho]]**
-  * **[[:mr:obe:other:obey]]**
-  * **[[:mr:obe:kt:priest]]**
+  *
 
+**लोक यार्देन नदी पार गेल्यानंतर**  - काही भाषांमध्ये हे म्हणणे चांगले आहे, “लोक यार्देन नदीच्या पार गेला आणि नंतर! "
+  *
 
-==== Translation Notes: ====
+**हल्ला कसे  करावा**  – हे असे भाषांतरित केले जाऊ शकते, “हल्ला करतेवेळी त्यानी नक्की काय करावे.”
+  *
 
-
-  * **After the people crossed the Jordan River** – In some languages it is better to say, "The people crossed the Jordan River and then…"
-  * **how to attack** – This could be translated as, "exactly what he should do to attack."
-  * **once a day for six days** - That is, they went around the city one time every day for a total of six days.
-
-
+**दिवसातून एकदा असे सहा दिवस**  – म्हणजे, , ते दिवसातू एकदा शहराच्या सभोवती फेरा असे एकूण सहा दिवस.
 **[[:mr:obs:notes:frames:15-02|<<]] | [[:mr:obs:notes:15|Up]] | [[:mr:obs:notes:frames:15-04|>>]]**
