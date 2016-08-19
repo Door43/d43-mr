@@ -1,29 +1,31 @@
-===== At the Promised Land [14-14] =====
+===== **वचनदत्त देशात ** [14-14] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-14.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-14.jpg?nolink}}
+**इस्राएल** चाळीस वर्षे वाळवंटात भटकत राहिल्या नंतर, **ज्यांनी सर्वांनी देवाच्या विरुद्ध बंड केले** होते ते सर्व मेले. मग देव लोकांना **वचनदत्त** देशाच्या सिमेवर घेवून आला. मोशेला आता फार थकला होता, म्हणुन देवाने लोकांचे पुढारिपण आणि मदत करण्यासाठी यहोशवाला निवडले. देवाने मोशेला सुद्धा वचन दिले, की एक दिवस,  तो मोशेसारखा आणखी एक संदेष्टा पाठवेल.
 
-After the **Israelites** had wandered in the wilderness for forty years, all of them **who had rebelled against God** were dead. Then God led **the people** to the edge of the **Promised Land** again. **Moses** was now very old, so God chose **Joshua** to help him lead the people. God also **promised** Moses that **one day**, he would send **another prophet like Moses**.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  * **इस्राएल**
+  * **बंड केले**
+  * **देव**
+  * **वचनदत्त देश**
+  * **मोशे**
+  * **यहोशवा**
+  * **वचन दिले**
+  * **संदेष्टा**
+**भाषांतरित टिपाः **
 
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:rebel]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:promisedland]]**
-  * **[[:mr:obe:other:moses]]**
-  * **[[:mr:obe:other:joshua]]**
-  * **[[:mr:obe:kt:promise]]**
-  * **[[:mr:obe:kt:prophet]]**
+  *
 
+**ज्यांनी सर्वांनी देवाच्या विरुद्ध बंड केले**  - हे असे भाषांतरित केले जाऊ शकते, "देवाने वचन दिलेल्या देशात जाण्याची आज्ञा ज्यांनी मोडली.”
+  *
 
-==== Translation Notes: ====
+**लोक**  – म्हणजे, मरण पावलेल्या पिढीची मुले.
+  *
 
+**एक दिवस**  - याचा अर्थ, "भविष्यात केव्हा तरी."
+  *
 
-  * **who had rebelled against God** - This could be translated, "who had refused to obey God when he told them to go into the Promised Land."
-  * **the people** - That is, the children of the generation that died.
-  * **one day** - This means, "some time in the future."
-  * **another prophet like Moses** - Like Moses, this man would be an Israelite, he would speak God's words to the people, and he would lead the people.
-
-
+**मोशे सारखा दुसरा संदेष्टा**  - मोशे सारखा, हा मनुष्य इस्राएली असेल, तो देवाचे वचन लोकांस सांगेन आणि तो लाकांना मार्गदर्शन करेल.
 **[[:mr:obs:notes:frames:14-13|<<]] | [[:mr:obs:notes:14|Up]] | [[:mr:obs:notes:frames:14-15|>>]]**
