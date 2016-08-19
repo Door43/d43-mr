@@ -1,25 +1,23 @@
-===== Crossing the Jordan River [15-02] =====
+===== **यार्देन नदी ओलांडणे ** [15-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-02.jpg?nolink}}
+**इस्राएली** लोकांना **वचन दिलेल्या देशात** प्रवेश करण्यासाठी **यार्देन नदी** पार करायची होती. देव यहोशवाला म्हणाला, "याजकांना पहिल्यांदा जाऊ द्या." याजकांनी जेव्हा यार्देन नदी मध्ये पाऊल टाकले, तेव्हा वरुन येणा-या पाण्याचा प्रवाह थांबला,  यासाठी की इस्त्राएल लोक कोरड्या जमिनीवरुन नदीच्या दुसऱ्या बाजूला पार होतील.
 
-The **Israelites** had to cross the **Jordan River** to enter into the **Promised Land**. God told Joshua, “Have the priests go first.” When the priests started to step into the Jordan River, the water upstream stopped flowing so the Israelites could cross over to the other side of the river on dry ground.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  * **इस्त्राएल लोक**
+  * **यार्देन नदी**
+  * **वचनदत्त देश**
+  * **देव**
+  * **यहोशवा**
+  * **याजक**
+**भाषांतरित टिपाः **
 
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:jordanriver]]**
-  * **[[:mr:obe:kt:promisedland]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:joshua]]**
-  * **[[:mr:obe:kt:priest]]**
+  *
 
+**याजकांना पहिल्यांदा जाऊ द्या**  “काही भाषांमध्ये हे समाविष्ट करणे उपयुक्त असू शकते नदी पार करण्यासाठी लोकांच्या अगोदरच याजकांनी जावे.”
+  *
 
-==== Translation Notes: ====
-
-
-  * **Have the priests go first** – For some languages it may be helpful to add, "Have the priests go before the rest of the people to cross the river."
-  * **the water upstream stopped flowing** - In some languages it may be helpful to add, "and the water in front of them flowed away downstream."
-
-
+**पाण्याचा वरचा प्रवाह थांबला**  -  काही भाषांमध्ये जोडण्यासाठी हे उपयोगी होऊ शकते, "आणि त्यांच्या समोर पाणी खालच्या बाजुला वाहू लागले."
 **[[:mr:obs:notes:frames:15-01|<<]] | [[:mr:obs:notes:15|Up]] | [[:mr:obs:notes:frames:15-03|>>]]**
