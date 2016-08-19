@@ -1,30 +1,53 @@
-===== Joshua Renewed the Covenant [15-13] =====
+===== **यहोशवा कराराचे नुतनीकरण करतो ** [15-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-13.jpg?nolink}}
+**जेव्हा यहोशवा एक म्हातारा माणूस झाला** तेव्हा त्याने इस्राएलमधील सर्व लोकांना एकत्र बोलवले. नंतर यहोशवाने त्यांना देवाच्या करार **पाळण्याच्या** बंधनाची लोकांना आठवण करून दिली जो **देवाने** **इस्राएली** लोकांसोबत **सिनाय** पर्वताजवळ केला होता. नंतर **लोकांनी देवाशी विश्वासू राहण्याचे** आणि **त्याच्या आज्ञा पाळाण्याचे वचन दिले**.
+===== **महत्वाचे शब्द **: =====
 
-**When Joshua was an old man**, he called all the people of **Israel** together. Then Joshua reminded the people of their obligation to **obey** the **covenant** that **God** had made with the **Israelites** at **Sinai**. The **people promised** to **remain faithful to God** and **follow his laws**.
-===== Important Terms: =====
+  *
 
+**यहोशवा**
+  *
 
-  * **[[:mr:obe:other:joshua]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:obey]]**
-  * **[[:mr:obe:kt:covenant]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:sinai]]**
-  * **[[:mr:obe:kt:promise]]**
-  * **[[:mr:obe:kt:faithful]]**
-  * **[[:mr:obe:kt:lawofmoses]]**
+**इस्त्राएल**
+  *
 
+**आज्ञा पाळणे**
+  *
 
-==== Translation Notes: ====
+**करार**
+  *
 
+**देव**
+  *
 
-  * **When Joshua was an old man** – It may be clearer to say, "Many years later, when Joshua was an old man." Joshua was over 100 years old at this time.
-  * **remain faithful to God** - In other words, they would be loyal to God. They would worship and serve only God; they would not worship or serve any other gods.
-  * **follow his laws** - This means that the people would obey the laws that God had given them already as part of the covenant.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
+**इस्त्राएल लोक**
+  *
 
+**सिनाय**
+  *
+
+**वचन दिले**
+  *
+
+**विश्वासू**
+  *
+
+**त्याचे नियम**
+==== **भाषांतरित टिपा **: ====
+
+  *
+
+**जेव्हा यहोशवा म्हातारा माणूस झाला**  अगदी स्पष्ट असू शकते, “अनेक वर्षांनी जेव्हा यहोशवा म्हातारा माणूस झाला होता तेव्हा”. यहोशवाने त्या वेळी 100 हून अधिक वर्षांचा होता.
+  *
+
+**देवाशी विश्वासू रहा**  - दुसऱ्या शब्दांत, ते म्हणजे देवाशी एकनिष्ठ रहा. ते फक्त देवाचीच उपासना आणि सेवा करतील; ते इतर कोणत्याही दैवतांची उपासना किंवा पूजा करणार नाही.
+  *
+
+**त्याचे नियम पाळा**  - याचा अर्थ असा की लोकांनी देवाच्या नियमांचे पालन करणे आवश्यक आहे, जो देवाचा कराराचा भाग म्हणून त्यांना आधीच दिला होता.
+  *
+
+बायबल कथा - या संदर्भ काही बायबल अनुवाद जरा वेगळी असू शकते.
 
 **[[:mr:obs:notes:frames:15-12|<<]] | [[:mr:obs:notes:15|Up]] | [[:mr:obs:notes:frames:16-01|>>]]**
