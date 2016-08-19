@@ -1,31 +1,43 @@
-===== The Two Spies [15-01] =====
+===== **दोन हेर** [15-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-01.jpg?nolink}}
+**शेवटी इस्राएलाला वचन दिलेल्या कनान देशात प्रवेश करण्यासाठी वेळ आली होती.** यहोशवा भक्कम तटबंदीने संरक्षित असलेल्या कनान मधील यरीहो शहरात दोन हेर पाठवले. त्या नगरात **रहाब** नावाची एका वेश्या राहत होती, जिने हेरांना लपवले आणि नंतर त्याना **पळून जाण्यास मदत केली.** तिने असे केले कारण ती **देवावर विश्वास ठेवत होती**. तेव्हा त्यांनी तिली आणि **तीच्या कुटुंबाला** वचन दिले की जेव्हा इस्राएल लोक यरीहो नष्ट करतील तेव्हा तीचे संरक्षण केले जाईल..
 
-**At last it was time for** the **Israelites** to **enter Canaan**, the **Promised Land**. **Joshua** sent **two spies to the Canaanite city of Jericho** that was **protected by strong walls**. In that city there lived a prostitute named **Rahab** who hid the spies and later helped them to **escape**. She did this because she **believed God**. They promised to protect Rahab and **her family** when the Israelites would destroy Jericho.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  * **इस्त्राएल लोक**
+  * **कनान**
+  * **वचनदत्त देश**
+  * **यहेशवा**
+  * **कनानी लोक**
+  * **यरिहो**
+  * **रहाब**
+  * **विश्वास ठेवत**
+  * **देव**
+  * **वचन दिले**
+**भाषांतरित टिपाः **
 
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:canaan]]**
-  * **[[:mr:obe:kt:promisedland]]**
-  * **[[:mr:obe:other:joshua]]**
-  * **[[:mr:obe:other:jericho]]**
-  * **[[:mr:obe:other:rahab]]**
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:promise]]**
+  *
 
+**शेवटी तो वेळ आली**  - "शेवटी" म्हणजे "शेवटी" किंवा, "एक लांब प्रतीक्षे नंतर."
+त्या "वेळेचा", संदर्भ स्पष्ट करण्यासाठी, आपण असे म्हणू शकतो "ते 40 वर्षे वाळवंटात भटकल्या नंतर, देव शेवटी परवानगी देतो."
 
-==== Translation Notes: ====
+  *
 
+**यरीहो या कनानी शहरात दोन हेर**  - हे असे म्हणून, भाषांतरित केले जाणार "कनान नगरातील यरीहोत, दोन माणसे, त्याची माहिती शोधण्यासाठी."
+[14-04] {5] [6} देखील नोट्स पाहा, "देश हेरण्यास गेले".
 
-  * **At last it was time for** - "At last" means "finally" or, "after a long wait." To make it clear what "time" refers to, you could say, "after they had wandered in the desert for 40 years, God finally permitted."
-  * **two spies to the Canaanite city of Jericho** - This could be translated as, "two men to Jericho, a city in Canaan, to find out information about it." Also see the notes for, "spy out the land" in **[[:mr:obs:notes:frames:14-04|[14-04]]]**.
-  * **protected by strong walls** - This could be translated as, "completely surrounded by thick, strong walls made of stone to protect it from their enemies."
-  * **escape** – It is also possible to add, "escape from people in Jericho who wanted to harm them."
-  * **her family** - Rahab asked for protection for her father, mother, brothers, and sisters. Use your word for family that includes these people.
+  *
 
+**भक्कम तटबंदीने संरक्षित**  – हे असे भाषांतरित केले जाईल " त्यांनी आपल्या शत्रूंपासुन संरक्षण करण्यासाठी, पूर्णपणे जाड, दगडाची बनलेली भक्कम तटबंदीने वेढलेली आहे."
+  *
 
+**पळून जाणे -**  यात आणखी जोडणे, “यरीहोच्या लोकपासून सुटका जे त्यांना धरु पाहत होते.”
+  *
+
+**तिचे कुटुंब -**  रहाबने तिचे वडील, आई, भाऊ, बहिणी याचे संरक्षण मागितले.
+कुटुंबासाठी तुमचा शब्द वापरा ज्यात या लोकांना समावेश आहे.
+
+**__<<__ **** | __Up__ | __>>__ **
 **[[:mr:obs:notes:frames:14-15|<<]] | [[:mr:obs:notes:15|Up]] | [[:mr:obs:notes:frames:15-02|>>]]**
