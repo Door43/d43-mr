@@ -1,23 +1,29 @@
-===== The Twelve Spies [14-04] =====
+===== **बारा हेर** [14-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-04.jpg?nolink}}
+जेव्हा **इस्त्राएल** **कनानच्या** सिमेवर पोहचले, **मोशेनी इस्त्राएलाच्या** प्रत्येक वंशातून एक, अशी बारा माणसे निवडल त्याने त्या माणसांना सुचना दिल्या, जा आणि **देश हेरा** पहा तो कसा आहे. आणखी त्यांनी हे ही पहायचे होते की **कनानी ते बलवान आहेत की कमजोर**.
 
-When the **Israelites** reached the border of **Canaan**, **Moses** chose twelve men, one from each tribe of **Israel**. He gave the men instructions to go and **spy on the land** to see what it was like. They were also to **spy on the Canaanites to see if they were strong or weak**.
-===== Important Terms: =====
+**महत्वाचे शब्दः **
 
+  * **इस्त्राएली**
+  * **कनान**
+  * **मोशे**
+  * **इस्त्राएल**
+  * **कनानी**
+**भाषांतरित टिपाः **
 
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:canaan]]**
-  * **[[:mr:obe:other:moses]]**
-  
+  *
 
-==== Translation Notes: ====
+**देश हेरा**  - याचे भाषांतर असे करता येईल, “गुप्तपणे त्या देशाची माहिती मिळविणे,” किंवा, “गुप्तपणे त्या देशाचा आभ्यास करणे.”
+देशात कोणत्या प्रकारचे धान्य निघते हे पाहणे हा हेरांच्या कामातील एक भाग होता.
 
+  *
 
-  * **spy on the land** - This could be translated as, "secretly get information about the land" or, "secretly learn about the land." Part of the spies' task was to find out what kinds of food the land could produce.
-  * **spy on the Canaanites** - This could be translated as, "secretly get information about the people of Canaan" or, "secretly learn about the Canaanites."
-  * **to see if they were strong or weak** - They wanted to know if the Canaanites were prepared to fight against them. This could be translated as, "to find out how powerful the Canaanite armies were."
+**कनान्याना हेरणे**  - याचे भाषांतर असे करता येईल, “गुप्तपणे कनानी लोकांविषयी माहिती काढणे,” किंवा, “गुप्तपणे कनानी लोकांचा अभ्यास करणे.”
+  *
 
+**ते बलवान आहेत की कमजोर ते पाहणे – ** त्यांना या गोष्टची माहिती हवी होती के ते त्यांच्या विरुद्ध लढायला तयार आहेत की नाही.
+याचे भाषांतर असे करता येईल, “कनान्याची सेना किती शक्तिशाली आहे हे शोधून काढणे.”
 
 **[[:mr:obs:notes:frames:14-03|<<]] | [[:mr:obs:notes:14|Up]] | [[:mr:obs:notes:frames:14-05|>>]]**
