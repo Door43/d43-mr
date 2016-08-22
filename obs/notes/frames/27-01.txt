@@ -1,26 +1,21 @@
-===== The Lawyer's Question [27-01] =====
+===== शास्त्र्याचा प्रश्न [27-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink&}}
 
+**एके दिवशी**,**यहूद्यांच्या नियमशास्त्रात पारंगत** असलेल्या एका व्यक्तीने **येशूची परीक्षा** पाहाण्याकरीता त्याला म्हटले, ”गुरुजी, **सार्वकालिक जीवन मिळविण्याकरीता** मी काय केले पाहिजे?” येशूने उत्तर दिले, “**देवाच्या नियमशास्त्रात काय लिहीले आहे**?”
+===== महत्वाचे शब्दः =====
 
-**One day**, an **expert in the Jewish law** came to **Jesus to test him**, saying, “**Teacher**, what must I do **to inherit eternal life**?” Jesus answered, “**What is written in God's law**?”
-===== Important Terms: =====
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **गुरुजी,गुरुजी**
+  * **वतन मिळविणे, वतन, वारसा, वारस**
+  * **सार्वकालिक,सार्वकालिक,सर्वकाल**
+  * **नियम, मोशेचे नियमशास्त्र,देवाचे नियमशास्त्र,यहोवाचे नियमशास्त्र**
+===== भाषांतर टीपाः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:teacher]]**
-  * **[[:mr:obe:kt:inherit]]**
-  * **[[:mr:obe:kt:eternity]]**
-  * **[[:mr:obe:kt:lawofmoses]]**
-
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **expert in the Jewish law** - This man was someone who studied and taught the laws God had given the Israelites, as well as other Jewish laws.
-  * **to test him** - That is, "to see if Jesus would give a good answer."
-  * **to inherit eternal life** - That is, "to have life with God forever" or, "so that God will give me life with him forever" or, "to receive eternal life from God." The law expert was asking how he could be worthy to receive eternal life as an inheritance from God the Father.
-  * **eternal life** - This refers to life forever with God after the mortal body dies. See the key term page for eternal life.
-  * **What is written in God's law?** - That is, "What is written in God's law about this?" Jesus asked this question because he wanted the man to think about what God's law really teaches.
-
-
+  * **एके दिवशी**  – हा वाक्यांश पुर्वी घडून गेलेल्या घटनेविषयी सांगतो,पण निश्चित वेळ सांगत नाही. पुष्कळ भाषांमध्ये एखादी खरी गोष्ट सांगण्याची सुरुवात अशा पद्धतीने करतात.
+  * **यहूदी धर्मशास्त्रात पारंगत**  – देवाने इस्राएल लोकांना जे नियमशास्त्र दिले होते त्याचा अभ्यास केलेला व इतरांना शिकवलेला असा हा माणूस होता. तसेच इतर यहूदी नियमांचासुद्धा त्याचा अभ्यास होता.
+  * **त्याची परीक्षा घेण्याकरीता**  – म्हणजे, “येशू चांगले उत्तर देतो का नाही ते पाहावे म्हणून.”
+  * **सार्वकालिक जीवन हे वतन मिळावे**  – म्हणजे, “देवाबरोबर सदासर्वकालचे जीवन मिळणे” किंवा,  “देव मला त्याच्याबरोबर सर्वकालचे जीवन देईल” किंवा  “देवापासून सर्वकालचे जीवन मिळणे.” तो शास्त्री विचारीत होता की देवपित्यापासून सार्वकालिक जीवन हे वतन मिळण्यासाठी मी कसा किंवा काय केल्याने योग्य होईन.
+  * **सार्वकालिक जीवन**  – मर्त्य शरीर मेल्यानंतर देवाबरोबरचे सर्वकाळचे जीवन. सार्कालिक जीवन शब्दासाठी महत्वाचे शब्द पान पाहा.
+  * **देवाच्या नियमशास्त्रात काय लिहीले आहे****?**  – म्हणजे, “याविषयी देवाच्या नियमशास्त्रात काय लिहीले आहे?” येशूने हा प्रश्न विचारला कारण त्याला वाटले की ह्या माणसाने विचार करावा की खरेच देवाचे नियमशास्त्र काय शिकवते.
 **[[:mr:obs:notes:frames:26-10|<<]] | [[:mr:obs:notes:27|Up]] | [[:mr:obs:notes:frames:27-02|>>]]**
