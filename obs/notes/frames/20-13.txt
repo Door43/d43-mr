@@ -1,28 +1,20 @@
-===== The Temple Was Rebuilt [20-13] =====
+===== मंदिर पुन्हा बांधले जाते [20-13] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink}}
+जेंव्हा लोक **यरुशलेममध्ये** आले, त्यांनी पुन्हा **मंदिर** बांधले आणि शहराभोवतलचा **तट** पुन्हा बांधला. जरी त्यांच्यावर अजून **इतर लोक राज्य करीत होते, तरी पुन्हा एकदा** ते **वचनदत्त देशात** राहात होते आणि **मंदिरात उपासना करीत होते**.
+===== महत्वाचे शब्दः =====
 
+  * **यरुशलेम**
+  * **मंदिर**
+  * **वचनदत्त देश**
+  * **उपासना**
+===== भाषांतर टीपाः =====
 
-When the people arrived in **Jerusalem**, they rebuilt the **Temple** and **the wall** around the city. Although they were still **ruled by other people**, **once again** they lived in the **Promised Land** and **worshiped at the Temple**.
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:other:jerusalem]]**
-  * **[[:mr:obe:kt:temple]]**
-  * **[[:mr:obe:kt:promisedland]]**
-  * **[[:mr:obe:kt:worship]]**
-
-
-==== Translation Notes: ====
-
-
-  * **the people** - That is, the Israelites, the descendants of Jacob, who were now called the Jews.
-  * **the wall** - This wall was very thick (2.5 meters) and was built to protect the city from attackers.
-  * **ruled by other people** - That is, another nation controlled them. The Jews were ruled by the Persians at this time, and later by other nations.
-  * **once again** - In some languages this might need to be translated as, "now" or, "as their ancestors had done" or, "just as before the Exile."
-  * **worshiped at the Temple** - They worshiped Yahweh, the One True God, at the Temple they rebuilt.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **लोक**  – म्हणजे, इस्राएल लोक,याकोबाचे वंशज,ज्यांना आता यहूदी म्हणण्यात येत होते.
+  * **तट**  – ही भिंत खूप जाड होती (2.5मीटर ) आणि हल्ला करणा-यांपासून शहराचे संरक्षण व्हावे म्हणून बांधली होती.
+  * **इतर लोक राज्य करीत होते**  – म्हणजे, इतर राष्ट्राच्या लोकांचे त्यांच्यावर नियंत्रण होते. ह्यावेळी त्यांच्यावर पारसाचे राज्य होते, आणि नंतर इतर राष्ट्राचे.
+  * **पुन्हा एकदा**  – काही भाषांमध्ये असे भाषांतर करण्याची गरज असेल जसे, "आता" किंवा, "जसे त्यांच्या पुर्वजांनी केले" किंवा, "जसे पाडावपणाच्या पुर्वी."
+  * **मंदिरात उपासना केली**  – त्यांनी पुन्हा बांधलेल्या मंदिरात यहोवाची, एक खरा देव, त्याची उपासना केली.
+  * //बायबल कथा संदर्भ – कांही बाययबलच्या भाषांतरांमध्ये हे संदर्भ थोडेसे वेगळे असू शकतील.//
 **[[:mr:obs:notes:frames:20-12|<<]] | [[:mr:obs:notes:20|Up]] | [[:mr:obs:notes:frames:21-01|>>]]**
