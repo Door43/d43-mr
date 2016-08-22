@@ -1,24 +1,20 @@
-===== How Many Times? [29-01] =====
+===== कितीवेळा? [29-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
-**One day**, **Peter** asked **Jesus**, “**Master**, how many times should I **forgive my brother** when he **sins against me**? As many as seven times?” Jesus said, “**Not seven times**, **but seventy times seven**!” **By this, Jesus meant** that we should always forgive. Then Jesus told the following story.
-===== Important Terms: =====
+**एके दिवशी**, **पेत्राने येशूला** विचारले, “**प्रभुजी**,माझ्या भावाने **माझ्या विरुद्ध पाप केले असता** कितीवेळा **मी त्याला क्षमा करु**? सातवेळा काय?” येशूने म्हटले, सात वेळा नाही,** ** पण साताच्या सत्तर वेळा!” **यावरुन, येशूला म्हणायचे आहे** की आपण नेहमी क्षमा करावी. नंतर येशूने खालील गोष्ट सांगितली.
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:kt:forgive]]**
-  * **[[:mr:obe:kt:sin]]**
+  * **पेत्र,शिमोन पेत्र,केफा**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **प्रभु,धनी,महाराज**
+  * **क्षमा करणे,क्षमा**
+  * **पाप,पापयुक्त,पापी,पाप करीत राहणे**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **my brother** - This term sometimes included people who were not actually siblings, but who shared another very strong connection such as religion, ethnic background, etc.
-  * **sins against me** - This could also be translated as, "does something wrong against me."
-  * **Not seven times, but seventy times seven!** - This could be translated as, "You should not forgive only seven times, rather you should forgive seventy times seven times." Jesus was not talking about an exact number. He was saying that we should forgive people every time they sin against us.
-  * **By this, Jesus meant** - That is, "When Jesus said this he meant."
-
-
+  * **एके दिवशी**  – हे वाक्यांश एखादी घटना पुर्वी घडून गेली आहे हे सांगते पण निश्चीत वेळ सांगत नाही. पुष्कळ भाषांमध्ये एखादी खरी गोष्ट सांगत असतांना अशीच सुरुवात करतात.
+  * **माझा भाऊ**  – हा शब्द कधी कधी भावाबरोबर इतर लोकांसाठीही वापरला जातो, पण त्यासाठी काहीतरी जवळचा संबंध असावा लागतो उदा. धर्म पार्श्वभुमी इ.
+  * **माझ्याविरुद्ध पाप केले असता**  - याचे भाषांतर असे सुद्धा होऊ शकेल, "माझ्याविरुद्ध काही चूक केली तर."
+  * **सात वेळा नाही तर साताच्या सत्तर वेळा****!**  - याचे भाषांतर असे सुद्धा होऊ शकेल, "तू फक्त सात वेळा क्षमा करु नये तर,साताच्या सत्तर वेळा क्षमा करावीस." येशू बरोबर संख्या सांगत नाही. तो म्हणत आहे की आपण लोकांना प्रत्येक वेळी क्षमा करावी.
+  * **यावरुन, य़ेशूला म्हणायचे होते**  – म्हणजे, "जेंव्हा येशू हे बोलला त्याचा अर्थ हा होता. "
 **[[:mr:obs:notes:frames:28-10|<<]] | [[:mr:obs:notes:29|Up]] | [[:mr:obs:notes:frames:29-02|>>]]**
