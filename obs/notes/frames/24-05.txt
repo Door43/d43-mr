@@ -1,19 +1,17 @@
-===== Not the Messiah [24-05] =====
+===== मशीहा नाही [24-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&}}
 
-Some **Jews** asked **John** if he was the **Messiah**. John replied, “I am not the Messiah, but there is someone coming after me. **He is so great** that I am **not even worthy to untie his sandals**.”
-===== Important Terms: =====
+**कांही यहूद्यांनी** **योहानाला** विचारले की तो **मशीहा** आहे की काय. योहानाने उत्तर दिले, “मी मशीहा नाही, पण कोणी एक आहे जो माझ्यामागून येत आहे. **तो एवढा मोठा आहे** की **त्याच्या वाहणांचा बंद सोडायला मी योग्य नाही.****”**
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:jew]]**
-  * **[[:mr:obe:other:johnthebaptist]]**
-  * **[[:mr:obe:kt:christ]]**
+  * **यहूदी**, **यहूदीय**, **यहूदी**
+  * **योहान (बाप्तिस्मा करणारा)**
+  * **ख्रिस्त,मशीहा**
+  *
 
+===== भाषांतर टीपाः =====
 
-===== Translation Notes: =====
-
-  * **He is so great** - This could be translated as, "He is so important."
-  * **not even worthy to untie his sandals** - In other words, "compared to him, I am not important enough to do even the most menial task for him." Untying sandals was a very low job, something a slave would do.
-
-
+  * **तो फार महान आहे**  – ह्याचे भाषांतर असे करता येईल, “तो फार महत्वाचा आहे.”
+  * **त्याच्या वाहणांचा बंद सोडायला सुद्धा मी योग्य नाही**  – दुस-या शब्दात, “त्याच्याशी माझी तुलना करायची झाली तर, त्याचे अगदी हलके काम करायला देखिल मी पात्र नाही.” वाहणांचा बंद सोडणे हे फार हलक्या दर्जाचे काम होते, जे एखादा गुलाम करीत असे.
 **[[:mr:obs:notes:frames:24-04|<<]] | [[:mr:obs:notes:24|Up]] | [[:mr:obs:notes:frames:24-06|>>]]**
