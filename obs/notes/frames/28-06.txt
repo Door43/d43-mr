@@ -1,20 +1,16 @@
-===== The Camel and the Needle [28-06] =====
+===== उंट आणि सुई [28-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink&}}
 
-Then **Jesus** said to his **disciples**, “It is extremely hard for rich people to **enter into the kingdom of God**! Yes, it is easier for a **camel** to go through the **eye of a needle** than for a rich man to enter the kingdom of God.”
-===== Important Terms: =====
+मग **येशू** आपल्या **शिष्यांना** म्हणाला, “ श्रीमंतांचा / धनवानांचा **देवाच्या राज्यात प्रवेश होणे फार कठीण आहे**! होय, श्रीमंत माणसाचा देवाच्या राज्यात प्रवेश होणे यापेक्षा **उंटाला** **सुईच्या नाकातून** जाणे सोपे आहे.
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:kingdomofgod]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **शिष्य**
+  * **देवाचे राज्य,स्वर्गाचे राज्य**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **enter the kingdom of God** - This can also be translated as, "become a citizen in God's kingdom."
-  * **camel** - Camels are very large animals that are often used to carry heavy loads. If camels are not known in your language area, a phrase such as, "very large animal" or, "beast of burden" could be used. If you choose to substitute the name of some other large animal, make sure that the animal would have been known by the people Jesus was talking to, such as, "ox" or, "donkey."
-  * **eye of a needle** - This refers to the tiny hole in the end of a sewing needle. The idea of something as large as a camel going through the eye of a needle is intended to represent something that is impossible.
-
-
+  * **देवाच्या राज्यात प्रवेश**  – याचे भाषांतर असे सुद्धा होऊ शकेल, "देवाच्या राज्याचे नागरिक होणे."
+  * **उंट**  – उंट हे फार मोठे प्राणी असतात त्यांचा उपयोग बहुधा जड ओझी वाहून नेण्यास करतात. जर तुमच्या भाषेत उंट हा प्राणी ओळखीचा नसेल,तर "फार मोठा प्राणी" किंवा, "ओझे वाहणारा प्राणी" असे शब्द वापरु शकता.जर तुम्ही याला पर्याय म्हणून दुस-या मोठ्या प्राण्याचे नाव वापराल तर येशू बोलत असलेल्या "बैल", "गाढव" यासारखे प्राणी लोकांना माहीत आहेत याची खात्री करा.
+  * **सुईचे नाक**  – हे सुईच्या एका टोकाला असलेल्या लहान छिद्राचा उल्लेख करते. उंटासारखा मोठा प्राणी सुईच्या नाकातून जाणे ही अगदी अशक्य गोष्ट आहे ही कल्पना इथे समोर मांडण्याचा हेतू आहे.
 **[[:mr:obs:notes:frames:28-05|<<]] | [[:mr:obs:notes:28|Up]] | [[:mr:obs:notes:frames:28-07|>>]]**
