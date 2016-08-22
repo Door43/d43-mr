@@ -1,24 +1,26 @@
-===== The Trip to Bethlehem [23-04] =====
+===== **बेथलहेमचा प्रवास ** [23-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink&}}
 
+**जेंव्हा मरीयेची बाळाला जन्म देण्याची वेळ आली**, तेंव्हा **रोमी सरकारने** **जनगणनेसाठी** प्रत्येकाने आपापल्या पूर्वजांच्या गावी जावे असे सांगितले. योसेफ आणि मरीयेला ते राहात होते त्या नासरेथ पासून बेथलेहेम पर्यंत एक लांबचा प्रवास करावा लागला कारण त्यांचा पूर्वज दाविद हा बेथलेहेम गावचा होता.
 
-**When the time was near for Mary to give birth**, the **Roman government** told everyone to go **for a census** to the town where their ancestors had lived. **Joseph** and Mary had to make a long journey from where they lived in **Nazareth** to **Bethlehem** because their ancestor was **David** whose hometown was Bethlehem.
-===== Important Terms: =====
+**महत्वाचे शब्दः**
 
-  * **[[:mr:obe:other:mary]]**
-  * **[[:mr:obe:other:rome]]**
-  * **[[:mr:obe:other:josephnt]]**
-  * **[[:mr:obe:other:nazareth]]**
-  * **[[:mr:obe:other:bethlehem]]**
-  * **[[:mr:obe:other:david]]**
+  * **मरीया, येशूची आई**
+  * **रोम, रोमी**
+  * **योसेफ (न.क.)**
+  * **नासरेथ, नासोरी**
+  * **बेथलहेम, एफ्राथा**
+  * **दाविद**
+**महत्वाचे शब्दः**
 
+  *
 
-===== Translation Notes: =====
+**जेंव्हा मरीयेचा बाळाला जन्म देण्याचा समय जवळ आला**  – म्हणजे, “जेंव्हा मरीयेचा गरोदरपणाचा काळ संपत आला.”
+  *
 
-  * **When the time was near for Mary to give birth** - That is, "When it was near the end of Mary's pregnancy."
-  * **Roman government** - Rome had conquered and ruled over Israel at this time.
-  * **for a census** - That is, "to be counted for the government record" or, "so that the government could write their names on a list" or, "to be counted by the government." This census was probably made for the purpose of taxing the people.
+**रोमी सरकार**  – त्या दिवसांत रोमने इस्राएलला जिंकले होते आणि ते त्यांच्यावर राज्य करीत होते.
+  *
 
-
+**जनगणनेसाठी**  – म्हणजे, “सरकारच्या नोंदणीत मोजले जाणे” किंवा, “सरकारच्या यादीत त्यांची नावे लिहीली जाणे” किंवा, “सरकारकडून मोजणी होणे.” ही जनगणना बहुधा लोकांवर कर लावण्यासाठी झाली असावी.
 **[[:mr:obs:notes:frames:23-03|<<]] | [[:mr:obs:notes:23|Up]] | [[:mr:obs:notes:frames:23-05|>>]]**
