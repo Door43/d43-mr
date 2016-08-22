@@ -1,24 +1,19 @@
-===== The Second Temptation [25-04] =====
+===== **दुसरी परीक्षा** [25-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink&}}
 
-**Then Satan** took **Jesus** to the highest point on the **Temple** and said, “If you are the **Son of God**, **throw yourself down**, because **it is written**, ‘**God** will command his **angels** to carry you **so your foot does not hit a stone**.’”
+**मग सैतानाने येशूला** **मंदिराच्या** उंच टोकावर नेले आणि म्हणाला, “तू जर **देवाचा पुत्र** असशील **तर तू खाली उडी टाक**,कारण **असे लिहीले आहे**, ‘**देव** आपल्या **दूतांस** तुझ्याविषयी आज्ञा करील आणि **तुझ्या पायाला धोंड्याची ठेच लागू नये** म्हणून ते तुला हातांवर झेलून धरतील.”’
+===== महत्वाचे शब्दः =====
 
-===== Important Terms: =====
+  * **सैतान,सैतान,दुष्टआत्मा**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **मंदिर**
+  * **देवाचा पुत्र, एकुलताएक पुत्र, पुत्र**
+  * **देव**
+  * **देवदूत, आद्य देवदूत**
+===== भाषांतर टीपाः =====
 
-  * **[[:mr:obe:kt:satan]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:temple]]**
-  * **[[:mr:obe:kt:sonofgod]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:angel]]**
-
-
-===== Translation Notes: =====
-
-  * **throw yourself down** - That is, "jump off this building to the ground."
-  * **it is written** - That is, "a prophet of God wrote long ago."
-  * **so your foot does not hit a stone** - This means, "so that you will not be hurt at all; not even your foot will be injured on a stone." It could also be translated as, "so that even your foot will not strike against a stone; you will not be injured at all."
-
-
+  * **खाली उडी टाक**  – म्हणजे, “ह्या इमारतीवरुन खाली जमिनीवर उडी टाक.”
+  * **असे लिहीले आहे**  – म्हणजे, “देवाच्या संदेष्ट्याने फार पुर्वी लिहून ठेवले. ”
+  * **म्हणजे तुझ्या पायाला धोंड्याशी ठेच लागणार नाही**  – याचा अर्थ, “तुला मुळीच दुखापत होणार नाही; तुझ्या पायाला मुळीच जखम होणार नाही.” याचे असे सुद्धा भाषांतर होईल, “म्हणजे तुझा पाय धोंड्यावर आपटणार नाही; तुला मुळीच इजा होणार नाही.”
 **[[:mr:obs:notes:frames:25-03|<<]] | [[:mr:obs:notes:25|Up]] | [[:mr:obs:notes:frames:25-05|>>]]**
