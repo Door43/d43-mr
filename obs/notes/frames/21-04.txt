@@ -1,23 +1,26 @@
-===== A Descendant of David [21-04] =====
+===== **दाविदाचा एक वंशज** [21-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink}}
+**देवाने दाविद राजाला अभिवचन दिले** की त्याच्या स्वतःच्या **वंशातील** एक देवाच्या लोकांवर **राजा** म्हणून सर्वकाळ राज्य करील. याचा अर्थ **मशीहा** **दाविदाच्या स्वतःच्या संतानांपैकी** एक असेल.
+===== **महत्वाचे शब्द**: =====
 
-**God promised King David** that one of his own **descendants** would rule as **king** over God’s people forever. That meant that the **Messiah** would be one of **David’s own descendants**.
-===== Important Terms: =====
+  *
 
+**देव**
+  *
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:promise]]**
-  * **[[:mr:obe:other:david]]**
-  * **[[:mr:obe:kt:christ]]**
-  * **[[:mr:obe:other:descendant]]**
+**अभिवचन**
+  *
 
+**दाविद**
+  *
 
-==== Translation Notes: ====
+**ख्रिस्त, मशीहा**
+  *
 
+**वंशज/ संतान**
+==== भाषांतर टीपा : ====
 
-  * **David's own descendants** - Another way to say this would be, "a direct descendant of David himself."
-
-
+  * **दाविदाचे स्वतःचे संतान**- दुस-या शब्दात सांगायचे झाले तर असे म्हणता येईल की, “ प्रत्यक्ष दाविदाकडून आलेले संतान.”
 **[[:mr:obs:notes:frames:21-03|<<]] | [[:mr:obs:notes:21|Up]] | [[:mr:obs:notes:frames:21-05|>>]]**
