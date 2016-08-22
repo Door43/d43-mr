@@ -1,19 +1,15 @@
-===== Help for the Victim [27-09] =====
+===== संकटात सापडलेल्याला मदत [27-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink&}}
 
-“The **Samaritan** then lifted the man onto **his own donkey** and took him to a **roadside inn where he took care of him**.”
-===== Important Terms: =====
+“**शोमरोन्याने** त्या माणसाला उचलले व **आपल्या गाढवावर** बसवले आणि त्याला **रस्त्याच्या कडेला असलेल्या खानावळीत नेले तेथे त्याने त्याची काळजी घेतली**.”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:samaria]]**
+  * **शोमरोन, शोमरोनी**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **his own donkey** - Make sure it is clear that "his" refers to the Samaritan.
-  * **roadside inn** - That is, "a lodging place." This is a place where travelers could get food and stay overnight.
-  * **where he took care of him** - This could also be translated as, "where he continued to take care of him."
-
-
+  * (येशू पुढे गोष्ट सांगत राहतो.)
+  * **स्वतःच्या गाढवावर**  – “त्याचे” म्हणजे शोमरोन्याचे हे स्पष्ट समजले पाहिजे याची खात्री करुन घ्या.
+  * **रस्त्याच्या कडेची खानावळ**  – म्हणजे, “राहण्याची सोय असलेली खानावळ.” ही एक अशी जागा की जेथे प्रवाशांना जेवण मिळत असे व ऱात्रीचा मुक्काम करता येत असे.
+  * **तेथे त्याने त्याची काळजी घेतली**  – याचे असेही भाषांतर करता येईल, “तेथे तो त्याची काळजी घेत राहीला.”
 **[[:mr:obs:notes:frames:27-08|<<]] | [[:mr:obs:notes:27|Up]] | [[:mr:obs:notes:frames:27-10|>>]]**
