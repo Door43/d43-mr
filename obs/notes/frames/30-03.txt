@@ -1,21 +1,18 @@
-===== Jesus Taught and Healed People [30-03] =====
+===== येशूने लोकंना शिक्षण दिले व बरे केले [30-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink&}}
 
-The crowd had over 5,000 men in it, **not counting the women and children**. **Jesus** felt great compassion towards the people. **To Jesus**, these people were **like sheep without a shepherd**. So he taught them and **healed** the people among them who were sick.
-===== Important Terms: =====
+लोकसमुदायात 5,000 पेक्षा जास्त पुरुष होते, **स्त्रिया व मुले यांना मोजले नव्हते. येशूला** लोकांचा फार कळवळा आला. **येशूला**, हे लोक **मेंढपाळ नसलेल्या मेंढरांसारखे वाटले**. मग त्याने लोकांना शिकवले आणि त्यांच्यातील आजा-यांना **बरे** केले.
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:sheep]]**
-  * **[[:mr:obe:other:shepherd]]**
-  * **[[:mr:obe:other:heal]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **मेंढरे,मेंढा,कोकरे**
+  * **मेंढपाळ,मेंढपाळ होणे/मेंढरांची देखभाल करणे**
+  * **बरे करणे,रोगमुक्त करणे**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **not counting the women and children** - That is, "not counting the women and children who were with them" or, "and there were also women and children in addition to the men." Another way to translate this could also be, "in addition, there were many women and children."
-  * **To Jesus** - That is, "Jesus knew that" or, "Jesus understood that."
-  * **like sheep without a shepherd** - This could be translated as, "vulnerable and lost, just like sheep are when they have no shepherd to take care of them."
-
-
+  * **स्त्रिया व लेकरे यांना न मोजता**  – म्हणजे, "त्यांच्या बरोबर असलेल्या स्त्रियांना व मुलांना मोजले नव्हते" किंवा, "आणि पुरुषाशिवाय अजून स्त्रिया व लेकरे वेगळीच होती."
+  * **दुस**-या पद्धतीने याचे भाषांतर असे सुद्धा होऊ शकेल, "त्याच्यात अधिक भर म्हणजे,तेथे पुष्कळ स्त्रिया व मुले होती."
+  * **येशूला**  – म्हणजे, "येशूला माहीत होते" किंवा, "येशूला समजले की."
+  * **मेंढपाळ नसलेल्या मेंढरांसारखे**  - याचे भाषांतर असे होऊ शकेल, "कोणीही शिकार करावी असे व हरवलेले, अगदी एखाद्या काळजी घ्यायला मेंढपाळ नसलेल्या मेंढरांसारखे."
 **[[:mr:obs:notes:frames:30-02|<<]] | [[:mr:obs:notes:30|Up]] | [[:mr:obs:notes:frames:30-04|>>]]**
