@@ -1,18 +1,14 @@
-===== Preparation for the Meal [30-06] =====
+===== जेवणाची तयारी [30-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink&}}
 
+**येशूने शिष्यांना** सांगितले की समुदायातील लोकांना गवतावर पन्नासाच्या पंक्तीने बसायला सांगा.
+===== महत्वाचे शब्दः =====
 
-**Jesus** told his **disciples** to tell the people in the crowd to sit down on the grass, in groups of fifty people each.
-===== Important Terms: =====
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **शिष्य**
+===== भाषांतर टीपाः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:disciple]]**
-
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (ह्या चौकटीसाठी टीपा नाहीत.)
 
 **[[:mr:obs:notes:frames:30-05|<<]] | [[:mr:obs:notes:30|Up]] | [[:mr:obs:notes:frames:30-07|>>]]**
