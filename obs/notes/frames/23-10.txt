@@ -1,20 +1,30 @@
-===== Worship for the Baby [23-10] =====
+===== **बाळाला नमन ** [23-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?nolink&}}
 
-When the** wise men** saw Jesus with his mother, they **bowed down** and **worshiped** him. They gave Jesus **expensive** gifts. Then they returned home.
-===== Important Terms: =====
+जेंव्हा **ज्ञानी लोकांनी** येशूला त्याच्या आईजवळ पाहिले, त्यांनी **खाली वाकून** त्याला **नमन केले.** त्यांनी येशूला **मौल्यवान** देणग्या दिल्या. मग ते त्यांच्या घरी परतले.
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:worship]]**
+**महत्वाचे शब्दः**
 
+  *
 
-===== Translation Notes: =====
+**येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  *
 
-  * **wise men** - See how you translated this term in **[[:mr:obs:notes:frames:23-09|[23-09]]]**.
-  * **bowed down** - That is, "bowed low to the ground." At that time, this was the customary way of showing great respect or reverence.
-  * **expensive** - That is, "very valuable."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+**नमन करणे**
+**भाषांतर टीपाः**
 
+  *
+
+**ज्ञानी लोक**  -  **__\[23-09]__** मध्ये हा शब्द तुम्ही कसा भाषांतर केला आहे ते पाहा. टीपा:चौकटी:23-09
+  *
+
+**खाली वाकून**  – म्हणजे, “जमिनीपर्यंत खाली वाकून.” त्यावेळी, मोठा आदर किंवा सन्मान करण्याची ही पद्धत होती.
+  *
+
+**मौल्यवान**  – म्हणजे, “खूप किंमतीचे.”
+  *
+
+**बायबल कथा संदर्भ**  – हे संदर्भ काही बायबल भाषांतरांमध्ये थोडे वेगळे असू शकतात.
 
 **[[:mr:obs:notes:frames:23-09|<<]] | [[:mr:obs:notes:23|Up]] | [[:mr:obs:notes:frames:24-01|>>]]**
