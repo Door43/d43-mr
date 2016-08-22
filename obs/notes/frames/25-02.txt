@@ -1,21 +1,17 @@
-===== The First Temptation [25-02] =====
+===== **पहिली परीक्षा** [25-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink&}}
 
-**Satan tempted Jesus** by saying, “If you are the **Son of God**, **turn these rocks into bread** so you can eat!”
-===== Important Terms: =====
+सैतानाने असे बोलून येशूची परीक्षा घेतली, “तू देवाचा पुत्र असलास तर या धोंड्याच्या भाकरी कर म्हणजे तुला खाता येईल!”
 
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:satan]]**
-  * **[[:mr:obe:kt:tempt]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:sonofgod]]**
+  * **सैतान,सैतान,दुष्टआत्मा**
+  * **परीक्षेत पाडणे,परीक्षा/मोह**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **देवाचा पुत्र, एकुलताएक पुत्र, पुत्र**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **turn these rocks into bread** - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
-  * **bread** - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
-
-
+  * **ह्या धोंड्याच्या भाकरी कर**  – ह्याचे असेही भाषांतर करता येईल, “हे धोंडे भाकरी बनतील असे कर” किंवा, “दैवी शक्तीने हे धोंडे बदलून त्याची भाकर कर.”
+  * **भाकर**  – ह्याचे भाषांतर असेही करता येईल, “जेवण/अन्न” कारण कांही लोकांमध्ये / भाषांमध्ये सामान्यपणे भाकरी ही जेवणात नसते. यहूदी संस्कृतीमध्ये भाकर हे मुख्य अन्न होते.
 **[[:mr:obs:notes:frames:25-01|<<]] | [[:mr:obs:notes:25|Up]] | [[:mr:obs:notes:frames:25-03|>>]]**
