@@ -1,22 +1,18 @@
-===== Do Not Test God [25-05] =====
+===== देवाची परीक्षा पाहू नको [25-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink&}}
 
-But **Jesus** replied to **Satan** by quoting from the **scriptures**. He said, “**In God's word**, **he commands his people**, ‘**Do not test the Lord your God**.’”
-===== Important Terms: =====
+पण **येशूने** त्याला **शास्त्र वचनातून** उत्तर दिले. तो म्हणाला, “**देवाच्या वचनात,त्याने आपल्या लोकांना आज्ञा दिली आहे की, ****‘****तू आपल्या देवाची परीक्षा पाहू नकोस.**”’
+==== महत्वाचे शब्दः ====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:satan]]**
-  * **[[:mr:obe:kt:wordofgod]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:kt:god]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **सैतान,सैतान,दुष्टआत्मा**
+  * **देवाचे वचन,यहोवाचा शब्द,प्रभूचे वचन,शास्त्र**
+  * **प्रभु,धनी,महाराज**
+  * **देव**
+==== भाषांतर टीपाः ====
 
-
-===== Translation Notes: =====
-
-  * **In God's word, he commands his people, 'Do not test the Lord, your God.'"** - This could be translated as an indirect quote: "God commands us in his word that we should not test the Lord our God."
-  * **Do not test the Lord your God** - This could be translated as, "Do not make the Lord your God prove himself to you" or, "Do not make the Lord your God prove that he is good."
-  * **Lord your God** - That is, "Yahweh, your God" or, "Yahweh, who is God and has authority over you."
-
-
+  * **देवाच्या वचनात, तो आपल्या लोकांना आज्ञा देतो, ****‘****तू आपल्या देवाची परीक्षा पाहू नकोस**.’ याचे भाषांतर अप्रत्यक्ष कथनात करता येईलः “देव आपल्याला आज्ञा देतो की आपण देवाची परीक्षा पाहू नये.”
+  *  **तू आपला देव परमेश्वर याची परीक्षा पाहू नकोस**  – ह्याचे भाषांतर असे करता येईल, “तू आपल्या परमेश्वराला तुझ्यापुढे स्वतःला सिद्ध करायला लावू नकोस” किंवा, “तू आपला देव परमेश्वर याला तो चांगला आहे हे सिद्ध करायला लावू नकोस.”
+  * **प्रभु तुझा देव**  - म्हणजे “यहोवा, तुझा देव” किंवा, “यहोवा, जो देव आहे आणि ज्याला तुझ्यावर अधिकार आहे.”
 **[[:mr:obs:notes:frames:25-04|<<]] | [[:mr:obs:notes:25|Up]] | [[:mr:obs:notes:frames:25-06|>>]]**
