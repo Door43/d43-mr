@@ -1,23 +1,19 @@
-===== Jesus Read the Scriptures [26-03] =====
+===== येशू शास्त्रभाग वाचतो [26-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink&}}
 
-Jesus read, “**God** has given me his **Spirit** so that I can **proclaim good news to the poor**, **freedom to captives, recovery of sight for the blind**, and **release to the oppressed**. This is **the year of the Lord's favor**.”
-===== Important Terms: =====
+येशूने वाचले, “ **देवाने** आपला **आत्मा** मला दिला आहे यासाठी की मी **दीनांस सुवार्ता सांगावी**,**धरुन नेलेल्यांची सुटका, अंधळ्यास दृष्टि, आणि ठेचलेल्यांस मोकळे करावे**. हे **परमेश्वराचे कृपाप्रसादाचे वर्ष** आहे.”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:holyspirit]]**
-  * **[[:mr:obe:kt:goodnews]]**
-  * **[[:mr:obe:kt:lord]]**
+  * **देव**
+  * **पवित्र आत्मा,देवाचा आत्मा, प्रभुचा आत्मा**
+  * **चांगली बातमी, शुभवार्ता / सुवार्ता**
+  * **प्रभु,धनी,महाराज**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **proclaim good news to the poor** - That is, "to tell poor and needy people the good message that God will help them."
-  * **freedom to captives** - That is, "to tell people who are wrongfully in prison that they will be released."
-  * **recovery of sight for the blind** - This could be translated as, "that those who are blind will receive their sight."
-  * **release to the oppressed** - That is, "freedom for those who are mistreated in life."
-  * **the year of the Lord's favor** - This may be translated as, "the time when the Lord will be merciful to us" or, "the time when the Lord will be very gracious to us."
-
-
+  * **दीनांस सुवार्ता सांगणे**  – म्हणजे, “गरीब व गरजू लोकांना चांगली बातमी सांगणे की देव त्यांने मदत करील.”
+  * **धरुन नेलेल्यांस सुटका**  - म्हणजे  “ज्यांना अन्यायाने तुरुंगात टाकले आहे त्यांना सांगणे की त्यांची सुटका होईल.”
+  * **अंधळ्यास दृष्टि**  – याचे भाषांतर असे होऊ शकते,  “ जे अंध आहेत त्यांना दृष्टि मिळेल.”
+  * **ठेचलेल्यांस मोकळीक**  – म्हणजे, “जीवनात ज्यांना अन्यायाची वागणूक मिळाली त्यांना मोकळे केले जाईल.”
+  * **प्रभु परमेश्वराच्या कृपाप्रसादाचे वर्ष**  – याचे असे भाषांतर करता येईल,“देव आपल्यावर दया करील अशी ही वेळ आहे” किंवा, “देव आपल्यावर फार कृपा करील अशी वेळ आहे.”
 **[[:mr:obs:notes:frames:26-02|<<]] | [[:mr:obs:notes:26|Up]] | [[:mr:obs:notes:frames:26-04|>>]]**
