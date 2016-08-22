@@ -1,20 +1,16 @@
-===== Generous Help [27-10] =====
+===== उदार मदत [27-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?nolink&}}
 
-“The next day, the **Samaritan** needed to **continue his journey**. He gave some money to the person **in charge of** the inn and said, ‘**Take care of hi**m, and if you spend any more money than this, I will **repay those expenses** when I return.’”
-===== Important Terms: =====
+“दुस-या दिवशी, **शोमरोन्याला** त्याच्या **पुढच्या प्रवासाला जायचे होते.** त्याने त्या खानावळीच्या **प्रमुखाला** काही पैसे दिले आणि म्हणाला, ‘**याची काळजी घ्या** आणि याच्यापेक्षा जास्त पैसे जर तुम्ही खर्च कराल,तर मी परत आल्यावर **ते परत देईन**.”’
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:samaria]]**
+  * **शोमरोन, शोमरोनी**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **continue his journey** - This could be translated as, "continue traveling toward his destination."
-  * **in charge of** - That is, "who managed." It could be that this person also owned this lodging place.
-  * **Take care of him** - For some languages it may be preferable to say, "Please take care of him" in order for it to be clear that this was a polite request, not an order.
-  * **repay those expenses** - This could also be translated as, "repay you" or, "repay that money" or, "repay it."
-
-
+  * (येशू पुढे गोष्ट सांगत राहीला.)
+  * **त्याचा पुढील प्रवास सुरु केला**- याचे भाषांतर असे करता येईल, “ज्याठिकाणी त्याला जायचे होते त्या प्रवासाला तो निघाला.”
+  * **प्रमुख**  – म्हणजे, “व्यवस्थापक.” असेही असू शकेल की ह्या व्यक्तीची ती स्वतःची खानावळ असेल.
+  * **याची काळजी घ्या **– कांही भाषांमध्ये असे म्हणणे बरे होईल की “ कृपा करुन ह्याची काळजी घ्या” यामुळे सभ्यतेने विनंती केल्याचे स्पष्ट होते, हुकूम नाही.
+  * **तो खर्च मी परत देईन**  – याचे भाषांतर असे सुद्धा होईल की, “मी तुला परत देईन” किंवा,  “ ते पैसे परत देईन” किंवा  “ते परत देईन.”
 **[[:mr:obs:notes:frames:27-09|<<]] | [[:mr:obs:notes:27|Up]] | [[:mr:obs:notes:frames:27-11|>>]]**
