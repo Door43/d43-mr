@@ -1,28 +1,21 @@
-===== Judah Served Babylon [20-06] =====
+===== यहूदाने बाबेलोनची सेवा केली [20-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink&}}
 
-About 100 years after the **Assyrians** destroyed the **kingdom of Israel**, God sent **Nebuchadnezzar**, **king** of the **Babylonians**, to attack the **kingdom of Judah**. **Babylon** was a powerful **empire**. The king of Judah agreed **to be Nebuchadnezzar’s servant** and pay him a lot of money every year.
-===== Important Terms: =====
+अश्शू-यांनी इस्राएल राज्याचा नाश केल्यानंतर 100 वर्षांनी, देवाने बाबेलोनच्या राजाला नबुखद्नेसराला, यहूदाच्या राज्यावर हल्ला करायला पाठवले. **बाबेलोन** हे सामर्थ्यशाली **साम्राज्य ** होते. यहूदाचा राजा **नबुखद्नेसराचा सेवक व्हायचे** मान्य करतो आणि प्रत्येक वर्षी पुष्कळ पैसा द्यायचे मान्य केले.
+===== महत्वाचे शब्दः =====
 
+  * **अश्शूर,अश्शूरी,अश्शूरी साम्राज्य**
+  * **इस्राएलाचे राज्य**
+  * **देव**
+  * **नबुखद्नेसर**
+  * **राजा**
+  * **बाबेलोन,बाबेलोनी**
+  * **यहूदा,यहूदाचे राज्य**
+  * **सेवक,गुलाम,गुलामी**
+===== भाषांतर टीपाः =====
 
-  * **[[:mr:obe:other:assyria]]**
-  * **[[:mr:obe:other:kingdomofisrael]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:nebuchadnezzar]]**
-  * **[[:mr:obe:other:king]]**
-  * **[[:mr:obe:other:babylon]]**
-  * **[[:mr:obe:other:kingdomofjudah]]**
-  * **[[:mr:obe:other:babylon]]**
-  * **[[:mr:obe:other:servant]]**
-
-
-==== Translation Notes: ====
-
-
-  * **empire** - See how you translated this in **[[:mr:obs:notes:frames:20-02|[20-02]]]**.
-  * **agreed to be** – The king of Judah was forced to either serve the Babylonian king or be destroyed.
-  * **to be Nebuchadnezzar's servant** - This could be translated as, "to govern Judah under Nebuchadnezzar's command."
-
-
+  * **साम्राज्य **-  **__[20-02]__** मध्ये तुम्ही कसे भाषांतर केले आहे ते पाहा.
+  * **मान्य केले**  – यहूदाच्या राजाला बाबेलोनच्या राजाची सेवा करण्याची सक्ती करण्यात आली होती नाहीतर त्याचा नाश करण्यात आला असता.
+  * **नबुखद्नेसराचा सेवक होणे**  – याचे असे भाषांतर करता येईल, "नबुखद्नेसराच्या हुकूमाखाली यहूदावर राज्य करणे."
 **[[:mr:obs:notes:frames:20-05|<<]] | [[:mr:obs:notes:20|Up]] | [[:mr:obs:notes:frames:20-07|>>]]**
