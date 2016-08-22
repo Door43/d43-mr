@@ -1,23 +1,20 @@
-===== The Ministry of Elisha [26-06] =====
+===== अलीशाची सेवा [26-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink&}}
 
-**Jesus** continued saying, “And during the time of the **prophet Elisha**, there were many people in **Israel** with skin diseases. But Elisha did not **heal** any of them. He only healed the skin disease of **Naaman**, **a commander** of Israel’s enemies.” The people who were listening to Jesus were **Jews**. So when they heard him say this, **they were furious at him**.
-===== Important Terms: =====
+**येशूने** पुढे म्हटले, “**अलीशा संदेष्ट्याच्या** काळात, **इस्राएलामध्ये** पुष्कळ कुष्ठरोगी होते. पण अलीशाने त्यापैकी कोणालाच **बरे** केले नाही. इस्राएलाच्या शत्रुचा **सेनापती नामान** याचा कुष्ठरोग बरा केला.” येशूचे बोलणे ऐकणारे लोक **यहूदी** होते. त्यांनी जेंव्हा त्याचे हे बोलणे ऐकले, तेव्हा **ते त्याच्यावर संतापले.**
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:prophet]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:heal]]**
-  * **[[:mr:obe:other:naaman]]**
-  * **[[:mr:obe:other:jew]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **संदेष्टा, संदेश (भविष्य), संदेश (भविष्य) सांगणे, पाहाणारा, संदेष्ट्री**
+  * **इस्राएल, इस्राएली, इस्राएल राष्ट्र**
+  * **बरे करणे, पूर्ण बरे करणे**
+  * **नामान**
+  * **यहूदी (ए.व.),यहूद्यांचे,यहूदी (अ.व.)**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **Elisha** - Elisha was God's prophet who came after Elijah. Like Elijah, Elisha confronted Israelite kings who were sinning against God and he did miracles that God gave him power to do.
-  * **a commander** - That is, "a military leader."
-  * **they were furious at him** - The Jews did not want to hear that God had blessed any people group besides themselves, so they were very angry at what Jesus said.
-
+  * **अलीशा**  – अलीशा हा देवाचा संदेष्टा होता एलीया नंतर हा झाला. एलीया प्रमाणे, अलीशाने देवाच्याविरुद्ध पाप करणा-या राजांचा निषेध केला आणि देवाने दिलेल्या सामर्थ्याने चमत्कार केले.
+  * **सेनापती**  – म्हणजे, “सैन्यांचा प्रमुख.”
+  * **ते त्याच्यावर संतापले**  – त्यांच्याशिवाय इतर लोकांना देवाने आशीर्वाद दिला हे यहूद्यांना ऐकायला नको होते, म्हणून येशूने जे सांगितले त्यामुळे ते खूप रागावले.
 
 **[[:mr:obs:notes:frames:26-05|<<]] | [[:mr:obs:notes:26|Up]] | [[:mr:obs:notes:frames:26-07|>>]]**
