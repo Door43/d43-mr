@@ -1,21 +1,17 @@
-===== The Priest [27-06] =====
+===== **याजक** [27-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink&}}
 
-“Soon after that, a **Jewish priest happened to walk down** that same road. When this **religious leader** saw the man who had been robbed and beaten, he moved to the other side of the road, **ignored the man** who needed help, and **kept on going**.”
-===== Important Terms: =====
+“त्यानंतर लगेच,त्याच वाटेने **एक यहूदी याजक खाली चालला होता**. जेंव्हा हा **धार्मिक पुढारी** पाहातो की ह्या माणसाला चोरांनी लुटलेले आहे मारलेले आहे तो रस्त्याच्या दुस-या बाजूने जातो, ह्या माणसाला मदतीची गरज होती **त्याच्याकडे दुर्लक्ष करुन** **पुढे चालत राहतो**.”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:jew]]**
-  * **[[:mr:obe:kt:priest]]**
-  * **[[:mr:obe:other:jewishleaders]]**
+  * **यहूदी, यहूद्यांचे,यहूदी**
+  * **याजक, याजकपद**
+  * **यहूदी पुढारी, यहूदी अधिकारी, धार्मिक पूढारी**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **happened to walk down** - That is, "happened to be traveling along." For some languages it may be necessary to use a word like "travel" rather than "walk" since the priest was not just walking on the road but was traveling to get to another city.
-  * **ignored the man** - That is, "did not help the man" or, "showed no concern for the man."
-  * **kept on going** - That is, "continued traveling down the road."
-
-
+  * (येशू गोष्ट सांगणे पुढे चालू ठेवतो.)
+  * **असे झाले की तो खाली चालला होता**  – म्हणजे, “असे झाले की तो तिकडून प्रवास करीत होता.” कांही भाषांमध्ये “प्रवास” यासारखा शब्द वापरण्याची गरज असेल नुसते “चालत” होता असे म्हणण्यापेक्षा कारण याजक असा नुसताच रस्त्यावरुन चालत नसतो पण तो दुस-या शहराकडे जाण्यासाठी प्रवास करीत असेल.
+  * **माणसाकडे दुर्लक्ष केले**  – म्हणजे, “त्या माणसाला मदत केली नाही” किंवा, “त्या माणसाला कांही आस्था दाखवली नाही.”
+  * **चालत राहिला**  – म्हणजे, “खाली प्रवास करीत राहिला.”
 **[[:mr:obs:notes:frames:27-05|<<]] | [[:mr:obs:notes:27|Up]] | [[:mr:obs:notes:frames:27-07|>>]]**
