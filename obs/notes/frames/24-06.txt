@@ -1,24 +1,20 @@
-===== Jesus Is the Lamb of God [24-06] =====
+===== येशू देवाचा कोकरा आहे [24-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink&}}
 
-The next day, **Jesus** came to be **baptized** by **John**. When John saw him, he said, “Look! **There is** the **Lamb of God** who **will take away** the **sin of the world**.”
-===== Important Terms: =====
+दुस-या दिवशी, **येशू योहानाकडे बाप्तिस्मा** घेण्यासाठी आला. जेंव्हा योहानाने त्याला पाहिले,तो म्हणाला, “पाहा ! **जगाचे पाप वाहून नेणारा देवाचा कोकरा**.”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:baptize]]**
-  * **[[:mr:obe:other:johnthebaptist]]**
-  * **[[:mr:obe:kt:lamb]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:sin]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **बाप्तिस्मा देणे, बाप्तिस्मा**
+  * **योहान (बाप्तिस्मा करणारा)**
+  * **कोकरा, देवाचा कोकरा**
+  * **देव**
+  * **पाप,पापमय,पाप करीत राहाणे**
+===== महत्वाचे शब्दः =====
 
-
-===== Translation Notes: =====
-
-  * **There is** - For some languages this would be, "Here is" or, "That man is."
-  * **Lamb of God** - This could also be translated as, "the Lamb from God" or, "the sacrifice Lamb that God has provided." Jesus was the perfect sacrifice for sin that God promised to provide. He fulfills the image that was presented by the sacrifice of lambs in the Old Testament.
-  * **will take away** - The sacrifice of Jesus causes God to look at our sin as if it never existed.
-  * **sin of the world** - That is, "the sin of the people in the world."
-
-
+  * **तेथे आहे**  – कांही भाषांमध्ये, “इथे आहे” किंवा, “तो माणूस.”
+  * **देवाचा कोकरा**  – ह्याचे असे सुद्धा भाषांतर करता येईल, “देवाने दिलेला कोकरा” किंवा, “देवाने पुरवून दिलेला अर्पणाचा कोकरा.” देवाने अभिवचनानुसार पुरवून दिलेला येशू हे पापासाठीचे परिपुर्ण अर्पण आहे. जुन्या करारात कोकरांच्या अर्पणाने जी कल्पना सादर केली जायची त्याची  पुर्णता येशू करतो.
+  * **वाहून नेईल**  – येशूच्या अर्पणामुळे आपण पाप केलेच नाही असे देव गणेल.
+  * **जगाचे पाप**  – म्हणजे, “जगातील लोकांचे पाप.”
 **[[:mr:obs:notes:frames:24-05|<<]] | [[:mr:obs:notes:24|Up]] | [[:mr:obs:notes:frames:24-07|>>]]**
