@@ -1,45 +1,40 @@
-====== 30. Jesus Feeds Five Thousand People ======
+====== 30. येशू पाच हजारांना जेवण देतो ======
 
+===== सिंहावलोकनः =====
 
-===== Overview: =====
+येशू आपल्या शिष्यांबरोबर एकांत स्थळी विश्रांती घेण्यासाठी जातो,पण पुष्कळ लोक त्यांच्यामागे जातात. मग त्याने त्यांना शिकवले व त्यांच्यातील आजा-यांना बरे केले. जेंव्हा त्यांना भूक लागली,तेंव्हा तेथे फक्त पाच भाकरी व दोन मासे पाच हजारांसाठी होते. परंतु,येशूने त्या अन्नावर आशीर्वाद मागितला आणि शिष्यांना ते लोकांना द्यायला सांगितले. सगळ्यांना पुरेसे खायला मिळाले व अन्न शिल्लकी राहिले.
 
+====== गोष्टीचे भाषांतर करा ======
 
-Jesus went with his disciples to a quiet place to rest, but many people followed them. So he taught them and healed their sick. When they became hungry, there were only two loaves of bread and two fish for five thousand people. However, Jesus blessed the food and told his disciples to give it to the people. Everyone had enough to eat, and there was even food left over.
+गोष्टीच्या प्रत्येक चौकटीचे भाषांतर करतांना खालील लिंकवर क्लिक करा.
 
+[[:mr:obs:notes:frames:30-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink&200}}]]\\
+एकांत ठिकाण  [30-01]
 
-====== Translate the Story ======
+[[:mr:obs:notes:frames:30-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?nolink&200}}]]\\
+लोकांचा समुदाय येशूच्या मागे जातो [30-02]
 
+[[:mr:obs:notes:frames:30-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink&200}}]]\\
+येशूने लोकंना शिक्षण दिले व बरे केले [30-03]
 
-Click on the links below to translate each frame of the story.
+[[:mr:obs:notes:frames:30-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?nolink&200}}]]\\
+लोक भुकेले होते [30-04]
 
+[[:mr:obs:notes:frames:30-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink&200}}]]\\
+पाच भाकरी व दोन मासे [30-05]
 
-[[:mr:obs:notes:frames:30-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?200|Frame 30-01}}]]\\ 
-A Quiet Place [30-01]\\ 
+[[:mr:obs:notes:frames:30-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink&200}}]]\\
+जेवणाची तयारी [30-06]
 
-[[:mr:obs:notes:frames:30-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?200|Frame 30-02}}]]\\ 
-The Crowd Followed Jesus [30-02]\\ 
+[[:mr:obs:notes:frames:30-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?nolink&200}}]]\\
+येशूने जेवणावर आशीर्वाद मागितला [30-07]
 
-[[:mr:obs:notes:frames:30-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?200|Frame 30-03}}]]\\ 
-Jesus Taught and Healed People [30-03]\\ 
+[[:mr:obs:notes:frames:30-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&200}}]]\\
+प्रत्येकाने खाल्ले [30-08]
 
-[[:mr:obs:notes:frames:30-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?200|Frame 30-04}}]]\\ 
-The People Were Hungry [30-04]\\ 
+[[:mr:obs:notes:frames:30-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink&200}}]]\\
+पुरेसे होईन उरले [30-09]
 
-[[:mr:obs:notes:frames:30-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?200|Frame 30-05}}]]\\ 
-Five Loaves and Two Fish [30-05]\\ 
-
-[[:mr:obs:notes:frames:30-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?200|Frame 30-06}}]]\\ 
-Preparation for the Meal [30-06]\\ 
-
-[[:mr:obs:notes:frames:30-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?200|Frame 30-07}}]]\\ 
-Jesus Blessed the Food [30-07]\\ 
-
-[[:mr:obs:notes:frames:30-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?200|Frame 30-08}}]]\\ 
-Everyone Ate [30-08]\\ 
-
-[[:mr:obs:notes:frames:30-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?200|Frame 30-09}}]]\\ 
-More than Enough [30-09]\\ 
-
-//A Bible story from: Matthew 14:13-21; Mark 6:31-44; Luke 9:10-17; John 6:5-15//
+//भायबल कथा संदर्भः मत्तय 14:13-21; मार्क  6:31-44; लूक 9:10-17; योहान 6:5-15//
 
 **[[:mr:obs:notes:29|<< Previous]] | [[:mr:obs:notes:31|Next >>]]**
