@@ -1,21 +1,17 @@
-===== The Debt Is Canceled [29-04] =====
+===== कर्ज माफ होते [29-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&}}
 
-“The **servant fell on his knees before the king** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ The king **felt pity** for the servant, so he **canceled all of his debt** and let him go.”
-===== Important Terms: =====
+“**तो चाकर राजाच्या पाया पडला** आणि म्हणाला, ‘कृपा करुन मला वागवून घ्या म्हणजे मी तुमची सर्व रक्कम परत करीन.’ त्या राजाला त्या चाकराची **दया आली**, म्हणून त्याने **त्याचे सर्व कर्ज माफ केले** आणि त्याला जाऊ दिले.
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:other:king]]**
+  * **चाकर,दास/गुलाम,गुलामी**
+  * **राजा**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **fell on his knees** - That is, "quickly knelt down on the ground." This was a way to show his humility and his desire for the king to help him. Make sure it doesn't sound like he fell down accidentally.
-  * **before the king** - This means, "in front of the king."
-  * **felt pity** - That is, "felt compassion for" or, "felt sorry for." The king knew that the servant and his family would suffer greatly if they were sold into slavery.
-  * **canceled all of his debt** - This can be translated as, "said that the servant did not need to pay back any of the money that he owed the king."
-
-
+  * (येशू गोष्ट पुढे चालू ठेवतो.)
+  * **गुडघे टेकतो**  – म्हणजे, "लवकर जमिनीवर गुडघे टेकतो. " त्याची नम्र्रता दाखवण्याचा तो एक प्रकार होता आणि राजाने त्याला मदत करावी अशी त्याची इच्छा होती. अपघाताने तो खाली पडला असा अर्थ निघू नये याची काळजी घ्या.
+  * **राजापुढे**  – याचा अर्थ, "राजासमोर."
+  * **दया आली**  – म्हणजे, "त्याच्याविषयी सहानुभूती वाटली" किंवा, "त्याची कीव आली." राजाला माहीत होते की चाकर व त्याचे कुटुंब गुलाम म्हणून विकले गेते तर त्यांना खुप कष्ट सहन करावे लागतील.
+  * **त्याचे सर्व कर्ज माफ केले**  - याचे भाषांतर असे सुद्धा होऊ शकेल, "म्हणाला की चाकराला राजाचे पैसे परत देण्याची गरज नाही."
 **[[:mr:obs:notes:frames:29-03|<<]] | [[:mr:obs:notes:29|Up]] | [[:mr:obs:notes:frames:29-05|>>]]**
