@@ -1,19 +1,17 @@
-===== To Prison [29-06] =====
+===== **तुरुंग** [29-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&}}
 
-“The **fellow servant fell on his knees** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ But instead, the servant **threw his fellow servant into prison** until he could pay the debt.”
-===== Important Terms: =====
+“**सोबतीच्या चाकराने त्याच्यापुढे गुडघे टेकले** आणि म्हणाला, ‘कृपा करुन मला वागवून घे मी तुझी पूर्ण रक्कम देईन.’ पण त्याऐवजी त्या चाकराने **तो ते कर्ज फेडीपर्यत** त्याला तुरुंगात टाकले.”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:servant]]**
+  * **चाकर,दास/गुलाम,गुलामी**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **fellow servant** - Translate this phrase in the same way as in **[[:mr:obs:notes:frames:29-05|[29-05]]]**.
-  * **fell on his knees** - This phrase has the same meaning as in **[[:mr:obs:notes:frames:29-04|[29-04]]]**.
-  * **threw his fellow servant into prison** - This could also be translated as, "had the man put into prison." The word "threw" is figurative and means it was done in a forceful way.
-
-
+  * (येशू गोष्ट पुढे चालू ठेवतो.)
+  * **सोबतीचा चाकर**  – ह्या वाक्यांशाचे भाषांतर **__[29-05]__** यामध्ये केलेल्या भाषांतरासारखेच करा
+.
+  * आपल्या गुडघ्यावर पडला – ह्या वाक्यांशाचा अर्थ **__[29-04]__** यातील अर्थाप्रमाणेच आहे
+.
+  * **सोबतीच्या चाकराला तुरुंगात टाकले**  - याचे भाषांतर असे सुद्धा होऊ शकेल, "त्या माणसाला तुरुंगात ठेवले." "फेकले" हा शब्द जबरदस्तीने केलेली कृती दर्शवते.
 **[[:mr:obs:notes:frames:29-05|<<]] | [[:mr:obs:notes:29|Up]] | [[:mr:obs:notes:frames:29-07|>>]]**
