@@ -1,23 +1,21 @@
-===== Forgive Your Brother [29-09] =====
+===== तुझ्या भावाला क्षमा कर [29-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink&}}
 
-**Then Jesus said**, “**This** is what **my heavenly Father** will do to every one of you if you do not **forgive your brother from your heart**.”
-===== Important Terms: =====
+**मग येशूने म्हटले**, “**अशाच** प्रकारे **माझा स्वर्गीय पिता** ही तुम्हा  प्रत्येकाविषयी करील जर तुम्ही **आपापल्या** **भावाला** **मनापासून** **क्षमा** **करणार** **नाही**.”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]] said**
-  * **[[:mr:obe:kt:godthefather]]**
-  * **[[:mr:obe:kt:forgive]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू म्हटले**
+  * **देव पिता, स्वर्गीय पिता, पिता**
+  * **क्षमा करणे,क्षमा**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **Then Jesus said** - Some languages may add, "to his disciples."
-  * **This** - "This" refers back to the way the king punished the unforgiving servant in **[[:mr:obs:notes:frames:29-08|[29-08]]]**.
-  * **my heavenly Father** - That is, "my Father in heaven." Jesus is expressing his unique, personal relationship to God the Father.
-  * **your brother** - See how you translated this in **[[:mr:obs:notes:frames:29-01|[29-01]]]**.
-  * **from your heart** - That is, "with sincerity" or, "truly" or, "genuinely" or, "honestly."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **मग येशूने म्हटले**  – कांही भाषांमध्ये "त्याच्या शिष्यांना." हे शब्द जोडू शकतात.
+  * **हे**  – "हे" याचा संदर्भ मागे ज्या पद्धतीने राजाने त्या क्षमा न करणा-या चाकराला शिक्षा केली त्याविषयी आहे.  संदर्भ
+- **__[29-08]__ **
+  * **माझा स्वर्गीय पिता**  – म्हणजे, "माझा स्वर्गातील पिता." येशू त्याचे देवपित्याशी असलेले विशेष वैयक्तीक संबंध दर्शवतो.
+  * **तुझा भाऊ**  – तुम्ही **__[29-01]__** याच्यामध्ये कसे भाषांतर केले आहे ते पाहा
+  * **अंतःकरणापासून**  – म्हणजे, "ख-या मनाने" किंवा,"प्रामाणिकपणे" किंवा, "खरेपणाने."
+  * बायबल कथा संदर्भ- कांही बायबल भाषांतरांमध्ये हे संदर्भ थोडेसे वेगळे असू शकतात.
 
 **[[:mr:obs:notes:frames:29-08|<<]] | [[:mr:obs:notes:29|Up]] | [[:mr:obs:notes:frames:30-01|>>]]**
