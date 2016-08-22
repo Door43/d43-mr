@@ -1,25 +1,22 @@
-===== Jesus in Galilee [26-01] =====
+===== गालीलमध्ये येशू [26-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink&}}
 
-**After overcoming Satan's temptations**, **Jesus returned in the power of the Holy Spirit** to the region of **Galilee** where he lived. Jesus **went from place to place teaching**. **Everyone spoke well of him**.
-===== Important Terms: =====
+**सैतानाच्या परीक्षांवर विजयी झाल्यानंतर,येशू पवित्र आत्म्याच्या सामर्थ्याने** जेथे तो राहात होता त्या **गालील विभागामध्ये परतला.** येशू **शिक्षण देत ठिकठिकाणी फिरला.** सर्वजण त्याच्याविषयी चांगले बोलत होते.
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:satan]]**
-  * **[[:mr:obe:kt:tempt]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:power]]**
-  * **[[:mr:obe:kt:holyspirit]]**
-  * **[[:mr:obe:other:galilee]]**
+  * **सैतान,सैतान,दुष्टआत्मा**
+  * **परीक्षेत पाडणे,परीक्षा/मोह**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **सामर्थ्य, सामर्थ्ये**
+  * **पवित्र आत्मा,देवाचा आत्मा, प्रभुचा आत्मा**
+  * **गालीली, गालीलकर**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **After overcoming Satan's temptations, Jesus returned** - You may prefer to make this into two sentences and say, "Jesus did not do the wrong things Satan tried to get him to do and so defeated him. After that, Jesus returned." The word "overcoming" can also be translated with "resisting" or, "rejecting" or, "refusing."
-  * **in the power of the Holy Spirit** - This may be translated as, "as the power of the Holy Spirit worked through him" or, "and the Holy Spirit was powerfully guiding him."
-  * **went from place to place teaching** - That is, he "traveled to different towns and other places and taught the people there."
-  * **Everyone** - That is, "Everyone who knew him or heard about him."
-  * **spoke well of him** - That is, "said good things about him."
-
-
+  * **सैतानाच्या मोहपरीक्षांवर विजयी होऊन, येशू परततो**  – याची तुम्ही दोन वाक्ये करुन म्हणू शकता, “सैतानाला पाहिजे असलेल्या चुकीच्या गोष्टी येशूने केल्या नाहीत आणि अशाप्रकारे त्याचा पराभव केला.
+  * त्यानंतर, येशू परतला.” “विजय मिळविणे” ह्या शब्दाचे भाषांतर  “विरोध करणे” किंवा, “स्वीकार न करणे” किंवा, “नाकारणे” असेही करता येऊ शकेल.
+  * **पवित्र आत्म्याच्या सामर्थ्याने**  – याचे भाषांतर असे होऊ शकेल, “पवित्र आत्म्याने त्याच्याद्वारे कार्य केले” किंवा, “आणि पवित्र आत्मा त्याला सामर्थ्याने मार्गदर्शन करीत होता.”
+  * **ठिकठिकाणी शिक्षण देत तो गेला**  – म्हणजे, त्याने “वेगवेगळ्या शहरी आणि इतर ठिकाणी प्रवास केला आणि तेथील लोकांना शिकवले.”
+  * **प्रत्येकजण**  – म्हणजे, “जे जे त्याला ओळखत होते किंवा ज्यांनी ज्यांनी त्याच्याविषयी ऐकले तो.”
+  * **त्याच्याविषयी चांगले बोलले**  – म्हणजे, “त्याच्याविषयी चांगल्या गोष्टी बोलले.”
 **[[:mr:obs:notes:frames:25-08|<<]] | [[:mr:obs:notes:26|Up]] | [[:mr:obs:notes:frames:26-02|>>]]**
