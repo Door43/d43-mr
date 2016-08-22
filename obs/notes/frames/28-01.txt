@@ -1,28 +1,24 @@
-===== What Must I Do? [28-01] =====
+===== मी काय केले पाहिजे? [28-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink&}}
 
-**One day**, a **rich young ruler came up to Jesus** and asked him, “**Good teacher**, what must I do **to have eternal life?**” Jesus said to him, “**Why do you call me 'good'**? **There is only one who is good**, **and that is God**. But if you want to have eternal life, **obey God's laws**.”
-===== Important Terms: =====
+**एके दिवशी**,एक **श्रीमंत तरुण आधिकारी येशूकडे आला** आणि त्याला विचारले,“**उत्तम गुरुजी**,**सार्वकालिक जीवन मिळावे** म्हणुन मी काय करावे**?**” येशूने त्याला म्हटले, “**मला '****उत्तम'**** का म्हणतोस**? **फक्त एकच उत्तम आहे आणि तो म्हणजे देव.** पण तुला जर सार्वकालिक जीवन मिळविण्याची इच्छा असेल तर, **देवाचे नियम पाळ**. ”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:good]]**
-  * **[[:mr:obe:kt:teacher]]**
-  * **[[:mr:obe:kt:eternity]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:obey]]**
-  * **[[:mr:obe:kt:lawofmoses]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **चांगला,चांगुलपणा**
+  * **गुरुजी,गुरुजी**
+  * **सार्वकालिक,सार्वकालिक,सर्वकाल**
+  * **देव**
+  * **आज्ञा पाळणे,आज्ञाधारक,आज्ञापालन **
+  * **नियम, मोशेचे नियमशास्त्र,देवाचे नियमशास्त्र,यहोवाचे नियमशास्त्र**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **rich young ruler** - This man was already a rich and powerful political official, even though he was still young.
-  * **came up to Jesus** - That is, "approached Jesus."
-  * **Good teacher** - That is, "righteous teacher." He was not saying that Jesus was simply a skilled teacher.
-  * **to have eternal life** - That is, "to receive eternal life" or, "to live with God forever." Also consider how "eternal life" was translated on **[[:mr:obs:notes:frames:27-01|[27-01]]]** and see the note about that there.
-  * **Why do you call me 'good'** - Jesus is not denying that he is God. Rather, he is asking if the ruler understands that Jesus is God.
-  * **There is only one who is good, and that is God** - Another way to say this would be, "The only one who is truly good is God" or, "God is the only one who is truly good."
-
-
+  * **एके दिवशी**  – हे वाक्यांश पूर्वी घडलेल्या घटनेविषयी सांगते, पण विशिष्ट वेळ सांगत नाही. पुष्कळ भाषांमध्ये एखादी खरी गोष्ट सांगतांना सुरुवात अशाच पद्धतीने करतात.
+  * **श्रीमंत तरुण अधिकारी**  – हा मनुष्य अगोदरच श्रीमंत होता आणि जरी तरुण होता तरी सत्ता असलेला राजकीय अधिकारी होता.
+  * **येशूकडे आला**  – म्हणजे, "येशूला येऊन भेटला."
+  * **उत्तम गुरुजी**  – म्हणजे, "धार्मिक/न्यायी गुरुजी." येशू एक केवळ कुशल गुरुजी असे तो म्हणत नव्हता.
+  * **सार्वकालिक जीवन मिळावे**  – म्हणजे, "सार्वकालिक जीवन प्राप्त करावे" किंवा, "देवाबरोबर सर्वकाळ राहावे." "सार्वकालिक जीवन" या शब्दाचे भाषांतर **__[27-01]__** यामध्ये कसे केले आहे ते पाहा आणि त्याविषयीची टीप पाहा.
+  * **मला उत्तम का म्हणतोस**  – येशू नाकारत नाही की तो देव आहे. परंतु, तो अधिका-याला विचारीत आहे की येशू देव आहे हे तो समजत आहे का.
+  * **एकच चांगला आहे, आणि तो देव आहे**  – दुस-या रितीने सांगायचे झाल्यास असे म्हणता येईल,"खरोखर चांगला एकच आहे आणि तो देव आहे" किंवा, "फक्त देवच खरोखर चांगला आहे."
 **[[:mr:obs:notes:frames:27-11|<<]] | [[:mr:obs:notes:28|Up]] | [[:mr:obs:notes:frames:28-02|>>]]**
