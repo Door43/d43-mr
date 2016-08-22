@@ -1,20 +1,14 @@
-===== A Quiet Place [30-01] =====
+===== एकांत ठिकाण [30-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink&}}
 
-**Jesus** sent his **apostles** to **preach** and to teach people in many different villages. When they returned to where Jesus was, they told him what they had done. Then Jesus invited them to go with him to a **quiet place** across the lake to rest for a while. So, they got into a boat and went to the other side of the lake.
+**येशूने ** आपल्या **प्रेषितांना** निरनिराळ्या गावातून **संदेश देण्यास** व शिकवण्यास पाठवले. जेंव्हा ते येशूक़डे परत आले, तेव्हा त्यांनी काय केले ते त्याला सांगितले. मग येशूने त्यांना त्याच्या बरोबर समुद्राच्या पलिकडे विश्रांतीसाठी **एकांत स्थळी** येण्यास सांगितले. म्हणून ते मचव्यात बसले आणि समुद्राच्या पलिकडे गेले.
+===== महत्वाचे शब्दः =====
 
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **प्रेषित, प्रेषितपणा**
+  * **संदेश देणे**
+===== भाषांतर टीपाः =====
 
-===== Important Terms: =====
-
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:apostle]]**
-  * **[[:mr:obe:other:preach]]**
-
-
-===== Translation Notes: =====
-
-  * **quiet place** - This refers to a place with few people where they could be by themselves.
-
-
+  * **एकांत ठिकाणी**  – हे अशा ठिकाणाचा उल्लेख करते जेथे थोडे लोक असतात आणि ते स्वतःच असतात.
 **[[:mr:obs:notes:frames:29-09|<<]] | [[:mr:obs:notes:30|Up]] | [[:mr:obs:notes:frames:30-02|>>]]**
