@@ -1,19 +1,16 @@
-===== The Birth of Jesus [23-05] =====
+===== **येशूचा जन्म ** [23-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&}}
 
-When they arrived in **Bethlehem**, there was **no place to stay**. The only room they could find was a **place where animals stayed**. The baby was born there and his mother laid him in a **feeding trough**, since they did not have a bed for him. They named him **Jesus**.
-===== Important Terms: =====
+जेंव्हा ते **बेथलहेममध्ये ** पोहोंचले, तेंव्हा **त्यांना राहाण्यासाठी जागा मिळेना**. फक्त एकच जागा त्यांना सापडली आणि **ती होती गोठ्याची जागा.** बाळ तेथे जन्मले आणि त्याच्या आईने त्याला **गव्हाणीत** ठेवले, कारण त्यांच्याजवळ त्याच्यासाठी बिछाना नव्हता. त्यांनी त्याचे नाव **येशू** ठवले
 
-  * **[[:mr:obe:other:bethlehem]]**
-  * **[[:mr:obe:kt:jesus]]**
- 
+**महत्वाचे शब्दः**
 
+  * **[[:mr:obe:other:bethlehem|Bethlehem, Ephrathah]]**
+  * **[[:mr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
 ===== Translation Notes: =====
 
-  * **no place to stay** - That is, "no usual place to stay." Because Bethlehem was so crowded at that time, the usual rooms for guests were already full of people.
-  * **place where animals stayed** - This was a place for sheltering animals, not a place where people lived. Translate this with a term that would normally be used for a place where animals were kept.
-  * **feeding trough** - That is, "animal feed box" or, "wooden or stone box for feeding animals." The box could have been filled with hay to provide a padded surface for the baby to lie on.
-
-
+  * **no place to stay**  - That is, "no usual place to stay." Because Bethlehem was so crowded at that time, the usual rooms for guests were already full of people.
+  * **place where animals stayed**  - This was a place for sheltering animals, not a place where people lived. Translate this with a term that would normally be used for a place where animals were kept.
+  * **feeding trough**  - That is, "animal feed box" or, "wooden or stone box for feeding animals." The box could have been filled with hay to provide a padded surface for the baby to lie on.
 **[[:mr:obs:notes:frames:23-04|<<]] | [[:mr:obs:notes:23|Up]] | [[:mr:obs:notes:frames:23-06|>>]]**
