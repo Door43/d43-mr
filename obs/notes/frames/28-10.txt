@@ -1,22 +1,19 @@
-===== The First and the Last [28-10] =====
+===== पहिले आणि शेवटचे [28-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink&}}
 
-**Jesus** answered, “Everyone who **has left** houses, brothers, sisters, father, mother, children, or property **for my sake**, will receive **100 times more** and will also receive **eternal life**. But **many who are first will be last**, and **many who are last will be first**.”
-===== Important Terms: =====
+**येशूने** म्हटले, “ज्या कोणी घरे,भाऊ,बहिणी,बाप,आई,मुले किंवा मालमत्ता **माझ्या नावाकरता सोडली आहेत** त्याला **100 पट आधिक** मिळेल आणि **सार्वकालिक जीवन** सुद्धा मिळेल. परंतु **पुष्कळ पहिले ते शेवटले** आणि **पुष्कळ शेवटले ते पहिले होतील**.
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:eternity]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **सार्वकालिक,सार्वकालिक,सर्वकाल**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **has left** - That is, "has left behind" or, "has given up" or, "has counted as less important than God."
-  * **for my sake** - This may also be translated as, "because of me" or, "on my account."
-  * **100 times more** - That is, "very much more than he had before."
-  * **many who are first will be last** - That is, "many people who are important now, will not be important then."
-  * **many who are last will be first** - That is, "many people who are considered to not be very important on earth will be considered very important in heaven" or, "Many people who are considered now to be of little value on earth will be highly valued in heaven."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **सोडून दिले **– म्हणजे,"पाठीमागे सोडले" किंवा, "सोडून दिले" किंवा, "देवापेक्षा कमी महत्व दिले."
+  * **माझ्या नावाकरता**  - याचे भाषांतर असे सुद्धा होऊ शकेल, "माझ्यामुळे" किंवा, "माझ्यासाठी."
+  * **100****पट अधिक**  – म्हणजे, "त्याच्याजवळ होते त्यापेक्षा कितीतरी अधिक."
+  * **पुष्कळ पहिले ते शेवटले होतील**  – म्हणजे,"पुष्कळ लोक जे आता महत्वाचे आहेत, ते नंतर महत्वाचे राहणार नाहीत."
+  * **पुष्कळ शेवटले ते पहिले होतील**  – म्हणजे, "जे लोक पृथ्वीवर फार महत्वाचे गणले जात नाहीत ते स्वर्गात फार महत्वाचे समजले जातील" किंवा, "पुष्कळ लोक ज्यांना पृथ्वीवर कांही किंमत दिली जात नाही त्यांना स्वर्गात फार किंमत दिली जाईल."
+  * बायबल कथा संदर्भ – हे संदर्भ कांही बायबल भाषांतरामध्ये थोडेसे वेगळे असू शकतील.
 
 **[[:mr:obs:notes:frames:28-09|<<]] | [[:mr:obs:notes:28|Up]] | [[:mr:obs:notes:frames:29-01|>>]]**
