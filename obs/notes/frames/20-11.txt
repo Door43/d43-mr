@@ -1,26 +1,19 @@
-===== Persia Defeated Babylon [20-11] =====
+===== पारसाचे राज्य बाबेलोनच्या राज्याचा पराभव करते [20-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?nolink}}
+सुमारे **सत्तर वर्षांनंतर**, **कोरेश**, **पारसाचा राजा**, याने **बाबेलोनचा** पराभव केला,व बाबेलोन साम्राज्याच्या ठिकाणी पारसाचे साम्राज्य आले. **इस्राएल लोकांना आता यहूदी म्हणू लागले होते** आणि त्यांच्यातील पुष्कळजण त्यांचे सर्व आयुष्यभर ते बाबेलोनमध्येच राहिले. फक्त थोडे वृद्ध यहूदी **यहूदा देशाची आठवण करीत**.
+===== महत्वाचे शब्दः =====
 
-About **seventy years later**, **Cyrus**, the **king** of the **Persians**, defeated **Babylon**, so the Persian Empire replaced the Babylonian Empire. **The Israelites were now called Jews** and most of them had lived their whole lives in Babylon. Only a few very old Jews even remembered **the land of Judah**.
-===== Important Terms: =====
+  * **राजा**
+  * **बाबेलोन, बाबेलोनी**
+  * **इस्राएल,इस्राएली,इस्राएल राष्ट्र**
+  * **यहूदी,यहूद्यांचे,यहूदी**
+===== भाषांतर टीपाः =====
 
-
-  * **[[:mr:obe:other:king]]**
-  * **[[:mr:obe:other:babylon]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:jew]]**
-
-
-==== Translation Notes: ====
-
-
-  * **seventy years later** - This refers to the seventy years that had passed since the Babylonian army took the people of Jerusalem into exile.
-  * **Cyrus** - Cyrus was also called, "Cyrus the Great." The name "Cyrus" meant "like the sun" in the Persian language. However, since Cyrus was an important historical person, it might be best to transliterate his name, rather than translating the meaning.
-  * **Persians** - The Persian Empire grew to cover the area from central Asia to Egypt. Its home was located in the general area of modern-day Iran.
-  * **The Israelites were now called Jews** - This could also be translated as, "People now called the Israelites by the name 'Jews.'"
-  * **the land of Judah** - That is, the area where the kingdom of Judah was located before the Exile. Jerusalem was the capital city of Judah.
-
-
+  * **सत्तर वर्षांनंतर**  – बाबेलोनी सैन्याने यरुशलेमच्या लोकांना बंदिवासात धरुन नेले होते त्याला सत्तर वर्षाचा काळ लोटला हे या शब्दाने सुचित होते.
+  * **कोरेश**  – कोरेशाला, "महान कोरेश" असेही म्हणत. "कोरेश" या नावाचा अर्थ पर्शियन भाषेत "सूर्यासारखा" असा होतो. परंतु, कोरेश हा ऐतिहासीकदृष्टया फार महत्वाचा माणूस होता, म्हणून त्याच्या नावाच्या अर्थाचे भाषांतर करण्यापेक्षा त्याच्या नावाचाच उल्लेख केलेला बरा.
+  * **पारस**  – पारसाचे राज्य मध्य आशिया पासून ते मिसर देशापर्यंत पसरलेले होते. त्याचे घर सध्याचा इराण आहे तेथे सर्वसामान्य भागात होते.
+  * **इस्राएल लोकांना आता यहूदी म्हणू लागले होते –**  याचे असे सुद्धा भाषांतर होऊ शकेल, "लोक आता इस्राएली लोकांना 'यहूदी' या नावाने संबोधु लागले होते. '"
+  * **यहूदाचा देश**  – म्हणजे, पाडावापुर्वी यहूदाचे राज्य ज्या ठिकाणी होते ती जागा. यरुशलेम शहर ही यहूदाची राजधानी होती.
 **[[:mr:obs:notes:frames:20-10|<<]] | [[:mr:obs:notes:20|Up]] | [[:mr:obs:notes:frames:20-12|>>]]**
