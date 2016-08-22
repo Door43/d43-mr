@@ -1,23 +1,32 @@
-===== You Will Have a Son [22-02] =====
+===== **तुला पुत्र होईल ** [22-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink&}}
 
-The **angel** said to **Zechariah**, “Your wife will have a son. You will name him **John**. He will be **filled with the Holy Spirit**, and will **prepare the people for the Messiah**!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
-===== Important Terms: =====
+**देवदूत जख-याला** म्हणाला, “तुझ्या बायकोला पुत्र होईल. तू त्याचे नाव **योहान** ठेव. तो **पवित्र आत्म्याने परिपुर्ण असेल**, व मशीहासाठी लोकांना तयार करील!” जख-याने उत्तर दिले, “मुले व्हायला माझी बायको व मी सुद्धा फार म्हातारे आहोत! हे होईल हे मी कशावरुन समजू?”
+===== **महत्वाचे शब्द**: =====
 
+  *
 
-  * **[[:mr:obe:kt:angel]]**
-  * **[[:mr:obe:other:zechariahnt]]**
-  * **[[:mr:obe:other:johnthebaptist]]**
-  * **[[:mr:obe:kt:holyspirit]]**
-  * **[[:mr:obe:kt:christ]]**
+**देवदूत, आद्य देवदूत**
+  *
 
+**जख-या (न.क.)**
+  *
 
-===== Translation Notes: =====
+**योहान (बाप्तिस्मा करणारा)**
+  *
 
-  * **The angel** - This refers to the angel that came to Zechariah in **[[:mr:obs:notes:frames:22-01|[22-01]]]**.
-  * **filled with the Holy Spirit** - That is, "controlled by the Holy Spirit" or, "given wisdom and power by the Holy Spirit."
-  * **How will I know this will happen?** - Another way to translate this would be, "How can I be sure that this will truly happen?"
+**पवित्र आत्मा, देवाचा आत्मा,प्रभूचा आत्मा**
+  *
 
+**ख्रिस्त,मशीहा**
+===== **भाषांतर टीपा**: =====
 
+  * **देवदूत**- जख-याकडे आलेल्या देवदूताशी संदर्भात हे **[22-01]**  मध्ये आहे.
+  *
+
+**पवित्र आत्म्याने भरलेले**- म्हणजे, “पवित्र आत्म्याने नियंत्रित केलेले” किंवा,”पवित्र आत्म्याने दिलेले ज्ञान व सामर्थ्य.”
+  *
+
+**हे घडेल हे मी कशावरुन समजू****?**  - दुस-या शब्दात भाषांतर करायचे झाल्यास असे होईल, “हे खरेच घडेल याची मला कशी खात्री पटेल?”
 **[[:mr:obs:notes:frames:22-01|<<]] | [[:mr:obs:notes:22|Up]] | [[:mr:obs:notes:frames:22-03|>>]]**
