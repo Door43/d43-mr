@@ -1,25 +1,21 @@
-===== Satan Tempted Jesus [25-01] =====
+===== सैतानाकडून येशूची परीक्षा [25-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink&}}
 
-Immediately after **Jesus** was **baptized**, **the Holy Spirit led him** out into **the wilderness**, where he **fasted** for **forty days and forty nights**. Then **Satan** came to Jesus and **tempted him to sin**.
-===== Important Terms: =====
+**येशूचा बाप्तिस्मा ** झाल्यानंतर, लगेच **पवित्र आत्मा त्याला रानात नेतो**,तेथे त्याने **चाळीस दिवस व चाळीस रात्री उपास केला**.  मग सैतान येशूकडे आला आणि त्याने पाप करावे म्हणून पराक्षेत पाडू लागला.
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:baptize]]**
-  * **[[:mr:obe:kt:holyspirit]]**
-  * **[[:mr:obe:other:fast]]**
-  * **[[:mr:obe:kt:satan]]**
-  * **[[:mr:obe:kt:tempt]]**
-  * **[[:mr:obe:kt:sin]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **बाप्तिस्मा देणे, बाप्तिस्मा**
+  * **पवित्र आत्मा,देवाचा आत्मा, प्रभुचा आत्मा**
+  * **उपास**
+  * **सैतान,सैतान,दुष्टआत्मा**
+  * **परीक्षेत पाडणे,परीक्षा/मोह**
+  * **पाप,पापमय,पाप करीत राहाणे**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **the Holy Spirit led him** - That is, "the Holy Spirit guided him" or, "the Holy Spirit prompted him to go."
-  * **the wilderness** - This could also be translated as, "the desert" or, "a remote, barren place with few people." This place probably had very few trees or other plants, so most people would not be able to live there.
-  * **forty days and forty nights** - This means "forty days, both during the day and during the night." Make sure the translation of this phrase does not sound like a period of eighty days.
-  * **tempted him to sin** - Since Jesus did not sin, make sure you use a word that does not imply that Satan succeeded in convincing Jesus to sin. This phrase could also be translated as, "tried to convince him to sin."
-
-
+  * **त्याला पवित्र आत्म्याने नेले**  – म्हणजे, “पवित्र आत्म्याने त्याला मार्गदर्शन दिले” किंवा, “पवित्र आत्म्याने जाण्यास प्रेरीत केले.”
+  * **अरण्य**  – याचे सुद्धा असे भाषांतर करता येईल, “वाळवंट” किंवा,  “दुर्गम नापीक भाग जेथे  फार थोडे लोक राहतात.” या ठिकाणी कदचित फार थोडी झाडे किंवा वनस्पती असतील, म्हणून जास्त लोक तेथे राहू शकत नसतील.
+  * **चाळीस दिवस चाळीस रात्री**  – म्हणजे “चाळीस दिवसातले, दिवस व रात्रीच्या वेळी.” लक्षात ठेवा या वाक्यांशाचे भाषांतर करतांना ऐंशी दिवसाचा कालावधी आहे असे वाटायला नको.
+  * **त्याला पाप करण्यासाठी मोहात/परीक्षेत पाडणे**  – येशूने पाप केले नाही त्यामुळे लक्षात ठेवा असा शब्द वापरा की ज्यामध्ये असा अर्थ निघणार नाही की सैतान येशूकडून पाप करुन घेण्यात यशस्वी झाला. ह्या वाक्यांशाचे असेही भाषांतर करता येईल, “त्याला पाप करावेसे वाटावे असा प्रयत्न केला.”
 **[[:mr:obs:notes:frames:24-09|<<]] | [[:mr:obs:notes:25|Up]] | [[:mr:obs:notes:frames:25-02|>>]]**
