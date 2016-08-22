@@ -1,19 +1,15 @@
-===== Everyone Ate [30-08] =====
+===== प्रत्येकाने खाल्ले [30-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&}}
 
-Then **Jesus broke the bread and the fish** into pieces. He gave the pieces to his **disciples** to give to the people. The disciples kept passing out the food, and **it never ran out**! All the people ate and were satisfied.
-===== Important Terms: =====
+मग **येशूने भाकर व मासे ** यांचे तुकडे केले. त्याने ते तुकडे **शिष्यांकडे** लोकांना वाटण्यास दिले. शिष्य जेवण वाढत राहिले,आणि **ते संपले नाही**! सर्व जेवले आणि तृप्त झाले.
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:disciple]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **शिष्य**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **broke the bread and the fish** - That is, "tore the bread and the fish."
-  * **it never ran out** - Another way to say this would be, "there was always more left."
-  * **were satisfied** - That is, "were no longer hungry" or, "were not hungry any more."
-
-
+  * **भाकर व मासे मोडले**  – म्हणजे, "भाकर व मासे यांचे तुकडे केले."
+  * **ते कधीच संपले नाहीत**  – दुस-या शब्दात सांगायचे झाले तर असे म्हणता येईल, "ते नेहमी शिल्लकच असायचे."
+  * **तृप्त झाले**  – म्हणजे,"ते भुकेले राहिले नाहीत" किंवा,"त्यांना आता भुक नव्हती."
 **[[:mr:obs:notes:frames:30-07|<<]] | [[:mr:obs:notes:30|Up]] | [[:mr:obs:notes:frames:30-09|>>]]**
