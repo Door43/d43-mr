@@ -1,15 +1,12 @@
-===== The Robbers [27-05] =====
+====== **चोर ** [27-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink&}}
 
-“While the man was traveling, he was attacked by a group of robbers. They took **everything he had** and beat him until he was almost dead. Then they went away.”
-===== Important Terms: =====
+“तो मनुष्य प्रवास करीत असतांना,चोरांच्या टोळीने त्याच्यावर हल्ला केला. त्यांनी **त्याचे सर्व कांही घेतले** आणि त्याला इतके मारले की त्याला अर्धमेला करुन सोडले. मग ते निघून गेले.”
+===== महत्वाचे शब्दः =====
 
+===== भाषांतर टीपाः =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **everything he had** - That is, "everything he had with him, including the clothes he was wearing."
-
-
+  * (येशू गोष्ट सांगणे पुढे चालू ठेवतो.)
+  * **जे सर्वकांही त्याचे होते**  – म्हणजे, “जे सर्व त्याच्याजवळ होते, त्याने घातलेले कपडे धरुन सर्व.”
 **[[:mr:obs:notes:frames:27-04|<<]] | [[:mr:obs:notes:27|Up]] | [[:mr:obs:notes:frames:27-06|>>]]**
