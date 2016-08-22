@@ -1,24 +1,22 @@
-===== Worship Only God [25-07] =====
+===== फक्त देवाचीच उपासना कर [25-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink&}}
 
-**Jesus** replied, “**Get away from me**, **Satan**! **In God’s word he commands his people**, ‘**Worship only the Lord your God and only serve him**.’”
-===== Important Terms: =====
+येशूने उत्तर दिले, “माझ्यापासून निघून जा, सैताना! देवाच्या वचनात देव आपल्या लोकांना आज्ञा देतो, केवळ प्रभु तुझा देव याला नमन कर व त्याचीच सेवा कर.”’
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:satan]]**
-  * **[[:mr:obe:kt:wordofgod]]**
-  * **[[:mr:obe:kt:worship]]**
-  * **[[:mr:obe:kt:lord]]**
-  * **[[:mr:obe:kt:god]]**
+===== महत्वाचे शब्दः =====
 
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **सैतान,सैतान,दुष्टआत्मा**
+  * **देवाचे वचन,यहोवाचा शब्द,प्रभूचे वचन,शास्त्र**
+  * **नमन / उपासना**
+  * **प्रभु,धनी,महाराज**
+  * **देव**
+===== भाषांतर टीपाः =====
 
-===== Translation Notes: =====
-
-  * **Get away from me** - This may also be translated as, "Leave me" or, "Leave me alone."
-  * **In God's word he commands his people, "Worship only the Lord your God and only serve him"** - This could be written as an indirect quote, "In God's word, he commands us that we must worship and serve only the Lord God, who rules over us."
-  * **Lord your God** - Translate this phrase the same way as you did in **[[:mr:obs:notes:frames:25-05|[25-05]]]**.
-  * **and only serve him** - Another way to say this would be, "He is the only one you should serve."
-
-
+  * **माझ्यापासून निघून जा**  – याचे असे सुद्धा भाषांतर होईल, “मला सोडून जा” किंवा, “मला एकट्याला राहू दे.”
+  * **देवाच्या वचनात तो आपल्या लोकांना आज्ञा देतो, “**** केवळ तुझा देव परमेश्वर याला नमन कर व त्याचीच सेवा कर”**  – हे अप्रत्यक्ष कथनात असे लिहीता येऊ शकेल,  “देवाच्या वचनात, तो आपल्याला आज्ञा देतो की आपण फक्त आपला देव परमेश्वर जो आपल्यावर राज्य करतो त्यालाच नमन करावे व त्याचीच सेवा करावी.”
+  * **प्रभु****तुझा****देव**  – या वाक्यांशाचे भाषांतर जसे **__[9}[10}__ ****__\[25-05]__** {11]{12] याच्यामध्ये केले तसेच करा
+.
+  * **आणि केवळ त्याचीच सेवा कर**  – दुस-या शब्दात असे सांगता येईल, “ज्याची सेवा करावी असा तो एकटाच आहे.”
 **[[:mr:obs:notes:frames:25-06|<<]] | [[:mr:obs:notes:25|Up]] | [[:mr:obs:notes:frames:25-08|>>]]**
