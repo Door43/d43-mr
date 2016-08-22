@@ -1,18 +1,15 @@
-===== The Twelve Disciples [26-10] =====
+===== बारा शिष्य [26-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink&}}
 
-Then **Jesus** chose twelve men **who were called his apostles**. The apostles traveled with Jesus and **learned from him**.
-===== Important Terms: =====
+मग **येशूने** बारा माणसे निवडली** त्यांना त्याचे प्रेषित म्हणण्यात आले.** प्रेषितांनी येशूबरोबर प्रवास केला आणि **ते त्याच्यापासून शिकले**.
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:apostle]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **प्रेषित,प्रेषितपणा**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **learned from him** - That is, "learned from what he taught them" or, "learned from everything he said and did."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **त्याच्यापासून शिकले**  – म्हणजे, “त्याने जे शिकवले त्यापासून शिकले” किंवा, “तो जे बोलला त्याने जे केले त्या सर्वांपासून ते शिकले.”
+  * बायबल कथा संदर्भ – कांही बायबल भाषांतरामध्ये हे संदर्भ थोडेसे वेगळे असण्याची शक्यता आहे.
 
 **[[:mr:obs:notes:frames:26-09|<<]] | [[:mr:obs:notes:26|Up]] | [[:mr:obs:notes:frames:27-01|>>]]**
