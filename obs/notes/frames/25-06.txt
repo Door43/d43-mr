@@ -1,22 +1,18 @@
-===== The Third Temptation [25-06] =====
+===== तिसरी परीक्षा [25-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink&}}
 
-Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **their glory** and said, “**I will give you all this** if you bow down and **worship** me.”
-===== Important Terms: =====
+मग **सैतानाने येशूला** **जगातील सर्व राज्ये** व **त्यांचे सर्व वैभव** दाखवले आणि म्हणाला, “जर तू मला **नमन** करशील तर **तुला मी हे सर्व देईन**.”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:satan]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:kingdom]]**
-  * **[[:mr:obe:kt:glory]]**
-  * **[[:mr:obe:kt:worship]]**
+  * **सैतान,सैतान,दुष्टआत्मा**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **ऱाज्य**
+  * **वैभव, वैभवी**
+  * **नमन / उपासना**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **kingdoms of the world** - This refers to all the greatest cities, countries, and other territories of the world.
-  * **their glory** - That is, "their power and wealth."
-  * **I will give you all this** - This could be translated as, "I will give you all the wealth and power of these kingdoms" or, "I will make you the ruler over all these countries, cities and people."
-
-
+  * **जगाची राज्ये **– यामध्ये सर्व मोठी शहरे,राष्ट्रे आणि जगातील इतर भूप्रदेश येतात.
+  * **त्यांचे वैभव**  – म्हणजे, “त्यांची सत्ता आणि संपत्ती.”
+  * **मी तुला हे सर्व देईन**  - याचे असे भाषांतर करता येईल, “मी तुला ह्या राज्यांची सर्व संपत्ती आणि सत्ता देईन” किंवा, “ मी तुला ह्या सर्व देशांचा, शहरांचा आणि लोकांचा राज्यकर्ता बनवीन.”
 **[[:mr:obs:notes:frames:25-05|<<]] | [[:mr:obs:notes:25|Up]] | [[:mr:obs:notes:frames:25-07|>>]]**
