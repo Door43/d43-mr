@@ -1,22 +1,17 @@
-===== What Else Must I Do? [28-03] =====
+===== मी अजून काय करायला पाहिजे? [28-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg?nolink&}}
 
+पण तो तरुण म्हणाला, “मी **लहानपणापासून ह्या सर्व आज्ञा पाळल्या आहेत**. सर्वकाल जगण्यासाठी मी **अजून आधिक काय केले पाहिजे**?” येशूने त्यच्याकडे पाहिले आणि **त्याच्यावर प्रीति केली**.
+===== महत्वाचे शब्दः =====
 
-But the young man said, “I have **obeyed** all these **laws ever since I was a boy**. **What do I still need to do** in order to live forever?” **Jesus** looked at him and **loved him**.
-===== Important Terms: =====
+  * **आज्ञा पाळणे,आज्ञाधारक,आज्ञापालन **
+  * **नियम, मोशेचे नियमशास्त्र,देवाचे नियमशास्त्र,यहोवाचे नियमशास्त्र**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **प्रीति**
+===== भाषांतर टीपाः =====
 
-  * **[[:mr:obe:other:obey]]**
-  * **[[:mr:obe:kt:lawofmoses]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:love]]**
-
-
-===== Translation Notes: =====
-
-  * **ever since I was a boy** - Another way to say this would be, "from the time I was a child until now."
-  * **What do I still need to do?** - That is, "What else do I need to do" or, "What do I need to do in addition to these?"
-  * **loved him** - Jesus had compassion on him. Choose a word for love that is consistent with the kind of love God has for people.
-
-
+  * **लहानपणापासून **– दुस-या पद्धतीने असे म्हणता येईल, "मी लहान असल्यापासून ते आतापर्यंत."
+  * **अजून मला काय केले पाहिजे?**  – म्हणजे, "काय अधिक मला केले पाहिजे" किंवा, "ह्यात अजून काय भर घातली पाहिजे?"
+  * **त्याच्यावर प्रीति केली**  – येशूला त्याची सहानुभूती वाटली. प्रीतिसाठी असा शब्द निवडा की जशी प्रीति देव लोकांवर करतो ती प्रीति बदलत नाही असा शब्द प्रीतिसाठी निवडा.
 **[[:mr:obs:notes:frames:28-02|<<]] | [[:mr:obs:notes:28|Up]] | [[:mr:obs:notes:frames:28-04|>>]]**
