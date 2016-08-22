@@ -1,21 +1,22 @@
-===== The Shepherds Visited Jesus [23-08] =====
+===== **मेंढपाळ येशूची भेट घेतात** [23-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink&}}
 
-The **shepherds** soon arrived at the place where **Jesus** was and they found him lying in a feeding trough, just as the **angel** had told them. They were very excited. **Mary** was very happy, too. The shepherds returned to the fields where their sheep were, **praising God** for **all they had heard and seen**.
-===== Important Terms: =====
+**मेंढपाळ** ज्या ठिकाणी **येशू** होता तेथे लगेच गेले आणि जसे **देवदूताने** सांगितले होते तसेच त्याला गव्हाणीत ठेवलेले असे त्यांना आढळले. त्यांना खूप आनंद झाला. मरीयेला पण खूप आनंद झाला. मेंढपाळांनी **जे सर्व ऐकले व पाहिले ** याबद्दल **देवाची स्तुती** करीत जेथे त्यांची मेंढरे होती तेथे ते परत आले.
 
-  * **[[:mr:obe:other:shepherd]]**
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:angel]]**
-  * **[[:mr:obe:other:mary]]**
-  * **[[:mr:obe:other:praise]]**
-  * **[[:mr:obe:kt:god]]**
+**महत्वाचे शब्दः**
 
+  * **मेंढपाळ, मेंढरे राखणे**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **देवदूत, आद्य देवदूत**
+  * **मरीया, येशूची आई**
+  * **स्तुती**
+  * **देव**
+**भाषांतर टीपाः**
 
-===== Translation Notes: =====
+  *
 
-  * **all they had heard and seen** - That is, "for everything they had heard and seen." This included the glorious angels and their amazing message, as well as seeing the newborn Messiah himself.
-
+**जे सर्व त्यांनी ऐकले व पाहिले**  – म्हणजे, “प्रत्येक गोष्ट जी त्यांनी ऐकली व पाहिली.”
+यामध्ये गौरवी देवदूत त्यांचे आश्चर्यकारक संदेश, तसेच नविन जन्मलेले मशीहा बाळाला पाहाणे यांचा समावेश आहे.
 
 **[[:mr:obs:notes:frames:23-07|<<]] | [[:mr:obs:notes:23|Up]] | [[:mr:obs:notes:frames:23-09|>>]]**
