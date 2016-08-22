@@ -1,18 +1,12 @@
-===== Not Willing to Obey [28-05] =====
+===== आज्ञा पाळायला तयार नाही [28-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink&}}
 
-When the young man **heard what Jesus said**, he became very sad, because he was very rich and did not want to give away all the things he possessed. He turned and went away from Jesus.
+जेंव्हा त्या तरुण माणसाने **येशू काय म्हणाला ते ऐकले**, तो फार दुःखी झाला, कारण तो फार श्रीमंत होता आणि त्याच्याजवळ असणारी मालमत्ता त्याला सोडायची नव्हती. तो मागे वळला आणि येशूपासून निघून गेला.
+===== महत्वाचे शब्दः =====
 
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+===== भाषांतर टीपाः =====
 
-===== Important Terms: =====
-
-  * **[[:mr:obe:kt:jesus]]**
-
-
-===== Translation Notes: =====
-
-  * **heard what Jesus said** - That is, "heard Jesus tell him to give away what he owned."
-
-
+  * **येशूने काय म्हटले ते ऐकले**  – म्हणजे, "जे त्याचे आहे ते देऊन टाक असे येशूने त्याला सांगितले हे ऐकले."
 **[[:mr:obs:notes:frames:28-04|<<]] | [[:mr:obs:notes:28|Up]] | [[:mr:obs:notes:frames:28-06|>>]]**
