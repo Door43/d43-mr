@@ -1,21 +1,19 @@
-===== The Jewish Traveler [27-04] =====
+===== यहूदी प्रवासी [27-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink&}}
 
-**Jesus** answered the **law expert** by telling a story. “There was a **Jewish** man who was traveling along the road from **Jerusalem** to **Jericho**.”
-===== Important Terms: =====
+**येशूने** त्या **शास्त्र्याला** उत्तर देण्यासाठी एक गोष्ट सांगितली. एक **यहूदी** माणूस होता तो **यरुशलेमहून यरीहोला** रस्त्याने चालला होता.
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:jew]]**
-  * **[[:mr:obe:other:jerusalem]]**
-  * **[[:mr:obe:other:jericho]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **यहूदी,यहूद्यांचे,यहूदी**
+  * **यरुशलेम**
+  * **यरीहो**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * (The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)
-  * **law expert** - See how you translated this term in **[[:mr:obs:notes:frames:27-01|[27-01]]]**.
-  * **from Jerusalem to Jericho** - In some languages you could translate this as, "from the city of Jerusalem to the city of Jericho" or, "from Jerusalem City to Jericho City."
-
+  * (या चित्राच्या भोवती ढगासारखी चौकट दिसते याचा अर्थ येशू गोष्ट सांगत आहे, इतिहासातीलच घटना असेल अशी आवश्यकता नाही.)
+  * **शास्त्री**  – हा शब्द तुम्ही **__[27-01]__** यामध्ये कसा भाषांतर केला आहे ते पाहा
+.
+  * **यरुशलेमेहून यरीहोला**  – कांही भाषांमध्ये तुम्ही असे भाषांतर करु शकता, “यरुशलेम शहरापासून ते यरीहो शहराकडे”.
 
 **[[:mr:obs:notes:frames:27-03|<<]] | [[:mr:obs:notes:27|Up]] | [[:mr:obs:notes:frames:27-05|>>]]**
