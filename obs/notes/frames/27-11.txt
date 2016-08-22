@@ -1,24 +1,22 @@
-===== Do the Same [27-11] =====
+===== तसेच कर [27-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink&}}
 
+मग **येशूने** त्या **शास्त्र्याला** विचारले, “तुला काय वाटते? ह्या **तिनपैकी कोणता** ह्या लुटलेल्या व मारलेल्या माणसाचा **शेजारी** झाला ?” तो म्हणाला, “ज्याने त्याच्यावर **दया केली** तो.”येशूने त्याला सांगितले, “**तू जा आणि तसेच कर**.”
+===== महत्वाचे शब्दः =====
 
-Then **Jesus** asked the **law expert**, “What do you think? Which one of **the three men was a neighbor** to the man who was robbed and beaten?” He replied, “The one who was **merciful** to him.” Jesus told him, “**You go and do the same**.”
-===== Important Terms: =====
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **दया,दयाळू**
+===== भाषांतर टीपाः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:mercy]]**
-
-
-===== Translation Notes: =====
-
-  * **law expert** - That is, "an expert in the Jewish law." See how you translated this term in **[[:mr:obs:notes:frames:27-01|[27-01]]]**.
-  * **the three men** - The three men were the priest, the Levite, and the Samaritan.
-  * **neighbor** - Jesus is using the word "neighbor" in a broader sense than in **[[:mr:obs:notes:frames:27-02|[27-02]]]**. "Neighbor" here refers to anyone that we meet who needs our help.
-  * **was a neighbor** - This can also be translated as, "behaved as a neighbor" or, "was a friend" or, "acted in a loving way". See how you translated "neighbor" in **[[:mr:obs:notes:frames:27-02|[27-02]]]** and **[[:mr:obs:notes:frames:27-03|[27-03]]]**.
-  * **You go and do** - That is, "You, too, should go and do" or, "Now you must do." Jesus was commanding the law expert to do as the Samaritan did.
-  * **do the same** - That is, "love others, even your enemies." Make sure it does not sound like "the same" is only referring to helping a wounded man.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **शास्त्री****-**  म्हणजे, ”यहूद्यांच्या नियमशास्त्रात पारंगत.” हा शब्द **__[27-01] __**मध्ये तुम्हा कसा भाषांतर केला आहे ते पाहा
+.
+  * **तिन मनुष्ये**  – ही तिन मनुष्ये म्हणजे याजक, लेवी,आणि शोमरोनी.
+  * **शेजारी**  – येशू “शेजारी” हा शब्द हा व्यापक प्रमाणात वापरत आहे.**__[27-02]__** यात वापरलेल्या शब्दापेक्षा
+. “शेजारी” इथे या शब्दाचा अर्थ ज्याला आपल्या मदतीची गरज आहे असा कोणीही.
+  * **शेजारी होता**  – याचे सुद्धा असे भाषांतर करता येईल, “शेजा-यासारखा वागला” किंवा, “मित्र होता” किंवा, “दयाळूपणे वागला.” “शेजारी” हा शब्द यामध्ये **__[27-02] __**आणि **__[27-03]__** यामध्ये कसा भाषांतर केला आहे ते पाहा
+.
+  * **तू जा आणि तसेच कर**  – म्हणजे, “तू सुद्धा जावे आणि तसेच करावे” किंवा,  “आता तू केले पाहिजे.” येशू त्या शास्त्र्याला आज्ञा देत होता की शोमरोन्याने केले तसे तू कर.
+  * **तसे कर**  – म्हणजे, “दुस-यांवर प्रीति कर, तुझ्या शत्रुवर सुद्धा.” “त्याप्रमाणे कर” हे फक्त जखमी माणसाला मदत करण्याविषयी सांगते. अशासारखा अर्थ निघत नाही ना याची खात्री करुन घ्या.
+  * **बायबल कथा संदर्भ **– हे संदर्भ कांही बायबल भाषांतरामध्ये थोडेसे वेगळे असण्याची शक्यता आहे.
 **[[:mr:obs:notes:frames:27-10|<<]] | [[:mr:obs:notes:27|Up]] | [[:mr:obs:notes:frames:28-01|>>]]**
