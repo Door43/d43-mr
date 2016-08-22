@@ -1,24 +1,20 @@
-===== The Wicked Servant [29-08] =====
+===== कृतघ्न चाकर [29-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&}}
 
-“The **king called the servant** and said, ‘You wicked servant! I **forgave** your debt because you **begged me**. **You should have done the same**.’ The king was so angry that he **threw** the **wicked** servant into prison until he could pay back all of his debt.”
-===== Important Terms: =====
+“**राजाने त्या चाकराला बोलावले** आणि म्हटले, ‘तू दुष्ट दास/चाकर! मी तुला कर्ज **माफ केले** कारण तू माझ्याजवळ **गयावया केली**. **तू ही तुझ्या सोबतीच्या चाकराला असेच करायचे होते**.’ राजा खुप रागावला त्याने त्या दुष्ट चाकराला तो त्याचे सर्व कर्ज फेडीपर्यंत तुरुंगात टाकले.”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:king]]**
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:kt:forgive]]**
-  * **[[:mr:obe:other:beg]]**
-  * **[[:mr:obe:kt:evil]]**
+  * **राजा**
+  * **चाकर,दास/गुलाम,गुलामी**
+  * **क्षमा करणे,क्षमा**
+  * **याचना,याचक**
+  * **वाईट,दुष्ट,दुष्टपणा**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **called the servant** - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
-  * **begged me** - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
-  * **You should have done the same** - That is, "You should have forgiven the man who owed you, just as I forgave you."
-  * **threw** - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:mr:obs:notes:frames:29-06|[29-06]]]**.
-
-
+  * (येशू गोष्ट पुढे चालू ठेवतो.)
+  * **चाकराला बोलावले**  – म्हणजे, "चाकराला त्याच्याकडे येण्यास हुकूम केला." किंवा, "त्याच्या रक्षकाला त्या चाकराला त्याच्याकडे आणण्याचा हुकूम दिला."
+  * **माझ्याजवळ याचना केली**  - याचे भाषांतर असे सुद्धा होऊ शकेल, "मला विनंती केली" किंवा, "मी दया करावी म्हणून विनवणी केली."
+  * **तूही असेच करायचे होते**  – म्हणजे, "जो तुझे देणे लागत होता त्याला क्षमा करायची होती, जशी मी तुला क्षमा केली."
+  * **टाकले/फेकले**  – म्हणजे, "त्याच्या रक्षकांना हुकूम केला त्याला ठेवायला." **__[29-06]__**या चौकटीमध्ये "फेकणे" हा शब्द कसा भाषांतर केला त्याचा विचार करा.
 **[[:mr:obs:notes:frames:29-07|<<]] | [[:mr:obs:notes:29|Up]] | [[:mr:obs:notes:frames:29-09|>>]]**
