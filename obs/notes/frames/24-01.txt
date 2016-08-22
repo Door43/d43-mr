@@ -1,23 +1,34 @@
-===== John the Prophet [24-01] =====
+===== **योहान संदेष्टा ** [24-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink&}}
 
-**John**, the son of **Zechariah** and Elizabeth, grew up and became a **prophet**. He lived in the **wilderness**, ate **wild honey** and **locusts**, and wore **clothes made from camel hair**.
-===== Important Terms: =====
+**योहान**, **जख-या ** व अलीशिबेचा पुत्र, मोठा झाला व **संदेष्टा ** बनला. तो **अरण्यात ** राहात असे, **रानमध व टोळ** खात असे, व **उंटाच्या केसाचे कपडे घालीत असे.**
+===== **महत्वाचे शब्द**: =====
 
+  *
 
-  * **[[:mr:obe:other:johnthebaptist]]**
-  * **[[:mr:obe:other:zechariahnt]]**
-  * **[[:mr:obe:kt:prophet]]**
+**योहान (बाप्तिस्मा करणारा)**
+  *
 
+**जख-या (न.क.)**
+  *
 
-===== Translation Notes: =====
+**संदेष्टा, संदेश (भविष्य), संदेश (भविष्य) सांगणे, पाहाणारा, संदेष्ट्री**
+===== **भाषांतर टीपा**: =====
 
-  * **wilderness** - That is, "the desert" or, "a remote, desert-like place." There were few people living out in this area.
-  * **wild honey** - This honey was the natural product of bees in the wilderness; it was not cultivated by people. If that is what people would understand by the word "honey," you may not need to call it "wild."
-  * **locusts** - These were large, hopping insects with wings, like very large grasshoppers. Some people who live in the desert eat them.
-  * **camel hair** - A camel is an animal that has very rough hair. People could make clothing out of it. This could be translated as "rough animal hair."
-  * **clothes made from camel hair** - That is, "coarse clothes made of camel hair." These clothes would not quickly wear out in the wilderness as other clothes would.
+  *
 
+**अरण्य**  – म्हणजे, “वाळवंट” किंवा, “वस्तीपासून दूर, वाळवंटासारखा प्रदेश.” त्या भागात फार थोडे लोक राहात असत.
+  *
 
+**रानमध**  – हा मध रानात मधमाशांनीच नैसर्गिकरित्या तयार केलेला असे; हा मनुष्याने तयार केलेला नसे. जर “मध” या शब्दाने लोकांना ते समजत असेल तर मग “रान” हा शब्द म्हणण्याची गरज नाही.
+  *
+
+**टोळ**  – हे मोठे, उड्या मारणारे पंख असलेले किटक होते, मोठ्या नाकतोड्यासारखे. कांही लोक जे वाळवंटात राहातात ते हे खातात.
+  *
+
+**उंटाचे केस**  – उंट एक प्राणी आहे त्याचे केस फार खरबरीत असतात. लोक त्याचे कपडे बनवीत असत. याचे भाषांतर असे होऊ शकेल “प्राण्याचे खरबरीत केस.”
+  *
+
+**उंटाच्या केसापासून बनविलेले कापड**  - म्हणजे “उंटाच्या केसापासून बनविलेले खडबडीत कापड.” अरण्यात इतर कपड्याप्रमाणे ही कपडे लवकर फाटत नसत.
 **[[:mr:obs:notes:frames:23-10|<<]] | [[:mr:obs:notes:24|Up]] | [[:mr:obs:notes:frames:24-02|>>]]**
