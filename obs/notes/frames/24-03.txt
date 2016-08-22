@@ -1,22 +1,20 @@
-===== A Baptism of Repentance [24-03] =====
+===== **पश्चात्तापाचा बाप्तिस्मा ** [24-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&}}
 
-When people heard **John's** message, many of them **repented from their sins**, and John **baptized** them. Many **religious leaders** also came to be baptized by John, but they **did not repent** or **confess their sins**.
-===== Important Terms: =====
+जेंव्हा लोकांनी **योहानाचा** संदेश ऐकला, तेंव्हा त्यांच्यातल्या पुष्कळांनी **आपल्या पापांचा पश्चात्ताप केला**,आणि योहानाने त्यांना **बाप्तिस्मा** दिला. पुष्कळ **धार्मिक पुढारी** सुद्धा योहानाकडून बाप्तिस्मा घ्यायला आले पण त्यांनी **आपल्या पापांचा पश्चात्ताप केला नाही किंवा आपली पापे कबूल केली नाहीत.**
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:johnthebaptist]]**
-  * **[[:mr:obe:kt:repent]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:baptize]]**
-  * **[[:mr:obe:other:jewishleaders]]**
+  * **योहान (बाप्तिस्मा करणारा)**
+  * **पश्चात्ताप करणे, पश्चात्ताप**
+  * **पाप, पापयुक्त, पापी, पाप करत राहाणे**
+  * **बाप्तिस्मा देणे, बाप्तिस्मा**
+  * **यहूदी पुढारी,यहूदी अधिकारी,धार्मिक पुढारी**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **repented from their sins** - This could also be translated as, "repented concerning their sins" or, "changed their minds about their sins" or, "turned away from their sins."
-  * **did not repent** - That is, "did not turn away from their sins."
-  * **confess their sins** - To confess is to acknowledge that something is true. These leaders did not want to acknowledge that they had sinned. This may be translated as, "confess that they had sinned."
-
+  * **आपल्या पापांचा पश्चात्ताप केला**  – याचे सुद्धा असे भाषांतर करता येऊ शकेल, “त्यांच्या पापासंबंधाने पश्चात्ताप केला” किंवा, “पापांविषयी त्यांची मने बदलली” किंवा, “त्यांच्या पापांपासून वळले.”
+  * **पापांचा पश्चात्ताप केला नाही**  – म्हणजे, “ते आपल्या पापापासून वळले नाहीत.”
+  * **आपली पापे कबूल केली**  – कबूल करणे म्हणजे ते बरोबर आहे असे समजणे.
+  * **ह्या पुढा**-यांना आपण पापे केली आहेत हे मानावयाचे नव्हते. ह्याचे भाषांतर असे होईल,  “त्यांनी पाप केले आहे हे कबूल करणे.”
 
 **[[:mr:obs:notes:frames:24-02|<<]] | [[:mr:obs:notes:24|Up]] | [[:mr:obs:notes:frames:24-04|>>]]**
