@@ -1,23 +1,37 @@
-===== God Spoke to Zechariah [22-01] =====
+===== **देव जख-याशी बोलला** [22-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink&}}
 
-In the past, **God** had spoken to **his people** through his **angels** and **prophets**. But then **400 years went by when he did not speak to them**. Suddenly an angel came with a message from God to an old **priest** named **Zechariah**. Zechariah and his wife, Elizabeth, were **godly people**, but she had not been able to have any children.
-===== Important Terms: =====
+पुर्वी **देव** **त्याच्या लोकांशी देवदूत** आणि **संदेष्टयांद्वारे** बोलत होता. परंतु **400 वर्षे होऊन गेली तरी तो त्यांच्याशी बोलला नाही.** अचानक जख-या नावाच्या एका वृद्ध याजकाकडे एक देवदूत देवाचा संदेश घेऊन येतो. जख-या आणि त्याची बायको, अलीशिबा, ही दोघेही भक्तीमान होती, पण तिला मुलबाळ नव्हते.
+===== **महत्वाचे शब्द**: =====
 
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:angel]]**
-  * **[[:mr:obe:kt:prophet]]**
-  * **[[:mr:obe:kt:priest]]**
-  * **[[:mr:obe:other:zechariahnt]]**
+  *
 
+**देव**
+  *
 
-===== Translation Notes: =====
+**देवदूत, आद्य देवदूत**
+  *
 
-  * **his people** - This could be translated as, "his people, the Israelites" or "his people, the Jews." But only include the added information if it is not clearly understood who these people were.
-  * **400 years went by** - Another way to say this would be, "400 years passed" or "there were 400 years." 400 years had passed since the last Old Testament prophet, Malachi.
-  * **when he did not speak to them** - That is, "during which God did not give any messages to the prophets for his people."
-  * **godly people** - That is, "people who obeyed God."
+**संदेष्टा, संदेश (भविष्य), संदेश (भविष्य) सांगणे, पाहाणारा, संदेष्ट्री**
+  *
 
+**याजक, याजकपद**
+  *
 
+**जख-या (न.क.)**
+===== **भाषांतर टीपा**: =====
+
+  *
+
+**त्याचे लोक**- ह्याचे भाषांतर असे करता येईल, “त्याचे इस्राएल लोक” किंवा “त्याचे यहूदी लोक.” हे लोक कोण आहेत हे स्पष्ट होत नसेल तर थोडी अधिक माहिती त्यात घाला.
+  *
+
+**400 वर्षे गेली**- दुस-या शब्दात सांगायचे झाल्यास असे म्हणता येईल, “400वर्षे निघून गेली” किंवा “400 वर्षे झाली होती.” जुन्या करारातील शेवटचा संदेष्टा मलाखीनंतर 400 वर्षे दोऊन गेली होती.
+  *
+
+**तेंव्हा तो त्यांच्याशी बोलला नाही-**  म्हणजे, “या काळाच्या दरम्यान देवाने संदेष्ट्यांना आपल्या लोकांसाठी कांही संदेश दिला नाही.”
+  *
+
+**भक्तीमान/धार्मिक लोक**- म्हणजे, “ज्या लोकांनी देवाच्या आज्ञा पाळल्या.”
 **[[:mr:obs:notes:frames:21-15|<<]] | [[:mr:obs:notes:22|Up]] | [[:mr:obs:notes:frames:22-02|>>]]**
