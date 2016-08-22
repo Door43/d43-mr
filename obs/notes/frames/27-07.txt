@@ -1,21 +1,17 @@
-===== The Levite [27-07] =====
+===== लेवी [27-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink&}}
 
-“Not long after that, a Levite **came down the road**. (**Levites were a tribe of Jews** who helped the **priests** at the Temple.) The Levite also crossed over to the other side of the road and **ignored** the man who had been robbed and beaten.”
-===== Important Terms: =====
+“फार वेळ गेला नाही तोच एक लेवी **त्या वाटेने खाली आला**. **लेवी हा यहूद्यातील एक वंश** आहे जे **याजकांना** मंदिरात मदत करतात. लेव्याने सुद्धा त्या माणसाकडे-ज्याला चोरानी लुटले होते मारले होते-**दुर्लक्ष** करुन रस्ता ओलांडून दुस-या बाजूने निघून गेला.”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:jew]]**
-  * **[[:mr:obe:kt:priest]]**
-  * **[[:mr:obe:kt:temple]]**
+  * **यहूदी****, ****यहूद्यांचे,यहूदी**
+  * **याजक, याजकपद**
+  * **मंदिर**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **came down the road** - That is, "was traveling down that same road."
-  * **Levites were a tribe of Jews** - That is, "Levites were from the Israelite tribe of Levi" or, "Levites were from the Israelite clan of Levi."
-  * **ignored** - That is, "did not help."
-
-
+  * (येशूने गोष्ट सांगणे पुढे चालू ठेवले.)
+  * **रस्त्याने खाली आला**  – म्हणजे, “त्याच रस्त्याने खाली प्रवास करीत होता.”
+  *  **लेवी हा यहूद्यातील एक वंश होता**  – म्हणजे,  “लेवी हे इस्राएलातील एक वंश लेवी यांच्यातून होते” किंवा, “ लेवी हे इस्राएलाच्या लेवी वंशातून होते.”
+  * **दुर्लक्ष केले**  – म्हणजे, “मदत केली नाही.”
 **[[:mr:obs:notes:frames:27-06|<<]] | [[:mr:obs:notes:27|Up]] | [[:mr:obs:notes:frames:27-08|>>]]**
