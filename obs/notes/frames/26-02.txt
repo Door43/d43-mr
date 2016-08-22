@@ -1,24 +1,20 @@
-===== Jesus in Nazareth [26-02] =====
+===== नासरेथात येशू [26-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&}}
 
-**Jesus** went to the town of **Nazareth** where he had lived during his childhood. On the **Sabbath**, he went to the **place of worship**. They handed him the **scroll of the prophet Isaiah** so that he would read from it. Jesus **opened up the scroll** and read part of it to the people.
-===== Important Terms: =====
+**येशू नासरेथ** या शहरात आला त्याच्या लहानपणी तो या ठिकाणी राहिला होता. **शब्बाथ दिवशी**, तो **उपासनेच्या ठिकाणी** गेला. त्यांनी त्याला **यशया संदेष्टयाची गुंडाळी** वाचण्यासाठी दिली. येशूने **गुंडाळी उघडली** आणि त्यातला कांही भाग लोकांसाठी वाचला.
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:other:nazareth]]**
-  * **[[:mr:obe:kt:sabbath]]**
-  * **[[:mr:obe:kt:worship]]**
-  * **[[:mr:obe:kt:prophet]]**
-  * **[[:mr:obe:other:isaiah]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **नासरेथ, नासोरी**
+  * **शब्बाथ**
+  * **नमन / उपासना**
+  * **संदेष्टा, संदेश (भविष्य), संदेश (भविष्य) सांगणे, पाहाणारा, संदेष्ट्री**
+  * **यशया**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **place of worship** - That is, "the building where the Jews gathered to worship God." This can also be translated as, "worship building."
-  * **scroll** - A scroll was a long sheet of paper or leather that was rolled up and had writing on it.
-  * **the scroll of the prophet Isaiah** - That is, "the scroll that had the words that the prophet Isaiah had written." Isaiah had written on a scroll hundreds of years before. This was a copy of that scroll.
-  * **opened up the scroll** - This could be translated as, "rolled open the scroll" or, "unrolled the scroll."
-
-
+  * **उपासनेची जागा**  – म्हणजे, “ज्याठिकाणी ते देवाची उपासना करीत ती इमारत.” याचे भाषांतर असे करता येईल, “उपासनेची इमारत.”
+  * **गुंडाळी – ** गुंडाळी म्हणजे कागदाची किंवा कातड्याची लांब पट्टी जिच्यावर लिहिलेले असे व ती गुंडाळी करुन ठेवीत.
+  * **यशया संदेष्टयाची गुंडाळी**  – म्हणजे, “यशया संदेष्ट्याने लिहिलेल्या अक्षरांची गुंडाळी.” यशयाने शेकडो वर्षांपुर्वी गुंडाळीवर लिहिलेले होते. त्या गुंडाळीची ही नक्कल होती.
+  * **गुंडाळी उघडली**  – याचे भाषांतर असे होऊ शकेल, “गुंडाळी उघडण्यासाठी ती गुंडाळी बाजूने सरकवली” किंवा, “ती गुंडाळी सरळ केली.”
 **[[:mr:obs:notes:frames:26-01|<<]] | [[:mr:obs:notes:26|Up]] | [[:mr:obs:notes:frames:26-03|>>]]**
