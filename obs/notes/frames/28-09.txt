@@ -1,18 +1,14 @@
-===== What Is Our Reward? [28-09] =====
+===== आमचे प्रतिफळ काय? [28-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink&}}
 
-**Peter** said to **Jesus**, “We have **left everything** and followed you. **What will be our reward**?”
-===== Important Terms: =====
+**पेत्र** **येशूला** म्हणाला, “आम्ही **सर्वकांही सोडून** तुझ्यामागे आलो आहोत. **आम्हाला काय प्रतिफळ मिळणार**?”
+===== मह्त्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:peter]]**
-  * **[[:mr:obe:kt:jesus]]**
+  * **पेत्र,शिमोन पेत्र,केफा**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **left everything** - That is, "left everything behind" or, "given up everything we owned."
-  * **What will be our reward?** - Another way to say this is, "What reward will we receive" or, "How will we be rewarded?" or, "What will God give us as a reward?" It may also be necessary to add, "because we have done this?"
-
-
+  * **सर्वकांही सोडले**  – म्हणजे, "सर्वकांही मागे टाकले" किंवा, "आमचे स्वतःचे होते ते सर्व सोडले."
+  * **आमचे प्रतिफळ काय असणार****?**  – दुस-या शब्दात सांगायचे झाल्यास, "आम्हाला काय बक्षिस मिळेल" किंवा, "आम्हाला कशाप्रकारचे प्रतिफळ मिळेल?" किंवा, "देव आम्हाला बक्षिस म्हणून काय देणार?" त्याला हेही जोडण्याची आवश्यकता आहे, "कारण आम्ही हे केले आहे?"
 **[[:mr:obs:notes:frames:28-08|<<]] | [[:mr:obs:notes:28|Up]] | [[:mr:obs:notes:frames:28-10|>>]]**
