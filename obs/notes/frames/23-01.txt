@@ -1,25 +1,39 @@
-===== Mary Was Pregnant [23-01] =====
+===== **मरीया गरोदर होती** [23-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink&}}
 
-**Mary** was engaged to a **righteous** man named **Joseph**. When he heard that Mary was pregnant, **he knew it was not his baby**. He did not want **to shame Mary**, so **he planned to quietly divorce her**. Before he could do that, an **angel** came and spoke to him **in a dream**.
-===== Important Terms: =====
+**मरीयेचे** **योसेफ** नावाच्या **नीतिमान** पुरुषाला वाग्दान झाले होते. जेंव्हा त्याने ऐकले की मरीया गरोदर आहे, तेंव्हा **त्याला कळले की हे बाळ त्याचे नाही**.** मरीयेची बेअब्रू** करण्याची त्याची इच्छा नव्हती, **म्हणून त्याने तिला गुप्तपणे सोडून देण्याची योजना केली.** त्याने तसे करण्यापुर्वी,**देवदूत** त्याच्या **स्वप्नात** आला व त्याच्याशी बोलला.
 
+**महत्वाचे शब्दः**
 
-  * **[[:mr:obe:other:mary]]**
-  * **[[:mr:obe:kt:righteous]]**
-  * **[[:mr:obe:other:josephnt]]**
-  * **[[:mr:obe:kt:angel]]**
-  * **[[:mr:obe:other:dream]]**
+  * **मरीया, येशूची आई**
+  * **न्यायी,न्यायीपणा**
+  * **योसेफ (न.क.)**
+  * **देवदूत, आद्य देवदूत**
+  * **स्वप्न**
+**भाषांतर टीपाः**
 
+  *
 
-===== Translation Notes: =====
+**त्याला माहित होते हे बाळ त्याचे नव्हते**  – म्हणजे, “त्याला माहित होते की त्याने तिला गरोदर केले नव्हते.”
+  *
 
-  * **he knew it was not his baby** - That is, "he knew that he was not the one who had caused her to be pregnant."
-  * **to shame Mary** - That is, "to cause Mary to be publicly disgraced" or "to embarrass Mary publicly." Joseph was merciful to Mary, even though it seemed like she was an adulterer.
-  * **he planned to quietly divorce her** - This could also be translated as, "He planned to divorce her without telling others why," or, "He planned to divorce her without telling others about her pregnancy." Because Joseph was righteous, he wanted to resolve the situation in the best way possible, which in this culture would be to divorce her quietly.
-  * **divorce her** - For some languages it may be better to say, "break their engagement." Joseph and Mary were engaged or, "pledged to be married." But in Jewish culture a divorce was required in order to break off an engagement.
-  * **in a dream** - That is, "while he was asleep and dreaming."
+**मरीयेला लाजवणे**  – म्हणजे, “लोकांमध्ये तिचा अपमान करणे” किंवा “लोकांमध्ये तिला लज्जीत करणे.”
+योसेफाने मरीयेला दया दाखवली, जरी ती व्यभिचारी आहे असे वाटत होते तरी.
 
+  *
 
+**तिला गुप्तपणे घटस्फोट द्यावा अशी त्याने योजना केली**  – ह्याचे असेही भाषांतर होऊ शकेल,”कोणाला काही कारण न सांगता घटस्फोट देण्याची योजना केली,” किंवा, “कोणाला तिच्या गरोदरपणाविषयी न सांगता तिला घटस्फोट देण्याची योजना केली.”
+कारण योसेफ न्यायी होता, शक्यतो ही परिस्थिती चांगल्या रितीने सोडवावी असे त्याला वाटत होते, त्यांच्या संस्कृतीमध्ये गूपचूपरित्या घटस्फोट देणे ठीक होते.
+
+  *
+
+**तिला घटस्फोट देणे**  – कांही भाषांमध्ये हे म्हणणे अधिक योग्य होईल, “साखरपुडा मोडणे / वाग्दान रद्द करणे.”
+योसेफ व मरीया यांचे वाग्दान झाले होते किंवा, “लग्नाचे वचन देण्यात आले होते.”
+
+पण यहूदी संस्कृतीमध्ये वाग्दान मोडण्यासाठी घटस्फोट आवश्यक होता.
+
+  *
+
+**स्वप्नात**  – म्हणजे, “तो झोपलेला असतांना आणि स्वप्नात असतांना.”
 **[[:mr:obs:notes:frames:22-07|<<]] | [[:mr:obs:notes:23|Up]] | [[:mr:obs:notes:frames:23-02|>>]]**
