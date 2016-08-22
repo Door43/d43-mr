@@ -1,29 +1,21 @@
-===== Israel Sinned [20-01] =====
+===== इस्राएलाने पाप केले [20-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?nolink}}
+**इस्राएल राज्य** व **यहूदाचे राज्य** या दोघांनीही **देवाविरुद्ध** **पाप केले**. **सीनाय** येथे देवाने त्यांच्याबरोबर केलेला **करार त्यांनी मोडला**. देवाने त्यांच्याकडे **संदेष्टे** पाठवून त्यांनी **पश्चात्ताप करावा** आणि परत त्याची **उपासना** करावी म्हणून बजावले पण त्यांनी आज्ञा पाळण्याचे नाकारले.
+===== **महत्वाचे शब्दः**  =====
+   * **इस्राएलाचे राज्य**
+  * **यहूदा, यहूदाचे राज्य**
+  * **पाप,पापमय,पापी,पाप करीत राहणे**
+  * **देव**
+  * **करार**
+  * **सीनाय,सीनाय पर्वत**
+  * **संदेष्टा, भविष्य,भविष्य सांगणे,पाहणारा,संदेष्ट्री**
+  * **पश्चात्ताप करणे, पश्चात्ताप**
+  * **उपासना**
+  * **आज्ञा पाळणे, आज्ञाधारक, आज्ञापालन **
+===== भाषांतर टीपाः =====
 
-The **kingdom of Israel** and the **kingdom of Judah** both **sinned** against **God**. They **broke the covenant** that God had made with them at **Sinai**. God sent his **prophets** to **warn them to repent** and **worship** him again, but they refused to **obey**.
-===== Important Terms: =====
-
-
-  * **[[:mr:obe:other:kingdomofisrael]]**
-  * **[[:mr:obe:other:kingdomofjudah]]**
-  * **[[:mr:obe:kt:sin]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:kt:covenant]]**
-  * **[[:mr:obe:other:sinai]]**
-  * **[[:mr:obe:kt:prophet]]**
-  * **[[:mr:obe:kt:repent]]**
-  * **[[:mr:obe:kt:worship]]**
-  * **[[:mr:obe:other:obey]]**
-
-
-==== Translation Notes: ====
-
-
-  * **broke the covenant** - That is, "disobeyed the commands God had given them in his covenant with them at Mount Sinai."
-  * **warn them to repent and worship him again** – Another way to translate this would be, "tell them to stop sinning and to worship Yahweh instead of other gods, or terrible things would happen to them."
-
-
+  * **करार मोडला**  – म्हणजे, सीनाय पर्वतावर देवाने त्यांच्याबरोबर करार करुन ज्या आज्ञा दिल्या होत्या त्या मोडल्या.
+  * **पश्चात्ताप करुन त्याची उपासना करावी म्हणून बजावले**  – दुस-या पद्धतीने ह्याचे भाषांतर करायचे झाल्यास असे होईल, "त्यांना पाप करायचे थांबवायला सांग आणि इतर देवांची पुजा करण्याचे सोडून यहोवाची उपासना करा, नाहीतर त्यांच्यावर भयंकर गोष्टी येतील."
 **[[:mr:obs:notes:frames:19-18|<<]] | [[:mr:obs:notes:20|Up]] | [[:mr:obs:notes:frames:20-02|>>]]**
