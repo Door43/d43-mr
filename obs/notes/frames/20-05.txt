@@ -1,31 +1,24 @@
-====== Judah also Worshiped Idols [20-05] ======
+====== यहूदा सुद्धा मुर्तीपुजा करतो [20-05] ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?nolink&}}
 
-The people in the **kingdom of Judah** saw how **God** had **punished** the people of the **kingdom of Israel for not believing and obeying him**. But they still **worshiped idols**, including the **gods** of the **Canaanites**. God sent **prophets** to **warn them**, but **they refused to listen**.
+**यहूदाच्या राज्यातील** लोकांनी पाहिले की **देवाने** इस्राएलाच्या राज्यातील लोकांना त्यांनी देवावर **विश्वास न ठेवल्यामुळे व त्याच्या आज्ञा न पाळल्यामुळे** कशी **शिक्षा केली**. पण तरीही त्यांनी **मुर्तीपुजा केली**, **कनानी देवांचीही** पुजा केली. देवाने त्यांना **सावध करण्यास संदेष्टे पाठवले**, पण तरीही **त्यांनी ऐकले नाही**.
+===== महत्वाचे शब्दः =====
 
+  * **यहूदा****, ****यहूदाचे****राज्य**
+  * **देव**
+  * **शिक्षा करणे, शिक्षा**
+  * **यहूदाचे****राज्य**
+  * **विश्वास****ठेवणे****,..****वरती****विश्वास****ठेवणे****,****विश्वास**
+  * **आज्ञा पाळणे, आज्ञाधारक, आज्ञापालन**
+  * **उपासना**
+  * **मुर्ती****, ****मुर्तीपुजक**
+  * **खोटे****देव****, ****परके****देव****, ****देव****, ****देवता**
+  * **कनान****, ****कनानी**
+  * **संदेष्टा, भविष्य,भविष्य सांगणे,पाहणारा,संदेष्ट्री**
+===== भाषांतर टीपाः =====
 
-====== Important Terms: ======
-
-  * **[[:mr:obe:other:kingdomofjudah]]**
-  * **[[:mr:obe:kt:god]]**
-  * **[[:mr:obe:other:punish]]**
-  * **[[:mr:obe:other:kingdomofisrael]]**
-  * **[[:mr:obe:kt:believe]]**
-  * **[[:mr:obe:other:obey]]**
-  * **[[:mr:obe:kt:worship]]**
-  * **[[:mr:obe:other:idol]]**
-  * **[[:mr:obe:kt:falsegod]]**
-  * **[[:mr:obe:other:canaan]]**
-  * **[[:mr:obe:kt:prophet]]**
-
-
-===== Translation Notes: =====
-
-
-  * **for not believing and obeying him** – Another way to translate this would be, "because they did not believe or obey him." 
-  * **warn them** – That is, "tell them to stop sinning or terrible things would happen to them."
-  * **they refused to listen** - That is, "they refused to obey" or "they refused to stop their evil behavior." 
-  
-
+  * **त्याच्यावर विश्वास न ठेवल्यामुळे व आज्ञा न  पाळल्यामुळे**  - दुस-या पद्धतीने ह्याचे भाषांतर करायचे झाल्यास असे होईल, "कारण त्यांनी त्याच्यावर विश्वास ठेवला नाही किंवा त्याची आज्ञा पाळली नाही."
+  * **सावध केले**  – म्हणजे, "त्यांना सांगा की पाप करणे थांबवा नाहीतर त्यांच्यावर भयंकर गोष्टी येतील."
+  * **त्यांनी ऐकण्याचे नाकारले**  – म्हणजे, "त्यांनी आज्ञा पाळण्याचे नाकारले" किंवा "त्यांची वाईट वागणूक थांबवण्याचे त्यांनी नाकारले."
 **[[:mr:obs:notes:frames:20-04|<<]] | [[:mr:obs:notes:20|Up]] | [[:mr:obs:notes:frames:20-06|>>]]**
