@@ -1,17 +1,13 @@
-===== The Small Debt [29-05] =====
+===== थोडेसे कर्ज [29-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&}}
 
-“But when the **servant** went out from the king, he found a **fellow servant** who owed him a debt worth four months’ wages. The servant grabbed his fellow servant and said, ‘Pay me the money that you owe me!’”
-===== Important Terms: =====
+पण जेंव्हा तो **चाकर** राजापासून बाहेर गेला,त्याला **सोबतीचा चाकर** आढळला त्याला चार महिन्याच्या पगाराइतके ह्याचे देणे होते. चाकराने त्या सोबतीच्या चाकराला धरले आणि म्हणाला, ‘जे माझे पैसे तुझ्याकडून येणे आहे ते देऊन टाक!’”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:servant]]**
+  * **चाकर,दास/गुलाम,गुलामी**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **fellow servant** - This refers to another man who was also a servant of the king.
-
-
+  * (येशू गोष्ट पुढे चालू ठेवतो.)
+  * **सोबतीचा दास/चाकर**  – हे त्या दुस-या मनुष्याविषयी आहे हा सुद्धा राजाचा चाकर असतो.
 **[[:mr:obs:notes:frames:29-04|<<]] | [[:mr:obs:notes:29|Up]] | [[:mr:obs:notes:frames:29-06|>>]]**
