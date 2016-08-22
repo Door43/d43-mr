@@ -1,20 +1,16 @@
-===== Not Able to Repay [29-03] =====
+===== परतफेड करु शकत नव्हता [29-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&}}
 
-“Since the **servant** could not **pay the debt**, the **king** said, ‘Sell this man and his family as **slaves to make payment on his debt**.’”
-===== Important Terms: =====
+“**चाकर** त्याचे **कर्ज फेडू शकत नसल्यामुळे**,**राजा** म्हणाला, ‘**ह्या माणसाला व त्याच्या कुटुंबाला दास म्हणुन विका आणि कर्ज फेडून घ्या**. ’”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:other:servant]]**
-  * **[[:mr:obe:other:king]]**
-  * **[[:mr:obe:other:servant]]**
+  * **चाकर,दास/गुलाम,गुलामी**
+  * **राजा**
+  * **चाकर,दास/गुलाम,गुलामी**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **pay the debt** - That is, "pay back the money he owed to the king."
-  * **to make payment on his debt** - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
-
-
+  * (येशू गोष्ट पुढे चालू ठेवतो.)
+  * **कर्ज फेड करा**  – म्हणजे, "राजाचे जे देणे तो लागतो ते भरुन घ्या."
+  * **त्याचे कर्ज परतफेड करण्यासाठी**  - याचे भाषांतर असे सुद्धा होऊ शकेल, "आणि त्यांना विकून जे पैसे येतील ते माझ्या देण्यापैकी काही भाग भरुन घ्या."
 **[[:mr:obs:notes:frames:29-02|<<]] | [[:mr:obs:notes:29|Up]] | [[:mr:obs:notes:frames:29-04|>>]]**
