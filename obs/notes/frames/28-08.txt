@@ -1,19 +1,15 @@
-===== All Things Are Possible [28-08] =====
+===== सर्व गोष्टी शक्य आहेत [28-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink&}}
 
-**Jesus** looked at the **disciples** and said, “**With people this is impossible**, but **with God**, **all things are possible**.”
-===== Important Terms: =====
+**येशूने** **शिष्यांकडे** बघितले आणि म्हटले,“**लोकांना हे अशक्य आहे**, पण **देवाला सर्व गोष्टी शक्य आहेत**.”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:disciple]]**
-  * **[[:mr:obe:kt:god]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **शिष्य**
+  * **देव**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **With people this is impossible** - That is, "It is not possible for people to do this" or, "Mere humans cannot save themselves."
-  * **with God, all things are possible** - This could also be translated as, "God is able to do anything, even save a rich person" or, "God is able to do impossible things, so he can save even a rich person."
-
-
+  * **लोकांना हे अशक्य आहे**  – म्हणजे, "हे करणे लोकांना शक्य नाही किंवा, केवळ मनुष्यप्राणी स्वतःला वाचवू शकत नाहीत."
+  * **देवाला सर्वकाही शक्य आहे**  - याचे भाषांतर असे सुद्धा होऊ शकेल, "देव सर्वकांही करण्यास समर्थ आहे, श्रीमंताला सुद्धा वाचवू शकतो" किंवा, "देव अशक्य गोष्टी शक्य करु शकतो,म्हणून तो श्रीमंत व्यक्तीचेही तारण  करु शकतो."
 **[[:mr:obs:notes:frames:28-07|<<]] | [[:mr:obs:notes:28|Up]] | [[:mr:obs:notes:frames:28-09|>>]]**
