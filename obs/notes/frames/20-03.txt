@@ -1,22 +1,15 @@
-===== Israel Was Removed from the Land [20-03] =====
+===== इस्राएल लोकांना त्यांच्या देशातून काढले [20-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?nolink}}
+**अश्शूरी लोकांनी** सर्व पुढारी, श्रीमंत लोक, आणि **कलानिपुण** लोक यांना एकत्र केले व त्यांना अश्शूर देशास घेऊन गेले. फक्त जे अत्यंत गरीब **इस्राएली** लोक होते जे मारले गेले नव्हते ते **इस्राएल राज्यामध्ये उरले.**
+===== महत्वाचे शब्दः =====
 
-The **Assyrians** gathered all the leaders, the rich people, and the people with **skills** and took them to Assyria. Only the very poor **Israelites** who had not been killed **remained** in the **kingdom of Israel**.
-===== Important Terms: =====
+  * **अश्शूर,अश्शूरी,अश्शूरी साम्राज्य**
+  * **इस्राएल,इस्राएली,इस्राएल राष्ट्र**
+  * **इस्राएलाचे राज्य**
+===== भाषांतर टीपाः =====
 
-
-  * **[[:mr:obe:other:assyria]]**
-  * **[[:mr:obe:other:israel]]**
-  * **[[:mr:obe:other:kingdomofisrael]]**
-
-
-==== Translation Notes: ====
-
-
-  * **skills** – This refers to practical skills such as woodworking, metalworking, and building.
-  * **remained** - That is, "stayed" or, "were left behind" or, "were allowed to stay behind."
-
-
+  * **कला**  – हे व्यवहारातील कलाकौशल्याविषयी उल्लेख करते उदा. सुतारकाम, लोहारकाम आणि बांधकाम.
+  * **उरले**  – म्हणजे, "राहिले" किंवा, "मागे राहिले" किंवा, "मागे राहू दिले."
 **[[:mr:obs:notes:frames:20-02|<<]] | [[:mr:obs:notes:20|Up]] | [[:mr:obs:notes:frames:20-04|>>]]**
