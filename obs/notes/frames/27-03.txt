@@ -1,17 +1,13 @@
-===== Who Is My Neighbor? [27-03] =====
+===== माझा शेजारी कोण? [27-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?nolink&}}
 
-But the **law expert** wanted to prove that he was **righteous**, so he asked, “**Who is my neighbor**?”
-===== Important Terms: =====
+पण त्या **शास्त्र्यास** स्वतःला **धार्मिक** ठरवून घेण्याची इच्छा होती,म्हणून त्याने विचारले,  “**माझा शेजारी कोण**?”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:righteous]]**
+  * **धार्मिक, धार्मिकता**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **law expert** - That is, "an expert in the Jewish law." See how you translated this term in **[[:mr:obs:notes:frames:27-01|[27-01]]]**.
-  * **Who is my neighbor?** - This could also be translated as, "What do you mean by 'neighbor'?" or, "Which people are my neighbors?" He knew that he did not love everyone, and was asking which people he needed to love.
-
-
+  * **शास्त्री**  – म्हणजे, “यहूदी नियमशास्त्रात पारंगत असलेला मनुष्य.”**__[27-01]__** यामध्ये हा शब्द तुम्ही कसा भाषांतरीत केला आहे ते पाहा.
+  * **माझा शेजारी कोण?**  – याचे भाषांतर असे सुद्धा होऊ शकते, “शेजारी म्हणजे तुम्हाला काय म्हणायचे?” किंवा, “कोणते लोक माझे शेजारी आहेत?” त्याला माहीत होते की तो प्रत्येकावर प्रीति करीत नाही,आणि विचारतो की कोणत्या लोकांवर त्याला प्रीति करण्याची गरज आहे.
 **[[:mr:obs:notes:frames:27-02|<<]] | [[:mr:obs:notes:27|Up]] | [[:mr:obs:notes:frames:27-04|>>]]**
