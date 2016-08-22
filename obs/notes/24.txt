@@ -1,45 +1,40 @@
-====== 24. John Baptizes Jesus ======
+====== 24. योहान येशूचा बाप्तिस्मा करतो ======
 
+===== सिंहावलोकनः =====
 
-===== Overview: =====
+योहान संदेष्टा झाला व त्याने लोकांना सांगितले की त्यांनी आपल्या पापांचा पश्चात्ताप करावा व देवाची आज्ञा पाळावी. त्यांच्या विश्वासाची खूण म्हणून त्याने त्यांचा बाप्तिस्मा केला. योहानाने येशूची ओळख देवाचा कोकरा अशी करुन दिली. येशूने कांहीही पाप केले नव्हते, तरी त्याने येशूचा बाप्तिस्मा केला. जेंव्हा येशूचा बाप्तिस्मा झाला, देवाचा आत्मा त्याच्यावर उतरला आणि देवपिता स्वर्गातून बोलला की येशूविषयी तो संतुष्ट आहे.
 
+====== कथेचे भाषांतर करा ======
 
-John became a prophet and told the people to confess their sins and obey God. He baptized them as a sign of their faith. John identified Jesus as the Lamb of God. He baptized Jesus, even though Jesus had not sinned. When Jesus was baptized, the Spirit of God came down on him and God the Father spoke from heaven to say that he was pleased with Jesus.
+गोष्टीच्या प्रत्येक चौकटीचे भाषांतर करतांना खालील लिंकवर क्लिक करा.
 
+[[:mr:obs:notes:frames:24-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink&200}}]]\\
+योहान संदेष्टा [24-01]
 
-====== Translate the Story ======
+[[:mr:obs:notes:frames:24-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink&200}}]]\\
+पश्चात्ताप करण्यास आमंत्रण [24-02]
 
+[[:mr:obs:notes:frames:24-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&200}}]]\\
+पश्चात्तापाचा बाप्तिस्मा [24-03]
 
-Click on the links below to translate each frame of the story.
+[[:mr:obs:notes:frames:24-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&200}}]]\\
+मार्ग तयार करणे [24-04]
 
+[[:mr:obs:notes:frames:24-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&200}}]]\\
+मशीहा नाही [24-05]
 
-[[:mr:obs:notes:frames:24-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?200|Frame 24-01}}]]\\ 
-John the Prophet [24-01]\\ 
+[[:mr:obs:notes:frames:24-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink&200}}]]\\
+येशू देवाचा कोकरा आहे [24-06]
 
-[[:mr:obs:notes:frames:24-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?200|Frame 24-02}}]]\\ 
-A Call to Repent [24-02]\\ 
+[[:mr:obs:notes:frames:24-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink&200}}]]\\
+योहान येशूचा बाप्तिस्मा करतो [24-07]
 
-[[:mr:obs:notes:frames:24-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?200|Frame 24-03}}]]\\ 
-A Baptism of Repentance [24-03]\\ 
+[[:mr:obs:notes:frames:24-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?nolink&200}}]]\\
+तू माझा प्रिय पुत्र आहेस [24-08]
 
-[[:mr:obs:notes:frames:24-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?200|Frame 24-04}}]]\\ 
-Preparing the Way [24-04]\\ 
+[[:mr:obs:notes:frames:24-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink&200}}]]\\
+येशू देवाचा पुत्र आहे [24-09]
 
-[[:mr:obs:notes:frames:24-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?200|Frame 24-05}}]]\\ 
-Not the Messiah [24-05]\\ 
-
-[[:mr:obs:notes:frames:24-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?200|Frame 24-06}}]]\\ 
-Jesus Is the Lamb of God [24-06]\\ 
-
-[[:mr:obs:notes:frames:24-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?200|Frame 24-07}}]]\\ 
-John Baptized Jesus [24-07]\\ 
-
-[[:mr:obs:notes:frames:24-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?200|Frame 24-08}}]]\\ 
-You Are My Beloved Son [24-08]\\ 
-
-[[:mr:obs:notes:frames:24-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?200|Frame 24-09}}]]\\ 
-Jesus Is the Son of God [24-09]\\ 
-
-//A Bible story from: Matthew 3; Mark 1:9-11; Luke 3:1-23// 
+//बायबल कथा संदर्भः मत्तय 3; मार्क 1:9-11; लूक 3:1-23​//
 
 **[[:mr:obs:notes:23|<< Previous]] | [[:mr:obs:notes:25|Next >>]]**
