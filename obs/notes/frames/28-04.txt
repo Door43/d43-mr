@@ -1,21 +1,17 @@
-===== Sell Everything [28-04] =====
+===== सर्वकांही विकून टाक [28-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink&}}
 
-**Jesus** answered, “If **you** want to be **perfect**, then go and sell **everything you own** and give the money to the poor, and you will have **treasure in heaven**. Then come and follow me.”
-===== Important Terms: =====
+**येशूने** उत्तर दिले, “जर **तुला** पूर्ण व्हायची इच्छा असेल तर,मग जा आणि **जे तुझे आहे ते सर्व** विकून टाक आणि पैसे गरीबांना दे, आणि **स्वर्गात** तुला **संपत्ती मिळेल**. नंतर माझ्यामागे ये.”
+===== महत्वाचे शब्दः =====
 
-  * **[[:mr:obe:kt:jesus]]**
-  * **[[:mr:obe:kt:heaven]]**
+  * **येशू,य़ेशू ख्रिस्त,ख्रिस्त येशू**
+  * **स्वर्ग,आकाश,आकाशे,स्वर्गीय**
+===== भाषांतर टीपाः =====
 
-
-===== Translation Notes: =====
-
-  * **you** - If your language has different words for "you" depending on the number of people intended, use the singular form. Jesus was addressing this command to this one man.
-  * **perfect** - That is, "completely righteous."
-  * **everything you own** - That is, "all of your possessions."
-  * **treasure** - This could also be translated as, "riches" or, "great wealth."
-  * **in heaven** - This could also be translated as, "located in heaven when you arrive there." This treasure will exist "there and then," as opposed to the wealth that Jesus asked the young man to give up "here and now."
-
-
+  * **तू**  – जर तुमच्या भाषेत "तू" हा शब्द लोकांच्या संख्येवर अवलंबून असेल त हा शब्द एकवचनी वापरा. येशू ह्या एका माणसाला आज्ञा देत होता.
+  * **पूर्ण**  – म्हणजे, पूर्णपणे "धार्मिक/न्यायी."
+  * **जे कांही तुझे स्वतःचे आहे**  – म्हणजे, "तुझी सर्व मालमत्ता."
+  * **संपत्ती**  – याचे सुद्धा असे भाषांतर होऊ शकेल, "धनदौलत" किंवा, "पुष्कळ संपत्ती."
+  * **स्वर्गात**  - याचे सुद्धा असे भाषांतर होऊ शकेल, "जेंव्हा तू स्वर्गात येशील तेथे ठेवलेले असेल." ही संपत्ती "तेव्हा आणि तेथे" अस्तित्वात येईल,जसे की संपत्तीला विरोध करुन येशूने त्या तरुणाला "आता आणि इथे" ती सोडायला सांगितली.
 **[[:mr:obs:notes:frames:28-03|<<]] | [[:mr:obs:notes:28|Up]] | [[:mr:obs:notes:frames:28-05|>>]]**
