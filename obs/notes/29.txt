@@ -1,45 +1,40 @@
-====== 29. The Story of the Unmerciful Servant ======
+====== 29. कृतघ्न चाकराची गोष्ट ======
 
+===== सिंहावलोकनः =====
 
-===== Overview: =====
+पेत्राने येशूला विचारले आपल्या भावाला किती वेळा क्षमा करावी. मग येशूने एका चाकराची गोष्ट सांगितली जो राजाचे खाप मोठे देणे लागत होता. राजाने त्याच्यावर दया केली व त्याचे कर्ज त्याला माफ केले. पण ह्या चाकराने ज्याच्याकडे त्याचे थोडे कर्ज होते त्याला त्याने तुरुंगात पाठवले. ह्यामुळे राजा खूप रागावला. येशूने पेत्राला सांगितले की जशी आपल्याला क्षमा झाली आहे तशीच आपण दुस-यांना क्षमा करावी.
 
+====== गोष्टीचे भाषांतर करा. ======
 
-Peter asked Jesus how many times he should forgive a brother. So Jesus told the story of a servant who owed a huge debt to the king. The king took pity on him and cancelled the debt. But the servant sent another man who owed him a small amount to prison. This made the king very angry. Jesus told Peter that we should forgive others in the same way that we are forgiven.
+गोष्टीच्या प्रत्येक चौकटीचे भाषांतर करतांना खालील लिंकवर क्लिक करा.
 
+[[:mr:obs:notes:frames:29-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&200}}]]\\
+कितीवेळा? [29-01]
 
-====== Translate the Story ======
+[[:mr:obs:notes:frames:29-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink&200}}]]\\
+खुप मोठे कर्ज [29-02]
 
+[[:mr:obs:notes:frames:29-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&200}}]]\\
+परतफेड करु शकत नव्हता [29-03]
 
-Click on the links below to translate each frame of the story.
+[[:mr:obs:notes:frames:29-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&200}}]]\\
+कर्ज माफ होते [29-04]
 
+[[:mr:obs:notes:frames:29-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&200}}]]\\
+थोडेसे कर्ज [29-05]
 
-[[:mr:obs:notes:frames:29-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?200|Frame 29-01}}]]\\ 
-How Many Times? [29-01]\\ 
+[[:mr:obs:notes:frames:29-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&200}}]]\\
+तुरुंग [29-06]
 
-[[:mr:obs:notes:frames:29-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?200|Frame 29-02}}]]\\ 
-The Huge Debt [29-02]\\ 
+[[:mr:obs:notes:frames:29-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&200}}]]\\
+राजा ऐकतो [29-07]
 
-[[:mr:obs:notes:frames:29-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?200|Frame 29-03}}]]\\ 
-Not Able to Repay [29-03]\\ 
+[[:mr:obs:notes:frames:29-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&200}}]]\\
+कृतघ्न चाकर [29-08]
 
-[[:mr:obs:notes:frames:29-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?200|Frame 29-04}}]]\\ 
-The Debt Is Canceled [29-04]\\ 
+[[:mr:obs:notes:frames:29-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink&200}}]]\\
+तुझ्या भावाला क्षमा कर [29-09]
 
-[[:mr:obs:notes:frames:29-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?200|Frame 29-05}}]]\\ 
-The Small Debt [29-05]\\ 
-
-[[:mr:obs:notes:frames:29-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?200|Frame 29-06}}]]\\ 
-To Prison [29-06]\\ 
-
-[[:mr:obs:notes:frames:29-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?200|Frame 29-07}}]]\\ 
-The King Heard [29-07]\\ 
-
-[[:mr:obs:notes:frames:29-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?200|Frame 29-08}}]]\\ 
-The Wicked Servant [29-08]\\ 
-
-[[:mr:obs:notes:frames:29-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?200|Frame 29-09}}]]\\ 
-Forgive Your Brother [29-09]\\ 
-
-//A Bible story from: Matthew 18:21-35//
+//बायबल कथा संदर्भः मत्तय 18:21-35//
 
 **[[:mr:obs:notes:28|<< Previous]] | [[:mr:obs:notes:30|Next >>]]**
