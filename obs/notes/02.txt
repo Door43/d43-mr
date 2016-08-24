@@ -9,40 +9,40 @@
 गोष्टीच्या प्रत्येक चौकटीचे भाषांतर करतांना खालील चित्रावर क्लीक करा.
 
 [[:mr:obs:notes:frames:02-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&200}}]]\\
-A Perfect World [02-01]\\
+एक परिपुर्ण जग [02-01]\\
 \\
 [[:mr:obs:notes:frames:02-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&200}}]]\\
-The Snake [02-02]\\
+साप [02-02]\\
 \\
 [[:mr:obs:notes:frames:02-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&200}}]]\\
-Do Not Touch [02-03]\\
+स्पर्श करू नका [02-03]\\
 \\
 [[:mr:obs:notes:frames:02-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&200}}]]\\
-The Lie [02-04]\\
+खोटे बोलणे [02-04]\\
 \\
 [[:mr:obs:notes:frames:02-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?nolink&200}}]]\\
-Disobedience [02-05]\\
+आज्ञामोडणे [02-05]\\
 \\
 [[:mr:obs:notes:frames:02-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?nolink&200}}]]\\
-Open Eyes [02-06]\\
+डोळे उघडतात [02-06]\\
 \\
 [[:mr:obs:notes:frames:02-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?nolink&200}}]]\\
-Where Are You? [02-07]\\
+तुम्ही कुठे आहात**?** [02-07]\\
 \\
 [[:mr:obs:notes:frames:02-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-08.jpg?nolink&200}}]]\\
-The Blame [02-08]\\
+**दोष** [02-08]\\
 \\
 [[:mr:obs:notes:frames:02-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?nolink&200}}]]\\
-God Cursed the Snake [02-09]\\
+देवाने सापाला शाप दिला [02-09]\\
 \\
 [[:mr:obs:notes:frames:02-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-10.jpg?nolink&200}}]]\\
-God Cursed the Woman [02-10]\\
+देवाने स्त्रीला शाप दिला [02-10]\\
 \\
 [[:mr:obs:notes:frames:02-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-11.jpg?nolink&200}}]]\\
-God Cursed the Man [02-11]\\
+देव मनुष्याला शाप देतो [02-11]\\
 \\
 [[:mr:obs:notes:frames:02-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink&200}}]]\\
-Out of the Garden [02-12]\\
+बागेच्या बाहेर [02-12]\\
 //बायबल कथा संदर्भः उत्पत्ति 3//
 
 **[[:mr:obs:notes:01|<< Previous]] | [[:mr:obs:notes:03|Next >>]]**
