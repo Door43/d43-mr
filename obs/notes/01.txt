@@ -1,12 +1,12 @@
-====== 1. The Creation ======
+====== 1. उत्पत्ति ======
 
-===== Overview: =====
+===== सिंहावलोकनः =====
 
-This is the true story of how God created the earth and everything in it in only six days. He created the first man and woman to enjoy and care for His creation. They had a special relationship with God, and He provided everything they needed. There was no sin or imperfection. Everything that God created was very good.
+देवाने फक्त सहा दिवसात पृथ्वी व त्यातील सर्वकांही कसे निर्माण केले त्याची ही एक खरी गोष्ट आहे. त्याने पहिला मनुष्य व स्त्री यांना निर्माण केले यासाठी की त्यांनी त्याच्या उत्पत्तिचा आनंद घ्यावा व त्याची काळजी घ्यावी. देवाशी त्यांचे विशेष नातेसंबंध होते, आणि त्यांची प्रत्येक गरज तो पुरवीत असे. तेथे पाप नव्हते किंवा कसलीही अपुर्णता नव्हती. जे कांही देवाने निर्माण केले होते ते फार चांगले होते.
 
-====== Translate the Story ======
+====== गोष्टीचे भाषांतर करा ======
 
-Click on the images below to translate each frame of the story.
+गोष्टीच्या प्रत्येक चौकटीचे भाषांतर करतांना खालील चित्रावर क्लीक करा.
 
 [[:mr:obs:notes:frames:01-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&200}}]]\\
 The Beginning [01-01]\\
@@ -56,6 +56,6 @@ Fill the Earth [01-15]\\
 [[:mr:obs:notes:frames:01-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?nolink&200}}]]\\
 God Rested [01-16]
 
-//A Bible story from: Genesis 1-2//
+//बायबल कथा संदर्भः उत्पत्ति 1-2//
 
 **[[:mr:obs:notes:02|Next >>]]**
