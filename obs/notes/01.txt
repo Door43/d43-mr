@@ -9,52 +9,52 @@
 गोष्टीच्या प्रत्येक चौकटीचे भाषांतर करतांना खालील चित्रावर क्लीक करा.
 
 [[:mr:obs:notes:frames:01-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&200}}]]\\
-The Beginning [01-01]\\
+उत्पत्तिची सुरूवात [01-01]\\
 \\
 [[:mr:obs:notes:frames:01-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&200}}]]\\
-God Created Light [01-02]\\
+देवाने प्रकाश निर्माण केला [01-02]\\
 \\
 [[:mr:obs:notes:frames:01-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&200}}]]\\
-God Created the Sky [01-03]\\
+देवाने अंतराळ निर्माण केले [01-03]\\
 \\
 [[:mr:obs:notes:frames:01-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink&200}}]]\\
-God Created the Land [01-04]\\
+देवाने जमीन निर्माण केली** ** [01-04]\\
 \\
 [[:mr:obs:notes:frames:01-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?nolink&200}}]]\\
-God Created the Plants [01-05]\\
+देवाने वनस्पती निर्माण केल्या** ** [01-05]\\
 \\
 [[:mr:obs:notes:frames:01-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?nolink&200}}]]\\
-God Created the Sun, Moon and Stars [01-06]\\
+देवाने सुर्य,चंद्र, तारे निर्माण केले [01-06]\\
 \\
 [[:mr:obs:notes:frames:01-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?nolink&200}}]]\\
-God Created the Birds and Fish [01-07]\\
+देवाने मासे व पक्षी निर्माण केले [01-07]\\
 \\
 [[:mr:obs:notes:frames:01-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?nolink&200}}]]\\
-God Created the Animals [01-08]\\
+देवाने जनावरे निर्माण केली [01-08]\\
 \\
 [[:mr:obs:notes:frames:01-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?nolink&200}}]]\\
-God Made Man in His Image [01-09]\\
+देवाने त्याच्या प्रतिरुपाचा माणुस बनवला** ** [01-09]\\
 \\
 [[:mr:obs:notes:frames:01-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?nolink&200}}]]\\
-God Made Adam [01-10]\\
+देवाने आदामाला बनवले [01-10]\\
 \\
 [[:mr:obs:notes:frames:01-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink&200}}]]\\
-Two Trees [01-11]\\
+दोन झाडे [01-11]\\
 \\
 [[:mr:obs:notes:frames:01-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?nolink&200}}]]\\
-Adam Was Alone [01-12]\\
+आदाम एकटा होता [01-12]\\
 \\
 [[:mr:obs:notes:frames:01-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?nolink&200}}]]\\
-God Made Eve [01-13]\\
+देव हव्वेला बनवतो [01-13]\\
 \\
 [[:mr:obs:notes:frames:01-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?nolink&200}}]]\\
-Adam Met Eve [01-14]\\
+आदाम हव्वेला भेटला [01-14]\\
 \\
 [[:mr:obs:notes:frames:01-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?nolink&200}}]]\\
-Fill the Earth [01-15]\\
+पृथ्वी भरा [01-15]\\
 \\
 [[:mr:obs:notes:frames:01-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?nolink&200}}]]\\
-God Rested [01-16]
+देवाने विश्रांती घेतली [01-16]
 
 //बायबल कथा संदर्भः उत्पत्ति 1-2//
 
