@@ -1,67 +1,60 @@
-====== 3. The Flood ======
+====== 3. महापूर ======
 
+===== सिंहावलोकनः =====
 
-===== Overview: =====
+आदाम व हव्वेचे पाप सर्व मानवजातीत पसरले. लोक इतके वाईट झाले की देवाने त्यांचा न्याय करायचे ठरवले. परंतु, नोहा नावाचा एक धार्मिक मनुष्य देवाचे ऐकत असे. म्हणून देवाने नोहाला एक मोठे तारु बांधायला सांगितले ज्यामध्ये तो स्वतः व त्याचे कुटुंबिय महापुरापासून वाचतील पण बाकीच्यांचा नाश होईल.
 
+====== गोष्टीचे भाषांतर करा ======
 
-The sin of Adam and Eve spread throughout the human race. People became so bad that God decided to judge them. However, one righteous  man named Noah listened to God. So God told Noah to build a large boat to save himself and his family from the great flood that would destroy everyone else.
+गोष्टीच्या प्रत्येक चौकटीचे भाषांतर करतांना खालील चित्रावर क्लीक करा.
 
-
-===== Translate the Story =====
-
-
-Click on the images below to translate each frame of the story.
-
-
-[[:mr:obs:notes:frames:03-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?200|Frame 03-01}}]]\\
+[[:mr:obs:notes:frames:03-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?nolink&200}}]]\\
 Sin Increased [03-01]\\
 \\
-[[:mr:obs:notes:frames:03-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?200|Frame 03-02}}]]\\
+[[:mr:obs:notes:frames:03-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?nolink&200}}]]\\
 Noah Found Grace [03-02]\\
 \\
-[[:mr:obs:notes:frames:03-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?200|Frame 03-03}}]]\\
+[[:mr:obs:notes:frames:03-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?nolink&200}}]]\\
 The Big Boat [03-03]\\
 \\
-[[:mr:obs:notes:frames:03-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?200|Frame 03-04}}]]\\
+[[:mr:obs:notes:frames:03-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?nolink&200}}]]\\
 Building the Boat [03-04]\\
 \\
-[[:mr:obs:notes:frames:03-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?200|Frame 03-05}}]]\\
+[[:mr:obs:notes:frames:03-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?nolink&200}}]]\\
 Loading the Boat [03-05]\\
 \\
-[[:mr:obs:notes:frames:03-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?200|Frame 03-06}}]]\\
+[[:mr:obs:notes:frames:03-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?nolink&200}}]]\\
 The Animals Came [03-06]\\
 \\
-[[:mr:obs:notes:frames:03-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?200|Frame 03-07}}]]\\
+[[:mr:obs:notes:frames:03-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?nolink&200}}]]\\
 The Rain Began [03-07]\\
 \\
-[[:mr:obs:notes:frames:03-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?200|Frame 03-08}}]]\\
+[[:mr:obs:notes:frames:03-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink&200}}]]\\
 Safe from the Flood [03-08]\\
 \\
-[[:mr:obs:notes:frames:03-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?200|Frame 03-09}}]]\\
+[[:mr:obs:notes:frames:03-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink&200}}]]\\
 The Rain Stopped [03-09]\\
 \\
-[[:mr:obs:notes:frames:03-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?200|Frame 03-10}}]]\\
+[[:mr:obs:notes:frames:03-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&200}}]]\\
 The Raven [03-10]\\
 \\
-[[:mr:obs:notes:frames:03-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?200|Frame 03-11}}]]\\
+[[:mr:obs:notes:frames:03-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink&200}}]]\\
 The Dove [03-11]\\
 \\
-[[:mr:obs:notes:frames:03-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?200|Frame 03-12}}]]\\
+[[:mr:obs:notes:frames:03-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&200}}]]\\
 Dry Land [03-12]\\
 \\
-[[:mr:obs:notes:frames:03-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?200|Frame 03-13}}]]\\
+[[:mr:obs:notes:frames:03-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&200}}]]\\
 Leaving the Boat [03-13]\\
 \\
-[[:mr:obs:notes:frames:03-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?200|Frame 03-14}}]]\\
+[[:mr:obs:notes:frames:03-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?nolink&200}}]]\\
 Noah's Sacrifice [03-14]\\
 \\
-[[:mr:obs:notes:frames:03-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?200|Frame 03-15}}]]\\
+[[:mr:obs:notes:frames:03-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?nolink&200}}]]\\
 God's Promise [03-15]\\
 \\
-[[:mr:obs:notes:frames:03-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?200|Frame 03-16}}]]\\
+[[:mr:obs:notes:frames:03-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink&200}}]]\\
 The Rainbow [03-16]\\
-\\
-
-//A Bible story from: Genesis 6-8//
+//बायबल कथा संदर्भः उत्पत्ति 6-8//
 
 **[[:mr:obs:notes:02|<< Previous]] | [[:mr:obs:notes:04|Next >>]]**
